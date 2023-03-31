@@ -74,13 +74,13 @@ def concat_title_parts(titleInfo):
         text += partname.text
     return text
 
-### Milad note: Parse name
+### Milad note: Parse name must be mapped
 # def parseName(root):
 
-### Milad note: Parse RecordInf
+### Milad note: Parse RecordInf must be mapped
 # def parsRecordInfo(root):
 
-### Milad note: Parse extention
+### Milad note: Parse extention must be mapped
 # def parsExtention(root):
 
 def parseTitleInfo(root):

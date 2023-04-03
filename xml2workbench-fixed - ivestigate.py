@@ -5,7 +5,6 @@
 import xml.etree.ElementTree as ET
 import csv
 from os import listdir, sep, path
-from lxml import etree
 import re
 
 
@@ -36,7 +35,7 @@ class XmlSet(object):
         files.sort()
         for filename in files:
             if filename.endswith(".xml"):
-                print("parsing {}".format(filename))
+                print("parsing {} \n---------------------------------------------------".format(filename))
                 self.add(parse_mods(directory + sep + filename))
     def maxlen(self, key):
         return max([len(x[key]) for x in self.docs])
@@ -88,10 +87,8 @@ def parseTitleInfo(root):
     data = {
             'TitleInfo_type_missingAttribs' : [], #SHOWING MISSING ATTRIBUTES IN COMPARISON WITH MASTER
             'TitleInfo_type_Attribs': [], #SHOWING ALL THE ATTRIBUTES IN XML
-        }
-           
+        }       
     TitleInfo_Master_type_Attribs = ['alternative','translated','abbreviated', 'uniform']
-    print("This is Mater type attribs {}".format(TitleInfo_Master_type_Attribs))
 
     for titles in root.findall('titleInfo',ns):
         if 'type' in titles.attrib:
@@ -100,7 +97,12 @@ def parseTitleInfo(root):
                 data['TitleInfo_type_missingAttribs'].append(titles.get('type'))
         else:
             continue
-    # return data
+
+    print('---test TitleInfo---')
+    print("This is Master type attribs ==> {}".format(TitleInfo_Master_type_Attribs))
+    print("Type attrib values ------> {}".format(data['TitleInfo_type_Attribs']))
+    print("Missing Type attrib values ------> {}".format(data['TitleInfo_type_missingAttribs']))
+    print("\n")
     return {key: '|'.join(value) for key, value in data.items()}
 
 #Milad Notes: Fixing name.text:
@@ -147,84 +149,28 @@ def parseTitleInfo(root):
     return {'field_genre': '|'.join(genres)}
 
 # ### Milad Notes: adding fields in Original info, fixiing the logic to get field_place_of_publication(Should not sepcify .get('type') is None):
-# def parseOriginInfo(root):
-    data = {'field_place_of_publication': [],
-            #'field_place_of_publication_country':'',
-            'field_linked_agent': [],
-            'field_edtf_date_issued': [],
-            'field_edtf_date_created': [],
-            'field_date_captured': [] ,
-            #'field_mode_of_issuance': '',  
-            #'field_edition': '',        
-            #'field_copyright_date':'' 
-            } 
-    xml_originInfo = root.findall('originInfo',ns)
-    for oi in xml_originInfo:
-        # if oi.get('type') is None:
-        #     # No ilives have types on originInfo.
-        #     print("originInfo has type {}".format(oi.get('type')))
-        # else:
-        for subelem in oi:
-            if 'place' in subelem.tag:
-                handled = False
-                for place_subelem in subelem:
-                    # Test for authority
-                    if place_subelem.get('authority') in ['marccountry', 'marc']:
-                        # This represents a "code" version of the place.
-                        data['field_place_of_publication_country'] = place_subelem.text
-                        handled = True
-                    # Some full place elements wrongly use a <text> tag.
-                    elif place_subelem.get('type') == 'text' or "placeTerm" in place_subelem.tag:
-                        # this is the longer one
-                        data['field_place_of_publication'].append(place_subelem.text)
-                        handled = True
-                if not handled:
-                    # All islandlives place are either marc auth or type text.
-                    print("Place element needs handling. {}".format(subelem.text))
-            elif subelem.text is None:
-                #Skip empty elements made by MODS forms.
-                continue
-            elif subelem.tag == '{http://www.loc.gov/mods/v3}publisher':
-                # Publishers go in linked agents and need the full elaborated string.
-                data['field_linked_agent'].append('relators:pbl:corporate_body:' + subelem.text )
-            elif subelem.tag == '{http://www.loc.gov/mods/v3}dateIssued':
-                data['field_edtf_date_issued'].append(subelem.text)
-            elif subelem.tag == '{http://www.loc.gov/mods/v3}dateCreated':
-                data['field_edtf_date_created'].append(subelem.text)
-            elif subelem.tag == '{http://www.loc.gov/mods/v3}dateCaptured':
-                data['field_date_captured'].append(subelem.text)
-            elif subelem.tag == '{http://www.loc.gov/mods/v3}copyrightDate':                                                               #No need for LDL#
-                data['field_copyright_date'] = subelem.text
-            elif subelem.tag == '{http://www.loc.gov/mods/v3}issuance':
-                data['field_mode_of_issuance'] = subelem.text
-            elif subelem.tag == '{http://www.loc.gov/mods/v3}edition':
-                data['field_edition'] = subelem.text
-            else:
-                print("unhandled origininfo tag is {}".format(subelem.tag))
-
-    ###### Clean data #####
-    # Clean date issued
-    if 'n.d' in data['field_edtf_date_issued']:
-        data['field_edtf_date_issued'].remove('n.d')
-    # Remove duplicates
-    data['field_edtf_date_issued'] = list( dict.fromkeys(data['field_edtf_date_issued'] ) )
-    # Move cXXXX dates to copyright date
-    for issuedDate in data['field_edtf_date_issued']:
-        if len(issuedDate) == 5 and issuedDate.startswith('c'):
-            # We have a copyright date
-            if data['field_copyright_date']:
-                print("MULTIPLE COPYRIGHT DATES: {},{}".format(data['field_copyright_date'],issuedDate))
-            else:
-                data['field_copyright_date'] = issuedDate.replace('c','')                                                                      #No need for LDL#
-                data['field_edtf_date_issued'].remove(issuedDate)
+def parseOriginInfo(root):
+    data = {
+        'OriginInfo_types': [],
+        'OriginInfo_types_missing': []
+            }
+    placeTerm_master_type = ['text']
+    for oi in root.findall('originInfo', ns): #originInfo
+        # name_tag = '<{}>'.format(oi.tag.split('}')[1])
+        for item in oi: #place, dataIssued, publisher= No type
+            name_tag = '<originInfo><{}>'.format(item.tag.split('}')[1])
+            for elem in item:
+                if elem is not None:
+                    data['OriginInfo_types'].append(elem.get('type'))
+                    if elem.get('type') not in placeTerm_master_type:
+                        data['OriginInfo_types_missing'].append(name_tag + "<{} type:'{}'>".format(elem.tag.split('}')[1], elem.get('type')))
     
-    # Collapse multi-valued fields
-    data['field_place_of_publication'] = '|'.join(data['field_place_of_publication'])
-    data['field_linked_agent'] = '|'.join(data['field_linked_agent'])
-    data['field_edtf_date_issued'] = '|'.join(data['field_edtf_date_issued'])
-    data['field_edtf_date_created'] = '|'.join(data['field_edtf_date_created'])
-    data['field_date_captured'] = '|'.join(data['field_date_captured'])
-    return data
+    print('---test OriginInfo---')
+    print("This is Master type attribs ==> {}".format(placeTerm_master_type))
+    print("origin types --------> {}".format(data['OriginInfo_types']))
+    print("Missing origin types --------> {}".format(data['OriginInfo_types_missing']))
+
+    return {key: ','.join(value) for key, value in data.items()}
 
 
 # def parseLanguage(root):
@@ -240,7 +186,7 @@ def parseTitleInfo(root):
                 continue
             else:
                 print("unhandled tag: {}, text: {}, attrib: {}".format(lang_term.tag, lang_term.text, lang_term.attrib))
-    return {key: '|'.join(value) for key, value in data.items()}
+    return {key: ','.join(value) for key, value in data.items()}
 
 
 # ############## Milad Note: note,internetMediaType,digitalOrigin data added ##############
@@ -269,7 +215,7 @@ def parseTitleInfo(root):
                 data['Field_internet_Media_Type'].append(elem.text)
             else:
                 print("Unhandled element: tag: [{}], text: [{}], attrib: {}".format(elem.tag, elem.text, elem.attrib))
-    return {key: '|'.join(value) for key, value in data.items()}
+    return {key: ','.join(value) for key, value in data.items()}
 
 ### Milad Note: separated the abstracts into two fields according to the child tag's attribute
 # def parseAbstract(root):
@@ -292,7 +238,7 @@ def parseTitleInfo(root):
             # else:
             #     data['abstract'].append(abstract.text)
     # return {'field_abstract': '|'.join(data) }
-    return {key : '|'.join(value) for key, value in data.items()}
+    return {key : ','.join(value) for key, value in data.items()}
 
 ###Milad Note: We do not have tableOfContents field in LDL
 # def parseTableOfContents(root):
@@ -340,7 +286,7 @@ def parseTitleInfo(root):
                 data['field_note'].append('{}:{}'.format(note.get('type'), note.text))
 
         # return {'field_note': '|'.join(data) }
-    return {key : '|'.join(value) for key, value in data.items()}
+    return {key : ','.join(value) for key, value in data.items()}
 
 # def trimXML(text):
     if text is None:
@@ -418,7 +364,7 @@ def parseTitleInfo(root):
     print("field sublocation: {}".format(data["field_sublocation"]))
     print("field shelf location: {}".format(data["field_shelf_location"]))
     
-    return {key : '|'.join(value) for key, value in data.items()}
+    return {key : ','.join(value) for key, value in data.items()}
 
 
 def parseRelatedItem(root):
@@ -450,19 +396,14 @@ def parseRelatedItem(root):
                     #Condition for both 'location' and 'titleInfo' 
                     if 'location' in item.tag:
                         data['relatedItem_titleInfo_displaylabel'].append(item.get('displayLabel'))  #all the attribs For reference
-                        tag_name = (tag_name + " displayLabel= '{}'>".format(item.get('displayLabel')))
-                        xpath.append(tag_name)
                         if item.get('displayLabel') not in url_displayLabels:
-                            data['relatedItem_url_displaylabel_missing'].append(tag_name)
+                            data['relatedItem_url_displaylabel_missing'].append(tag_name + " displayLabel= '{}'>".format(item.get('displayLabel')))
                     #Condition for both 'titleInfo' 
                     if 'titleInfo' in item.tag:
                         data['relatedItem_url_displaylabel'].append(item.get('displayLabel')) #all the attribs For reference
-                        tag_name =( tag_name + " displayLabel= '{}'>".format(item.get('displayLabel')))
-                        xpath.append(tag_name)
                         if item.get('displayLabel') not in titleInfo_displayLabels:
-                            data['relatedItem_titleInfo_displaylabel_missing'].append(tag_name)
+                            data['relatedItem_titleInfo_displaylabel_missing'].append(tag_name + " displayLabel= '{}'>".format(item.get('displayLabel')))
 
-                            
                 if item.get('displayLabel') is None:
                     for child in item:
                         if child.get('displayLabel') is not None:
@@ -472,9 +413,11 @@ def parseRelatedItem(root):
                             if child.get('displayLabel') not in url_displayLabels:
                                 data['relatedItem_url_displaylabel_missing'].append(tag_name)
                                 
-    print(xpath)
-    print("Missing url labels: {}".format(data['relatedItem_url_displaylabel_missing']))
-    print("Missing titleInfo labels: {}".format(data['relatedItem_titleInfo_displaylabel_missing']))
+    print('---test RelatedItem---')
+    print("Missing type value --------> {}".format(data['relatedItem_type_missing']))
+    print("Missing url labels --------> {}".format(data['relatedItem_url_displaylabel_missing']))
+    print("Missing titleInfo labels --------> {}".format(data['relatedItem_titleInfo_displaylabel_missing']))
+    print("\n")
 
     return {key : '|'.join(value) for key, value in data.items()}
 
@@ -491,11 +434,11 @@ def parseIdentifier(root):
         if identifier.get('displayLabel') not in identifier_Master_displayLabel_Attribs:
             data['identifier_displayLabel_missingAttribs'].append(identifier.get('displayLabel'))
         
-    return {key : '|'.join(value) for key, value in data.items()}
+    return {key : ','.join(value) for key, value in data.items()}
 
 
 #### Milad note: 5 fields added insteaed of field_rights. Codes for field rights commented out ####
-def parseAccessCondition(root):
+# def parseAccessCondition(root):
     data = {
         # 'field_rights': [],
         'field_rights_statement': [],
@@ -542,21 +485,27 @@ def parseAccessCondition(root):
 #### Milad Notes: Added Pars part ####
 def parsePart(root):
     data = {
-        'field_caption' : [],
-        'field_number' : [],
-        'field_title' : [],
+        'part_types': [],
+        'part_types_missing': []
     }
-    for part in root.findall('part',ns):
-        for prt in part.iter():
-            if 'caption' in prt.tag :
-                data['field_caption'].append(prt.text)
-                
-            if 'number' in prt.tag :
-                data['field_number'].append(prt.text)
-                
-            if 'title' in prt.tag:
-                data['field_title'].append(prt.text)
-    return {key : '|'.join(value) for key, value in data.items()}
+    masterType = ['Volume']
+
+    for parts in root.findall('part',ns):
+        for child in parts:
+            if child.get('type') is not None:
+            #master type info
+                data['part_types'].append(child.get('type'))
+            #missing types
+            if child.get('type') not in masterType:
+                data['part_types_missing'].append(child.get('type'))
+        # else:
+        #     continue
+    print('---test part---')
+    print("This is Master type attribs ==> {}".format(masterType))
+    print("Type attrib values ------> {}".format(data['part_types']))
+    print("Missing Type attrib values ------> {}".format(data['part_types_missing']))
+    print("\n")
+    return {key : ','.join(value) for key, value in data.items()}
 
 
 
@@ -579,15 +528,15 @@ def parse_mods(filename):
     # xml_data.update(parseTypeOfResource(root))
     # # Parse genre
     # xml_data.update(parseGenre(root))
-    # #Parse originInfo
-    # oiData = parseOriginInfo(root)
+    #Parse originInfo
+    oiData = parseOriginInfo(root)
     # #Combine publisher with rest of names
     # if oiData['field_linked_agent']:
     #     if xml_data['field_linked_agent']:
     #         oiData['field_linked_agent'] = '|'.join([xml_data['field_linked_agent'],oiData['field_linked_agent']])
     # else:
     #     del oiData['field_linked_agent']
-    # xml_data.update(oiData)
+    xml_data.update(oiData)
     # Parse language
     # xml_data.update(parseLanguage(root))
     # # Parse physical Description
@@ -619,7 +568,7 @@ def parse_mods(filename):
     # # Parse AccessCondition
     # xml_data.update(parseAccessCondition(root))
     # #Parse Part
-    # xml_data.update(parsePart(root))
+    xml_data.update(parsePart(root))
     # Look for values in Extension
     # extData = parseExtension(root) #### Milad Notes:no parseExtension ####
     #Milad Note: no mapping for recordInfo data 

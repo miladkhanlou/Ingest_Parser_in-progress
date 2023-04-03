@@ -4,10 +4,13 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3">
    <titleInfo>
+      <title DisplayLabel="Carlos">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
       <title>Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
   </titleInfo>
 <titleInfo type="Milad"></titleInfo>
 <titleInfo type="William"></titleInfo>
+<titleInfo DisplayLabel="Michael"></titleInfo>
+
    <name displayLabel="Author">
       <namePart>United States. Army. Corps of Engineers. New Orleans District.</namePart>
       <role>

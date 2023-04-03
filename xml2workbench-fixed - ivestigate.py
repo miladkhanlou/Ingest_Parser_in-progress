@@ -91,10 +91,27 @@ def parseTitleInfo(root):
     TitleInfo_Master_type_Attribs = ['alternative','translated','abbreviated', 'uniform']
 
     for titles in root.findall('titleInfo',ns):
-        if 'type' in titles.attrib:
-            data['TitleInfo_type_Attribs'].append(titles.get('type'))
-            if titles.get('type') not in TitleInfo_Master_type_Attribs:
-                data['TitleInfo_type_missingAttribs'].append(titles.get('type'))
+        tag_withNoAttrib = []
+        for i in titles.iter(): #iter into all the titleInfo tags, get the all the attributes and their values(type,displayLabel), and fill the xml path
+            if len(i.attrib) == 0: #if there were no attributes in the tag, we stop and we append that tag name to the tag_withNoAttrib List==> it will be our first <xmlElement>
+                # print('---with No attribute==== {}---'.format(i.tag.split('}')[1]))
+                tag_withNoAttrib.append(i.tag.split('}')[1])
+            if len(i.attrib) > 0: #if there were attributes we continue:
+                # print('---with attribute=== {}---'.format(i.tag.split('}')[1]))
+                keys = ''
+                attrib = ''
+                for x in i.attrib: #we use the attribute dictionary to build the xml path
+                    keys=x
+                    attrib = i.get(x)
+                    if len(tag_withNoAttrib) == 0: ##if there we had the xmlPath that has no attrib we need to specify it in the path 
+                        # print('<{} {}={}>'.format(i.tag.split('}')[1],keys, attrib))
+                        data['TitleInfo_type_missingAttribs'].append('<{} {}={}>'.format(i.tag.split('}')[1],keys, attrib))
+                    else: ##if there we did not hab the xmlPath that has no attrib we need to specify it in the path 
+                        # print('<{}><{} {}={}>'.format(tag_withNoAttrib[-1],i.tag.split('}')[1],keys, attrib)) 
+                        data['TitleInfo_type_missingAttribs'].append('<{}><{} {}={}>'.format(tag_withNoAttrib[-1],i.tag.split('}')[1],keys, attrib))
+
+                # data['TitleInfo_type_missingAttribs'].append(titles.get('type'))
+
         else:
             continue
 
@@ -433,7 +450,11 @@ def parseIdentifier(root):
         data['identifier_displayLabel_Attribs'].append(identifier.get('displayLabel'))
         if identifier.get('displayLabel') not in identifier_Master_displayLabel_Attribs:
             data['identifier_displayLabel_missingAttribs'].append(identifier.get('displayLabel'))
-        
+            
+    print('---test Identifier---')
+    print("identifier displaylabel --------> {}".format(data['identifier_displayLabel_Attribs']))
+    print("Missing Identifier displaylabel --------> {}".format(data['identifier_displayLabel_missingAttribs']))
+    print("\n")
     return {key : ','.join(value) for key, value in data.items()}
 
 
@@ -497,9 +518,8 @@ def parsePart(root):
                 data['part_types'].append(child.get('type'))
             #missing types
             if child.get('type') not in masterType:
-                data['part_types_missing'].append(child.get('type'))
-        # else:
-        #     continue
+                data['part_types_missing'].append('<part><detail type="{}"'.format(child.get('type')))
+
     print('---test part---')
     print("This is Master type attribs ==> {}".format(masterType))
     print("Type attrib values ------> {}".format(data['part_types']))

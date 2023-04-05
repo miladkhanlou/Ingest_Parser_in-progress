@@ -81,67 +81,56 @@ def parseTitleInfo(root):
     data = {
             'TitleInfo_type_missingAttribs' : [], #SHOWING MISSING ATTRIBUTES IN COMPARISON WITH MASTER
             'TitleInfo_Displaylabel_missingAttribs' : [], #SHOWING MISSING ATTRIBUTES IN COMPARISON WITH MASTER
-            'TitleInfo_type_Attribs': [], #SHOWING ALL THE ATTRIBUTES IN XML
         }       
     TitleInfo_Master_type_Attribs = ['alternative','translated','abbreviated', 'uniform']
-
     for titles in root.findall('titleInfo',ns):
-        # for titles in titleInfo.iter():
-        tag_withNoAttrib = []
-        stringToWrite = ''
-
-        ############## If titleInfo has no attributes
-        if len(titles.attrib) == 0:
-            stringToWrite = '<{}>'.format(titles.tag.split('}')[1])
-
-            for item in titles.iter(): #tags within titleInfo without attributes 
-                if len(item.attrib) > 0: #if they have attributes add it to the data dictionary
-                    for x in item.attrib: #we use the attribute dictionary to build the xml path
-                        keys=x
-                        attrib = item.get(x)
-                    stringToWrite = stringToWrite + '<{} {}="{}">'.format(item.tag.split('}')[1], keys, attrib)
-                    #Add to dictionary accoring to the attribute name
-                    if 'type' in keys: #write to type if the attribute within titleInfo tag exists
-                        data['TitleInfo_type_missingAttribs'].append(stringToWrite) #Just to be make sure, we do not have this logic
-                    if 'DisplayLabel' in keys and attrib not in TitleInfo_Master_type_Attribs: #write to displayLabel if the attribute within titleInfo tag exists
-                        data['TitleInfo_Displaylabel_missingAttribs'].append(stringToWrite)
-
-        ############## If titleInfo has attributes
+        ancestorTag = '<{}>'.format(titles.tag.split('}')[1]) #write the ancestor's tag name to build the xml
         if len(titles.attrib) > 0:
             for x in titles.attrib: #we use the attribute dictionary to build the xml path
                 keys=x
                 attrib = titles.get(x)
-            if 'type' in keys:
-                data['TitleInfo_type_missingAttribs'].append('<{} {}="{}">'.format(titles.tag.split('}')[1],keys,attrib))
-            if 'DisplayLabel' in attrib and attrib not in TitleInfo_Master_type_Attribs:
-                data['TitleInfo_Displaylabel_missingAttribs'].append('<{} {}="{}">'.format(titles.tag.split('}')[1],keys,attrib))
-            for item in titles.iter(): #tags within titleInfo with attributes 
-                if len(item.attrib) > 0: #if they have attributes add it to the data dictionary
-                    for x in item.attrib: #we use the attribute dictionary to build the xml path
+            if keys == 'type' and attrib not in TitleInfo_Master_type_Attribs:
+                ancestorTag = '<{} {}="{}">'.format(titles.tag.split('}')[1], keys,attrib) #write the ancestor's tag name to build the xml
+                data['TitleInfo_type_missingAttribs'].append(ancestorTag)
+            if keys == 'DisplayLabel': #we usually do not have Display Lapbel in PlaceTerm buy I added it in case of need
+                ancestorTag = '<{} {}="{}">'.format(titles.tag.split('}')[1], keys,attrib) #write the ancestor's tag name to build the xml
+                data['TitleInfo_Displaylabel_missingAttribs'].append(ancestorTag)             
+        for parent in titles.findall('*'):
+            if len(parent.attrib) > 0:
+                for x in parent.attrib: #we use the attribute dictionary to build the xml path
+                    keys=x
+                    attrib = parent.get(x)
+                if keys == 'type' and attrib not in TitleInfo_Master_type_Attribs:
+                    parentString = ancestorTag + '<{} {}="{}">'.format(parent.tag.split('}')[1], keys,attrib)
+                    data['TitleInfo_type_missingAttribs'].append(parentString)
+                if keys == 'DisplayLabel': #we usually do not have Display Lapbel in PlaceTerm buy I added it in case of need
+                    parentString = ancestorTag + '<{} {}="{}">'.format(parent.tag.split('}')[1], keys,attrib)
+                    data['TitleInfo_Displaylabel_missingAttribs'].append(parentString)                    
+            for child in parent.findall("*"):
+                if len(child.attrib) > 0:
+                    for x in child.attrib: #we use the attribute dictionary to build the xml path
                         keys=x
-                        attrib = item.get(x)
-                        stringToWrite = stringToWrite + '<{} {}="{}">'.format(item.tag.split('}')[1], keys, attrib)
-                    #Add to dictionary accoring to the attribute name
-                    if 'type' in keys and item != titles: #write to type if the attribute within titleInfo tag exists AND LET IT KNOW THAT THIS TYPE ATTRIBUTE IS NOT THE PARENT TAG
-                        data['TitleInfo_type_missingAttribs'].append(stringToWrite) #Just to be make sure, we do not have this logic
-                    if 'DisplayLabel' in keys and attrib not in TitleInfo_Master_type_Attribs: #write to displayLabel if the attribute within titleInfo tag exists
-                        data['TitleInfo_Displaylabel_missingAttribs'].append(stringToWrite)
-
-
+                        attrib = child.get(x)
+                        if keys == 'type' and attrib not in TitleInfo_Master_type_Attribs:
+                            childString = parentString + '<{} {}="{}">'.format(child.tag.split('}')[1], keys,attrib)
+                            data['TitleInfo_type_missingAttribs'].append(childString)
+                        if keys == 'DisplayLabel':
+                            childString = parentString + '<{} {}="{}">'.format(child.tag.split('}')[1], keys,attrib)
+                            data['TitleInfo_Displaylabel_missingAttribs'].append(childString)     
+## Bring back the condition if len(parent.attrib) == 0 if you wanted to print the tags with no attributes
     print('---test TitleInfo---')
     print("Master 'DisplayLabel' attribs ==> {}".format(TitleInfo_Master_type_Attribs))
-    print("'Type' attrib values ------> {}".format(data['TitleInfo_type_Attribs']))
     print("Missing 'Type' attrib values ------> {}".format(data['TitleInfo_type_missingAttribs']))
     print("Missing 'DisplayLabel' attrib values ------> {}".format(data['TitleInfo_Displaylabel_missingAttribs']))
-
     print("\n")
     return {key: '|'.join(value) for key, value in data.items()}
 
 ####################################################################################################################################################################################################################################
 
-def parseOriginInfo(root):
+
+########### Function 1 to parse into children
+# def parseOriginInfo(root):
     data = {
-        'OriginInfo_types': [],
         'OriginInfo_types_missing': [],
         'OriginInfo_DisplayLabel_missing': []
             }
@@ -151,44 +140,59 @@ def parseOriginInfo(root):
     value3 = []
     placeTerm_master_type = ['text']
 
-########### 1
-    # for child in root.findall("originInfo", ns):
-    #     if len(child):   # if there are children, get their text attribute and according to that write in a right field:
-    #         for subchild in child:
-    #             if len(subchild.attrib) > 0:
-    #                 for x in subchild.attrib: #we use the attribute dictionary to build the xml path
-    #                     keys=x
-    #                     attrib = subchild.get(x)
-    #                 if keys == 'type' and attrib not in placeTerm_master_type:
-    #                     subchildString = "<{}><{} {}='{}'>".format(child.tag.split("}")[1], subchild.tag.split("}")[1], keys, attrib)
-    #                     data['OriginInfo_types_missing'].append(subchildString)
-    #                 if keys == 'DisplayLabel':
-    #                     subchildString = "<{}><{} {}='{}'>".format(child.tag.split("}")[1], subchild.tag.split("}")[1], keys, attrib)
-    #                     data['OriginInfo_DisplayLabel_missing'].append(subchildString) 
-    #             else:
-    #                 print("<{}><{}>".format(child.tag.split("}")[1], subchild.tag.split("}")[1]))
-    #             if len(subchild):  # if there are children in child, get their text attribute and according to that write in a right field:
-    #                 for inner_child in subchild:
-    #                     if len(inner_child.attrib) > 0:
-    #                         for x in inner_child.attrib: #we use the attribute dictionary to build the xml path
-    #                             keys=x
-    #                             attrib = inner_child.get(x)
-    #                         if keys == 'type' and attrib not in placeTerm_master_type:
-    #                             childString = "<{}><{}><{} {}= '{}'>".format(child.tag.split("}")[1], subchild.tag.split("}")[1],inner_child.tag.split("}")[1], keys, attrib)
-    #                             data['OriginInfo_types_missing'].append(childString)
-    #                         if keys == 'DisplayLabel':
-    #                             childString = "<{}><{}><{} {}= '{}'>".format(child.tag.split("}")[1], subchild.tag.split("}")[1],inner_child.tag.split("}")[1], keys, attrib)
-    #                             data['OriginInfo_DisplayLabel_missing'].append(childString) 
-    #                     else:
-    #                         print("<{}><{}><{}>".format(child.tag.split("}")[1], subchild.tag.split("}")[1],inner_child.tag.split("}")[1]))
+    for child in root.findall("originInfo", ns):
+        if len(child):   # if there are children, get their text attribute and according to that write in a right field:
+            for subchild in child:
+                if len(subchild.attrib) > 0:
+                    for x in subchild.attrib: #we use the attribute dictionary to build the xml path
+                        keys=x
+                        attrib = subchild.get(x)
+                    if keys == 'type' and attrib not in placeTerm_master_type:
+                        subchildString = "<{}><{} {}='{}'>".format(child.tag.split("}")[1], subchild.tag.split("}")[1], keys, attrib)
+                        data['OriginInfo_types_missing'].append(subchildString)
+                    if keys == 'DisplayLabel':
+                        subchildString = "<{}><{} {}='{}'>".format(child.tag.split("}")[1], subchild.tag.split("}")[1], keys, attrib)
+                        data['OriginInfo_DisplayLabel_missing'].append(subchildString) 
+                else:
+                    print("<{}><{}>".format(child.tag.split("}")[1], subchild.tag.split("}")[1]))
+                if len(subchild):  # if there are children in child, get their text attribute and according to that write in a right field:
+                    for inner_child in subchild:
+                        if len(inner_child.attrib) > 0:
+                            for x in inner_child.attrib: #we use the attribute dictionary to build the xml path
+                                keys=x
+                                attrib = inner_child.get(x)
+                            if keys == 'type' and attrib not in placeTerm_master_type:
+                                childString = "<{}><{}><{} {}= '{}'>".format(child.tag.split("}")[1], subchild.tag.split("}")[1],inner_child.tag.split("}")[1], keys, attrib)
+                                data['OriginInfo_types_missing'].append(childString)
+                            if keys == 'DisplayLabel':
+                                childString = "<{}><{}><{} {}= '{}'>".format(child.tag.split("}")[1], subchild.tag.split("}")[1],inner_child.tag.split("}")[1], keys, attrib)
+                                data['OriginInfo_DisplayLabel_missing'].append(childString) 
+                        else:
+                            print("<{}><{}><{}>".format(child.tag.split("}")[1], subchild.tag.split("}")[1],inner_child.tag.split("}")[1]))
+    print('---test OriginInfo---')
+    print("This is Master type attribs ==> {}".format(placeTerm_master_type))
+    print("Missing origin types --------> {}".format(data['OriginInfo_types_missing']))
+    print("Missing origin DisplayLabel --------> {}".format(data['OriginInfo_DisplayLabel_missing']))
+    print("\n")
+    return {key: ','.join(value) for key, value in data.items()}
 
-########### 2
+########### Function 2 to parse into children
+def parseOriginInfo(root):
+    data = {
+        'OriginInfo_types_missing': [],
+        'OriginInfo_DisplayLabel_missing': []
+            }
+    
+    value1 = []
+    value2 = []
+    value3 = []
+    placeTerm_master_type = ['text']
     for oi in root.findall('originInfo',ns):
         ancestorTag = '<{}>'.format(oi.tag.split('}')[1]) #write the ancestor's tag name to build the xml
         for parent in oi.findall('*'):
             if len(parent.attrib) == 0:
                 parentString = ancestorTag + '<{}>'.format(parent.tag.split('}')[1])
-                print(parentString)
+                # print(parentString)
             if len(parent.attrib) > 0:
                 for x in parent.attrib: #we use the attribute dictionary to build the xml path
                     keys=x
@@ -202,7 +206,7 @@ def parseOriginInfo(root):
             for child in parent.findall("*"):
                 if len(child.attrib) == 0:
                     childString = parentString + '<{}>'.format(child.tag.split('}')[1])
-                    print(childString)
+                    # print(childString)
                 if len(child.attrib) > 0:
                     for x in child.attrib: #we use the attribute dictionary to build the xml path
                         keys=x
@@ -213,22 +217,9 @@ def parseOriginInfo(root):
                         if keys == 'DisplayLabel':
                             childString = parentString + '<{} {}="{}">'.format(child.tag.split('}')[1], keys,attrib)
                             data['OriginInfo_DisplayLabel_missing'].append(childString)                    # print('- - ' + childString)
-
-
-########### 3
-    # for oi in root.findall('originInfo', ns): #originInfo
-    #     # name_tag = '<{}>'.format(oi.tag.split('}')[1])
-    #     for item in oi: #place, dataIssued, publisher= No type
-    #         name_tag = '<originInfo><{}>'.format(item.tag.split('}')[1])
-    #         for elem in item:
-    #             if elem is not None:
-    #                 data['OriginInfo_types'].append(elem.get('type'))
-    #                 if elem.get('type') not in placeTerm_master_type:
-    #                     data['OriginInfo_types_missing'].append(name_tag + "<{} type:'{}'>".format(elem.tag.split('}')[1], elem.get('type')))
-    
+                            
     print('---test OriginInfo---')
     print("This is Master type attribs ==> {}".format(placeTerm_master_type))
-    print("origin types --------> {}".format(data['OriginInfo_types']))
     print("Missing origin types --------> {}".format(data['OriginInfo_types_missing']))
     print("Missing origin DisplayLabel --------> {}".format(data['OriginInfo_DisplayLabel_missing']))
     print("\n")
@@ -242,17 +233,14 @@ def parseRelatedItem(root):
         #Milad note: field_is_succeeded_by,field_is_preceded_by are not needed to be parsed
         'relatedItem_types' : [], #all the attribs For reference
         'relatedItem_type_missing' : [],
-        'relatedItem_titleInfo_displaylabel' : [], #all the attribs For reference
         'relatedItem_titleInfo_displaylabel_missing' : [],
-        'relatedItem_url_displaylabel': [],#all the attribs For reference
         'relatedItem_url_displaylabel_missing': []
     }
-    xpath = []
     types = ["host"]
     titleInfo_displayLabels = ['Parent Item Title','Digital Collection', 'Repository Collection',]
     url_displayLabels = ['Relation','Repository Collection Guide']
     
-#
+
     for relatedItem in root.findall('relatedItem',ns):
         #all the attribs For reference
         data['relatedItem_types'].append(relatedItem.get('type')) 
@@ -265,27 +253,26 @@ def parseRelatedItem(root):
                 if item.get('displayLabel') is not None:
                     #Condition for both 'location' and 'titleInfo' 
                     if 'location' in item.tag:
-                        data['relatedItem_titleInfo_displaylabel'].append(item.get('displayLabel'))  #all the attribs For reference
                         if item.get('displayLabel') not in url_displayLabels:
-                            data['relatedItem_url_displaylabel_missing'].append(tag_name + " displayLabel= '{}'>".format(item.get('displayLabel')))
-                    #Condition for both 'titleInfo' 
+                            data['relatedItem_url_displaylabel_missing'].append(tag_name + " DisplayLabel= '{}'>".format(item.get('displayLabel')))
                     if 'titleInfo' in item.tag:
-                        data['relatedItem_url_displaylabel'].append(item.get('displayLabel')) #all the attribs For reference
                         if item.get('displayLabel') not in titleInfo_displayLabels:
                             data['relatedItem_titleInfo_displaylabel_missing'].append(tag_name + " displayLabel= '{}'>".format(item.get('displayLabel')))
 
                 if item.get('displayLabel') is None:
                     for child in item:
                         if child.get('displayLabel') is not None:
-                            data['relatedItem_titleInfo_displaylabel'].append(child.get('displayLabel'))  #all the attribs For reference
                             tag_name = tag_name + "><{} displayLabel='{}'>".format(child.tag.split("}")[1], child.get('displayLabel'))
-                            xpath.append(tag_name)
                             if child.get('displayLabel') not in url_displayLabels:
                                 data['relatedItem_url_displaylabel_missing'].append(tag_name)
-                                
+
+                            
     print('---test RelatedItem---')
+    print("All the type value --------> {}".format(data['relatedItem_types']))
     print("Missing type value --------> {}".format(data['relatedItem_type_missing']))
+    print("All the url labels --------> {}".format(url_displayLabels))
     print("Missing url labels --------> {}".format(data['relatedItem_url_displaylabel_missing']))
+    print("All the titleInfo labels --------> {}".format(titleInfo_displayLabels))
     print("Missing titleInfo labels --------> {}".format(data['relatedItem_titleInfo_displaylabel_missing']))
     print("\n")
 
@@ -303,7 +290,12 @@ def parseIdentifier(root):
         data['identifier_displayLabel_Attribs'].append(identifier.get('displayLabel'))
         if identifier.get('displayLabel') not in identifier_Master_displayLabel_Attribs:
             data['identifier_displayLabel_missingAttribs'].append(identifier.get('displayLabel'))
-        
+
+    print('---test Identifier---')
+    print("All the Identifier DisplayLabels --------> {}".format(identifier_Master_displayLabel_Attribs))
+    print("All the labels --------> {}".format(data['identifier_displayLabel_Attribs']))
+    print("Missing type value --------> {}".format(data['identifier_displayLabel_missingAttribs']))
+    print("\n")
     return {key : ','.join(value) for key, value in data.items()}
 
 ####################################################################################################################################################################################################################################

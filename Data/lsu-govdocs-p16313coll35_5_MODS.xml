@@ -25,12 +25,15 @@
     <place>
       <placeTerm type="text">Baton Rouge (La.)</placeTerm>
       <placeTerm type="uioa">Baton Rouge (La.)</placeTerm>
+      <placeTerm>Baton Rouge (La.)</placeTerm>
       <placeTerm type="type_milad_origin">Baton Rouge (La.)</placeTerm>
-
+      <placeTerm DisplayLabel="DL_milad_origin">Baton Rouge (La.)</placeTerm>
     </place>
       <dateIssued keyDate="yes">1995
       </dateIssued>
       <publisher>New Orleans : U.S. Army Corps of Engineers, New Orleans District, 1995.</publisher>
+      <publisher DisplayLabel="OriginMiladPublisher">New Orleans : U.S. Army Corps of Engineers, New Orleans District, 1995.</publisher>
+
   </originInfo>
    <subject authority="lcsh">
       <topic>Flood control</topic>

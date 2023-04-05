@@ -134,10 +134,6 @@ def parseTitleInfo(root):
         'OriginInfo_types_missing': [],
         'OriginInfo_DisplayLabel_missing': []
             }
-    
-    value1 = []
-    value2 = []
-    value3 = []
     placeTerm_master_type = ['text']
 
     for child in root.findall("originInfo", ns):
@@ -182,11 +178,8 @@ def parseOriginInfo(root):
         'OriginInfo_types_missing': [],
         'OriginInfo_DisplayLabel_missing': []
             }
-    
-    value1 = []
-    value2 = []
-    value3 = []
     placeTerm_master_type = ['text']
+    
     for oi in root.findall('originInfo',ns):
         ancestorTag = '<{}>'.format(oi.tag.split('}')[1]) #write the ancestor's tag name to build the xml
         for parent in oi.findall('*'):

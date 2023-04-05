@@ -7,10 +7,13 @@
       <title DisplayLabel="Carlos">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
       <title>Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
   </titleInfo>
-<titleInfo type="Milad"></titleInfo>
+<titleInfo type="Milad">
+      <title DisplayLabel="Dave">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+</titleInfo>
 <titleInfo type="William"></titleInfo>
-<titleInfo DisplayLabel="Michael"></titleInfo>
-
+   <titleInfo>
+      <title DisplayLabel="Michael">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+  </titleInfo>
    <name displayLabel="Author">
       <namePart>United States. Army. Corps of Engineers. New Orleans District.</namePart>
       <role>
@@ -25,7 +28,8 @@
       <placeTerm type="type_milad_origin">Baton Rouge (La.)</placeTerm>
 
     </place>
-      <dateIssued keyDate="yes">1995</dateIssued>
+      <dateIssued keyDate="yes">1995
+      </dateIssued>
       <publisher>New Orleans : U.S. Army Corps of Engineers, New Orleans District, 1995.</publisher>
   </originInfo>
    <subject authority="lcsh">

@@ -7,7 +7,6 @@ import csv
 from lxml import etree
 from os import listdir, sep, path
 import re
-import ntpath
 
 
 
@@ -17,81 +16,57 @@ mods_to_vocab = {
     'personal': 'person',
     'conference': 'conference'
 }
-# class XmlSet(object):
-#     def __init__(self):
-#         self.docs = []
-#         self.headers = set()
-#     def add(self, doc):
-#         # Add a parsed document/row with its headers
-#         self.docs.append(doc)
-#         self.headers.update(doc.keys())
-#     def print(self,fp):
-#         ## Write out to CSV file
-#         tmp = list(self.headers)
-#         tmp.sort()
-#         writer = csv.DictWriter(fp, fieldnames=tmp)
-#         writer.writeheader()
-#         for doc in self.docs:
-#             writer.writerow(doc)
-#     def input_directory(self, directory):
-#         files = listdir(directory)
-#         files.sort()
-#         for filename in files:
-#             if filename.endswith(".xml"):
-#                 print("parsing {} \n---------------------------------------------------".format(filename))
-#                 self.add(parse_mods(directory + sep + filename))
+class XmlSet(object):
+    def __init__(self):
+        self.docs = []
+        self.headers = set()
+    def add(self, doc):
+        # Add a parsed document/row with its headers
+        self.docs.append(doc)
+        self.headers.update(doc.keys())
+    def print(self,fp):
+        ## Write out to CSV file
+        tmp = list(self.headers)
+        tmp.sort()
+        writer = csv.DictWriter(fp, fieldnames=tmp)
+        writer.writeheader()
+        for doc in self.docs:
+            writer.writerow(doc)
+    def input_directory(self, directory):
+        files = listdir(directory)
+        files.sort()
+        for filename in files:
+            if filename.endswith(".xml"):
+                print("parsing {} \n---------------------------------------------------".format(filename))
+                self.add(parse_mods(directory + sep + filename))
 
         
 # 1 ##################################################################################### FINDING MISSING XML PATHS INSIDE THE XML MASTER #########################################################################################
 
-def parseAll(filename):
-    root = ET.iterparse(filename, events=('start', 'end'))
+def parseAll(root):
+    # root = ET.iterparse(filename, events=('start', 'end'))
     pathName = []
-    path = []
+    data = { 'xmlPaths': []}
     for a,b in root:
-        # print(b)
+        print(b)
         if a == 'start':
             if len(b.attrib) > 0:
                 pathName.append("{} {}= '{}'".format(b.tag.split("}")[1], list(b.attrib.keys())[0], list(b.attrib.values())[0]))
                 yield '/'.join(pathName)
-                # print("******** {} AND {}".format(pathName, type(pathName)))
-                path.append(pathName)
-                
-            # path.append[pathName[-1]]
+                data['xmlPaths'].append(pathName)
             if len(b.attrib) == 0:
                 pathName.append("{}".format(b.tag.split("}")[1], b.attrib))
                 yield '/'.join(pathName)
-                # print("-------- {}".format(pathName))
-                # print("-------- {}".format(pathName))
-                path.append(pathName)
-            # path.append[pathName[-1]]
+                data['xmlPaths'].append(pathName)
         else:
             pathName.pop()
-    return path
-
-def toList(ntpath):
-    paths = []
-    for i in parseAll(ntpath):
-        paths.append(i)
-    with open('xmlPaths/{}.txt'.format(ntpath), 'w') as t:
-        t.write(ntpath + '\n')
-        for i in paths:
-            t.write(i + '\n')
-
-def get(directory):
-    files = listdir(directory)
-    files.sort()
-    for file in files:
-        if file.endswith(".xml"):
-            # XML.append("Data/{}".format(file))
-            print("parsing {}----------".format(file))
-            toList(file)
-
-def run():
-    directory = 'Data'
-    data = get(directory)
-run()
-
+            
+    return {key : '|'.join(value) for key, value in data.items()}
+#     print(pathName)
+# with open('testi.txt', 'w') as t:
+#     for i in parseAll('MyTestXML.xml'):
+#         t.write(i + '\n')
+        
 
 # 2 ##################################################################################### FINDING MISSING XML PATHS INSIDE THE XML MASTER #########################################################################################
 
@@ -134,19 +109,17 @@ run()
     
 
 
-# def parse_mods(filename):
-#     # Prepare to parse XML
-#     root = ET.iterparse(filename, events=('start', 'end'))
-#     # root = tree.getroot()
-#     xml_data = {}
-#     xml_data.update(parseRelatedItem(root))
-#     return xml_data
+def parse_mods(filename):
+    root = ET.iterparse(filename, events=('start', 'end'))
+    xml_data = {}
+    xml_data.update(parseAll(root))
+    return xml_data
     
-# def main():
-#     data = XmlSet()
-#     directory = 'Data'
-#     data.input_directory(directory)
-#     output_filename = 'Test_Missing.csv'
-#     with open(output_filename, 'w', encoding="utf-8") as csv:
-#         data.print(csv)
-# main()
+def main():
+    data = XmlSet()
+    directory = 'Data'
+    data.input_directory(directory)
+    # output_filename = 'Test_Missing.csv'
+    # with open(output_filename, 'w', encoding="utf-8") as csv:
+    #     data.print(csv)
+main()

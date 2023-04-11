@@ -1,0 +1,27 @@
+MyTestXML1 - Copy.xml
+mods
+mods/originInfo type= 'text'
+mods/originInfo type= 'text'/place
+mods/originInfo type= 'text'/place/placeTerm type= 'text'
+mods/originInfo type= 'text'/place/placeTerm type= 'uioa'
+mods/originInfo type= 'text'/place/placeTerm
+mods/originInfo type= 'text'/place/placeTerm type= 'type_milad_origin'
+mods/originInfo type= 'text'/place/placeTerm DisplayLabel= 'DL_milad_origin'
+mods/originInfo type= 'text'/dateIssued keyDate= 'yes'
+mods/originInfo type= 'text'/publisher
+mods/originInfo type= 'text'/publisher DisplayLabel= 'OriginMiladPublisher'
+mods/relatedItem type= 'host'
+mods/relatedItem type= 'host'/location
+mods/relatedItem type= 'host'/location/url displayLabel= 'Relation'
+mods/relatedItem type= 'host'/titleInfo displayLabel= 'Digital Collection'
+mods/relatedItem type= 'host'/titleInfo displayLabel= 'Digital Collection'/title
+mods/relatedItem type= 'Milad'
+mods/relatedItem type= 'Milad'/location
+mods/relatedItem type= 'Milad'/location/url displayLabel= 'urlMilad'
+mods/relatedItem type= 'Milad'/titleInfo displayLabel= 'MiladInfo'
+mods/relatedItem type= 'Milad'/titleInfo displayLabel= 'MiladInfo'/title
+mods/relatedItem type= 'Milad'/location
+mods/relatedItem type= 'Milad'/location/url displayLabel= 'Milad_Relation'
+mods/identifier displayLabel= 'Micheal'
+mods/identifier displayLabel= 'ISBN'
+mods/identifier displayLabel= 'Item Number'

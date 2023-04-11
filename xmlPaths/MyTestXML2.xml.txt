@@ -1,4 +1,4 @@
-MyTestXML1 - Copy.xml
+Data/MyTestXML2.xml
 mods
 mods/originInfo type= 'text'
 mods/originInfo type= 'text'/place

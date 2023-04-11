@@ -19,7 +19,6 @@ def parseAll(filename):
     pathName = []
     path = []
     for a,b in root:
-        # print(b)
         if a == 'start':
             if len(b.attrib) > 0:
                 pathName.append("{} {}= '{}'".format(b.tag.split("}")[1], list(b.attrib.keys())[0], list(b.attrib.values())[0]))
@@ -37,7 +36,7 @@ def toList(ntpath):
     paths = []
     for i in parseAll(ntpath):
         paths.append(i)
-    with open('xmlPaths/{}.txt'.format(ntpath), 'w') as t:
+    with open('xmlPaths/{}.txt'.format(ntpath.split("/")[1]), 'w') as t:
         t.write(ntpath + '\n')
         for i in paths:
             t.write(i + '\n')
@@ -47,9 +46,11 @@ def get(directory):
     files.sort()
     for file in files:
         if file.endswith(".xml"):
+            fileloc =  "Data/{}".format(file)
+            # print(fileloc)
             # XML.append("Data/{}".format(file))
-            print("parsing {}----------".format(file))
-            toList(file)
+            print("parsing {}----------".format(fileloc))
+            toList(fileloc)
 
 def run():
     directory = 'Data'

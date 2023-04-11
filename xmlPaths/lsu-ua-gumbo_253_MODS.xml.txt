@@ -1,4 +1,4 @@
-lsu-ua-gumbo_253_MODS.xml
+Data/lsu-ua-gumbo_253_MODS.xml
 mods
 mods/titleInfo
 mods/titleInfo/title

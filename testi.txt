@@ -1,0 +1,7 @@
+mods
+mods/titleInfo
+mods/titleInfo/title DisplayLabel= 'Carlos'
+mods/titleInfo/title
+mods/identifier displayLabel= 'Micheal'
+mods/identifier displayLabel= 'ISBN'
+mods/identifier displayLabel= 'Item Number'

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <!-- <titleInfo>
+      <title DisplayLabel="Carlos">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+      <title>Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+  </titleInfo>
+   
+   <name displayLabel="Author">
+      <namePart>United States. Army. Corps of Engineers. New Orleans District.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name> -->
+   <originInfo type="text">
+      <place>
+         <placeTerm type="text">Baton Rouge (La.)</placeTerm>
+         <placeTerm type="uioa">Baton Rouge (La.)</placeTerm>
+         <placeTerm>Baton Rouge (La.)</placeTerm>
+         <placeTerm type="type_milad_origin">Baton Rouge (La.)</placeTerm>
+         <placeTerm DisplayLabel="DL_milad_origin">Baton Rouge (La.)</placeTerm>
+      </place>
+      <dateIssued keyDate="yes">1995
+      </dateIssued>
+      <publisher>New Orleans : U.S. Army Corps of Engineers, New Orleans District, 1995.</publisher>
+      <publisher DisplayLabel="OriginMiladPublisher">New Orleans : U.S. Army Corps of Engineers, New Orleans District, 1995.</publisher>
+   
+   </originInfo>
+<!-- 
+   <note type="content">v. 1. Main report: environmental impact statement; Cover title; Revised draft; February 1995.</note>
+   <physicalDescription>
+      <extent>5 v. : ill., maps (some folded) ; 28 cm.</extent>
+  </physicalDescription> -->
+   
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-govdocs-p16313coll35:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana Waterways Management Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="Milad">
+      <location>
+         <url displayLabel="urlMilad">http://louisianadigitallibrary.org/islandora/object/lsu-govdocs-p16313coll35:collection</url>
+      </location>
+      <titleInfo displayLabel="MiladInfo">
+         <title>LSU Libraries Louisiana Waterways Management Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Milad_Relation">https://louisianadigitallibrary.org/training/enaquin-training</url>
+      </location>
+   </relatedItem>
+
+   <identifier displayLabel="Micheal" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll35/id/378</identifier>
+   <identifier displayLabel="ISBN" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll35/id/378</identifier>
+   <identifier displayLabel="Item Number" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll35/id/378</identifier>
+
+</mods>

@@ -1,0 +1,4 @@
+Data/lsu-ag-agexp_666_MODS.xml
+mods
+mods/titleInfo
+mods/titleInfo/title

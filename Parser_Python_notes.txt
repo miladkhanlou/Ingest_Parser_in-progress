@@ -1,0 +1,12 @@
+parser.py Good points to add:
+	a.	If tag was not closed
+	b.	count of collision
+	c.	showing the error and where it happened 
+
+
+
+Migration to New LDL:
+	1.	Identify all the paths for completing our knowledge of existing fields with parser.py
+	2.	Process and add the text to relevant fields with xml2workbench.py
+	3.	Post-Process to create relationshipts with Post_process.py (or add to xml2workbench.py)
+	4.	Run workbench to ingest

@@ -46,11 +46,8 @@ def get(directory):
     files.sort()
     for file in files:
         if file.endswith(".xml"):
-            fileloc =  "Data/{}".format(file)
-            # print(fileloc)
-            # XML.append("Data/{}".format(file))
-            print("parsing {}----------".format(fileloc))
-            toList(fileloc)
+            print("parsing Data/{}----------".format(file))
+            toList("Data/{}".format(file))
 
 def run():
     directory = 'Data'

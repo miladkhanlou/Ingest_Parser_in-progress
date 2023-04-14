@@ -30,6 +30,7 @@ class XmlSet(object):
         writer.writeheader()
         for doc in self.docs:
             writer.writerow(doc)
+    #INPUT DATA STARTS
     def input_directory(self, directory):
         files = listdir(directory)
         files.sort()
@@ -37,6 +38,7 @@ class XmlSet(object):
             if filename.endswith(".xml"):
                 print("parsing {}".format(filename))
                 self.add(parse_mods(directory + sep + filename))
+    #NOT USING THIS
     def maxlen(self, key):
         return max([len(x[key]) for x in self.docs])
     def oversize(self, key):
@@ -81,6 +83,8 @@ def concat_title_parts(titleInfo):
 
 ### Milad note: Parse extention
 # def parsExtention(root):
+
+### Milad note: Parse
 def parseTitleInfo(root):
     titles = root.findall('titleInfo', ns)
     data = {'title': '', 'field_alt_title': [], 'field_full_title': ''}

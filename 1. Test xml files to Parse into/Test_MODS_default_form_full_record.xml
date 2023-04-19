@@ -8,6 +8,14 @@
     <title>Title of this item</title>
     <subTitle>Subtitle of this item</subTitle>
   </titleInfo>
+  <titleInfo>
+    <title DisplayLabel="Khorzoo">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+    <title>Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+  </titleInfo>
+  <titleInfo>
+    <title DisplayLabel="Khorzoo">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+    <title>Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+  </titleInfo>
   <titleInfo type="alternative" displayLabel="Alternative Title">
     <nonSort>An</nonSort>
     <title>Alternative title</title>

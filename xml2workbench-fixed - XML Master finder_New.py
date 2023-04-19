@@ -14,45 +14,31 @@ mods_to_vocab = {
     'personal': 'person',
     'conference': 'conference'
 }
+paths = []
+
 def parseAll(filename):
+    pathName = []
     print("Parsing ---------------------------------------- {}".format(filename.split('/')[1]))
     root = ET.iterparse(filename, events=('start', 'end'))
-    pathName = []
-    pathKeys = []
-    pathValues = []
-    myPaths = {}
-    count = 0
-
     for a,b in root:
         if a == 'start':
             if len(b.attrib) > 0:
                 pathName.append("{} {}='{}' ".format(b.tag.split("}")[1], list(b.attrib.keys())[0], list(b.attrib.values())[0]))
                 yield '/'.join(pathName)
-                pathKeys.append(pathName)
-                pathValues = 0
-                if pathName in pathKeys:
-                    pathValues = (pathValues+1) 
             if len(b.attrib) == 0:
                 pathName.append("{}".format(b.tag.split("}")[1], b.attrib))
                 yield '/'.join(pathName)
-                pathKeys.append(pathName)
-                pathValues = 0
-                if pathName in pathKeys:
-                    pathValues += 1
         else:
             pathName.pop()
+    for i in pathName:
+        paths.append(i)
     return(pathName)
+##########################################################################################
+pathsToWrite= {}
 
 def toList(ntpath):
-    data = {
-        'paths': [],
-        'count': ''
-    }
-    paths = []
-    pathsToWrite= {}
     for i in parseAll(ntpath):
         paths.append(i)
-    print(len(paths))
     check = set()
     for p in paths:
         key = p
@@ -61,27 +47,29 @@ def toList(ntpath):
             pathsToWrite[key] = 1
         else:
             pathsToWrite[key] += 1
-    # print(pathsToWrite)
-        # print("{}---{}".format(z, s))
+    return pathsToWrite
 
-    with open('Data/{}.text'.format(ntpath.split("/")[1].split(".")[0]), 'w') as f: #Can use re.split() as well
-        for keys,value in pathsToWrite.items():
-            f.write("{} : {} \n".format(keys, value))
-
-# toList("Data/MyTestXML1.xml")
-    
+##########################################################################################
 def get(directory):
+    xml_paths = {}
     files = listdir(directory)
     files.sort()
     for file in files:
         if file.endswith(".xml"):
-            print("parsing Data/{}".format(file))
             toList("Data/{}".format(file))
-
+    with open('output.txt', 'w',encoding="utf-8") as txt:
+        for k,v in pathsToWrite.items():
+            txt.write("{},{} \n".format(v,k))
+    
+    ##TEST###
+    for a,b in pathsToWrite.items():
+        print("{} ,{}".format(a,b))
+    print("Number of all xml Paths ------------------------------ {}".format(len(paths)))
+    print("Number of all Unique Paths ------------------------------{}".format(len(pathsToWrite)))
+    
+##########################################################################################
 def run():
     directory = 'Data'
     data = get(directory)
     return data
-
-    
 run()

@@ -44,15 +44,13 @@ def parseAll(filename):
     return(pathName)
 
 def toList(ntpath):
-    data = {
-        'paths': [],
-        'count': ''
-    }
     paths = []
     pathsToWrite= {}
+    with open('Data/output.text', 'w') as f:
+        for keys,value in pathsToWrite.items():
+            f.write("{} : {} \n".format(keys, value))
     for i in parseAll(ntpath):
         paths.append(i)
-    print(len(paths))
     check = set()
     for p in paths:
         key = p
@@ -61,12 +59,11 @@ def toList(ntpath):
             pathsToWrite[key] = 1
         else:
             pathsToWrite[key] += 1
-    # print(pathsToWrite)
-        # print("{}---{}".format(z, s))
-
-    with open('Data/{}.text'.format(ntpath.split("/")[1].split(".")[0]), 'w') as f: #Can use re.split() as well
+            
+    with open('Data/output.text', 'a') as f:
         for keys,value in pathsToWrite.items():
             f.write("{} : {} \n".format(keys, value))
+
 
 # toList("Data/MyTestXML1.xml")
     
@@ -77,6 +74,7 @@ def get(directory):
         if file.endswith(".xml"):
             print("parsing Data/{}".format(file))
             toList("Data/{}".format(file))
+    
 
 def run():
     directory = 'Data'

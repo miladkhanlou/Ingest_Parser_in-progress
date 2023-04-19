@@ -1,0 +1,126 @@
+Repeated,XMLPath
+9011,mods/identifier type='local' 
+8018,mods/accessCondition type='use and reproduction' 
+7806,mods/name type='personal' 
+7806,mods/name type='personal' /role
+7806,mods/name type='personal' /role/roleTerm type='text' 
+7806,mods/name type='personal' /role/roleTerm type='code' 
+7805,mods/name type='personal' /namePart
+6719,mods/subject authority='lcsh' /topic
+5792,mods/note type='content' 
+4725,mods/name type='corporate' /namePart
+4725,mods/name type='corporate' 
+4672,mods/titleInfo type='alternative' 
+4672,mods/titleInfo type='alternative' /title
+4376,mods/relatedItem type='host' /location
+4150,mods
+4150,mods/titleInfo/title
+4150,mods/titleInfo
+4149,mods/name type='corporate' /role/roleTerm type='text' 
+4149,mods/name type='corporate' /role
+4147,mods/recordInfo
+4146,mods/relatedItem type='host' /location/url displayLabel='Relation' 
+4146,mods/location/physicalLocation displayLabel='Physical Location' 
+4146,mods/location
+4146,mods/recordInfo/recordChangeDate
+4146,mods/recordInfo/recordCreationDate
+4146,mods/relatedItem type='host' /titleInfo displayLabel='Digital Collection' /title
+4146,mods/relatedItem type='host' /titleInfo displayLabel='Digital Collection' 
+4146,mods/relatedItem type='host' 
+3968,mods/physicalDescription
+3953,mods/originInfo
+3917,mods/recordInfo/languageOfCataloging
+3916,mods/recordInfo/languageOfCataloging/languageTerm type='code' 
+3916,mods/location/physicalLocation authority='oclcorg' 
+3880,mods/typeOfResource
+3878,mods/physicalDescription/internetMediaType
+3743,mods/location/holdingSimple
+3743,mods/location/holdingSimple/copyInformation
+3711,mods/originInfo/publisher
+3648,mods/physicalDescription/digitalOrigin
+3473,mods/originInfo/dateIssued keyDate='yes' 
+3447,mods/originInfo/place/placeTerm type='text' 
+3447,mods/originInfo/place
+3274,mods/genre type='style' 
+3072,mods/location/holdingSimple/copyInformation/subLocation
+3072,mods/recordInfo/recordContentSource
+3072,mods/physicalDescription/form authority='aat' 
+2804,mods/subject authority='lcsh' 
+2095,mods/note type='key' 
+1092,mods/relatedItem type='host' /titleInfo displayLabel='Title of Larger Work' /title
+1092,mods/relatedItem type='host' /titleInfo displayLabel='Title of Larger Work' 
+1074,mods/recordInfo/recordOrigin
+1073,mods/extension/CONTENTdmData/alias
+1073,mods/extension/CONTENTdmData/dmGetItemInfo mimetype='application/json' 
+1073,mods/extension/CONTENTdmData/pointer
+1073,mods/extension
+1073,mods/extension/CONTENTdmData
+1073,mods/identifier displayLabel='Migrated From' 
+957,mods/relatedItem type='series' 
+928,mods/relatedItem type='series' /titleInfo displayLabel='Series Title' /title
+928,mods/relatedItem type='series' /titleInfo displayLabel='Series Title' 
+799,mods/abstract displayLabel='Description' 
+671,mods/location/holdingSimple/copyInformation/shelfLocator
+571,mods/part/detail type='volume' /number
+571,mods/part/detail type='volume' 
+571,mods/part
+518,mods/part/detail type='issue' /number
+518,mods/part/detail type='issue' 
+449,mods/titleInfo/nonSort
+313,mods/physicalDescription/extent
+261,mods/titleInfo type='alternative' /nonSort
+231,mods/note type='preferred citation' 
+230,mods/relatedItem type='host' /location/url displayLabel='Repository Collection Guide' 
+225,mods/name displayLabel='Artist' 
+225,mods/name displayLabel='Artist' /namePart
+225,mods/originInfo/dateCreated keyDate='yes' 
+225,mods/name displayLabel='Artist' /role/roleTerm type='text' 
+225,mods/name displayLabel='Artist' /role/roleTerm type='code' 
+225,mods/name displayLabel='Artist' /role
+224,mods/extension/imageResolution
+224,mods/extension/colorMode
+224,mods/extension/extentArchival
+224,mods/extension/imageBitDepth
+223,mods/physicalDescription/note type='medium' 
+218,mods/extension/digitizedBy
+160,mods/originInfo/dateCaptured
+137,mods/relatedItem type='host' /titleInfo displayLabel='Title of Larger Work' /nonSort
+119,mods/subject authority='lcsh' /geographic
+111,mods/originInfo/edition
+93,mods/name displayLabel='Author' /role
+93,mods/name displayLabel='Author' /namePart
+93,mods/name displayLabel='Author' 
+92,mods/name displayLabel='Author' /role/roleTerm type='code' 
+92,mods/name displayLabel='Author' /role/roleTerm type='text' 
+71,mods/name displayLabel='Contributor' /namePart
+71,mods/name displayLabel='Contributor' 
+71,mods/name displayLabel='Contributor' /role
+70,mods/name displayLabel='Contributor' /role/roleTerm type='text' 
+70,mods/name displayLabel='Contributor' /role/roleTerm type='code' 
+69,mods/extension/cataloger
+44,mods/relatedItem type='series' /titleInfo displayLabel='Series Title' /nonSort
+37,mods/relatedItem type='series' /note displayLabel='Other Call Numbers in Series' 
+21,mods/extension/frameSize
+18,mods/extension/creditLine
+7,mods/originInfo/dateCreated qualifier='approximate' 
+5,mods/originInfo/dateIssued point='end' 
+4,mods/abstract displayLabel='Collection Summary' 
+4,mods/originInfo/dateIssued point='start' 
+3,mods/language/languageTerm authority='iso639-2b' 
+3,mods/language
+3,mods/typeOfResource collection='yes' 
+2,mods/relatedItem type='host' /part
+2,mods/name displayLabel='Author' /role/roleTerm authority='marcrelator' 
+2,mods/name displayLabel='Contributor' /role/roleTerm authority='marcrelator' 
+1,mods/name authority='naf' /namePart
+1,mods/name authority='naf' 
+1,mods/name authority='naf' /role
+1,mods/name authority='naf' /role/roleTerm authority='marcrelator' 
+1,mods/relatedItem type='host' /part/detail type='volume' /number
+1,mods/accessCondition displayLabel='Rights' 
+1,mods/accessCondition displayLabel='Contact Information' 
+1,mods/recordInfo/languageOfCataloging/languageTerm authority='iso639-2b' 
+1,mods/relatedItem type='host' /part/detail
+1,mods/relatedItem type='host' /part/detail/title
+1,mods/relatedItem type='host' /part/detail type='volume' 
+1,mods/relatedItem type='host' /part/detail type='volume' /caption

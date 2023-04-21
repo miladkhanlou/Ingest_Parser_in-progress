@@ -33,7 +33,8 @@ def parseAll(filename):
     for i in pathName:
         paths.append(i)
     return(pathName)
-##########################################################################################
+
+#####Logic for duplicated results ######################################################################################
 pathsToWrite= {}
 
 def toList(ntpath):
@@ -49,7 +50,7 @@ def toList(ntpath):
             pathsToWrite[key] += 1
     return pathsToWrite
 
-##########################################################################################
+#From running the function to Write the results ##########################################################################
 def get(directory):
     xml_paths = {
         "Repeated": [],

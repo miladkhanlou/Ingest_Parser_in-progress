@@ -64,7 +64,7 @@ def get(directory):
     for k,v in pathsToWrite.items():
         xml_paths["Repeated"].append(v)
         xml_paths["XMLPath"].append(k)
-    
+
     DF = pd.DataFrame(xml_paths)
     sorted = DF.sort_values("Repeated", ascending=False)
     sorted.to_csv("output.csv", index=False)

@@ -15,14 +15,17 @@ mods_to_vocab = {
     'conference': 'conference'
 }
 paths = []
-
+allTags = [] #NEW
+allAtrrib = [] #NEW
 def parseAll(filename):
     pathName = []
-    print("Parsing ---------------------------------------- {}".format(filename.split('/')[1]))
+    # print("Parsing ---------------------------------------- {}".format(filename.split('/')[1]))
     root = ET.iterparse(filename, events=('start', 'end'))
     for a,b in root:
         if a == 'start':
+            allTags.append(b.tag.split("}")[1])
             if len(b.attrib) > 0:
+                allAtrrib.append(list(b.attrib.keys())[0])
                 pathName.append('{}[@{}="{}"]'.format(b.tag.split("}")[1], list(b.attrib.keys())[0], list(b.attrib.values())[0]))
                 yield '/'.join(pathName)
             if len(b.attrib) == 0:
@@ -36,8 +39,11 @@ def parseAll(filename):
 
 #####Logic for duplicated results ######################################################################################
 pathsToWrite= {}
+clearTags = {} #NEW
+clearAttribs = {} #NEW
 
 def toList(ntpath):
+    ## PathToWrite = {XMLPath : Number of repitation}
     for i in parseAll(ntpath):
         paths.append(i)
     check = set()
@@ -48,7 +54,37 @@ def toList(ntpath):
             pathsToWrite[key] = 1
         else:
             pathsToWrite[key] += 1
-    return pathsToWrite
+
+########################################################## NEW ##########################################################
+###WE CAN NOT USE THIS METHOD BECAUSE IT WILL NOT BE THE SOURCE OF TRUTH, AS IT WILL CHECK TO GET THE TAG AND ATTRIBUTE LIST AS A SOURCE FIRST!
+    ##clearTags = {Tag_Name : Number of repitation}
+    tagCheck = []
+    for TGs in allTags:
+        key = TGs
+        if TGs not in tagCheck:
+            tagCheck.append(TGs)
+            clearTags[key] = 0
+        else:
+            clearTags[key] += 1
+
+    ##clearAttribs = {Attribute_Name : Number of repitation}
+    attribCheck = []
+    for att in allAtrrib:
+        keys = att
+        if att not in attribCheck:
+            attribCheck.append(att)
+            clearAttribs[keys] = 0
+        else:
+            clearAttribs[keys] += 1
+###HOWEVER, WE CAN EITHER CREATE LISTS CONTAINING ALL THE TAGS AND ATTRIBUTES IN XML FILES AND LET THE CODE CHECK THE 'MODS' WITH THOSE
+###OR WE CAN HAVE A SEPARATE XML SHEET AS A SOURCE OF TRUTH AND RUN THE ATRIBUTE AND TAG CHECKER ON THOSE >>> SOMETHING LIKE:
+
+# for repeated in xml_paths["XMLPath"]:
+#     for T in clearTags:
+#         if T not in repeated:
+#             count += 1
+#             print("{} {}".format(count,repeated))
+#######################################################################################################################
 
 #From running the function to Write the results ##########################################################################
 def get(directory):
@@ -65,18 +101,24 @@ def get(directory):
     for k,v in pathsToWrite.items():
         xml_paths["Repeated"].append(v)
         xml_paths["XMLPath"].append(k)
-    
+
     DF = pd.DataFrame(xml_paths)
     sorted = DF.sort_values("Repeated", ascending=False)
     sorted.to_csv("output.csv", index=False)
-
 
     ##TEST###
     for a,b in pathsToWrite.items():
         print("{} , {}".format(a,b))
     print("Number of all xml Paths ------------------------------ {}".format(len(paths)))
     print("Number of all Unique Paths ------------------------------{}".format(len(pathsToWrite)))
-    
+
+    print("clear Tags ------------------------------{}".format(len(clearTags)))
+    print(clearTags)
+    print("\n")
+    print("clear attribs ------------------------------{}".format(len(clearAttribs)))
+    print(clearAttribs)
+
+
 ##########################################################################################
 def run():
     directory = 'Data'

@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo displayLabel="Title">
+    <nonSort>The</nonSort>
+    <title>Title of this item</title>
+    <subTitle>Subtitle of this item</subTitle>
+  </titleInfo>
+  <titleInfo>
+    <title DisplayLabel="Khorzoo">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+    <title>Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+  </titleInfo>
+  <titleInfo>
+    <title DisplayLabel="Khorzoo">Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+    <title>Amite River and tributaries, Louisiana, EBR Parish watershed, flood control projects, feasibility study, v.1</title>
+  </titleInfo>
+  <titleInfo type="alternative" displayLabel="Alternative Title">
+    <nonSort>An</nonSort>
+    <title>Alternative title</title>
+    <subTitle>Alternative subtitle</subTitle>
+  </titleInfo>
+  <titleInfo type="translated" displayLabel="Translated Title">
+    <nonSort>The</nonSort>
+    <title>Translated title</title>
+    <subTitle>Translated subtitle</subTitle>
+  </titleInfo>
+  <titleInfo type="abbreviated" displayLabel="Abbreviated Title">
+    <nonSort>The</nonSort>
+    <title>Abbreviated title</title>
+    <subTitle>Abbreviated subtitle</subTitle>
+  </titleInfo>
+  <titleInfo type="uniform" displayLabel="Uniform title">
+    <nonSort>The</nonSort>
+    <title>Uniform title</title>
+    <subTitle>Uniform subtitle</subTitle>
+  </titleInfo>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Parent Item Title">
+      <title>This is the title of the parent</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="local" displayLabel="Item Number">4693</identifier>
+  <identifier type="isbn" displayLabel="ISBN">123456789</identifier>
+  <part>
+    <detail type="Volume">
+      <caption>Vol.</caption>
+      <number>20</number>
+      <title>The volume title</title>
+    </detail>
+  </part>
+  <name type="corporate" displayLabel="Contributing Repository" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no2015036095">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="123456789" displayLabel="Photographer">
+    <namePart>Lytle, Andrew</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="code" authority="marcrelator">ptg</roleTerm>
+    </role>
+  </name>
+  <name type="conference" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="123456789" displayLabel="Contributor">
+    <namePart>This is a Conference Contributor</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+    </role>
+  </name>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="123456789" displayLabel="Author">
+    <namePart>LSU Libraries</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+    </role>
+  </name>
+  <name type="family" authority="naf" authorityURI="https://viaf.org/viaf" valueURI="123456789" displayLabel="Contributor">
+    <namePart>Family Contributor</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Baton Rouge (La.)</placeTerm>
+    </place>
+    <publisher>The Publisher</publisher>
+    <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate" point="start">2010</dateCreated>
+    <dateCreated encoding="w3cdtf" qualifier="approximate" point="end">2020</dateCreated>
+    <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+    <dateCaptured encoding="w3cdtf" qualifier="inferred">2020-03-01</dateCaptured>
+  </originInfo>
+  <subject authority="LCSH">
+    <topic/>
+    <topic>Goats</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject displayLabel="Location" authority="LCSH">
+    <geographic>Louisiana</geographic>
+  </subject>
+  <subject displayLabel="Time Period" authority="LCSH">
+    <temporal>Twenty-first century</temporal>
+  </subject>
+  <subject displayLabel="Genre Subject" authority="LCGFT">
+    <genre>Photographs</genre>
+  </subject>
+  <subject displayLabel="Name Subject">
+    <name type="personal" authority="LC NAF">
+      <namePart>Lytle, Andrew</namePart>
+    </name>
+  </subject>
+  <subject displayLabel="Name Subject">
+    <name type="corporate" authority="naf">
+      <namePart>A Corporation</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">This is a record created in the LDL Default MODS Form.</abstract>
+  <note type="content" displayLabel="Note">Here's a note about this photo.</note>
+  <note type="content" displayLabel="Harmful Content Notice">This image contains potentially sensitive content.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="aat">Selfies</genre>
+  <physicalDescription>
+    <form authority="aat">Photographs</form>
+    <note type="medium" displayLabel="Medium">Paper print</note>
+    <extent>1 photograph</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <language>
+    <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Elisa Naquin Training Collection</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/training/enaquin-training</url>
+    </location>
+    <titleInfo type="alternative" displayLabel="Repository Collection">
+      <title>Physical Collection Title</title>
+      <partNumber>Series II</partNumber>
+      <partName>Photographs</partName>
+    </titleInfo>
+    <location>
+      <url displayLabel="Repository Collection Guide">https://lytlephotos/findingaid.org</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>Hill Memorial Library: Special Collections</subLocation>
+        <shelfLocator>V:47, Box 1</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <note type="ownership" displayLabel="Source Note">This is a source note.</note>
+  <accessCondition type="use and reproduction" displayLabel="Rights Statement" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Rights Information">This item is in the public domain.</accessCondition>
+  <accessCondition type="restrictions on access" displayLabel="Restrictions on Access">No restrictions on access.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Here is our contact information.</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Here is the preferred citation.</note>
+  <recordInfo>
+    <recordContentSource authority="local">lsu/en</recordContentSource>
+    <recordCreationDate>2023-02-01</recordCreationDate>
+    <recordChangeDate>N/A</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

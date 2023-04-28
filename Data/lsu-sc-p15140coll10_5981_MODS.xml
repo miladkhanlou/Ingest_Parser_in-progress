@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 46</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1533</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1533</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1533/json"
+                        timestamp="2017-02-03 08:23:11">{"title":"Page 46","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 46 \u2014\nau sud, des prairies depassant en etendue toutes les distances que\nl'ceil peut embrasser ; a l'ouest, ces memes prairies courant le long\ndu bayou Vermilion, et allant se relief a cellcs de la paroisse du meme\nnom- Sur cet immense tapis vert, des habitations nombreuses, semees\nau basard comme a coups de fondre; des troupeaux a moitie\" enfouia\ndans les grandes herbes des savanes qui leur servent a la fois de\nuourriture ct de litiere ; des milUers de clos ou s'epanouisseut, en\netc, les houppes de neige du coton et les barbcs blondes du mais:\ntel est le theatre sur lequel nous allons faire monter le lecteur.\nII.\nCe n'est pas tout. Apres nous avoir suivi dans la campagne, il\nfaut qu'il se laisse prendre par la main, et qu'il penetre avec nous\ndans los maisons.\nCes maisons sont comme la Ualathee de Virgile : elles se cachent\nderriere un double ou triple rideau d'arbres, \u00a3tendu comme un\nvoile de fienrs et d'ombre ; mais elles nc se cachent pas si bien, les\ncoquettes ! qu'elles ne puissent etre vues par le passant. Les arbres,\nqui leur font comme un oasis de verdure, sont les lilas.\nII y a soixante ans, cette prairie, aujourd'hui si ombreuse. e\"tait\nnue comme la main. C'etait un paysage d'Afrique pendant les jour-\nnecs torrides dc l'^te. Un jour, uu negre nomra6 Baptiste. apparte-\nnant a M. C. Comeau, alia aux Opelousas, y vit un lilas, arbre qui lui\netait inconnu, couvert.de ses grandes grappcs dc Hears parfunices, en\ndetacha une branche, et la planta a 1'Anse-Pilet, sur une terre ap-\npartenant aujourd'hui au gouverneur Moutou. La branche grandit\net devint arbre. Ce doyen des lilas qui couvrent aujourd'hui lea\neampagnes attakapiennes, etait debout encore il y a peu d'annees.\nQue le lecteur entre maintenant, avec nous, dans les maisons,\u2014\nmaisons luxueuses de proprcte ; mais, sauf quelques exceptions,\njj'ayant que ce luxe, le plus beau de tous. Ce n'est pas riche, ainsi\nque vous le voyez, mais e'est poli comme un miroir, brillant comme\ndu cuivre. C'est un interieur de la Hollande, dessine aux Attakapas par ce grand artiste mysterieux qu'on appeltc la Providence.\niks ferames sont au metier, tetes brunes et rienses, penchees sur\nec metier comme les femmes du monde sur lc piano ;\u2014mains blanches, couronnees d'ongles e'tincelautsctpolis comme l'ivoire, qui. da","fullrs":{},"find":"1534.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1533","restrictionCode":"1","cdmfilesize":"431767","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

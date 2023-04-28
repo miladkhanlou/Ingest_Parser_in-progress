@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Front</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/2116.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_ACT/id/374</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-09-09</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_ACT</alias>
+         <pointer>374</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_ACT/374/json"
+                        timestamp="2017-01-11 10:45:16">{"title":"Front","audien":{},"creato":{},"date":{},"subjec":{},"descri":{},"typa":{},"publis":{},"type":{},"relati":{},"reposi":{},"reposa":{},"reposb":"Finding aid for the original photographs: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/2116.pdf ","rights":{},"cite":{},"to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":{},"item":{},"collec":{},"contri":{},"fullrs":"Volume5\/21160057r_Front.jpg","find":"370.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2009-09-09","dmmodified":"2009-09-09","dmoclcno":{},"dmrecord":"374","restrictionCode":"1","cdmfilesize":"167911","cdmfilesizeformatted":"0.16 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Plan de la Nouvelle Orleans ...</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <namePart>Bellin, Jacques Nicolas, 1703-1772</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1764</dateCreated>
+      <publisher>Paris</publisher>
+  </originInfo>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Maps</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>New Orleans (La.)</geographic>
+      <geographic>Maps</geographic>
+   </subject>
+   <abstract displayLabel="Description">map 21 x 30 cm.; Scale 2 1/4 in. to 900 ft.</abstract>
+   <note type="content">This map is no. 45, from Bellin, J.N. Le petit atlas maritime, v. 1.</note>
+   <typeOfResource>cartographic</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">fr</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Maps of Louisiana Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-lmp:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>G4014 .N5 1764 B45 MCAGE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">lm000019</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LMP/id/18</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2004-08-13</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LMP</alias>
+         <pointer>18</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LMP/18/json"
+                        timestamp="2017-01-25 09:42:50">{"title":"Plan de la Nouvelle Orleans ...","creato":"Bellin, Jacques Nicolas, 1703-1772","contri":{},"date":"1764","publis":"Paris","subjec":{},"geogra":"Maps; New Orleans (La.)--Maps","biogra":{},"descri":"map 21 x 30 cm.; Scale 2 1\/4 in. to 900 ft.","notes":"This map is no. 45, from Bellin, J.N. Le petit atlas maritime, v. 1.","type":"Maps","format":{},"langua":"fr","source":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","covera":"G4014 .N5 1764 B45 MCAGE","rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":{},"to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","catalo":{},"catala":{},"object":"lm000019","identi":"See 'reference url' on the navigation bars.","collec":"Homepage: http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_LMP.php?CISOROOT=\/LMP;   List of Images: http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/LMP","typea":"Maps","genera":"Image","fullrs":{},"find":"20241181862003_lm000019.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2004-08-13","dmmodified":"2010-02-25","dmoclcno":{},"dmrecord":"18","restrictionCode":"1","cdmfilesize":"330508","cdmfilesizeformatted":"0.32 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 261</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1745</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1745</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1745/json"
+                        timestamp="2017-02-03 08:23:18">{"title":"Page 261","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 261 \u2014\nde ma maison, et malheur a vous, si jo vous vois seulement roderdan-\nmon vois'ntage !  J'appelle le Comite de Vigilance et je vous fais lyncher.\n\u2014Le lynch, a moi! dit John en bondissant comme si la lauiere d'u:i\nfouet 1'avait deja touehe.\n\u2014Oui, le lynch ;t vous, comme a tous ceux qui toudicront a 1'esclft-\nvage. Nos, negres sont notre propriete. comme vousl'avez dit vous-\niiieme; et qui attcntera a notre propriete, jouera sun honneur ou sa\ntete, sachee-te, maitre John !\n\u2014Le Christ et John Brown sont morts toiiB\u00ables deux pour la redemption d'un peuple.\n\u2014Associer le fils de Dieu avec un voleur, est un sacrilege, maitre\nJohn; done je ne vous repondrai pas. Maiiitenant, un dernier mot, et\nje vous invite a le bien ecoutcr. Sortezde irra maison, non eomme\nmon bote, mais .comme un homme quo je chasse eomim; un laquais.\nSurtout, tenez-vous en eloigne comme d'un lieu qui serait infeete de\nla fievre jaune, ou du cholera, Si'vous vous en rapprochiez, sous quelque pretext* que ce put etre, vous auriez affaire au fouet du Juge\nLynch. \u25a0\u25a0\u25a0\nJohn se leva, pourpre de Vin.jure qu'il venait de rccevoir, mais\nn'ayaut rien perdu de sa serenite. V. salualegerement l'habitant,jeta\neon eluqieau sur sa clievelure blonde et s'eloigna, lentement de la maison qui venait de se tenner pour lui.\nn C'est egal, murmura-t-il en s'engagennt dans le premier sentier\nqui se proseuta devant lui, leg homines ne peuvent empecher ce, que\nDieu approuve; j'epouseral Anita! a\n1,'tVASIQN.\nLe meme jour, John avait ete mis en surveillance par lc Comite que\nj'ai Thonneur de commander.\nVous savez eeque valentines gars et avec quelle ardeur ils prennent\nles armes, lorsque je leur anuoaeo qu'il y a qudque chateaux bandits\na faire. id et aitleurs. La surveillance dont John fut entoure fut\ndone active, incessante. L'ceil du comite fut duvert jour et nuit sur\ntoutes ses actions - si bien que, pendant une seina'me, j'aurais pu rendre des points, pour la precision et 1'exactitude demus renseignements,\nau prot'et do police de Paris. (J'aurais cite la police de la N'ouvelle-\nOrleans, par iierte Rationale ; mais elle vaut si peu de chose que mon\npatriotisme ne pouvait aller jusque-la.)\nDone, pendant quelques jours, tons leB rapports dirent unanimenient\nque John passait tout sou temps a lire, a eerire it parfois a tracer sur\nlo papier des lignes de longueur inegale que mes agents reconuurent,\netre des vers anglais. Ils l'enteudii'ent meme souvent deelamer une\nstrophe dont il disait les premiers mots lentement, et avec ce timbre\ndoux et pur qui lui etait particulier ; puis la voix s'echau flint conmie\nun echo do peusees plus fortes ou plus sunpathiques a sou ame, et lo\ndernier vers, declaine plus hautetde facon a, etre entendu i distance,\ndisait: '\nIls ont fait ta mort sainte et sainte ta potence.","fullrs":{},"find":"1746.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1745","restrictionCode":"1","cdmfilesize":"400725","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

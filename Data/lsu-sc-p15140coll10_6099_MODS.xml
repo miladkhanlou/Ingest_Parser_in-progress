@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 168</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1653</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1653</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1653/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 168","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 1CS \u2014\n\" C'est lui, c'est Sarrazin!\" dit Pierre-Marie en selar.cnnt, e'est-\na-dire en degringolant de I'Score a pic sur les bords du bayou.\nXous le suivimes, car nous avions hate de counaltre le chef qm\nnous allons presenter alios lectcurs. Nous le commissions comme\nun homme d'action, lo senl peut-etre capable dc purifier sa paroisse,\nqui etait iticontcstablement la plus Upraise de la Louisiane, mais\nnous ne Tavions jamais vu.\n\" lfatez-vous,\" criames-nous a Pierre-Marie qui conduisait Je bac\nan vaillant capitaine.\nAvant que le bac eut aborde,ie cavalier de la rive opposSe fit\nfaire une volte gracieusc a son clieval et puis, le piquant auxflancs\npar le double aiguillon de ses racachas, il le fit bondir d'un saut\njasqu'au milieu du bac qui chavira presque sous ce pevis inattendu.\n\u25a0\u25a0' Vigilant et porteur dc depeches 1 lui criames-nous, en lui mon-\n:rant de loin un papier.\n\u2014Vigilant I\" clama-t-il en decouvrant sa ccinture.\nDesormais la connaissance etait faite ; deux mots y avaient sufii.\nD&amp;s que lc bac toucha le bord, Pierre-Marie s'empara du clieval\nde Sarrnzin qui avait saute a terre aussi legercinent qu'un ecuyer\nde cirque ct avait couru rapidement a nous.\n\" Ne me ditos pas votre nom, je lo sais, je lc connais,\u2014vous me\nportez une depeebe du Major, c'est bieu ;' en bant, nous verrons cela \u2022\nmontons.''\nEt nons common cfimcs Tascension\u2014ascension est le, mot\u2014dc\nrecore, pendant que le coursier et Pierre-Marie, Tun guidant Tautre,\nmontaient peniblement, de leur cote, une espece de senticr dc che-\nvre, faille a, la pioche sur le flanc abrupte de Vile.\nDurant notre ascension, dous etudiames I'homme h qui nous ve-\nnions de remettrc une depi^che de notre ami, lc major St-Julien, et\nqui avait a uos yeux un meritc que nous dirons franchement: celui\nd'etre un des rarcs chefs qui aient compris que les Comitt's de Vigilance etaient, non des tribunaux de parade, mais des conseils de\nguerre appliqv.ant la loi impitoi\/ab\/emenl et ne se laissant jlcch.ir par\naucune consideration.\n&lt; -ct homme etait petit, nerveux; ses mains etaient d'une delica-\ntesse presque feminine ; ses.yeux respiraient la loyautSetle courage;\nil marchait avec Ia souplesse et Tagilite de tout ce qui est jeune\net fort. Tout, en un mot, etait Yiril ehea lui, excepte la voix.","fullrs":{},"find":"1654.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1653","restrictionCode":"1","cdmfilesize":"425266","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

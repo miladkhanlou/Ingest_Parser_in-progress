@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 13</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/463</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>463</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/463/json"
+                        timestamp="2017-02-09 16:31:00">{"title":"Page 13","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"'.\"'' ; i\nSOU T H -W E S T E R N   JOURNAL\n91\nfor the Soulli-Westorn Journal.\nTHE AMERICAN   POETS.\nHV A  LADV.\nJOSEPH RODMAN DltAKE.\nThe writer is able to learn but little of the author of the\nfollowing extract, except that he was raised near West\nFarms, in the neighborhood of New York city; that he was\ngraduated in Columbia College, and his medical education\ncompleted in France; that he died of hereditary decline, nt\nthe early age of twenty-five years, leaving an infant daughter, who has recently published his manuscript poems. Who\nwould not envy her the melancholy, yet grateful office, of\nthus commemorating the virtues.and perpetuating the literary\nlabors of a departed father, of whom death had robbed her,\nere her infant mind could appreciate his fostering kindness?\nLet her, who would shrink from the sad undertaking, retire lo\nthe quiet of solitude, and peruse the little voliimo now before\nus, and then return to acknowledge the pensive delight of an\norphan daughter, in thus conversing with the shades of a buried parent.\nSeveral circumstances of interest, concerning this young\npoet, are related by u correspondent of the New York Mirror, who had been visiting the home of Drake's youth, and\nthe lonely graveyard where he now lies. His grave is upon a\nlittle knoll, in a beautiful green and retired spot, commanding\na view of Flushing bay, and \"the green hills of Long Island.\" The writer in the Mirror learned, from an agetl man\nof the neighborhood, that Drake had, from boyhood, been excessively fond of solitude. The spot where he nnd his sister\nnow rest together, and the banks ofthe Bronx, (a little stream\noften mentioned in his poems,) were his favorite haunts. Upon the plain marble obelisk which marks his resting place,\nis this simple inscription:\nSACRED     TO    THE    MEMORY    Of\nJOSEPH R. DRAKE,\nWHO     DIED    SKI'TEMIIKR   21sT,   1H20, AGED 25   YEARS.\nUpon the other side are the lines:\n\" None knew him hut to love him,\nNor named him but to praise.\"\nlie visited New Orleans, in his decline, but derived no\nbenefit from n softer clime; he continued to grow worse, till\ndeath relieved his gentle spirit. His uniform cheerfulness,\nand mildness of spirit, rendered him beloved in life, and lamented in death, by all who had tho favor of his acquaintance,\nTHE AMERICAN FLAG.\nWhen Freedom, from her mountain height,\nUnfurled her standard to the air,\nShe tore the azure robe of night,\nAnd set the stars of glory there.\nShe mingled wilh its gorgeous dyes,\nThe milky baldric of the skies,\nAnd striped with pure celestial white,\nWith streakingsof the morning light:\nThen, from his mansion in the sun,\nShe called her eagle bearer down,\nAnd gave into his mighty hand,\nThe symbol of her chosen land.\nMajestic monarch of the cloud,\nWho rear'st aloft thy regal form,\nTo hear the tempest trumping loud,\nAnd see the lightning lances driven,\nWhen strike the warriors of the slorm,\nAnd mils ihe thunder drum of heaven,\nChild of the sun ! to Ihee 'tis given\nTo guard the banner of Ihe free,\nTo hover in Ihe sulphur smoke,\nTo ward away the battle stroke,\nAnd bid its bleiidings .shine afar,\nLike rainbows on Ihe eload of war,\nThe harbingers of victory!\nFlag of the brave! thy folds shall fly,\nThe sign of hope and triumph high,\nWhen speaks Ihe signal trumpet tone,\nAnd the long line eomesgleaming on.\nEre yet the life-blood, warm and wet,\nHas climm'd Ihe glisteningbayonet,\nEach soldier eve shall brightly turn\nTo where thy sky-born glories burn;\nAnd as his springing steps advance,\nCatch war and vengeance from the glance.\nAnd when the eaiinoii-iiiouthingsloud,\nHeave in wild wreaths the battle shroud,\nAnd g'ary sabres rise and fall,\nLiUcshqbfs'of flame on midnight's pall;\nThen shall thy meteor glances glow,\nAnd cowering foes shall shrink- beneath\nEach gallant arnilhatslrikesbelow\nThat lovely messenger of death.\nFlag of the sens! on ocean wave\nThy starsShflll gliuer o'erlhebrave;\nWhen dealh, careering on the gale,\nSweeps darkly round the bellied sail,\nAnd frighted waves rush wildly back,\nBefore the broadside's reeling rack,\nEach dying wanderer of the sea\nShall look at once to heaven and thee,\nAnd smile to see thy splendors fly\nIn triumph o'er his closing eye.\nFlag of the free heart's hope and home!\nBy angel hands to valor given;\nThy stars have lit the welkin dome,\nAnd all thy hues were born in heaven.\nForever float that standard sheet!\nWhere breathes the foe but falls before us,\nWith Freedom's soil beneath our feel,\nAnd Freedom's banner streaming o'erusl\nLAST ILLNESS AND DEATH OF WASHING TON.\nMount Vernon, Saturday, Pec. 19, 1799.\nThis day being marked by an event, which will be memorable in tho history of America, and perhaps of the world, I\nshall give a particular statement of it, to which I was an eyewitness.*\nOn Thursday, December 12th, the General rode out to his\nfarms about ten o'clock, nnd did not return home till past three.\nSoon after he went out, the weather became very bad ; rajn\nhail, snow, fulling alternately, with a cold wind. When he\ncame in, I carried some letters to him to frnnk, intending to\nsend them to the post-office in the evening. He franked the\nletters, but said the weather was too bad to send a servant to\nMr. Tobias Lour, a gentleinrtii of ctlnrrition find talents, resided Severn] yearc,\nwith Washington, first as Ids secretary, nod afterwards as superintendent of ht.c\nprivate affairs, Ho was present during Washington's lasl illness, and wrote down\na narrative of the occurrences immediately after his death. The asrratlvo U\nhere printed, as transcribed from Mr. Lear's original manuscript.\n\u25a0T\nW-IJffl\nhifi\u00a7\n, 'r ,:\ni '-'-M\nm\nm\n.    : \u25a0'*.\u25a0\n)'  '\u25a0'''\u25a0\u2022::.\nIll\n'\u25a0'\u25a0 w\n\u25a0   I\n\\'4i\ni    ;\n\u2022 \u25a0:\nif\nil*'","fullrs":{},"find":"464.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"463","restrictionCode":"1","cdmfilesize":"1750701","cdmfilesizeformatted":"1.67 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

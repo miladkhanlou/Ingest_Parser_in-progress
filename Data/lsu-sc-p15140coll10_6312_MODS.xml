@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 389</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1870</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1870</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1870/json"
+                        timestamp="2017-02-03 08:23:22">{"title":"Page 389","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 389 \u2014\nUn officier energique et intelligent de Vermilion, M. E. Maux,\nfut charge de traverser la coulee a l'est afin de prfiter la main k ce\ncorps avee ses cavaliers;\nPuis la pie-ce de six fut placee ostensiblement en batterie a deux\ncents metres et braquee sur la maison qui s'etait herissee de fusils\na toutes les ouvertures et a tons les creneaux.\nEnsuite, a cote de la piece on atluma da feu. Ce feufut allume\nlentement... lentement... comme pour laisser k Fennemi le temps de\n-savourer ce prelude de la canonnade.\nQuand le feu fiamba, Georges Reiner approcha de 3a fiamme une\nmeche blanche qui se couronna bientot d'une fumee bleuatre;\nEt comme il approchait cette meche fumante de la piece, aprts\nlui avoir fait decrire dans les airs uu graeieux demi-cercle...\nUn cri de terreur partit de la cour ennemie ou. etait massee une\npartie de la bande et chacun d'eux s'empressa de disparaStre der-\nriere les edifices ou de gagner le bois k travers la coulee de la\nQueue-Tor tue, coulee qui avait peu d'eau k cette epoque et qui, du\nreste, est gueable k toutes les epoques del'annee.\nA ee cri ct k cette fuite, Georges baissa sa meche et attendit de\nnouveaux ordres.\nOn poursulvait dejk ceux qui avaient donne le signal de la fuite...\non entendait crier poursuivants et poursuivis... parfois retentissaient\ndans les bois des detonations isoiees...\nLe gros de Farmee de John Jones etait encore retranche dans\nles edifices de la maison.\nC'est alors que le gouverneur Mouton, qui etait venu en voiture\njusque sur le terrain, mais qui, le moment de Faction venu, etait\nmoute k cheval comme les autres chefs\u2014c'est alors, disons-nous,\nque le gouverneur Mouton appela le major St-Julien et M. Val-\ninont Richard (du Comite de Saint-Martin).\n\" Suivez-moi, messieurs, leur dit-il. fipargnous le sang, s'il est\npossible. Allons parler k ces gens-lk.\"\nUn quatrieme,  M. Steack, se joignit spontanement k eux et le\ngroupe de cavaliers se dirigea, sans armes,vers la maison;\u2014ou, pour\nStre plus confornie k la verite, le Gouverneur etait arme d'un pa-\n, rasol; le Major de sa longue-vue ; et MM. Richard et Steack... de\nleurs chapeaux que, pour le moment, ils avaient changes en evea-\nuk","fullrs":{},"find":"1871.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1870","restrictionCode":"1","cdmfilesize":"392078","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

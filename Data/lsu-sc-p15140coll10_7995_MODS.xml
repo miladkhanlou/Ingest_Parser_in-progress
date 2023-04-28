@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 27</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2665</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2665</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2665/json"
+                        timestamp="2017-02-03 08:23:52">{"title":"page 27","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"his beat\u2014(the absence of crime will be considered\nthe best proof of the efficiency of the Police)\u2014and\nwhen in any district or beat offences frequently\noccur, there will be good reason to suppose that\ntheire is negligence or want of ability on the part\nof the person in charge of said beat.\nSec. 4. He must acquire such a knowledge of\nthe inhabitants within his beat as to enable him\nat once to recognize them.\nSec. 5. He shall inspect every part of his beat\nat least qnce in every twenty minutes, in order\nthat any person requiring assistance may be enabled to find him by remaining in one place. The\nregularity of inspection thus enjoined, shall not\nprevent his removing to any \"particular place, if\nhis presence be required; but he will satisfy his\nsuperior officer that there was sufficient cause for\nsuch apparent neglect.\nSec. 6. He must at all times be enabled to furnish particular information respecting the state of\nSec. 7. It shall be his duty to examine carefully\nin the night time all doors and gates of dwellings,\nhouses and stores, and to see that they are properly","fullrs":{},"find":"2666.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2665","restrictionCode":"1","cdmfilesize":"444009","cdmfilesizeformatted":"0.42 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 307</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1789</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1789</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1789/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 307","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 307 \u2014\nCeux d'entre eux qui tomberent malades furent admirablement\ni par leurs freres restes debout. 11 y eut parrai ces fr'eres de\nite de3 immolations, des mepris de la mort k honoret' toute la\nnation. L'un d'eux prit le cadavre d'une negresse libre, nomme\u00ab\nDesiree, femme de proportions enormes, la mit seul dans le cercueil;\nplac_a seul ce cercueil sur une charrette, le conduisit seul et en le\ntrainant a brasjusqu'uu cimetiere et le descendit seul dans la fosse\nqu'il avait seul creusee.\nC'est d'autant plus admirable, que c'est reste plus incomm.\nC'est beau comme la proclamation de Garibaldi a ceux qui vont\ncombattre avec lui en Sidle\u2014proclamation qui dit: que ceux qui\niront combattre avec lui, n'auront ni decorations, ni grades ii at-\ntendre,\u2014qu'ils n'auront d'autrc honueur a pretendre que celui de se\nfaire tuer. Nous vivons, du reste, daus un siecle ou l'homme semble prendre moralernent des proportions surhumaines. Nous avons\netudie l'homme dans l'histoire et ce n'est que dans ce siecle qu'il\nnous a para reellcmeut la creature de Dieu.\nDurant la premiere periedc de cette epidemie que beaucoup nom-\nment fievre jaune et d'autres pestc, l'abbe Maigret etait reste a son\nposte.\nL'abbe Maigret etait un ancien redacteur de VAvenir, qui s'etait\nsoumis a la condamnation prononcec par le pape contre notre La-\nmennais. C'etait a la fois un grand coeur et une grande intelligence... Eh bien 1 a, la fin de cette epidemie, il eut peur.\nII se rei'ngia a la Cote-Geiee et ceT6bra la messe sous les magnifi-\nques lilas de M. Paul St-Julien, lilas qui devaient etre devastes plus\ntard par l'ouragan du 10 aout 1856.\nLa mort tuait toujours a Vermillonville et ne depassait pas,'\nchose etrange ! les limites de la corporation. Comme coutraste, les\ncampagncs n'avaient jamais ete plus saines.\nHeureuse compensation 1\nL'abbe Maigret s'etait refugie chez le Dr. V. Gauthier.\nSon mulatre meurt, il l'enterre dans la cour de Phabitation oh. il\na trouve asile.\nII repart, le cceur brise, pour le village qu'il avait abandonue de\n^orps, mais on i! avait ete porter les sacrements, chaque fois qu'il\nen avait ete requis.\nCeux qui lui avaient donne asile partent pour le Bayou Goula,","fullrs":{},"find":"1790.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1789","restrictionCode":"1","cdmfilesize":"381082","cdmfilesizeformatted":"0.36 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

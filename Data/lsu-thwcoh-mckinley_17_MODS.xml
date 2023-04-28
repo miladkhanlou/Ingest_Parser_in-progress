@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Armond Brown oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Brown, Armond D., 1954-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Sciaraffa, Mary, 1971-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">2002</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African American school principals</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African American football coaches</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African American high school students</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African Americans</topic>
+    <topic>Education (Secondary)</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Oral history</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Generations</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>McKinley High School (Baton Rouge, La.)</geographic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>McKinley High School Oral History Project</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Brown, Armond D., 1954</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Armond Brown discusses his education, the stages in his career as an educator, the culture of south Baton Rouge, his association with the McKinley High School Oral History Project, and the project's role in connecting the generations in south Baton Rouge.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/mckinley/5_social/Brown_Armond_T3174.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.1593. A digital version of the transcript (pdf) exists for duplication purposes. A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room. Interview conducted by Mary Sciaraffa.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Armond Brown graduated from Capital High School and Southern University in Baton Rouge, La.  He taught in Baton Rouge-area high schools before becoming athletic director and head football coach at McKinley High School.  He later became assistant principal then principal at McKinley High School.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>1 sound cassette (17 minutes); Transcript (13 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017395" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>McKinley High School oral history project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>McKinley High School oral history project</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-mckinley:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Armond Brown Oral History Interview, Mss. 4700.1593, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">Brown_Armond_T3174</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-03-31T18:10:39.757-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

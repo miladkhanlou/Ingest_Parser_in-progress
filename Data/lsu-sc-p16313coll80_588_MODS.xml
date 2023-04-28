@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>PARTIE MARRONNE.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001029</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes">1851-11-30</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Assumption Parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1851</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1851-11-15</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">PARTIE MARRONNE. LA NEGRESSE CELIE, âgée d'environ cinquante aus. Elle a une dent de moins sur le devant de la machoire supérieure; son regard est hardi; elle est très noire. Cette négresse appartient á M. Marius Melançon de cette paroisse et elle a été achetée de Mme Landry du Bayou Goula. CELIE s'est évadée depuis le 15 Novembre; les personnes qui mettront la main sur ellse, sont priées d'en donner avis à son maître ou bien aux bureaux du PIONNIER. La même requête est faite aux Shérifs et Geôliers des Paroisses de l'Etat. 13]
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">very dark</note>
+   <note type="content" displayLabel="Slave Owner">M. Marius Melançon</note>
+   <note type="content" displayLabel="Slave Name (Age)">Celie (50)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">F</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 4</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86090609/1851-11-30/ed-1/seq-3/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86090609/1851-12-14/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1851-12-21/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1851-12-28/ed-1/seq-4/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86090609</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3409</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3409</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3409/json"
+                        timestamp="2017-02-13 13:33:03">{"title":"RSA00001029","object":"sn 86090609","publia":"Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?","date":"1851-11-30","year":"1851","film":"page 3, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1851-11-30\/ed-1\/seq-3\/","unique":"PARTIE MARRONNE.","person":{},"parish":{},"digita":"1851-11-15","acknow":{},"public":"M. Marius Melan\u00e7on","town":"Assumption Parish, La.","relati":"Celie (50)","slave":"F","slavea":"very dark","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"PARTIE MARRONNE. LA NEGRESSE CELIE, \u00e2g\u00e9e d'environ cinquante aus. Elle a une dent de moins sur le devant de la machoire sup\u00e9rieure; son regard est hardi; elle est tr\u00e8s noire. Cette n\u00e9gresse appartient \u00e1 M. Marius Melan\u00e7on de cette paroisse et elle a \u00e9t\u00e9 achet\u00e9e de Mme Landry du Bayou Goula. CELIE s'est \u00e9vad\u00e9e depuis le 15 Novembre; les personnes qui mettront la main sur ellse, sont pri\u00e9es d'en donner avis \u00e0 son ma\u00eetre ou bien aux bureaux du PIONNIER. La m\u00eame requ\u00eate est faite aux Sh\u00e9rifs et Ge\u00f4liers des Paroisses de l'Etat. 13]\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Women slaves--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1851-12-14\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1851-12-21\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1851-12-28\/ed-1\/seq-4\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries. ","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001029.jp2","find":"3227.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-05-13","dmoclcno":{},"dmrecord":"3409","restrictionCode":"1","cdmfilesize":"128552","cdmfilesizeformatted":"0.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

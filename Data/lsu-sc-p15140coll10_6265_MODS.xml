@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 341</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1822</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1822</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1822/json"
+                        timestamp="2017-02-03 08:23:21">{"title":"Page 341","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 341 \u2014\nSuivant une habitude particuliere k la race Creole, et que George\nSand accuse elle-memc dans ses mdmoires, ses voisius Pappelaient\nNain Canada.\nErnest, son fils aine, ugdde dlx-sept it vingt ans, avait le type brnn\ndela famille. Teint bran, yeux et cheveux d'un noir d'enfer, comme\ndit Alfred de Musset, tout ddcelait en luile sang et la nature du midi.\nII dtait de petiie taille et prdsentatt une copie rddttite de sou pere.\nGeneus, brun, vif et petit comme son pere, avait les narines fine-\nment dessindes et de3 levres pincdes et qu'ou eut dit fouilldes par\nquelque artiste du genre fdminin.\nHomme d'action, il devait se suicider au debut de la jonrnde de\nla Queue-Tortue, pour se soustraire a un chatiment que ses freres\nd'armes auraient du. prdvoir.\nOndzime Guidry, leur cousin, avait de viugt-quatre h, vingt-six\nans. I\nPere, fils et neveu, ils appavtenaient tous it la grande famille des\npirates de prairie.\nForts de leur nombre, de leur audace, de Pintimidation qu'ils\nexerc,aient, ils fai3aient la guerre k la socidtd sans deguisement.\nLes bandits d'Opdra Comique mettent un masque, ou tout au\nmoins un loop sur leur visage; les Canada exerc aient ieurs depredations, figure ddconverte. En vrais rois des savanes attakapienncs, ils\navaient voulu conserver le droit de recrarder le soleil et hi lune sans\ncaeher les traits, pins ou moins scduisants, que la nature leur avait\ndonnds.\nAh 1 its dtaient bien rois des savanes de la paroisse Lafayette, les\nCanada 1\nCartouche et Mandrin ont rdgnd sur des zones de pays considerables.\nOn les suhissait; mais ceux qui se trouvaient sur leur chemin.\nleur souriaient a belles dents.\nOn leur ddsirait la potence ; mais en attendant on leur ouvrait\ntous les foyers et toutes les cacheltes ; si bien que ces messieurs.\ndans leurs orgies, auraient mis une variante a la chanson de la Dame\nBlanche, si elle avait dtd faite a cette dpoque, et auraient chantd :\nAhrque! plaisir d'utrc brigand!.","fullrs":{},"find":"1823.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1822","restrictionCode":"1","cdmfilesize":"405180","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

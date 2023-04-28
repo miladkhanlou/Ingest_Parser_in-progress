@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 02</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/591</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>591</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/591/json"
+                        timestamp="2017-02-09 16:30:56">{"title":"Page 02","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"i'8\nft\nmm\n22G\nSOUTH-WESTERN   JOURNAL.\nH\n4\n\u2022w\nm\nSi \u25a0\nlip-\nIr,;\nI\nf\ni,'i-\nI\nii\"!\n' if.\nii\n|\n,1\n\u25a0i\n:;^'\nl&gt;\u00a3tV\nis to combat this prejudice, with its own weapons. Wc will\nsay, then, that among the wise and truly learned of every\nage, there is no prejudice against manual labor. Almost every distinguished man in our country north and south, who\nhas thought on the subject, gives a decided verdict in favor of\nmanual labor. We have not room to insert their testimony\nin their own words, but it will not be amiss to enumerate a\nlew among many distinguished names who have spoken out\nin iho most unequivocal language. Franklin, Jefferson, John\nauincy Adams, Grimky, Dr. Miller, Dr, Green, Dr. Fisk,\nBishop Mcllvane, Dr. Tyng, Dr. Linslcy, and a host of others who might bo mentioned, of tbe most intelligent and\nlearned of our country. If by public opinion, then, wc mean\ntho opinion of the most learned and wise in our nation, it is\ndecidedly for manual labor. Thousands who rank as oppo-\nsers of the system, are only so hypotlit tically: that is to say,\nif public sentiment bo against it. These we must set down\nas having no weight, as in fact they have no opinion. They\nwill almost all tell you for themselves they would like the\nsystem, but tho public I I\nWe acknowledge that there area few of tho green aristocracy of the country, who have not had time to adjust their\nviews to their new circumstances, who are really opposed to\nthe system of manual labor in the education of youth. They\nhave not yet had time in tho bustle of acquisition, to think for\nthemselves. They havo unfortunately associated in their\nminds indolence: and gentility, and if other marks of good\nbreeding are wanting, tncy arc resolved that llieir cbildi\nshall not be wanting in graceful lounging.\nBut arc these to be the. leaders of public sentiment? Shall\nwo leave our first statesmen and scholars, our clearest heads\nand best hearts to truckle in the train of this upstart\ngentry.\nOur farther remarks on physical training will be specially\napplicable to schools, as it is here that tho greatest deficiency\nexists. While all intelligent men acknowledge that there\nshould be some regular exercise in schools, to preserve til\nhealth, and strengthen the constitution of students, there is a\ngreat diversity of opinion with regard to the kind and degree\nof exercise necessary.\nSome suppose that the exercise taken in sports and plays\nin times of recess from study, will be sufficient. To this theory there lio thoso objections: First, these sports nre indulged in principally by the younger class of students, leaving thoso more aelvanced in years, and the more studious, who\nneed it most, without the necessary exercise. In the second\nplace, such sports are generally too violent, leaving the system in a state of lassitude; and, in the. third place, they arc\nfar too irregular to constitute invigorating exercise.\nAnother class of persons suppose that all that is requisite\nto induce youth to take the necessary exercise to promote\nhealth, is, to impress their minds with its importance. This\nmay accomplish the purpose in some rare instances, but in\nthe great majority it certainly will not. All experience has\nproved this. Young men of mature minds will listen to a\nlecture on exercise with attention and entire approbation,\nmake good resolutions, perhaps commence in earnest, and in\na few days give the whole up as a wearisome task.    As a\nproof that this theory will not meet the case, there is not lo\nbe found an institution in the world, where exercise is not a\npositive requisition, where it is taken properly.\nIt follows, then, that it must be a positive law, which tho\nstudents are as much bound to obey as they are to go to recitation. Among those who embrace this theory, there are\nthree modes selected for its accomplishment.\nThe first is gymnastic exorcises. As there is but liu]e\nsaid of this mode of exercise in this country, I shall onlv\nstate a few objections to it. But let it be recollected that the\nquestion is not whether gymnastics are better than no exercise, but whether it bo tho best system that can be suggested,\nThe objections to tho system are, it is dangerous, as experience has shown. It is unnatural, many of tho movements\nbeing such as we are not likely to havo use for in the occupations of life. It is unphilosophical. There is no employment in which the mind can bo permanently instructed,\nwhich does not produce change in other objects. The child\nwill amuse itself by the hour in building cob houses and\npushing them down; but will it push the same length of\ntime against a wall ? No. And why? Because no visible\neffects arc produced by tbe effort.\nThe second plan is to introduce military exercise into literary institutions. To this system there arc many weighty\nobjections. But let it be observed, that if war be proper in\nany case, a nation should have the means of defending itself\nAnd as science constitutes moro than three-fourths of the\nstrength of an army, it is well to substitute it, instead of animal force. It may not therefore be amiss for every nation to\nhave at least one well regulated military academy. From\nsuch an institution nn army might at any lime be supplied\nwith officers. This would give all the benefit of science to\nlhc whole army.\nBut until human butchery becomes tbe appropriate avocation of man, and the military spirit the only one which the\npeople delight to honor, let not this exercise be introduced\ninto our schools generally. , j N\nThe first objection to this system is, it engenders a war\nspirit. It is in vain to tell us that the military spirit will engender a patriotism so pure, that all our selfishness will be\nabsorbed in tho lovo of our country. Facts are stubborn\nthings, and they speak out on this subject in a language thai\ncannot be misconstrued. From whom are the liberties of a\ncountry in most danger, from the industrious cultivator ofthe\nsoil, the honest tradesman, and mechanic, or from the soldiery? Let all history answer. Theories are sometimes\npretty things, but when they contradict facts they are valueless.\nWhat human nature is in one man, it will be found to be\nin most men. I cannot better illustrate the tendency of a\nmilitary education to produce a belligerent disposition, than\nby relating a fact. A worthy member ofthis Lyceum, in\nillustrating the tendency of carrying deadly weapons lo produce quarrels, related this fact in his own experience. His\nbusiness called him to walk the streets of Natchez at a late\nhour of the night. When on these excursions, he found\nhimself often beset with dogs. To prepare himself for\nthese rencounters he armed himself with a pistol.    (He must","fullrs":{},"find":"592.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"591","restrictionCode":"1","cdmfilesize":"1770838","cdmfilesizeformatted":"1.69 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

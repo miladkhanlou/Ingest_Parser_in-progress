@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 34</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2563</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2563</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2563/json"
+                        timestamp="2017-02-03 08:23:43">{"title":"page 34","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\"1\ncase had no agency in the production ol' tire epidemie, of which\nalmost that we bad any epidemic, a; a.!! :  certainly trot till thirty or\nmode: cases here and there become more and more numerous till\nprevailing gvuernllv. This has usuallv taken several weeks, and\nwould carry us into the middle or last week of October. At this\ndate, the epidemic of 1805 is nearly rrt an end, perhaps only for\nthe announcement bv the city authorities as advised by me, then\nhealth officer, that an epidemie was impending over us (for which\nI was bitterly abused for a week), Dr. Blackburn for about two\nweeks, and Dr. Davis for three or four days, denied that there was\nany yellow fever in the city; forty days (quarantine number), at\nleast having elapsed since Penrsnll's case according to the former,\ndisease resulting till the middle of October\u2014that is, provided these\nand in 1855.   I think it more than the people care to believe, or\nof the fox.\nIn 1854, Dr. Blackburn being health officer, quarantine  was\n.    It was ,1\niscontinned on the 21s\nt October,\nOrleans, and goods ir\ns poison or contagion,\nand while\nof the South.\nig degree,\nae absurdity of that qu\noccurred :\nr lire 12th\nJtween the\n9th and loth October.\nDr. Lvle\n..... in.. . 1, :- ,.,      ...\ne of local c\n,rigin.   Dr.Holcornbe\nmay have\n. Natchez,.\n:&gt;r at Lambdin's, six m\niles below","fullrs":{},"find":"2564.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2563","restrictionCode":"1","cdmfilesize":"496435","cdmfilesizeformatted":"0.47 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

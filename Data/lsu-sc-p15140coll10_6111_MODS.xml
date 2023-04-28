@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 180</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1665</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1665</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1665/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 180","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 ISO \u2014\nPourquoi tant de mines et de deuils en si peu d'heures ? Est-ce\nque la temp6te qui est la raessagere de Dieu, avait a remplir ce\nsoir-lii un acte de justice ?\nAussitot que le calme fut revenu, ot pendant qu'on ramassait les\nmort\u00a3 et les jeune3 et elegantes mortes de la Derniere He, les habitants d'Abbeville se mircnt a relever leurs ruines.\nHeurensement, ils n'avaient pas de morts... il n'y en avait que\ntrop ailleurs.\nLes maisons se releverent rapidement sons lc marteau fievreux de\nla population.\nL'figlise se redrcssa aussi a la voix d'un jeune pretre, aussi ener-\ngique qu'iutclligent, 1'abbe Payet. &gt;\nNotre merveilleux dix-neuviome siecle est eminemment celui des\nhommes de la trempe de Tabbe Payet; il aime les intclligents et\nles forts.\nQuelques mois apres la tempete, toute trace de ruines qu'elle\navait faites avait disparu.\n11 ne restait plus ii Abbeville qu'ii se deiivrer d'un autre fieau\nplus redoutable que celui qu'il venait de subir.\nHeureusement, les Comites de Yermillon allaient s'organiser.\nSUITE BE L'HISTOIRE BE GEORGES CLAUS\nNous avons dit, a la fin de 1'avant-deniier chapitre, que (\nClaus avait ete planter sa tente de bohemien a Abbeville : suivons-\ny notre heros.\nEn arrivant ii Abbeville, il avait ouvert un etal de boucherie,\nOu achetait-il ses animaux? nul ne le savait. Seulement, chaque\nmatin, on voyait, pendus a ses crocs, les quatre quartiers saignants\nd'une bete.\nLa population payait et mangeait sans on demander davantage.\nPourtant, comme ce commerce durait depuis plusieurs mois, que\nl'etal de Claus etait toujours abondamment pourvu, sans qn'on eut\njamais sn a quelle source mysterieuse il achetait ses bceufs, la curiosite s'eveilla ; on commenca ii etudier les allures diume3 et noe-","fullrs":{},"find":"1666.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1665","restrictionCode":"1","cdmfilesize":"446928","cdmfilesizeformatted":"0.43 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

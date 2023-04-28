@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_3</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1006</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-12</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1006</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1006/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"Page_3","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M66\no\u00f9 j\u2019\u00e9prouvai une Sensation bien douce en revoyant la m\u00e8re de celle qui m\u2019a\ndonn\u00e9 le jour, ainsi que ma patrie. Made. Reynaud qui y \u00e9tais alors\nme fit l\u2019accueil le plus amical et apr\u00e8s m\u2019avoir plaint les premiers\njours Sur les malheurs que j\u2019avais \u00e9prouv\u00e9s et paraissant vouloir concourir\n\u00e0 mon Bonheur futur, connoissant d\u2019ailleurs mon go\u00fbt pour ce qu\u2019elle\nVoulait me proposer, elle me peignit Sous les couleurs les plus\nS\u00e9duisantes l\u2019\u00e9tat du mariage : elle m\u2019ajouta qu\u2019elle avait jett\u00e9 les\nyeux sur une personne qui r\u00e9unissait toutes les qualit\u00e9s requises\npour me faire couler des jours sans nuages et r\u00e9aliser les flatteuses\nesp\u00e9rances qu\u2019elle me fesait concevoir. (cette circonstance queje vous\nrapporte vous confirmera sans doute dans l\u2019id\u00e9e que Vous pourrez avoir\nprise de mon Caract\u00e8re et Vous prouvera que je ne fais jamais aucune\nd\u00e9marche, sans y mettre toute la franchise possible.) Elle me parla\ndonc de madelle Votre ni\u00e8ce et la Veille de mon d\u00e9part pour l\u2019habitation,\nelle m\u2019engagea de l\u2019accompagner au couvent o\u00f9 je Vis cette jeune personne\nOn ne fit que m\u2019entretenir dans cette id\u00e9e et lors de l\u2019arriv\u00e9e de madelle.\nCarm\u00e9lite, qui d\u2019ailleurs parait \u00eatre dou\u00e9e de beaucoup de qualit\u00e9s\non me pressa de lui faire part des ?entimens que j\u2019\u00e9tais cens\u00e9\navoir pour elle ; mais je Vous avais Vue , mon coeur avait d\u00e9j\u00e0 parl\u00e9\net ma d\u00e9marche, je ne dirai pas forc\u00e9e, devenait pour ainsi dire\nn\u00e9ce?saire, par l\u2019encha\u00eenement de choses qui jus qu\u2019alors avait\neu lieu ! Je fis donc part de mes Voeux et d\u2019apr\u00e8s la r\u00e9ponse\nqui me fut faites, je n\u2019eus pas lieu de me repentir de ma demande.\nMes preuves sont entre mes mains ; elle ?ont m\u00eame flatteuses pour\nmoi et je Suis pr\u00eat \u00e0 vous les Soumettre quand Vous pourrez le\ndesirer : C'est-\u00e0-dire, que madelle Carm\u00e9lite trop jeune encor et\nparcons\u00e9quent tr\u00e8s timide, n\u2019osa pas elle-m\u00eame faire la r\u00e9ponse\nmais laissa \u00e0 Sa tante Valery, le soin de s\u2019en acquiter pour elle\n\u00e0 condition Cependant qu\u2019on la lui Soumettrait ; C\u2019est ce qui eut lieu","typa":{},"genera":{},"fullrs":{},"find":"1007.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-12","dmmodified":"2008-09-12","dmoclcno":{},"dmrecord":"1006","restrictionCode":"1","cdmfilesize":"999872","cdmfilesizeformatted":"0.95 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

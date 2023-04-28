@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>William Webb Wilkins letter, 1852 Nov. 26</title>
+  </titleInfo>
+   <name type="personal" displayLabel="Addressee">
+      <namePart>Wilkins, Edmund, fl. 1848-1852.</namePart>
+      <description>Addressee's location: Gaston (N.C)</description>
+      <role>
+         <roleTerm type="code" authority="marcrelator">rcp</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Addressee</roleTerm>
+      </role>
+   </name>
+   <name type="personal" displayLabel="Author">
+      <namePart>Wilkins, W. W. (William Webb), d. 1859?</namePart>
+      <description>Social class: upper (?)</description>
+      <description>Birthplace: USA (?)</description>
+      <affiliation>Occupation: Sawmill Operater and Planter</affiliation>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+      <description>Gender: M</description>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1852-11-26</dateCreated>
+      <place>
+         <placeTerm>Saint James (La.)</placeTerm>
+      </place>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <abstract displayLabel="Description">news - heath and slaves</abstract>
+   <note type="content" displayLabel="Document Type">personal</note>
+   <note type="content" displayLabel="Lingustic Category">Anglophone.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>2 pages</extent>
+  </physicalDescription>
+   <genre>correspondence</genre>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll41:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>William Webb Wilkins papers, 1848-1852.</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Early English Corpus</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Misc:W</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">William Webb Wilkins Papers, Mss. 4005, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Collections">Early Louisiana French Correspondence and Lettres de Louisiane</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll41/id/866</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2011-11-01</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll41</alias>
+         <pointer>866</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll41/866/json"
+                        timestamp="2017-02-06 16:01:46">{"title":"William Webb Wilkins letter, 1852 Nov. 26","subjec":"Anglophone.","creato":"Wilkins, W. W. (William Webb), d. 1859?","date":"M","datea":"Sawmill Operater and Planter","covera":"upper (?)","type":"USA (?)","langua":"Saint James (La.)","author":"1852-11-26","rights":"Wilkins, Edmund, fl. 1848-1852.","object":"Gaston (N.C)","cite":"personal","source":"news - heath and slaves","reposi":"2","reposa":"Slavery--Louisiana.","transc":"en","collec":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","contac":"William Webb Wilkins papers, 1848-1852.","publis":{},"restri":"Misc:W","item":"William Webb Wilkins Papers, Mss. 4005, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","contri":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","descri":"Louisiana Early English Corpus","notes":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering  reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html. Mention the Item number or Item URL in your request.","identi":"See 'reference url' on the navigation bars.","catlog":"See transcription link on the left navigation bar.","coverb":"Early Louisiana French Correspondence (http:\/\/www.lib.lsu.edu\/special\/cffs\/) and Lettres de Louisiane (http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_p15140coll6.php?CISOROOT=\/p15140coll6)","format":{},"fullrs":{},"find":"867.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2011-11-01","dmmodified":"2011-11-01","dmoclcno":{},"dmrecord":"866","restrictionCode":"1","cdmfilesize":"583","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

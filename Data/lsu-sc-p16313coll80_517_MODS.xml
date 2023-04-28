@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Fifty Dollars Reward.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001549</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>E. Bleecker</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1859-04-27</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Meadville, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Meadville, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1859</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1859-04-23</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">FIFTY DOLLARS REWARD--RAN away from the undersigned a negro man named Holmes, about 26 years old, 5 feet 10 inches high; has a scar on the right cheek bone under the eye, plain to be seen; is of a griff color; has a large head, a fine forehead, is very intelligent; inclines to lisp a little in his speech; has a short neck and is stout built; has a heavy beard; had a heavy moustache when he left but not whiskers. I bought him from Charles Cox, of Franklin parish, La. The above amount will be paid by the undersigned if Holmes is confined in jail out of this State so that I can get him, and twenty-five dollars if confined in jail in this State so that I can get him. I suspicion that Holmes has been abducted away by some white man. E. BLEECKER. Meadville, Miss., April 23, 1859. a27 1aw4t</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">griff</note>
+   <note type="content" displayLabel="Slave Owner">E. Bleecker</note>
+   <note type="content" displayLabel="Slave Name (Age)">Holmes (26)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$50 </note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 5, column 1</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent. ([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-27/ed-1/seq-5/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-28/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-29/ed-1/seq-8/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-30/ed-1/seq-8/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-03/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-06/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-07/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-09/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-10/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-11/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-12/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-13/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-14/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-16/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-17/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-18/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-18/ed-1/seq-7/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-19/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-20/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-21/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-23/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-24/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-25/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-26/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-27/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-28/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-05-30/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-06-01/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-06-02/ed-1/seq-7/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-06-03/ed-1/seq-7/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1593</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1593</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1593/json"
+                        timestamp="2017-02-13 13:33:27">{"title":"RSA00001549","object":"sn82015753","publia":"New Orleans daily crescent. ([New Orleans, La.]) 1851-1866","date":"1859-04-27","year":"1859","film":"page 5, column 1","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-27\/ed-1\/seq-5\/","unique":"Fifty Dollars Reward.","person":"E. Bleecker","parish":"Meadville, Miss.","digita":"1859-04-23","acknow":{},"public":"E. Bleecker","town":"Meadville, Miss.","relati":"Holmes (26)","slave":"M","slavea":"griff","slaveb":"N","slavec":{},"reward":"$50 ","multip":{},"physic":"Y","persoa":"Y","transc":"FIFTY DOLLARS REWARD--RAN away from the undersigned a negro man named Holmes, about 26 years old, 5 feet 10 inches high; has a scar on the right cheek bone under the eye, plain to be seen; is of a griff color; has a large head, a fine forehead, is very intelligent; inclines to lisp a little in his speech; has a short neck and is stout built; has a heavy beard; had a heavy moustache when he left but not whiskers. I bought him from Charles Cox, of Franklin parish, La. The above amount will be paid by the undersigned if Holmes is confined in jail out of this State so that I can get him, and twenty-five dollars if confined in jail in this State so that I can get him. I suspicion that Holmes has been abducted away by some white man. E. BLEECKER. Meadville, Miss., April 23, 1859. a27 1aw4t","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-28\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-29\/ed-1\/seq-8\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-30\/ed-1\/seq-8\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-03\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-06\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-07\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-09\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-10\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-11\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-12\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-13\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-14\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-16\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-17\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-18\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-18\/ed-1\/seq-7\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-19\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-20\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-21\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-23\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-24\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-25\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-26\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-27\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-28\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-05-30\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-06-01\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-06-02\/ed-1\/seq-7\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-06-03\/ed-1\/seq-7\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001549.jpg","find":"1645.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1593","restrictionCode":"1","cdmfilesize":"92951","cdmfilesizeformatted":"0.09 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

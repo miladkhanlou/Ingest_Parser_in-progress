@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 2, Page 44</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2108</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2108</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2108/json"
+                        timestamp="2017-02-03 08:24:44">{"title":"Section 2, Page 44","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"44\nzens of the parishes here represented, 1 can oui\nfind expression for may sincere gratitude, with ij\nassurance that I shall do all in my power to promo]\nthe construction of this great work, in which tl\nState of Louisiana in general, and New Orleans\nparticular, are so deeply interested.\nOn motion of John E. King, of St. Landry, it wa\nResolved, That the thanks of the convention be and af\nhereby tendered to the municipal authorities who have at\ncorded the use of their beautiful Lyceum Hall\u2014to lire Ga\nWorks, for their voluntary and gratuitous supply of gas\nlight, and also (o the press in general.\nOn motion of M. M. Cohen, it was\nResohed, That this convention  be adjourned to the jim\nMonday in January next, 1852.\nMAUNSEL WHITE, Frai'tfe^.l\nJohn JYL*rshA'.l Burns, Secretary.\nERRATA.\nIn page 4, the following names were omitted from the New\nOrleans Delegates, viz:\u2014P. G. Collins, Thos, A. Snow, J \u25a0\nLugenbuhl, G. Pel-'erriet, J. M. Cucullu, A. Chiapclla a,J\nO. Palmes.\nIn page 8, in the list of Vice Presidents, for l'r. Babbridgf\nread Dr. Kilridge. ,\n*** A mistake occurred in reference lo llte appointment ol (lie members, of]\nthe \" Permanent Committee\" from Ihe parish ol' Jefferoon. By the resohrtioS\neach parish was entitled lo two members. The ..allies of V, II. Lawrence anaj\nA. S. Phelps were first lianicl, but afterwards those of Messrs Forshey mifl\nllnisson became somehow added. On Ihe assembling of the Permanent (-on,\"\nntittee next day, the mistake was observed ; but the Convention having adjourned,\nit was concluded to allow tho jtaiish her Iwo votes, lo be cast by any two or at'\nfour of the above named gentlemen,","fullrs":{},"find":"2109.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2108","restrictionCode":"1","cdmfilesize":"553688","cdmfilesizeformatted":"0.53 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

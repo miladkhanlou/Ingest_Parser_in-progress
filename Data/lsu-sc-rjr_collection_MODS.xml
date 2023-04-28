@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Louisiana Coastal Ecology, Richard J. Russell Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The digital material contained in the Louisiana Coastal Ecology Collection consists of maps, aerial photographs, audio files, geographic surveys, and interpretative materials on Louisiana's coastal zone. Included in this collection are the research materials used by the geologist and geographer Richard J. Russell. Russell came to LSU in 1928, and remained a professor there through his entire career. His research established his reputation as a world expert on the Mississippi and other delta regions, as well as on coastal erosion and coastal ecology.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Maps, aerial photographs, audio files, geographic surveys, and interpretative materials on Louisiana's coastal zone. Materials were used by geologist and geographer Richard J. Russell. Russell, who established a reputation as a world expert on the Mississippi and other delta regions, as well as on coastal erosion and coastal ecology.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-rjr</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/RJR</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/RJR</identifier>
+</mods>

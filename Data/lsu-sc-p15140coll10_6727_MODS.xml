@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 26</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2133</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2133</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2133/json"
+                        timestamp="2017-02-03 08:24:45">{"title":"Section 3, Page 26","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"I\n28 ADDRESS.\nrail-roads of which the Eric Rail-road is the first great link. \"The\nextension of the Michigan and Southern Rail-road will connect Dijn\nkirk, New-York, with Chicago, and parts of this connection are\nalready constructed.\"\nIII. The third class of roads, &amp;c., to which we referred, and &lt;jfl\ntinguished as directly engaged in tapping the resources of the Valley\nof the Mississippi and Ohio, and taking away from the cities of the\nSouth-west the elements of their past commercial empire, are those\nof Boston, New-York, Pennsylvania, Baltimore, Richmond, Charles.\nton and Savannah. \"With so many drains opened at once upon oui\nresources, and without corresponding and countervailing efforts it\nmust be evident that the greatest prosperity in the world will be in\nthe end sapped and destroyed. We shall take a brief review of\nthese rival routes.\n1. Boston.\u2014The Great Western Road of Massachusetts connecto\nBoston with Albany\u2014a distance of 200 miles. At this point it intersects with the Albany* and Buffalo Road, 323 miles in length, commanding the resources of Lake Erie, and by the tributary canals and\nrail-roads in that quarter, much of the resources of the whole Northwest. This road has, in a few years, given extraordinary prosperity\nto Boston, and it is now proposed to expend several millions of dollars in shortening it a few miles.\n2. New-York having realized the benefits of her great canal to\nBuffalo, and finding it insufficient for the enormous demands of trade,\nhas constructed by its side her great Erie and Albany Road. Perceiving, however, that this road is serving as a feeder for Boston, from\nthe winter obstructions on the Hudson, she has more lately completed\na road extending directly from her doors to the great lakes. The canal\nis also to be widened at an enormous cost, so as to become adequate\nto the demands upon it.*\n3. The rail-roads of Philadelphia, extending westward, arc the\nroads to Pottsville, intersecting the line of the Baltimore and Ohio\nRail-road, and the Philadelphia and Pittsburg route of 400 miles,\n\"NEW-YORK AND NEW-ORLEANS IN WESTERN TRADE.\n1. New-York Population.... 1840.... 2,429,721     Canal Trade....  06,1503,892  \u2022\n\" ....1850.... 3,093,813  ....        \"        \"     ....156,397,939   .\nAn increase of 25  per cent, in population, and 150 per cent, in trade, by canals, in te\u00bbj\nyears.\n2. Produce of West received by New-York Canals 1842 $22,751,013\n\" \" \u00ab \u00ab  1850     55,474,937\nAn increase of 145 per cent,\n3. Produce of West received al New-Orleans  1842 \u00a943,716,045\n\" \u00ab    1850  ....     9fi.897_.873\nOr an increase of 120 percent. ; or a comparative increase by New-York of 25 per ceo -\nover New-Orleans in western produce in 8 years! In the three veais 1848, ls*^}aS\n1850, the receipts at New-Orleans by river were 2.312.121 bbls. \"flour; at New-*\"\"*;\n8,636,207 bbls. Pork: New-Orleans, 1,536,817; New York, 211,018 bbls, i***\u2122:\n200,901 bbls. New-Orleans; New-York, 264,072 bbls. Wheat: New-Orleans, $&amp;&gt;**'\nbushels; New-York, 8,798,759. Corn: New-Orleans, 9,758,750 bushels; New-*0\u2122'\n11,178,228 bushels. Bacon: New-Orleans, 1*1*5 millions pounds: New-York. 26 mill*0\u2122*\nLard : New-Orleans, 292 millions pounds; New-York 21 millions. Butter: New-\"\nns, 8 millions pound3 ; New-York, 97 millions, &amp;c, &amp;c.","fullrs":{},"find":"2134.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2133","restrictionCode":"1","cdmfilesize":"567949","cdmfilesizeformatted":"0.54 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

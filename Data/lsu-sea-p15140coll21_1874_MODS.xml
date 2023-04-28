@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Southdown engine house</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>Vollrath, Harold K.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <publisher>Moran Publishing Company</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Railroad cars</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <abstract displayLabel="Description">Southdown engine houes with its dormer window ventilators was large enough to accommodate ten locomotives.  Engine No. 2 is in center of picture.</abstract>
+   <note type="content" displayLabel="Sub-category">Trains</note>
+   <note type="content" displayLabel="Category">Vehicles</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <genre>photograph</genre>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/n83230635"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana Sea Grant College Program</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <note type="ownership" displayLabel="Source Note">Louisiana State Library</note>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Sea Grant Digital Images Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sea-p15140coll21:collection</url>
+      </location>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by Donald W. Davis.  Copyright is retained in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Butler, W.E. Down Among the Sugar Cane: The Story of Louisiana Sugar Plantations and Their Railroads.  Baton Rouge, LA: Moran Publishing Corporation, 1980.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll21/id/987</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-07-30</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll21</alias>
+         <pointer>987</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll21/987/json"
+                        timestamp="2017-05-16 08:50:18">{"title":"Southdown engine house","date":{},"descri":"Southdown engine houes with its dormer window ventilators was large enough to accommodate ten locomotives.  Engine No. 2 is in center of picture.","notes":{},"format":"TIF","source":"Butler, W.E. Down Among the Sugar Cane: The Story of Louisiana Sugar Plantations and Their Railroads.  Baton Rouge, LA: Moran Publishing Corporation, 1980.","creato":"Vollrath, Harold K.","subjec":"Railroad cars--Louisiana","catego":"Vehicles","subcat":"Trains","publis":"Moran Publishing Company","rights":"Physical rights are retained by Donald W. Davis.  Copyright is retained in accordance with U.S. copyright laws.","reposi":"Louisiana State Library","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the Title or File Name in your request.","contri":"14","type":"butler0013","identi":{},"langua":{},"relati":{},"covera":{},"coverb":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"1192.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-07-30","dmmodified":"2010-07-30","dmoclcno":{},"dmrecord":"987","restrictionCode":"1","cdmfilesize":"724947","cdmfilesizeformatted":"0.69 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

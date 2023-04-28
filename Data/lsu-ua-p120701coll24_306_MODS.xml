@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Program celebrating the new music and dramatic arts building: afternoons at three, evenings at eight, May seventh through fourteenth, 1932</title>
+   </titleInfo>
+   <name type="corporate" displayLabel="Creator">
+      <namePart>Louisiana State University and Agricultural and Mechanical College. School of Music</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Baton Rouge (La.)</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1932</dateIssued>
+      <dateCaptured encoding="w3cdtf">2009-05-12</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>
+Music</topic>
+      <topic>Instruction and study</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>Louisiana State University and Agricultural and Mechanical College. School of Music</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>Louisiana State University and Agricultural and Mechanical College</namePart>
+         <namePart>Buildings</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>Music and Dramatic Arts Building (Baton Rouge, La.)</namePart>
+      </name>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">booklets</form>
+      <extent>28 pages</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Print Materials Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://www.louisianadigitallibrary.org/islandora/object/lsu-ua-p120701coll24:collection</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>MT4 .B3 L674</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No Copyright - United States</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Program Celebrating the New Music and Dramatic Arts Building, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">MT4B3L674</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/hcr</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-12-22</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

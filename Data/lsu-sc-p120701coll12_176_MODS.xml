@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/465</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>465</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/465/json"
+                        timestamp="2017-02-09 16:31:00">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"S U U T II - W ESTERN   JOUR N A L.\nrisked, if I recollected any thing Which it was essential for him\nlo do. as he had but a very short time to continue with us. I\ntold him, that I could recollect nothing, hut that 1 hoped he\niVftS not so near his end. He observed, smiling, that he cer\ntainly was. and that, as it was the tlebt which we must all pay,\nhe looked to the event with perfect resignation.\nIn the course of the afternoon, ho appeared to be in great\npain and distress, from the difficulty of breathing, and frequently changed his posture in the bed. On these occasions,\nI lav upon the bed, nnd endeavored to raise him, and turn him\nwith as much ease ns possible. He appeared penetrated with\ngratitude for my attentions, and often said, \"I nm afraid 1\nshall fatigue you too much\"; and upon my assuring him,\nthat I could feel nothing but a wish to give him ease, he replied, \" Well, it is a debt we'must pay to each other, and I\nli ip'e, when you want aid of this kind, you will find it.\"\nlie asked when Mr. Lewis and Washington Custis would\nreturn. (They were then in New Kent.) 1 told him about\nthe 20th of the month.\nAbout five o'clock, Dr. Craik came again into the room\nanil, upon going to the bedside, the General said to him\n'\u25a0 Doctor, 1 die hard, but I am not afraid to go. I believed\nfrom my first attack, that 1 should not survive it. My breath\ncannot Inst long.\" The Doctor pressed his hand, but could\nnot utter a word. Ho retired from the bedside, and sat by the\nfireabsorbed in grief.\nBetween five and six o'clock, Dr. Dick and Dr. Brown\nrmno into the room, and with Dr. Craik went to llic bed, when\nDr. Craik asked him if he could sit up in the bed. He held\nout his hand, and I raised him up. He then said to the physicians: \" I feel myself going; I thank you for your attentions; but I piny you totukeno more trouble about me. Let\ngo oil' quietly.    I  cannot  last  long.\"    They found that\nGeneral's hand fill from his wrist. 1 took it in mine, and\npressed it to my bosom. Dr, Craik put his hands over his\neyes, nnd ho expired without a struggle or a sigh.\nWhilo we were fixed in silent grief; Mrs. Washington, who\nwas sitting at the foot of the bed, asked with a firm and collected voice, \" Is he gone? \" ,1 could not speak, but held up\nmy hand as a signal, that he was no more. \" Tis well,\"\nsaid she, in the same voice, \"all is now over; I shall soon\nfollow him; I have no more trials to pass through.\"\nI'.ir tin- Suulli-WcsUTll Journal.\nSAPPHO'S LEAP,\nOil,   A   SKETCH   UK  I.OVK  SOME THOUSAND  VEAI1S  400.\nNot fur distant from Mitylene, was situated, some thousand\nyears ago, the beautiful villa of iho royal Churuxes. Altho'\nit possessed not the exquisite decorations of some of our modern cotlages, yet it was a spot, thnt, in any age, would have\ncalled forth a wish, from the most contented, to be its possessor ; so rich the shrubbery, so luxuriant the shade, and so\nbalmy the breeze that arose, from the beautiful bay before it.\nAt the time of which we write, two princely females were\nthe guardian angels of this lovely spot,\u2014both matchless,\u2014\nthe one in the beauty of her person, the other in the richness,\npassion, and fire of her poetry\u2014the lovely Rhodophe and the\nincomparable Sappho. Others were there, fascinating and\nbeautiful; but they moved ns beings of another and a lower\norder, when compared wilh the two we have mentioned.\nThe fame of Rhodopbe's beauty extended far and wide.\nHer symmetry was ns exquisitely perfect, as Phidias could\nhave wished. There was a curl about her lips, that was inim-\ntable, and the strange and bewitching gnzu that flushed from\nher dark, Grecian eyes, lured, fascinated,anil destroyed. 'Tis\naid that a king, on the shores of the far-distant Nile, gazed\nall which had been done was without effect.    He lay down\\looS \"Pon \u2122\u00b0 \u00b0f \u00aber S^dals, and so delicate and faultless\nagain, and all retired except Dr. Craik.   He continued in the \"as lls shaPc' that ll mn(Iu hlm Iove- \"ml \"\"'\" vvcr\u00ab svM fort1'\nsame situation, uneasy and restless, but without complaining\nWhen I helped him to movent this time, he did not speak, but\nlooked at 1110 with strong expressions of gratitude.\nAbout eight o'clock, the physicians came again into the\nroom, and applied blisters and cataplasms of wheat bran to\nhis legs and feet, after which they went out, except Dr.- Craik,\nwithout a ray of hope. 1 went out about this time, and wrote\na line to Mr. Law and Mr. Peter, requesting them to come\nwith their wives) Airs. Washington's granddaughters)as soon\nas possible to Mount Vernon.\nAbout ten o'clock, he made several attempts to speak to me,\nWore he could effect it. At length he said: \"I am just going. Have me decently buried; and do not let my body be\nput into the vault in less than three days after I am dead.\" I\nbowed assent, for I could not speak. He then looked at me\nagain and said, \" Do you understand ine? \" 1 replied, \"Yes.\"\n\"'Tis well,\" said he.\nAbout ten minutes before he expired, which was between\nten and eleven o'clock,) his breathing became easier. He\nlay quietly , he withdrew his hand from mine, and felt his\nown pulse. I saw his countenance change. I spoke to Dr.\nCraik, who sat by the fire.    He came to the bedside.    The\nto search the world for its lovely owner.\nThe beauty of Sappho would not be considered us remarkable by the side of her companion; but when she struck her\ngolden lyre, a sttnrige music floated o'er the hind and the sea,\nmid all who heard it wept, wondered, and admired.\n\" Thou sawest Phnon at the banquet, Sappho ?\n\" Yes.\"\n\"Is he not beautiful?\"\n\" As perfect as the Narcissus, of whom the poets speak.\n\"Mi'thinks did I possess his faultless looks, I would gaze\nupon the clear fountain, till I was in love with my own pretty\nface, and then perhaps I would drown myself in perfect desperation.    But, in earnest, didst thou ever love, Sappho ? \"\n\"Love!\"\n\"Why this amazement?\" said Rhodophe archly, \"'tis\nvery plain, but I half believe, my dear companion, that thou\nlovest this Phaon.\"\nA crimson blush mantled upon the cheek of the Poetess.\n\"There is something in his looks, Rhodophe, methinks,\nwould fascinate any one.    Beauty has a strange influence\no'er our frail hearts, but we are all loo prompt to deny its pow-\nerful dominion,    But come, we'll to the bath \"\nI.Vli&amp;j\ntiffl\n\u25a0  ':,'.'V'\n\u2022'\u25a0fVjl\n\u2022'.*\n\u25a0\u25a0\u25a0'li-","fullrs":{},"find":"466.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"465","restrictionCode":"1","cdmfilesize":"1789561","cdmfilesizeformatted":"1.71 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

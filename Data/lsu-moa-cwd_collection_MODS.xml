@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Caroline Wogan Durieux Works of Art</title>
+  </titleInfo>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n97093352" displayLabel="Contributing Repository">
+<namePart>Louisiana State University (Baton Rouge, La.). Museum of Art</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;Caroline Wogan Durieux (1896-1989), a New Orleans native of Creole descent, was a celebrated Louisiana artist of the twentieth century who taught art at Louisiana State University (Baton Rouge, La.) and invented a print-making process which involved radioactive ink.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Caroline Durieux's papers include personal and professional correspondence, printed items, and photographs of Durieux and her art work which document her artistic career and career in art education at LSU.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The graphic series contains approximately 85 photographs of Durieux's lithographs, cliche verres, electron prints and paintings. The series also contains several untitled electron prints, a cliche verre positive, a sketchbook and photographs of Durieux.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;This series contains approximately 85 digital representations of Durieux's lithographs, cliche verres, electron prints and paintings.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-moa-cwd</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/CWD</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/CWD</identifier>
+</mods>

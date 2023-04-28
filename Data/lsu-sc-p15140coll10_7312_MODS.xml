@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 94</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2623</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2623</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2623/json"
+                        timestamp="2017-02-03 08:23:45">{"title":"page 94","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"...i.e.'    e,   , ..-e\n,   \u25a0 r.g   . .   . .......... .'I ..     \u25a0 .'    ....e,    .     \u25a0   ....   ;',..: :\nferri muriat. gij; aqua fontis 3vj; M. One ounce of which to he\ngiven to each every two hours.    I left immediately, requesting ray\nthem. Corifir. 1 i Ir i i i i line m court, I did not hear from\nmy patients for four days, when, to my utter astonishment, 1 learned\nthat they wen: both recovering. They did recover, and are now\nwell, and working as usual with the other negroes. These last two\neases are all that I treated so valiantly, and whether they recovered\nin spite of my physio, or by its potential influence, the Omniscient\nns the attack came on, the menses made their appearance also, ah\nthough th      ruie  In.ver jit-t passed naturally?    In nearly every\nthe peculiar condition in which the blood of yellow fever is always\nfound, not throw some light upon the long vexed question of the\nThere is a c\nrcum\nstan\ne(\\\nhie\n,Ithink,deserv\nesa\npassing notice)\nconnected wi\nhthe\nj of this region\nof\nuuilng llnrt is\nsir,\na large popu\na: ion\noff\nolo\ned people.   Du\nring\n1853 not one of\nthem had yel\nowfe\nYet\nS-j-f tiro disease\nonfined almost\nentirely to th\ndbu\newh\nbr person died\nen had it, who\nresided in th\nd, a\nad who did not\nlire c\npide\nra\nid\nnd hurried ma\ncomplied with\nyour request.\nHor\nthe\nnseq\nent upon hur-\nried composi\non n\nay\nve\ncharitable co\nsi,;,.\nation at your","fullrs":{},"find":"2624.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2623","restrictionCode":"1","cdmfilesize":"437349","cdmfilesizeformatted":"0.42 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 5, Page 15</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2175</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2175</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2175/json"
+                        timestamp="2017-02-03 08:24:47">{"title":"Section 5, Page 15","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"5\nobjects of liis mission. And, without desiring- to be invidious ho felt it to be his duty to say to the body he had the\nhonor of addressing, that he had been greatly assisted by\nhis friend, Mr. M. M. Cohen ; and to that gentleman, as\nmuch as, perhaps more than, to himself, was due the credit\nfor whatever had been accomplished.\nOn motion of M. M. Cohen, Esq., the following resolution was adopted :\nResolved, That when this Convention adjourns, it adjourn to Monday next,\nat 12 o'clock, m., to meet in this Hall, and welcome the Delegates from tho\nseveral States to the Southwestern Convention, called hy virtue of a resolution\nadopted by this body at its session in June last.\nMr. M. O. H. Norton offered the following resolution:\nResolved, That the Executive Committee of this Convention have authority\nto convene the Delegates at such time and place hereafter as they may deem\nproper.\nMr. Martin, of St. Landry, suggested that probably\nafter the Southwestern Convention adjourned, it would be\nexpedient that this Convention should meet again, and he\nsupposed that was the object for which the resolution was\nintroduced.\nMr. King, of St. Landry, said he presumed that was one\n\u00b01 the objects, but they also contemplated empowering the\nCommittee to call together the Delegates whenever the\nU1'therance of the project under consideration was to be\nobtained thereby.\n\u25a0The resolution was adopted.\n\u2122-r- Richardson, of St. Mary, in response to a general\na from the Delegates, then came forward and delivered\na short address:\ni C \u00b0Pened with a felicitous and modest introduction, and augured happily\ntuture from the numbers and influence composing the Convention he\ni^p ^res^ing, and the wide and deep feeling on the subject of internal\nei^ent ;hat was manifested iu the crowds of Delegates that were arriving","fullrs":{},"find":"2176.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2175","restrictionCode":"1","cdmfilesize":"581331","cdmfilesizeformatted":"0.55 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

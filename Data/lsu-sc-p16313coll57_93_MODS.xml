@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Map of Squares 1-3, Gilbert Leonard Town, Baton Rouge, La.</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes" qualifier="questionable">1817</dateCreated>
+      <dateCreated point="end" qualifier="questionable">1827</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Real property</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Surveys</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Historic neighborhoods</topic>
+      <topic>Baton Rouge (La.)</topic>
+      <topic>Maps</topic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1817?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1818?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1819?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1820?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1821?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1822?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1823?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1824?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1825?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1826?</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1827?</temporal>
+   </subject>
+   <abstract displayLabel="Description">Undated survey map of area of Baton Rouge known as Gilbert Leonard Town. Survey conducted to establish corners A, C, D, and F of Square No. 3 of Gilbert Leonard Town; that tract of land is shaded in red. Gives street and sidewalk dimensions, as well as water and gas main locations and dimensions. Oriented with north at top of map. Scale not given. Creator not known.</abstract>
+   <typeOfResource>cartographic</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Map.</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>William Waller Survey Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll57:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/3592m.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Range 104, folder 02</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Access to unprocessed collections requires the permission of the curator, subject to 
+Special Collections’
+Policy on Access to Unprocessed Collections 
+(http://www.lib.lsu.edu/special/about/unprocessed.html)</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">William Waller Survey Collection, Mss.
+3592, 3910, 4326, Louisiana and
+Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">3592ra104f02i31_Gilbert Lenard Town</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll57/id/82</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-10-31</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll57</alias>
+         <pointer>82</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll57/82/json"
+                        timestamp="2017-05-16 10:29:26">{"title":"Map of Squares 1-3, Gilbert Leonard Town, Baton Rouge, La.","creato":{},"contri":{},"date":"1817? - 1827?","dates":"1817?;  1818?;  1819?;  1820?;  1821?;  1822?;  1823?;  1824?;  1825?;  1826?;  1827?","descri":"Map.","notes":"Undated survey map of area of Baton Rouge known as Gilbert Leonard Town. Survey conducted to establish corners A, C, D, and F of Square No. 3 of Gilbert Leonard Town; that tract of land is shaded in red. Gives street and sidewalk dimensions, as well as water and gas main locations and dimensions. Oriented with north at top of map. Scale not given. Creator not known.","langua":"English","type":"Image ","subjec":"Real property--Louisiana--Baton Rouge--Surveys.; Historic neighborhoods--Baton Rouge (La.)--Maps.","covera":{},"relati":"William Waller Survey Collection","source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/3592m.pdf","call":"Range 104, folder 02","cite":"William Waller Survey Collection, Mss.\n3592, 3910, 4326, Louisiana and\nLower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Access to unprocessed collections requires the permission of the curator, subject to \nSpecial Collections\u2019\nPolicy on Access to Unprocessed Collections \n(http:\/\/www.lib.lsu.edu\/special\/about\/unprocessed.html)","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html. Mention the \u201cItem number\u201d or \u201cItem URL\u201d in your request.","format":"JPEG","digita":"Digitized using a Canon EOS 5D Mark II.","a":"3592ra104f02i31_Gilbert Lenard Town","identi":"See 'reference URL' in the navigation bar.","collec":"http:\/\/www.louisianadigitallibrary.org\/cdm\/landingpage\/collection\/p16313coll57","catalo":{},"fullrs":{},"find":"83.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-10-31","dmmodified":"2015-04-09","dmoclcno":{},"dmrecord":"82","restrictionCode":"1","cdmfilesize":"1877586","cdmfilesizeformatted":"1.79 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Digitized using a Canon EOS 5D Mark II.</hardwareSoftware>
+  </extension>
+</mods>

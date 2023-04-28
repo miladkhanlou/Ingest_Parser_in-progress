@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 114</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1598</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1598</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1598/json"
+                        timestamp="2017-02-03 08:23:13">{"title":"Page 114","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 mm -\nAntoine dtait dvidemment uue scntinellc veiliant pour le compte\ndc Reed ; celui-ci avait disparu de l'autre cotd de la barriere du magasin Carresse &amp; Bernard. Cette barriere, il 1'avait csealadde avec\nl'adresse d'un dcureuil et sans faire plus de bruil qu'un fantcmie\nsorti a minuit do son tombean.\nNous avons' vu quelque part,\u2014nous croyons que c'est a Paris,\u2014\nune toile de Decamps; qui nous donna comme tin frisson le jour ou\nnous la vtmes pour la premiere fois.\nC'dtait une chambre modestement mettblde. Un reste de feri'y\njctait ses hteurs trcmblantes. Un balai, debout a cotd dc la clicmi-\nn'de, montrait quelques gouttclettes dc sang ; tni king-charfes agoni-\nsaSt a la porte.\nDc prime abord, cette ehambre pv.raissaif une chambre cbmme\nles autres, et dont les proprietaires so scraient absentes pour aller\nentendre chanter Julia Grisi ou jouer Rachel;' mais des qu'on en\naVait dtudid tous les details, il s'en exhalait comme une odeur de\ncrime qui vous montait au cceur et an visage ; le mystere donnait\nun cachet encore plus terrible au drame dont cc balai teint dc sang\nct ce chien agonisant etaient les muets, mais eloquents revdlatcura.\nII y eht tout un succes autour de cette toile si simple et si drama-\ntrquej' le maitre avait trouvd an bout de son pinceau une dtincelle\nde I'&amp;me de Shakspeare.\nNoifa avons pensd involontairemcnt a cefte toife avant d'aborder\nla scene que nous allons raconter.\nApres avoir escalade la barriere, Reed avait froUvd rni escaKer\nconduisant au premier, s'y dtait engage en marehaut toujours de\nson pas de fantdrae, avait trouvd otiverte la porte d*une chambre et\ny dtait entrd.\nCette chambre etait celle ou donnait Lraile Bernard, tfh des as-\nsocies de la maison;\nEn entrant, les yetix du bandit avaient sondd les teb&amp;bres de\ncette chambre, et au bout dc quelques minutes d'examen, it avait\nappris tout ce qu'il voulait savoir. D'un cotd, un homme couche\ndont la respiration rdgulicre accusait tin sommcil profond ; de l'autre, du butin, beaucoup de bntin a sa disposition.\nLe bandit dut rire interieUremcnt, comme a si bien dit un de nos\n\u20ac=riyains cdlebrcs.\u2014Ddeiddment la fortune dtait pour lui.\nReed avait ddju pris une montre, lors'ju'Lmile, sans doute w&gt;ua","fullrs":{},"find":"1599.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1598","restrictionCode":"1","cdmfilesize":"417258","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

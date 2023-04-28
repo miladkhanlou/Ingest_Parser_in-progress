@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 29</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/585</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>585</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/585/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 29","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"S 0 U T H -WES T E R N  JOURNAL.\n221\nvans, and copious in Saxon. His periods are short, and constructed without any appearance of effort. His meaning\ndies not require to be gathered, by dint of persevering investigation,, from ihe heart of a cumbrous phraseology: it strikes\nlit once', Nor is this ils transparency tho result of weakness\nor want of compass; tho very contrary is the case. From\nhis writings there may be extracted some of the richest poetry and original conceptions, clothed in language, unfortunately for our literature, too little studied in the day in which\nwe live. Channing appears to havo imbued his mind with\nthe spirit ofthe masters of our island tongue; their very\ntones seem lo have filled his car, and to havo become keynotes to his finest compositions; their strong idiomatic English has evidently worked itself into the mind of our author,\nand taught him that, in tho phraseology which weak minds\npronounced to be jejune, there was a versatility capable of\nbecoming, in the hands of a master mind, expressive of great\nand ennobling thought.\" The critic again say that \"there\nii a force anel finish in the pages of Channing, ihat indicate\nat onee great genius and protracted elaboration';\" and adds,\n\"his writings have charmed us into the attitude of fervent\npurity readily respond to their call in leading the public exercises of the. meetings, and leaving the impress of their cultivated powers upon the mass of mind by which they are surrounded. We can scarcely conceive a more interesting\nspectacle than that of an entire community engaged, at staled\ntimes, in tho acquisition and communication of knowledge\u2014\na twice blessed imployment, since, like charity, it blesscth\nboth the one who gives and the one who receives instruction,\nIt will doubtless be a matter of importance for future consideration to array all these voluntary associations into one\ngreat union, to co-operate with and strengthen each other,\nunder a general name, and under a system of judicious division of intellectual labor.\nMAP OF MISSISSIPPI.\nWe have before us one of the proof maps of the State of\nMississippi, including parts of tho States of Louisiana, Alabama and Arkansas, compiled chiefly from public surveys,\nby Colonel Samuel Gwin, Cashier of the Mississippi\nUnion Bank, and George Doiihartv, Esq., Surveyor and\nCivil Engineer.    This is one of the noblest and most perfeel\nSOUTH-WESTKR.V  JOURNAL\nNATCHEZ, JUNE :il),   1838.\nVoluntary Literary anb Scientific: Associations.\nThe friends of intellectual improvement cannot but rejoice at\nthe formation of associations in tho State of Mississippi, within a few months past, that must exert a powerful influence\nupon individual character as well as upon the literary repu-\nlation of the State. The records which we present in the\npresent number of the South-Western Journal, of the formation of iho Lyceum in Wilkinson county, of its sanction of\nihe South-Western Journal, and the specimen of talent dis\nplayed in the opening lecture, are topics of the most gratify\ning character to those who cherish a deep interest in the\ncause of mental improvement.\nTho account of the formation of an efficient society for\nthe dilfusion of knowledge in Lowndes county, comprising\nan unusual number of educated gentlemen, is equally flattering, A number of lectures have been already delivered before this society. We solicit their cordial co-operation in the\ngreat common objects of their society anel ours, and pledge,\nni return, that interchange of sentiments and good will which\nshould ever characterize those engaged in a cause so noble\nand elevating.\nThe Lyceums at Clinton and Grand Gulf are, we learn,\nin active operation\u2014the latter having recently been addressed by Rev. Professor S. V. Marshall, of Oakland College.\nThe second lecture in the Wilkinson County Lyceum was\ndelivered by the Itev.  William Winans.\nThe importance of these voluntary associations for improvement is much enhanced by tho fact that gentlemen of\ndie highest reputation for intellectual acquirement and moral\nadmirers.\" This is high praise, coming from so disinterested State maps extant in the United States. The compilation is\ni quarter\u2014but we do not disagree with the Frascrian critic a work of the greatest accuracy and labor, to which the beau-\nin his estimate of the merits of Channing's masterly style, tiful engraving of John Knight, of Philadelphia is no dis-\n-.V. Y. Mirror. parageinent.     It is projected on a scale of a square inch lo a\ntownship, showing the courses of rivers, lakes, bayous,\ncreeks, tho slate and county boundaries, the sites of county\nsents and towns, the location ofthe most important plantations\nin each county, mill seats, mineral springs, old Indian traces,\npost roads, rail-ways, turnpikes, prairies, post oliices and election precincts.\nTho very face of this elegantly executed map is eloquently expressive of the immense natural wealth and resources\nof the great cotton state. It gives the old river channels, the\ncut-offs, and the numerous islands that checker the bosom of\nthe Mississippi river. It is, indeed, in the faithfulness of ils\ndetails, the fulness of its information, and in its size, the best\nmap that has ever been made of any state in the Union.\nIt cannot he possible that the state of Mississippi will not,\nby a most liberal patronage, reward the toil of years which\nhas been cheerfully given by both the gentlemen eoncorneel\nin this undertaking, to tho perfection of this splendid anil\nunique specimen of correct topography and elegant engraving.\nAs the copy before us is the first proof sheet of the map\nwhich has been received in the slate, wc are unable lo state\nat what time the numerous subscribers to the map will be sup-\nplieel with their copies, or when they will be offered for sale.\nWe sincerely hope that but little time will elapse before ihe\npeople of Mississippi at large, shall have an opportunity, at\nglance, to see tho outline, the boundaries, and the capabilities of the immense state they occupy. This map should\nhang in every planter's hall in the state. It is invaluable to\nthe land purchaser, as well as the traveller and the merchant\nWo anticipate a patronage for this work which shall cheer\nthe compilers and remunerate them lor the toil and expense\nthey have freely spent in the completion of their magnificent\ndesign.\n'if1'\n\u25a0r*b!il'\n\u25a0if \u25a0\nM\nh\nill\ni\naafl\n'm-tfi","fullrs":{},"find":"586.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"585","restrictionCode":"1","cdmfilesize":"1689169","cdmfilesizeformatted":"1.61 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

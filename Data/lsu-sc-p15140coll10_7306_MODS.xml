@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 88</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2617</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2617</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2617/json"
+                        timestamp="2017-02-03 08:23:45">{"title":"page 88","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"late the useful, if there be any.   Respectfully,\nXL\u2014 Yellow Fever at the  I Hinge of Cloulkrville, La., in the years\n1853 and 1854.   By S. O. Scruggs, M. D.\n[The following remarkable letter will doubtless be read with ii\nterest.    It is to be regretted that the writer did not state moi\ndistinctly his method of giving the sulphate of iron in yellow fev.\nhis  1\u201e\nroie doses of the latter medic\nne are certainly very\nable.\n,...'\u2022                    '-..    I,    \\\\   II.M'b\nTexas\ngiving some very happy result,- obtained\nfrom the\nfully trill],\npill,lis\nor.    Tl.oi\nCI,,,,.\nandS\nroveport.\u2014E. D. F.]\nd River, b\netween Al\nD. Fbnkeb\u2014\nDeaf. Sin: I have ins!  reached li\nmo, and,\nyou desi\nTh\nIrr t, ,, ,1 jellow fever, out o\nfNewOrl\ned irr the little village of Cloutie\n14th of August, 1853.    I was\ncalled to\nof th\n,  imhesit;\nir.gly, tup\ndicati\nee.dedly of ihat character, but\nr hell\ndime,, l,\u201e,i\n(Gern\nans, and not remarkably eler\nil.v.r were\nwindow and contracted portal\ned to the garret of the building\nis friends\nlittle more comfortable.    I fou\nhim how he felt.   He replied\nr English nor French, that he\nat he was very thirsty.    Upor\n,n, 1 form,\nllitio,\npretty much the same as the rli\n- before, o\nly a great","fullrs":{},"find":"2618.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2617","restrictionCode":"1","cdmfilesize":"510478","cdmfilesizeformatted":"0.49 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

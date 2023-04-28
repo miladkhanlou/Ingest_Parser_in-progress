@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 405</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1886</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1886</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1886/json"
+                        timestamp="2017-02-03 08:23:23">{"title":"Page 405","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"l re femmes ct leurs enfants etaient exposes it la mort dans les prai-\n.\u25a0 c Sous sa conduite, lo Comite n'a pas ete guide par la mrtindre\n'utimi de justice, ou gouveme parle moindre sentiment de pi tie dans\n{'execution de kcs oidi-es et de ses instructions. Il serait iusense* de\neroire qu'il Ii:i l\"ir: flPP\"y\u00ae eeB aetes. Sa grande influence est trop\ncomme pour qu'il substste uu doute a cet egard. K'anrait-il pu em-\noSoliei cette bande de consmettre tant d'a trod tes ?\u2014Dire qu'il ne le\n!.!,uvait pas. que srm eentrdle etait sans potds et sescouseils ineprietes.\npcrait mer boo influence dans la eommuiiaute et lui refuser ee que ses\namis reclaieent pour lui. Comme tout le raonde ici, nous sommes\nconvaiscu mm Fex gouverneur Mouton aurait pu controler les aetes\nSes Vigilfwt^ et prrjven'ir bien des eruau^s et des barbaries, qu'il aurait pu debarmeser le pays d'hommes nuisiblos, sans avoir recours a\nla violence et a la rebellion, S'il eut agi ninsi, comme c'etait sou devoir, et surtout so.i devoir eu egard il sa haute position, beaucoup\nd'illegf.liti* auraient et6 evitees par lui; il auraifc obtenu les eloges et\nles applaiKlifSi'inents de ses concitoyens, et son nom aurait ete trans.\nmis aux ger.erafmns futures comme celui d'un homuie bon et mtseri-\ncordienx. pur de toute tache dc cruaute. Mais, par la marche qu'il a\neru devoir Bttivre,\u2014poussant a la vio]enee au lieu de precber la mo-\nderation,\u2014bravant le pouvoir executif de l'Etat au lieu de dissoudre\nle Comite,\u2014 doimant son approbation sinnn sa participation aux outrages vils et inbmnatiis commis sur un grand nombre de personnes\nrasscmblees dans uu but paisible en apparence, ear nous tie nous in-\nquietons pas de savoir &gt;m!s etaient coupables ou innocents,\u2014en excitant ii. ia revolte contre la lot, lorsqu'il devait tout faire pour en main-\ntenir le respect,\u2014il s'est place avec tons les Vigilants dans Fattttude\nde la rebellion, et i! doit compte de ce fait aux tribunaux. C'est la, un\ntriste et humtliant s;ectaele, et aous voulons encore esperer qu'il est\nfaux que Fes-gouverneur Mouton appartienne a cette bande,\nMais tous les journaux attakapiens neparlent pas ear le meme\nton. Nous avons raentionn^ ailleurs Fintelligent ct energique con-\ncours des journaux de VermilloQville et de Saint-Mar tiu ; nous\nremarquoss mamtenant ie langage sympatbique de la Gazette des\nOpelomas .-\n_ Nous apprenons que ie Gouverneur et sa Bttite ont visite cette par-\ntie de la Loujjrjann dans ie butde supprimer une preteiidue insurrection ou une revolution qui, suivant uue autorite judieiaire de cette pa-\nrotsae, seViBsait  k Saint-Landry   et dans les paroisses voisineB. On\n\u25a0lit au Gouverneur &lt;jue les \"Comites de Vigilance avaient fouette\n\" mort  d'honnetes g;eus. disperse tlans lea bois dee femmes et\nle\u00ab enfants innocents et les y avaient fait raourir de faim; que les\nwarrants des autorites  reguliereinent constitutes de l'Etat ne pouvaient (stre executes;   que   les officiers de ia loi dtaient braves par\n\u25a0e ''rgaiti^tion: qu'il etait eu cousequence prie de vcuir pour la","fullrs":{},"find":"1887.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1886","restrictionCode":"1","cdmfilesize":"406208","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

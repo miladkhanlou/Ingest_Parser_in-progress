@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 426</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1907</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1907</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1907/json"
+                        timestamp="2017-02-03 08:23:24">{"title":"Page 426","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 426 \u2014\nfut faite sous pre'texte de l'inviter a   aller soiguer Euphrosiu  Jones\nmalade. Cet Euphrosin etait un banni.\n(Devant James Myers, juge de paix.)\nIV\u00a9. tl.\u20144 octobre 1859.\u2014Andr&amp; Lejeuneet Portalis Braux.\u2014Jumea\nJinkins, a hi tete do douze individus armes, vintchezeux lo jeudi avant\nle 3 Septembre. Jinkins avait uue Epaulette et une croix blanche eu\nrubans a la poitrine. II leur dit qu'il avait 1'ordre du Goiivenieur\nde faire marcher, de gre ou de force, toitto la population virile-sur la\nQueue-Tortue. afin de briser ou do dissoudre les Comites de Vigilance-\n\u2014que ceux qui n'obeiraient paa seraient mis par eux au cadre ot fusillea\npar des piquets d'exe'cution composes de dix personnes;\u2014que tous les\nVigilants qui vlciidraient a la Queue-Tortue seraient lues, et que s'ils\nne venaient pas, on trait les tuer chez eux. Jinkins repeta qu'il\nagisaait par ordre du Gouverneur;\u2014qu'ils auraient quinze cents com\nbattants dont huit cents avaient deja signs.\u2014Onezime Fruge, I\nAlloe' et beaucoup d'autres so re,ouissuient d l'idee d'entrer dans 1(\ncoffrcs-forts [sic], de ramasser l'argent qui s'y trouverait (sic), etd\nprendre les sellcs pique'es etles chevaux ainericains {sic}.\nAvant ce jour, Joseph Pedd Istre avait dit que lo Dr. Wagner serait'^\nchez Lagrange avec une petite compagnie;\u2014que John Jones et Jamea\nJinkins y emencruient aussi les leurs, ainsi que celles du Ecrry,d\nbois Mallet, ct plusieurs autres dont ils ont oublie les noins ;\u2014que,\ndans leurs rangs, ils auraient cinq hommes deja chasses et qu'on\npourrait compter sur eux comme sur des hommes a tout\u00a9 epreuve;\u2014jfl\nenfin qu'ils devaient arracber le cceur a MM. Alexandre ct Emile\nMouton et a Richard Hightower, les faire ensuile rotir sur la braise et\nles manger.\nTous ces hommes etaient parfaitement armes de fusils et de pistolets.\n(Devant Jamea Myers, juge do paix).\nIV\u00a9. 12.\u20149 novembrc 1859.\u2014Honorable Vincent Bertrand, rcpreeon-\ntant de la paroisse Lafayette a la Legislature d'Etat.\u2014Dix ou quinze\njours avant la journe'e du 3 Septembre, il rencontra Sosthene Sonnier.\nLa conversation e\"tanttombee sur les Connie's de Vigilance, S. Sonnier\nlui donna a entendre qu'il y avait une societe organisee pour lee abattre,\net que lui, Sonnier, y appartenait. Le te'moin hit objecta qu'il doutait\nqu'il f(H possible d'organiser uno socie'te assez noinbreuse et surtout\nassez forte pour abattre les Comites. Sonnier lui repliqtta : i Si nous\navons a Iivrer bataille aux Comites, nous aurons les negres avec nous.a\nLa conversation continua entre eux sur ce point, et le te'moin restfl\nconvaincu qu'il y avait des intelligences entre les Mode'rateitrs etles\nnegres, et qu'il e\"tait convenu et arrete entre eux (sic) de marcher, a un\nmoment donne, contre les Comite3 de Vigilance.\nDans les derniers jours du mois  d'aofit, le temoin rencontra John\n\\","fullrs":{},"find":"1908.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1907","restrictionCode":"1","cdmfilesize":"468923","cdmfilesizeformatted":"0.45 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

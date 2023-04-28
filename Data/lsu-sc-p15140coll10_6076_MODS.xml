@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 146</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1630</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1630</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1630/json"
+                        timestamp="2017-02-03 08:23:14">{"title":"Page 146","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 14G \u2014\n_ -\u2014 tfh, deux, trois, quatre, cinq, six, sept, huit, neuf, Neuf voleur?\nle peaux et trois honnetes gens, murinnra mon ami, en comptaut sur\nMes doigts. Les neuf seront pourrjicquittemeutj les trois autres seront\nd'abord pour la condamnation, puis ils se rallieront d 1'avis des autres.\nAussi sur qu'il fait iour, cet honunc sera acquittd. \u00bb\nII le fut f\nNous n'avons pas besoin de dire qu'il nes'agit pas ici de jirris'hono-\nrabies, composds d'hommesco.Tscioncieux, resolus de n'dcouter que la\nvoix de leur conscience et celle de la justice, mais bien de juris tripotds\npar des avocats, composes comme ils savent le faire, et en vertu d\\.v\ndroit illimitd dc recusation que leur Ia,isse la loi. Pu reste. cette mdme\nobservation peut s'appliquer au fameux Dcrnard Romero qui, maiiites\net maintes fois a fait partie d'un juri charge' de prouoncer sur I'inno-\ncenee ou la culpabilite d'individus accuses des memos mdfaita dont il\netait cdntutnier. II nous semble qu'il serait difficile do citerun exempli'\nplus conclttant contro cette impartialitd tant vuntde de juris tripotes par\ndes avocats retdrs.\nMaintenant que nous avons repondn it toutes les questions que\nil. A. Olivier a bieu voulu condescendrc a nou-s adresser, nons allonr\nchanger de role etreiaplir a notre tour celui d'interrognteiir.\nPuisqne M\". A. Olivier compte, parmi les membres des Comites, un\ngrand nombre d''ancicua amis, nous lui demanderons ce quesignifio lc\nrapport officiel qu'il a adresse ua gouverneur de l'Etat, et suivant\ntoque1, a en juger par la proclamation do ce fonctionnaire, proclamation\nqui, d'apres les tenncs mcrucs dans &lt;\u00a3s&lt;\/i&gt;.cls elle est concue, a etd baset-\nsur le rapport officiol de l'avocat de disfrict, ces amis de M. A. Olivier\nsont tout simplamcnt des &lt;c voleurs \u00bb commettaut c des ddgats, des pilla-\nb ges et des vols contre les propridtds, ct des outrages contre les per-\n3 sonucs. s Nous desirerions etre edind pour savoir a qui reviennent, dc\ndroit, ces dpithetes outragcautes. Est-ce a M. A. Olivier, ou au gouverneur de l'Etat? Comme la proclamation parle des comites dc In paroisse\nV'crmillonet de la paroisse St-irartin, et qu'il exlste plusieurs comites\nI Jans cette dcrnidre paroisse. nous desirerions savoir exaetement quel\nest celui de ces comitds auquel cette infame qualification pent s'appliquer. Est-ce ait comite de la Kinase-Pointe 1 Est ce a celui de laPointe?\nEst-ce a celui du Pont de la Butte, on est-ce a celui de St-Martinville'\/\nCar ndeessaircment elle s \"applique a 1'iin des quatre,' si meme Ton n'a\npas fait de la calomnie en gros, sans prendre la peine de designer un\nde ces comitds plus spdoialement que les autres? Car enfin lorsqu'oi;\ns'abaisse jusqu'a i'iusulte et a I'outragc, on doit c\\pliquer clairement a\nqui s'adreesent ces insultcs et cos outrages \u25a0, autrement on agit comme\ndes assassins qui frappeiit leurs victimes dans I'ctmbrc.\nConsultez, monsieur A. Olivier, toi dictionnairc dela languefrancnisc\n-rtl dclalangneanglaisc qu'il vous plaira,et vousy verrez quo le mot de-\npridation^Lane lescircoiistaneesou i! est employe, n'a pas d'autro \u00bb!\u00a3\u25a0-!&gt;&gt;&amp;","fullrs":{},"find":"1631.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1630","restrictionCode":"1","cdmfilesize":"435480","cdmfilesizeformatted":"0.42 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

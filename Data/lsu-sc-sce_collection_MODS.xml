@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>LSU Special Collections Online</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;In spring of 2006, the LSU Libraries featured some of its greatest treasures in an exhibition at Hill Memorial Library titled 'Special Delivery: A Showcase of LSU Libraries Special Collections.' Selections from the original installation have been digitally scanned to create this online version. All major collections are represented. Exhibition materials span a broad range of material types (photographs, rare books, and manuscript items), time periods (15th to 20th centuries), and subject areas (politics, natural history, agriculture, and Mardi Gras).&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;A showcase of books, manuscripts, photographs, and other materials from the LSU Special Collections Library. Based on the 2006 exhibition, "Special Delivery: A Showcase of LSU Libraries' Special Collections."&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-sce</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_SCE</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_SCE</identifier>
+</mods>

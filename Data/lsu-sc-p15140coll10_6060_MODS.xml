@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 129</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1613</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1613</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1613/json"
+                        timestamp="2017-02-03 08:23:13">{"title":"Page 129","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u25a0\n\u2014 129 -\nXXX.\nTemoignage d'Alfred, negre, esclave de M. Zdnon Perret.\nInterroge sur le vol commis chez son mattrc, il repond d'abord\nqu'il n'y a pris aucuno parti mais, questioned de nouveau, il repond\nqu'il en est un des auteurs. Les complices ont ete Manoel de Armentor.\nProsper Grand, etun petit mulatre libre qui a demeure &amp;, Pineauville.\nchez uue demoiselle Eugenie, f. c. 1. Prosper Grand et l'enfant ont fait\nle guet sur la banquette.\u2014Les objets voles out etc transposes au\nbayou, sur une brouette, et mis ensuite sur un esquif.\nR a pris una part active au vol commis ehex M. Aristide Deblanc.\nMemes acteurs que chez M. Alcibiade, phis un blanc. II a ete present\naussi a l'mvasion nocturne de la maison de M. Desire Beraud, ainsi\nque Thomas Reed, Esteve et Victor, ex-commis de M. Dutbil. lis ont\ntous taiu la chanddlc les uns apres les autres (\"saiiB doute pour que la\nsolidarite de ce vol pesat sur tous.)\nII ajoute que le jour oil il est parti marron, il devait rencontrer, dans\nun lieu eonvenu, Prosper Grand, en compagnie duquel il devait s'en-\nfuir le plus loin possible, etHtre, vendu et revendu a plusieurs maitres.\njusqu'a ce qu'il eut rapporte uue somme considerable qui devait etre\npartagee entre Grand et lui.\nComme on voit, ce blauc se disposait a battre monnaie sur ce\nnegre,\u2014crime puni des travaux forces par la justice reguliere, et\nparfois de la pendaison par cette justice irregulierc qu'on appelle\nles Comitds de Vigilance.\nProsper devait eHre chatid plus pateruellement.\nXXXI.\n6 mai 1859.\nT^MOiaxAGE de Maximix Rouly, beau-ills de Mano-e! de Armentor.\nMaximin Rouly dit que lorsque Prosper Grand demeurait chez\nsou beau-pure, il faisait voler du mais a, M. Olivier par leB negres de\nce dernier, et qu'il les payait en whiskey. Ces vols se renouvelaient\nassez frequemmont.\nII nomme ensuite les auteurs du vol commis chez M. Aleibiade Deblanc : il y a figure lui-meme, ainsi qu'un marchand de bois de la\nFausse-Pointe et un negre de M. G. Fournet, poursuivi depuis pour\nmeurtre.\nQuant a lui, il a fait le guet dans la rue pendant 11 vol.\nLes objots derobes (via, graisse, jambon et sucre),o\u00abt dtd tranepor-\ntes par les uegres Alfred et John   dans un esquif. CeB negres, qui","fullrs":{},"find":"1614.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1613","restrictionCode":"1","cdmfilesize":"420439","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

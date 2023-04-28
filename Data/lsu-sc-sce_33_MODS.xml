@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Leo Hamilton oral history interview, 1993</title>
+  </titleInfo>
+   <name displayLabel="Contributor">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+      <namePart>Hebert, Mary J.</namePart>
+   </name>
+   <name displayLabel="Creator">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+      <namePart>Hamilton, Leo C.</namePart>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1864</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Louisiana State University (Baton Rouge, La.)</topic>
+      <topic>Students</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Southern University and A &amp; M College</topic>
+      <topic>Students</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African American children</topic>
+      <topic>Education</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Segregation in education</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Discrimination in education</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African American college students</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Political activity</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Civil rights movements</topic>
+      <topic>United States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Baton Rouge (La.)</topic>
+      <topic>Race relations</topic>
+   </subject>
+   <abstract displayLabel="Description">Hamilton discusses his family, his segregated early education, his attendance at an integrated Robert E. Lee High School, race relations in Baton Rouge, the civil rights movement, activism among black students at LSU, the relationship between black students at LSU and Southern University, and his legal practice.</abstract>
+   <note type="content">Interview conducted by Mary J. Hebert.</note>
+   <physicalDescription>
+      <note type="medium">3 sound cassettes (3 hours)</note>
+   </physicalDescription>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>T. Harry Williams Center for Oral History University History Series.</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>LSU Special Collections: T. Harry Williams Center for Oral History</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">sd000600</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/315</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-04-16</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>315</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/315/json"
+                        timestamp="2017-02-02 09:47:13">{"title":"Leo Hamilton oral history interview, 1993","creato":"Hamilton, Leo C.","date":"1993","dates":{},"publis":{},"contri":"Hebert, Mary J.","subjec":"Louisiana State University (Baton Rouge, La.)--Students.; Southern University and A &amp; M College--Students.; African American children--Education--Louisiana--Baton Rouge.; Segregation in education--Louisiana--Baton Rouge.; Discrimination in education--Louisiana--Baton Rouge.; African American college students--Louisiana--Baton Rouge--Political activity.; Civil rights movements--United States.; Baton Rouge (La.)--Race relations.","descri":"Hamilton discusses his family, his segregated early education, his attendance at an integrated Robert E. Lee High School, race relations in Baton Rouge, the civil rights movement, activism among black students at LSU, the relationship between black students at LSU and Southern University, and his legal practice.","notes":"Interview conducted by Mary J. Hebert.","langua":"en","transc":{},"digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":"T. Harry Williams Center for Oral History","collec":"T. Harry Williams Center for Oral History University History Series.","sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":"3 sound cassettes (3 hours)","format":"MP3","imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":"sd000600","identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":{},"find":"316.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2008-04-16","dmmodified":"2008-04-16","dmoclcno":{},"dmrecord":"315","restrictionCode":"1","cdmfilesize":"1525","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

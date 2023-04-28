@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 11, Page 8</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2380</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2380</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2380/json"
+                        timestamp="2017-02-03 08:24:56">{"title":"Section 11, Page 8","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"he election of Directors.\nIn May, this Boai\nd were el\nPresident fell upon t\nleathofMr.Adams\nporarily filled by Mr\nNorton,\ngrateful\nsted acceptance of\nhe trust\n\" of stock was taken\nresponsibility, but\ndischarged its dtt-\nsed, and i\n\u25a0eady proj\nin favor ofthe\nt epoch had evidently come in the history of this State. It\nsould no longer be disguised that this City and State were laggardsin\nhe march of improvement compared with their neighbors.\nWhile the city, relying in fancied security upon the advantages of\nind trade through the energy of her more enterprising rivals, the\ntreat agricultural districts ofthe State, measurably isolated, remained\nngloriously content with   the   precarious, difficult and  hazardous\n:,l by a\nei.eel   i\nk Roads, the Western and the Northern, had\nstive standard men of devoted zeal and untire-\n:ir characters and efforts inspired confidence at\nDusly devoted themselves for the public good,\n'the friends of the Northern road in May, and\nin June, 18-51, and the Great South-western\nimpulse to the popular feeling in favor ot\nrir session, immediately succeeding, reflect-","fullrs":{},"find":"2381.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2380","restrictionCode":"1","cdmfilesize":"503455","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

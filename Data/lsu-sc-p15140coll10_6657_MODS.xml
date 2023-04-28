@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 20</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2063</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2063</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2063/json"
+                        timestamp="2017-02-03 08:24:43">{"title":"Page 20","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"20\nments. All the New England States dropped\ntheir State pride for the sake of having one great\ncommercial capital, and now we see the good sense\nof these people in having all their roads terminating\non railroads connecting with Boston. Why wont\nTexas do as much for New Orleans ? She is as\npatriotic, anil the interest of all her citizens would\nbe promoted by having within convenient and\ncheap reach such a great commercial mart as\nNew Orleans. Her good sense will lead to it\u2014\nher whole State is to bo benefitted by it; and\nwith so much money on hand, and so many millions\nof acres of vacant lands as she has at her disposal,\ncan we doubt that she will do it'! Begin this road\nand she will 'do it. The whole country from\nNew Orleans to the western boundary of Texas,\nin a direct line to El Paso, is nearly a dead level,\nwith not a single mountain for a thousand miles,\nand but few hills, and they of slight elevation.\nNature seems to have made the country for, and\nGod, in his wise purposes, to have kept it hid\nfrom the world until railroads had been invented,\nthat here they might be displayed on the grandest\nscale. New York has recently paid over twenty-\nthree millions of dollars to make her great railway\nto Dunkirk, on Lake Erie. The late Gen. Worth\nestimated the cost of a railroad from New Orleans\nto San Diego, on the Pacific, at $24,000,000.\nIn time this road will be made, and when made the\ncommercial destiny of the world will be fixed.\nNew Orleans will be its centre, if we are true to\nourselves, and true to the glory of Louisiana.\nOn the west bank of the Mississippi river we\nare  now without any competitors for this great","fullrs":{},"find":"2064.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2063","restrictionCode":"1","cdmfilesize":"526920","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

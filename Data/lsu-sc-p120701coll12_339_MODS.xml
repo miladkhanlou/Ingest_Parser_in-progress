@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 22</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/611</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>611</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/611/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 22","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"248\nS 0 17 T II \u25a0 W E S T E R N   JO U It N A L ,\n.,;\u25a0'\ntalents, were also occasionally engaged at private parlies ,or\nIhe entertainment of guests by dancing and performing on\nvarious instruments. Sometimes a man danced a solo lo\nsounds made by the clapping of hands.\nThe minuet dc la cour is claimed also as a French invention. But wo have it on a Theban fresco ! It would appear,\nmoreover, that the hornpipe, which affords so much delight\nto the galleries in the \" Beggar's Opera,\" was not unknown\nupon the Nile at the period in question: and that the Highland reel, the Irish jig, the Spanish bolero, the quadrille, and,\nmirabile dicta! even the galopode, are all neither more nor\nless than imitations oft ho performances familiar to the Egyptians long before the Trojan war.\nNay, Joe Giimaldi or at least some kinsman of his, as well\nas his friends, Pantaloon and Harlequin, flourished in that\nhoary ago; and there is absolutely in one of these monuments\nu perfect prototype of Jim Crow. That popular monster I\ncertainly did hitherto deem an original. But when I find\nthat ho has only been copying from an Egyptian fresco (No.\n241) nearly four thousand years old, I am compelled to exclaim,\nwith Solomon, There really is, \" nothing now under the sun ! \"\nLYCEUM.\nJuly 4th, 1838\nThe Society met in the Methodist Church, in Natchez, according to adjournment, President in ihe chair. Tho minutes\nof the last meeting having been read and adopted, the committee appointed on the By-Laws was called upon to report, but on\nmotion of Rev. Mr. Drake, the consideration of the report was\ndeferred until after the regular exercises. The Rev. Mr.\nDrake then read a lecture on tho subject of Education, nnd\nDr. Monette an essay on Indian Mounds, in lhc south-west.\nThe report on the By-Laws being then called for, the committee reported, and on motion of Mr. Forbes, the By-Laws\nwero adopted en masse.\nThe President then made the following report for the first\nWednesday in August:\nLecturer, Dr. CnocHERON.\nEssayist, D. S. Jenninos, Esq.\nReport from committee on Belles Lettres and Mental\nScience.\nAfter which, the division of the society into the following\nStanding Committees, was read by the Secretary,\nStanding CommiUe.es.\n1st Committee\u2014On Belles Lettres and Mental Science:\nC. L. Dubuisson,\nG. V. II. Forbes,\nJ. A. Van Hoesen.\n2d Committee\u2014On Moral Philosophy and Theology:\nRev. B. M. Drake,\n\"     Ashley Vaughn,\n\"     E. Steele,\n\"     E. II. Buhner.\n3d  Committee\u2014On  Constitutional   Law   and   Political\nEconomy:\nJ. S. B. Thachek,\nD. S. Jennings,\nTwos, J. Johnston,\nGrafton Baker.\n4th Committee\u2014On Natural History:\nS. C. Merwin, M. D\u201e\nJ. W. Monette, M. D.\n5th Committee\u2014On Mathematics and Physical Science\nC. G. Forshey,\nLevin Waii.es,\nG. L. C.  Davis.\nGth Committee\u2014On Antiquities and History:\nG. V. II. Forbes,\nL. A. Besanoon.\n7th Committeo\u2014On Anatomy and Physiology ;\nS. A Cartwright, M. D.,\nJ. M   Crociieron, M. D.,\n Blocksom, M. D.\nFrom tho Secretary's Minutes.\nB. C. MERWIN, Secretary,\nSOUTH-WESTERN  JOURNAL.\nNATCHEZ, JULY 30,   1838.\nPATRIOTISM.\nTrue patriotism, or the love of country, has ever been\nesteemed as a sublime virtue. For as Cicero has well observed all those charities, all those affections of good-will\nwhich wo bear to relatives, friends and benefactors arc included in it, Patriotism strengthens and purifiesthe affections-\nelevates and enlarges the soul, and opens it to tho contemplation of those objects of benevolence nnd charity which\nclaim the attention of tho merciful, and challenge the approbation of the good. It implies a reverence, for the institutions\nof our country, and a respectful submission to her laws. It\nimplies more: it implies a zeal in defending nnd supporting\nthose institutions nnd laws by all laudable efforts. The true\npatriot will use every honorable means in his power to advance the interest and prosperity of his country. He will\ndiscountenance vice and immorality, in whatever form they\nmay present themselves, and encourage morality and virtue,\nboth by precept and example. He will be ever ready lo offer\nhimself as a sacrifice upon tho altar of his country, and to\npour out his blood in defence of her liberties; and in the hour\nof moral darkness and political degeneracy, when the black\nclouds are gathering over his head, he will be the first to bare\nhis brow.\nWho cannot look back and contemplate with pleasure and\ndelight the characters of those who have devoted their time,\ntheir talents and their lives for the honor and prosperity of\ntheir country, the good of their fellow-men, and for the advancement of religion nnd truth. Such is the character of\nthose who have shone with such transcendant brilliancy upon\nthe historian's page, and whose names live in the example of\ntcose who have been esteemed the wise and good of every\nsuccccding age, and will continue to live ns long as virtue\nand truth shall find nn asylum in the human heart. With\nwhat feelings of exultation and of wonder do we contemplate\ntho tomb of Lconidas nnd his three hundred Spartan companions, who fell on tho plains of Thermopylae, with this inscription, \" Traveller, go tell to Laccdemon, that we die here in\nobedience to her sacred laws\"!    And whose bosom does not","fullrs":{},"find":"612.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"611","restrictionCode":"1","cdmfilesize":"1689028","cdmfilesizeformatted":"1.61 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

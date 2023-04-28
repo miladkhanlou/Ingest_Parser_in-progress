@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Codex Vindobonensis</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">512</dateCreated>
+      <place>
+         <placeTerm>Constantinople</placeTerm>
+      </place>
+      <publisher>Graz, Akademische Druck- u. Verlagsanstalt, 19(65)-70</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">This is the earliest known illustrated herbal and contains the De Materia Medica of Dioscorides Pedanius, written ca. 60 AD.  The work is a treatise on the medicinal value of herbs.  Also included are illustrations of various animals and birds.  
+
+The manuscript was made for Anicia Juliana, a noblewoman of Constantinople, whose father was briefly emperor.  It remained in Constantinople (where it may have been used by Hamon, the Jewish doctor of sultan Suleiman II) until about 1570, when it was purchased by the Holy Roman Emperor Maximilian II.  The artist is unknown, but the plant drawings resemble those of the early botanical illustrator Krateaus.</abstract>
+   <abstract displayLabel="Contents">Early Medieval herbal</abstract>
+   <note type="content" displayLabel="Illustration">Vignettes and full-page illustrations of various plants and animals</note>
+   <note type="content" displayLabel="Details">V. 1, facsimile; v. 2, commentary (in German)</note>
+   <note type="content" displayLabel="Century">6th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Roman, Greek, Arabic</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Greek, Latin, Turkish, Arabic, Hebrew, French</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">Österreichischen Nationalbibliothek (med. Gr. 1) (http://www.onb.ac.at/ev/index.php )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Rare R126 .D5 1965 FLAT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">mm00016</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/492</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>492</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/492/json"
+                        timestamp="2017-02-03 14:39:15">{"title":"Codex Vindobonensis","creato":{},"centur":"6th century","date":"ca. 512","origin":"Constantinople","conten":"Early Medieval herbal","illust":"Vignettes and full-page illustrations of various plants and animals","script":"Roman, Greek, Arabic","scribe":"Unknown","curren":"\u00d6sterreichischen Nationalbibliothek (med. Gr. 1) (http:\/\/www.onb.ac.at\/ev\/index.php )","descri":"This is the earliest known illustrated herbal and contains the De Materia Medica of Dioscorides Pedanius, written ca. 60 AD.  The work is a treatise on the medicinal value of herbs.  Also included are illustrations of various animals and birds.  \n\nThe manuscript was made for Anicia Juliana, a noblewoman of Constantinople, whose father was briefly emperor.  It remained in Constantinople (where it may have been used by Hamon, the Jewish doctor of sultan Suleiman II) until about 1570, when it was purchased by the Holy Roman Emperor Maximilian II.  The artist is unknown, but the plant drawings resemble those of the early botanical illustrator Krateaus.","biblio":{},"public":{},"associ":{},"altern":{},"langua":"Greek, Latin, Turkish, Arabic, Hebrew, French","genres":{},"facsim":"Graz, Akademische Druck- u. Verlagsanstalt, 19(65)-70","extena":"V. 1, facsimile; v. 2, commentary (in German)","call":"Rare R126 .D5 1965 FLAT","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00016","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517","fullrs":{},"find":"493.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"492","restrictionCode":"1","cdmfilesize":"688","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

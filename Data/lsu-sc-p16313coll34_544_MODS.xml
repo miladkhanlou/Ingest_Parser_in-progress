@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 5</title>
+  </titleInfo>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll34:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Armand Duplantier Family Letters, LSU Libraries</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll34/id/378</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-04-11</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll34</alias>
+         <pointer>378</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll34/378/json"
+                        timestamp="2017-02-07 15:24:18">{"title":"Page 5","date":{},"descri":{},"creato":{},"subjec":{},"contri":{},"addres":{},"findin":{},"cite":{},"reposi":{},"discla":{},"rights":{},"donor":{},"contac":{},"source":{},"fullrs":{},"find":"379.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2013-04-11","dmmodified":"2013-04-11","dmoclcno":{},"dmrecord":"378","restrictionCode":"1","cdmfilesize":"7734902","cdmfilesizeformatted":"7.38 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

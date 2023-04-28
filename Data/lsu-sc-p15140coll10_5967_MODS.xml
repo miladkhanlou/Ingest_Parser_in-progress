@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 32</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1519</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1519</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1519/json"
+                        timestamp="2017-02-03 08:23:10">{"title":"Page 32","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 32 \u2014\ngnant la robe guerriere lorsqu'il faut guider un peuple au combat.\nla robe de deuil lorsqu'il faut plearer une defaite, le linceul meme\nlorsqu'il faut descendre, avec un peuple egorge, dans la totnbe que\nles rois lui ont creusee, la chanson est un ange toujours pret a venir\ndu ciel pour servir les causes populates.\nVoici deux chansons inspirees par les Comites de Vigilance. Nous\nles publions, non pour leur valeur, mais pour demoutrer que la\nchanson a pris part a la luttc dont nous sommes I'historieu.\n\u00a9IHlAKnr \u00ae1 \u00a9(UN!EH!  \u00aeH\u00a7 ^\u00a9[ULAKTiTS;\nAir : Libert6 sainie, apris trcntc ans d'abscncc.\nBiRANGKR.\nGuerre aux bandits ! de toutes les poitrines\nCe cri puissant s'elevc dans les airs ;\nAesez de vols, de mcurtres, dc rapines ;\nApres trente ans les yeux bo sont oaverts!\nTrop de h.prcux salissent notre terre,\nLe cri public les a tous condainne\"B :\nO Vigilants, en guerre, vite en guerre !\nQuo les bandits soient tous extermines!\nQu'ils soient broyts dans lamemetempete.\nTous ces maudits, ehiens du meme cheni!;\nEt que lo fouet en les eniglant les jette\nAux durs enemins qui mencnt a l'exil!\nDo leurs ibrfaits, absous par la justice,\nQu'ils soii.nt par nous is. lour bagne traines!\nHontcti Themis qui sc fait leur complice!\nQue les banditB soient. tous extermines !\nSus aux bandits ! aux yoleurs ! a cesdrOlcs,\nHonte et tlcau^du sol ou nous vivons!\nDieu, qui sourit a nos vicrges Creoles,\nDoit se voiler devant tous ces demons!\nDc ton vieiix tronc, arbre de lapatric,\nTea purs enfants a ton ombre inclines,\nVont.arr.'u.lier toute hranclie pourrie.\nQue les bandits soient tous extermines !","fullrs":{},"find":"1520.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1519","restrictionCode":"1","cdmfilesize":"468799","cdmfilesizeformatted":"0.45 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

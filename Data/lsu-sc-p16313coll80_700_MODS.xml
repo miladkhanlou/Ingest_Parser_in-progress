@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Negre Marron en Prison.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000574f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">Negre Marron en Prison. Il a été écroué dans la prison de la Paroisse St. Landry, le 25 Juin dernier, un nègre se disant nommer ONEZIME, âgé d'environ 35 ans, taille de 5 pieds, 4 pouces, portant grande barbe, il parle le français et l'anglais. Onezime dit appartenir à un Mr. Lézin Landry Jr., (ou Guidry,) demeurant dans la Paroisse Lafayette, d'ou il est parti il y a environ quatre mois. Il avait en sa possession un cheval bai foncé, avec longue crinière et queue noire, nouvellement coupé, le dit cheval est très âgé, marqué à l'epaule et à la cuisse gauche, il dit qu'il appartient à Mr. Paul Lalonde. Le propriétaire de cet esclave ainsi que du cheval, sont priés de venir prouver leurs propriétés, payer les frais et l'amener, autrement il en sera disposé selon la loi. LOUIS L. BOUTTE, Geôlier. Opelousas, 1er Juillet 1854.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 7
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-07-01/ed-1/seq-1/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/999</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-25</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>999</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/999/json"
+                        timestamp="2017-02-13 13:34:04">{"title":"RSA00000574f","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 1, column 7\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-07-01\/ed-1\/seq-1\/\n","unique":"Negre Marron en Prison.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"Negre Marron en Prison. Il a \u00e9t\u00e9 \u00e9crou\u00e9 dans la prison de la Paroisse St. Landry, le 25 Juin dernier, un n\u00e8gre se disant nommer ONEZIME, \u00e2g\u00e9 d'environ 35 ans, taille de 5 pieds, 4 pouces, portant grande barbe, il parle le fran\u00e7ais et l'anglais. Onezime dit appartenir \u00e0 un Mr. L\u00e9zin Landry Jr., (ou Guidry,) demeurant dans la Paroisse Lafayette, d'ou il est parti il y a environ quatre mois. Il avait en sa possession un cheval bai fonc\u00e9, avec longue crini\u00e8re et queue noire, nouvellement coup\u00e9, le dit cheval est tr\u00e8s \u00e2g\u00e9, marqu\u00e9 \u00e0 l'epaule et \u00e0 la cuisse gauche, il dit qu'il appartient \u00e0 Mr. Paul Lalonde. Le propri\u00e9taire de cet esclave ainsi que du cheval, sont pri\u00e9s de venir prouver leurs propri\u00e9t\u00e9s, payer les frais et l'amener, autrement il en sera dispos\u00e9 selon la loi. LOUIS L. BOUTTE, Ge\u00f4lier. Opelousas, 1er Juillet 1854.\n","subjec":{},"type":{},"format":{},"langua":"French\n","digitb":{},"digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000574f.jp2","find":"1063.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-25","dmmodified":"2016-02-25","dmoclcno":{},"dmrecord":"999","restrictionCode":"1","cdmfilesize":"159641","cdmfilesizeformatted":"0.15 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

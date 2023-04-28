@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 143</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1627</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1627</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1627/json"
+                        timestamp="2017-02-03 08:23:14">{"title":"Page 143","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 143 -\nres suffisantspour leBmettreaVabri du besoin jusqu ace qu'ils sefussciitl\nprocure des moyens d'cxiBtcncc par Texorcicc legitime d'une Industrie\nquelconque. Nous dirons memo plus, M. R. T. Eastin a, en sa qualitd\nde maire de St-Martinville, ce-mmande les citoyens qu'il a juges etre les\nplus honorables, pour rehiycr les membres des Comites qui faisaient,\njour ct nuit, un service actif &amp; la prison de ee village, oust, trouvaient\nlos bandits. Nous citeronsentre autres Its uoms de MM. Aleibiade Deblanc, de l'Hon. Edouard Simon fils. d'Euphemon Broussard, d'Aris-\ntide Tertrou, d'Emile Bernard, deJulien Babin et de trois ou quatre\nautres dont le nom nons tichappe. Ce soutla des faits qui prouvproi.t &amp;\nM. A. Olivier que les actes qu'il lui plait de qualifier dc violcntes infrat-\ntions a la loi, ct qu'il a denoneds comme tels au pouvoir execunf de\nl'Etat, nc sont- pas, comme les tennes de ia proclamation du gouverneur\nle douneraicnt a penser, Vacte de liand'Us et de malfailcurs serubnt sur\nles persenncs et les proprietcs, mais bien celui de citoyens honorablcs, ne\nse proposaut d'liutre but quo la protection efficace de hi socie'te.\nQui aurait pu dire a M. A. Olivier que les Comites frappuient de ter-\nreur des citoyens honorables, quand il est de notoriete publique que,\nmeme des hommes de coulcur respectables, qui avaient pris l'ularme\nmftl-a-propos, ont ete assures par les Comites qu'ils n'avaient rien a re-\nflouter, et ont eu plcine et entiere pbiifiaiice dans ces assurances?\nQuant aux incendtes, aux vols avec effraction, dont fait mention M.\nA. Olivier, nous lui repondrous qu'il ne doit pas ignoror que le nomm6\nJames Reed, Van des individus expulscs.a ete poursuivi par lui-meme,\ncomme faisant un commerce illicitc, et que, sur le reqnisitoire preseutd\npar lui a la Cour, en sa qualite\" d'Avocat de District, cc bandit a etd\ncondamne a 1'amende et il la prison. Comment pourrait-il pretendre qu'il\nfut impossible aux autorites de sc hvrer a une enqueto. centre des individus qui echappaicnt a l'ombre meme du soupcon, quand les Comitds\ndo Vigilance out, en moins dc quinze jours, demasqne la bande de voleurs et d'assassins qui infestait notre village. Et cependant les moyens\nd'action dont ponvaicnt disposer ce* Comitds, ne peuvent so comparer a\ncciix dont les autoritds constitutes sont investies par la loi; ce qui\nprouve d'une maniere incontestable que ec qui a fait defaut aux autorites, ce ne sont pas les moyens d'action, mais bien la bonne volonte e\u00a3\nl'energie dont doivent Gtrc douees des personnes vemplissant des fonc-\ntions emportant avec cllos anc si haute responsabilite morale.\nNous ne reprochons pas aux autorites de u'avoir pas fait arreter des\nindividus qui, lors des desastres sueeossifs qui out afllige noire village\"\ndepuis plusieurs anndes, echappaicnt a l'ombre memo du soupcon : ce\nq ue nous icur repmcherons, c'est de ne pas s'etrc livrees, ainsi que leurs\nfoactions leur eu faisaient un devoir sacre, a des enquetes qui, si elles eiis-\nsOnt ete bien diriedes, n'auraient pu mnnqncr dc les mettre sur ia voie\ndbs coupables, puisque les Comites sont parvenus, en tres peu de temps,\na ^btenir   cos resit Itats,  tout prives qu'il dtaient des movers  d'action","fullrs":{},"find":"1628.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1627","restrictionCode":"1","cdmfilesize":"393252","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

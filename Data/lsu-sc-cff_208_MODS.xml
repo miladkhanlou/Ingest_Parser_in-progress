@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M24</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1196</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1196</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1196/json"
+                        timestamp="2017-01-13 13:22:48">{"title":"M24","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM24\nN. Orl\u00e9ans 23 Aout 1832.\nMon fr\u00e8re\nJe suis all\u00e9 chez Mr\nBerry. pour me procurer les\ncercles que tu m\u2019as demand\u00e9s, et\nn\u2019ai jamais pu r\u00e9aliser mes\ndispositons ; il n\u2019en a qu\u2019environ\n500, encore sont-ils d\u2019une\nmauvaise qualit\u00e9. \u2013 Malgr\u00e9\ntoutes les tentatives [tache] que j\u2019ai faites\npour en avoir autre part [tache], il\nm\u2019a \u00e9t\u00e9 impo\u222bsible d\u2019en trouver.\nJe ne savais pas t\u2019\u00e8crire par\nJ. Lefebvre, il croyait ne pas\naller jusque chez toi, mais ce\nmatin il est venume dire qu\u2019il\nse chargerait de ma lettre. Si\nj\u2019avais quelqu\u2019autre chose \u00e0 te\ncommuniquer, je profiterais delaposte\nWiltz te rappelle encore son parapluie.\nTon fr\u00e8re tout devou\u00e9.\nFs. Girod\nFais parvenir ce billet \u00e0 Mr. Cle Perret.","typa":{},"genera":{},"fullrs":"Volume5\/M24-0.pdf","find":"1197.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1196","restrictionCode":"1","cdmfilesize":"36973","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

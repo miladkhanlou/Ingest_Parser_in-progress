@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 138</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1622</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1622</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1622/json"
+                        timestamp="2017-02-03 08:23:14">{"title":"Page 138","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 138 \u2014\nXL.\nAVIS\n&amp;tt \"people ties pnroisscs gt-iitrtttin et bcrmillon.\nLe fait de mou intervention offieieile a 1'iigard des Comites de Vigilance qui, out existe dai)s vos paroisses, doit etre connu. Depuis, la\ncouduite que j'ai tenue a cet egard a ete le but des attaques de diver-\nses personnes dont le zele pour la cause devenue celle des membres\ndes Comites, les a porteB i. accoupler les crimes et les outrages qui out\n.existe daus le sein de vos coinmuuautos &amp; la coupablo iueurie do vos\nofficiers publics. Jeerois qu'uno explication de ce qui s'est passe vous\nest due. Plusienrs personnes deinourant en ]a paroisse Lafayette et\nchassees par les Comites do cette paroisso, vinvont me trouver afiu\nd'etre protegees dans la jouissance do leurs droits. Je vepondis quo ma\njuriuiction ofttcielle ne s'etendait pas sur cotte- partie du pays, et jc me\n\u25a0refusai, par aue.un acte que ce soit, memo comme simple avocat, d*\nm'iinmiscer daus lours differends avec le Comite de leur paroisse. Par\nla suite, des citoyens de ce District, expulses de leurs maisons, menaces\net iutiinides par les Comites de Vigilance, ne pouvant, comme ilsl'atfir-\nmaieut, obteuir uno protection suffisunto des autorites locales, en appe-\nlerent a mon ministere comme Avocat do District. En meme tempe,\ndes let tres provenant do juges de paix, me donnaient connaissanecdea\nactions et des eonsequenoes qui devaient legitimement surgir de la\neonduite tenae par les Comites do Vigilance. II paraissait que dee temoins los plus important^ dans nee poursuite intcutee au nom de l'Etat\ncontre un detenu accuse\" de meurtre, avaient ete chasses de la paroisse\nVermilion, et qu'il etait probable que dans un court delai d'autros\nnnssi seraient exposes ; et que, vu la terreur que les membres du Comite avaient jetee daus 1'esprit des proscrits, leur comparution au\nterme prochain de la cour criminelle devenait impossible et que la\npoursaite tomberait d'elle-meme. De plus, avis me fat donne- de la resolution prise par les comites, et ouvcrtement declaree, de resister a\ntous efforts do.1; o&amp;cAers de la loa tondant a mettre un terme aux actes\nillegaux qui terrorisaient de certaines portions de la cominunaute. Une\ndeclaration prise sous le aceau du serment. portait que des chatiments\npar te fouet avaient 6U tnJlig.Cs a des hommes blancs, citoyens de cet\nEtat, et que lesdits Comites exereaicnt un pouvoir souverain sur\nla vie, los personnes et la liberie.\nII ne reetait plus qu'une scule ligucdo conduite a suivre.\u2014Je rem-\nplis les obligation-s solenKolles de mon serment.","fullrs":{},"find":"1623.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1622","restrictionCode":"1","cdmfilesize":"416215","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

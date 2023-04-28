@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 402</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1883</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1883</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1883/json"
+                        timestamp="2017-02-03 08:23:23">{"title":"Page 402","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 402 \u2014\ntrois beaux-fieres, les Herpin, et accuse d'assassinatsurlaperaonne\nd'Emile Comeau, dans la prairie de la Cote-Gelee,\u2014Bernard Ltw\ncouture s'aventura k la Nouvelle-Iberie. Informe de son retour, le\nmajor St-Julien se rendit k la maison ou etait le banni. La ma&gt;\ntresse de la maison preteudit qu'il etait absent. Alors le Major or-\ndonna qu'on explorat le grenier; deux ou trois hommes y montereut\net furent accueillis par deux coups de feu, qui se perdireiit dans les\nooiseries. Le Major monta k son tour, seul selon son habitude, ct\ncomme il se presentait a la porte du grenier, il fut frappe an con\nd'une hache qui heureusement ne Fatteignit que par ricochet... saua\nquoi la blessure eut ete mortelle. It chancela, mais avec son vigoa-\nreux sang-froid, repondit par deux coups de pistolet, apres avoir\ninutilement somme de se rendre Lacouture, qui toniba pour ne plug\nse relever, baigne dans son sang. Ce sang n'etait pas plus pur que\ncelui de Geneus Guidry, et le sort des deux victimes de la lutte doit\netre leger k la conscience des Vigilants.\nCRITiaUES DE LA PRESSE\nPRESSE   DES   ATTAKAPAS\nII est eurieux, k la distance oii nous sommes des eveneiueDta\ndont on vicnt de lire le recit, de retourner en arriere et de reproduce quelques-unes des critiques soulevees par la formation des\nComites. Sur le theatre meme de Faction, dans les limites de hire**\ngion des Attakapas, naquit nne opposition k ia sinterite de laquelle\nil serait difficile de eroire. Comment supposer que les editeurs de la\npresse locale aient ignore des faits aussi notoires que ceux qui ont\narme le Jiras des Comites? S'ils connaissaient ces faits, comment\nqualifier leur hostilite 1 Pour ne point trop abuser d'une victoire\ndont les anciens enuemis des Comites partagent aujourd'hui les\nfruits, nous nous bornerons k exhumer et k sauver de Foubli quel-\nspies passages de la presto anti-vigilante d'alors.\nLe Planters Banner, de Franklin, Ste-Marie,\u2014camp ou s'ourdis-","fullrs":{},"find":"1884.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1883","restrictionCode":"1","cdmfilesize":"457163","cdmfilesizeformatted":"0.44 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

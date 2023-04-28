@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 41</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2570</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2570</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2570/json"
+                        timestamp="2017-02-03 08:23:43">{"title":"page 41","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"nn, and a few days after Mrs. Stat.tr\nlark-d all,i\n,e fall,\nplantation of Mr. McCaleb, in West Felicia\nplace adjoined one owned by myself, I was, o;\ninterested, and thus became fully informed of\nbe physicians o\"\nMct'.'s\nk, were attacked, 1\nrsof'Mr. Mcb'.'sl\nDr. J WD. m      .    i    i     I ii n    ml,   f.om Woodville, visited\na family near Fort Adams, in which there has been Severn! deaths\nTwo\nor three w,\neks after, he died with\nlack vc\nnit.    ltd\nnot be\nasee\ntained that\nte was exposed to yello\nv fever\nexcept\nlui\nrg this\nD\nof h\n. B. Brrldwt\na visited Dr. Davis seve\nd, twenty-two days aft\n;'\u25a0:,\nath&gt;\n\u25a0en\nd and\ndied\nm five days\nwith black vomit.   Dr\nieen\ntend\nnee on Mrs\nnd the case\nMoCausland six weeks\nof Dr. Davis were his o\nprevio\nstoh\nsat\naek\u2014\nY\nll\u201ew  fever\nprevailed in 1853 in n\nrr  fan.\nm the\nwhtc\n\u25a0nt country\nh little or n\nbut I have confined m\ndoubt existed as to the\nself to\nposure\nsta\nces in\n1854 we h\nd no yellow fever in W\noodvill\nround-\nountry.   I\nreated ten or twelve cases of\nengue\n1 gr\nng the\nI\nm aware th\nat many gentlemen who\ne obse\nvation\nind\nxperi-\nhat\nare so closely allied\none and","fullrs":{},"find":"2571.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2570","restrictionCode":"1","cdmfilesize":"472947","cdmfilesizeformatted":"0.45 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

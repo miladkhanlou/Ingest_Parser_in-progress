@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Civil War Context and Conflict at LSU Libraries</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;To mark the sesquicentennial of the Civil War, LSU's Special Collections digitized selected items from the Louisiana and Lower Mississippi Valley Collections (LLMVC). This collection represents the cultural and political aspects of the conflict, and life in antebellum Louisiana. Sources include books, periodicals, maps, manuscripts, state documents, and microfilm that support scholarly research in many areas, including religion, plantation management, slavery, French Creole identity and relations, and Southern nationalism.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;To mark the sesquicentennial of the Civil War, LSU's Special Collections digitized selected items from the Louisiana and Lower Mississippi Valley Collections (LLMVC). This collection represents the cultural and political aspects of the conflict, and life in antebellum Louisiana. Sources include books, periodicals, maps, manuscripts, state documents, and microfilm that support scholarly research in many areas, including religion, plantation management, slavery, French Creole identity and relations, and Southern nationalism.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p15140coll10</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p15140coll10</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p15140coll10</identifier>
+</mods>

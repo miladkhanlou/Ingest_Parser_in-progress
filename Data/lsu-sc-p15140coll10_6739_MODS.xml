@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Appendix, Page iv</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2145</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2145</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2145/json"
+                        timestamp="2017-02-03 08:24:46">{"title":"Appendix, Page iv","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"up freights are usually estimated as beingequal to the down freights, including cotton.   Su 1.1.\nbeen the experience of the Vicksburg road, and such would be the case in this.   As you h \u25a0\ncountry into proximity with a great market like New-Orleans, by opening up facilities ft)\/'\"'*\ncommunication, you increase the wealth, and consequently the commerce ofthe country an\"\nwants ofthe people become multiplied with the means of gratification, and articles nf .l!^\nfancy, as well as those of necessity, must travel over\nble to form anything like a just estimate \"f this item, should the mud terminate atJadb\nShould, however, the Eastern road be completed, and connect itself with the Mobile andOta\nroad, making this road a link in the great thoroughfare from North to South, the travelling Wj:JJ\nhe immense, far beyond anything that has ever been known upon any other road in the'rjni\nThe traveling upon the Vicksburg road has amounted to about one-third of its income. Forth\nlast ten months, ending S(Jth June last. ii^.HCiO persons parsed over that road, making upwardttf\n\u00a37,000 per year. In every country, the traveling increases according to the increase of the cot\nmerce of the country, and the facilities thereby afforded; and if men could go from Vicksburgin\nNew-Orleans in one day, upon an average, one-half who travel annually by that point to Lj\nfrom New-Orleans, would take rail-road at and to Vicksburg, as the cheapest, the safest, and mon\nexpeditious route. Thousands in middle Mississippi, who now visit New-Orleans once a yew\nwould pass over the road upon two or three visits; and thousands more, who otherwise will Devcr\ngaze upon the dome of her cathedral, or her beautiful crescent, studded with her thousand shipi\nwould find it convenient and profitable to pass over this road: while many who are unable to\nspend their summer on the Bay shore, in consequence of the expense, would every summer'find\na delightful residence for themselves and families in the piney woods of Mississippi, where pure,\ncool water and perfect health abound, and where the expense of living would be a mere trifle.\nAgain, Hinds, Lauderdale, Madison, and Rankin, hold out strong inducements to summer vin.\ntors, to partake of their medical waters, and already some prominent citizens of Xcw-Orleansut\nturning their attention from ihe fashionable watering places North, to the more humble, man\neconomical, and more beneficial waters of Hinds, and other counties in the State. And ifthii\nroad was constructed, and the necessary accommodations afforded, thousands would flock hen\nevery summer, not only to spend their money amongst us, and thereby to enrich the country, but\nthey would, in so doing, add to the profits of the read. Many merchants and others, engaged ia\nbusiness itithis city, would, for the sake of health and economy, keep their families, winter and\nsummer, in this country, and pass over the road more than twenty times a year in their how\nvisits. Way passengers from the southern counties, going with their produce to market and returning, and persons within fifty miles ofthe road, would crowd the depots, seeking a passage to\nthe great Babylon ofthe South. Indeed, it would be impossible to estimate any thing like the\nnumber of passengers ou this road the first year, and which would increase more than 100 per\ncent, in ten years.\nBut as it will be quite sufficient to show the profits of the road, let us set down the nomberof\nthrough tickets the first year at 30,000, (which I honestly believe would not be more than one-\nhalf.) at $5 each, and then add the daily mail at $20,000 per year. The account would stand\nthus s\nJacksonand IS'ew-Orleans Rail-Road, Dr.\nTo cost of construction, fixtures, etc., and running one year $2,000,000\nBy freight on 90,000 bales cotton, at $1 per hale  $90,000\nBy miscellaneous down freight     25,000\nBy up freight  100,000\nBy 30,000 passengers, tickets at $5 each.  150,000\nBy daily mail     20,000\nJ  383,000\nHere, then, is 191 P***r cent, profit, with a certainty of doubling in ten years. If, however, a*\"-**\none should think that I have under estimated the cost of the road, and over estimated the amoun\nof business to be done on it, let them add 20 per eent. to the cost, aud then deduct one-tniraoi\nthe profits, and it will still pay 10 per cent.\nNeio-Orleans and Opelousas Rail-Road\u2014From the Report of BuchnerH. PayM-\nStatistics.\u2014The region through which this road is proposed to pass, produced last year,\nsugar, as follows, viz.: (and it was a bad year for sugar.)\nParishes. No. of Plantations. Hhds. Sugar.\nJefferson   20     4,783\nSt. Charles  24     4,253\nSt John the Baptist  29     3,656\nSt.James  41     6,704\nAscension  36     6,882\nAssumption  148 ,  15,468\nI.afoun-.hc Interior \u2022.. 77.  10,883\nTerrebonne  90  13,758\nSt. Mary  195  20,434\nSt. Muriin  101     6,324\nVermilion  21       771\nLafavelte  20     1,859\nCalcasieu  14        123\nSt. Landry  71     5,132\nRapides  46    7,820\nTotal     933  110,800","fullrs":{},"find":"2146.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2145","restrictionCode":"1","cdmfilesize":"501269","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

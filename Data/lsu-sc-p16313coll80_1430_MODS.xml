@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00000862</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Henry Sullivan</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1851-08-30</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Ascension parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Plaquemine, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1851</temporal>
+   </subject>
+   <note type="content" displayLabel="Slave Owner">Traismon Landry</note>
+   <note type="content" displayLabel="Slave Name (Age)">Tom (27)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Southern sentinel. : (Plaquemine, Parish of Iberville [La.]) 1848-1858</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn88064476/1851-08-30/ed-1/seq-3/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86079076</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2870</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2870</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2870/json"
+                        timestamp="2017-02-13 13:33:39">{"title":"RSA00000862","object":"sn 86079076","publia":"Southern sentinel. : (Plaquemine, Parish of Iberville [La.]) 1848-1858","date":"1851-08-30","year":"1851","film":{},"altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn88064476\/1851-08-30\/ed-1\/seq-3\/","unique":{},"person":"Henry Sullivan","parish":"Plaquemine, La.","digita":{},"acknow":{},"public":"Traismon Landry","town":"Ascension parish, La.","relati":"Tom (27)","slave":"M","slavea":{},"slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":{},"subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text","format":"clipping","langua":"English; French","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":"Cataloging in Progress","plugin":{},"image":{},"fullrs":{},"find":"2946.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-05-09","dmoclcno":{},"dmrecord":"2870","restrictionCode":"1","cdmfilesize":"335","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

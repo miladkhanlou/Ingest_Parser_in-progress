@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 9, Page 13</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2343</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2343</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2343/json"
+                        timestamp="2017-02-03 08:24:54">{"title":"Section 9, Page 13","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"^resa.d i ill I ' h me of three\n!';ll!!p!7',r'.,f'j)ii-ecior,V for   lire   time   being.     Vhe7,77o'i,7   of\n'n       , 1     1 I il tl I '    lu        I- , '        Hi\n,; ,. llmd   '\u25a0\u25a0'. .......,:- re, tors shall not\nr  1   &lt;   tl  lull  ...ntinuethe\n,:     ,.f i\nKtfces of eh,'              'i I.    tin   I,   ,\n, 1   ii a    '   i    1        ' diuty days\n;\u201e nilvaui'r'  in   the official paper of the cumin.m published in Nov;\ni \\   i -hall form\na quorum lo do business in ihe city.' The list-, for subscriptions shall\nbe closed on'b    li   t day of     i n   lb.    ttliscription shall\nnot amount to three hundred thousand dollars at that date, then they\nshall be closed as soon as said amount -hall have been subscribed.\nAs soon as tho subscription li.-ts shah be clu-ed, lliev shall all be\nreturned to New Orleans for registry  in the   office of the Recorder\n8    Immedn 1       1 isl Board of Directors,\n-hall he opened for a term of four months, in\nthis State and elsewhere, as the said Board of Directors may deem\n\u2022\"i\"    Hi ,11  be   given thereof in a newspaper\npublished at the place whore said sumseripiiotr books are opened ;\n\"nd the Board shall have power to appoint agents for receiving the\n\"'\"1'scriptions. At the end of the said fur months, if tho amount of\n\u25a0\"'\u25a0   in   i -:.   :1 1   the   erijiilai   required, a meeting of stock-\n'\"'Wl'rs 'mi! subscribers shall be held, to determine whether the\ncapital shall be increased to the whole amount of subscription ;   and\n\"   *e capital  he g,  '    ,.,    i .,..,.:, .ml. then   1 ho    number   of   allures   sill,-\nscribed shall be redute 1        le   . . nt t     1   mip'tii","fullrs":{},"find":"2344.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2343","restrictionCode":"1","cdmfilesize":"500293","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

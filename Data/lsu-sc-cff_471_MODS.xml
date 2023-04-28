@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>F13</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1176</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1176</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1176/json"
+                        timestamp="2017-01-13 13:22:55">{"title":"F13","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nF 13\nA Monsieur Don martin Duralde\nCapitaine de milice, et Commandant civil,\n&amp; Militaire des opeloussas\nSuzanne moreau veuve de don\nDonato Bello lieutenant d\u2019infenterie et\nadjudant major des milices de Ceposte \u222be\nPr\u00e9sente par devant vous avec tous le respect\nqu\u2019il vous est due ; Disent que mon n\u00e9gre\nfran\u00e7ois qui est mort le 8 de fevrier dernier auroit\nacheyt\u00e9, du mulatre george Bolard \u222bonparin,\nil y a aux environ douze ans une pouliche\nPour des cochons, la quelle depuis ce temps\na eu plusieurs Ecroix, les quels portent la\nmarque a L\u2019enver du dit george \u222bure L\u00e9paul,\na la r\u00e9serve d\u2019une de \u222bes \u222buivantes que le\n\u222busdit negre a fait marquer de l\u00e9tampe du fils\nde marie glaude, vue que la marque de \u222bonparin\nne \u222be trouvoit pas chez lui pour \u222b\u2019en \u222bervire\nComme ils etoient convenues \u061f est-il vraisemblable\nque \u222by \u222bes betes chavalinnes eussent appartenus\na george, comme il veut me le faire croire, qu\u2019il\nauroit \u222bouffert que mon negre eut fait marquer\nCette Bette a une marque \u00e9trangere, sans\nVenir me porter plainte, ou sans avoir\nprie des m\u00e9sures pour faire Contremarquer\nCette animal.\n2\nF 13\n\u222by \u222bes zanimaux eussent r\u00e9ellement apparten\u00fbs\na george, il n\u2019auroit pas Eu la pr\u00e9caution de marquer\nCette Pouliche a l\u00f3rs, et les Ecroix qui provienne d\u2019elle\nDe \u222ba marque a L\u2019enver sur L\u00e9paul, L\u2019ors quils\n\u222bont les \u222beuls Bettes chavalines, a cette marque\nmarqu\u00e9 de cette fa\u00e7on \u061f george a Busse de la\nConfiance qu\u2019a eu ce negre en luy comme \u00e9tant\n\u222bonparin, et pour ce mettre a la brie des \u2013\nordonnances qui du tems de monsieur le chevalier\nD\u00e9clouet, de m\u00eame qu\u2019a pr\u00e9sent d\u00e9fendoient\nExpr\u00e9ssement que les esclaves eussent des propri\u00e9t\u00e9s,\nLa d\u00e9licatesse de mon Epoux a faitte que ces Bettes\nneportent pas mon Etampe.\nD\u2019ailleur il est a la connaissance de plusieurs\nPersonnes que mon negre a vendue il y a deux\nans une \u00e9croix de cette jument a un irlandois\nnomm\u00e9 Patrik pour un vaire de vin,\net une pi\u00e8ce de nanquin \u222bans que le dit george\n\u222be \u222boit opposs\u00e9 ; en outre monsieur je d\u00e9sirais\nque vous fassiez Comparoitre [Bte tisons] ____\na fin qu\u2019il vous d\u00e9clare \u222bous \u222berment \u222bi il est\nBien vrai que mon negre etoit maittre devendre\nLes chevaux provenant d\u2019une jument connu \u222bous\nLe nom de ginigrine ; \u222bi cela ne \u222buffit pas\nPour Convaincre le \u222busdit george je luy ____\nProuverez qu\u2019il a lui m\u00eame acheyt\u00e9 de mon\nnegre un cheval tordille, \u00e9croix de cette ____\njument \u222by dessus d\u00e9sign\u00e9, pour le prix de\ntrente piastres, \u222bur Les quels il a donn\u00e9 a 3\nF 13\nMon Negre une culotte de toille crue, et a ____\nR\u00e9pondu a monsr du brocar \u222bix piastres qu\u2019il\nlui devoit ; il me parois que george Loin de\nreclamer des Bettes chavalines de mon negre\ndevroit \u222bolder entre mes mains ce qu\u2019il reste\ndavoir pour ce cheval.\nLa \u222bupliante espere devotre int\u00e9grit\u00e9\nMonsieur que vous contraindrez le dit\nGeorge Bollard a ramenner chez moy cette\njument ginigrine et trois \u222buivants quelle\na avec elle, que le dit mulatre a pris zyere\nchez moy, malgr\u00e9 que je luy ay representer\nqu\u2019il faisoit mal de \u222b\u2019en emparer \u222bans que\nvous en Eussiez ordonn\u00e9, ce que je puis vous\nfaire atester par \u222bon gendre qui etoit avec lui\nDe m\u00eame qu\u2019il vous plaisse lui ordonner\nde Contremarquer \u222bes zanimaux a ma\nrequisition.\nCest l\u2019a grace qu\u2019espere la \u222bupliante\nfaisant des voeux pour la conservation de\nvos jours. opeloussas Le 12 mars 1795\nsuzanne moreaux v. Donato Bello","typa":{},"genera":{},"fullrs":"Volume5\/F13-0.pdf","find":"1177.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1176","restrictionCode":"1","cdmfilesize":"52408","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

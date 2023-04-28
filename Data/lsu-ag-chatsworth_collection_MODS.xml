@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Chatsworth Plantation Store Records</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/n83188670"
+        displayLabel="Contributing Repository">
+     <namePart>Louisiana State University Agricultural Center</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>mixed material</typeOfResource>
+  <abstract displayLabel="Collection Summary">The papers relate to the operation of the store and plantation at Chatsworth, and to the Gardere and Staring families. The bulk of the material consists of store ledgers, which record accounts and laborers' payrolls. There is also material from a plantation journal in French and English, possibly written in part by Fergus Gardere. Miscellaneous material includes legal and business papers of Joseph Staring and letters to Fergus Gardere.</abstract>
+  <note type="content" displayLabel="Collection Description">The papers relate to the operation of the store and plantation at Chatsworth, and to the Gardere and Staring families. The bulk of the material consists of store ledgers, which record accounts and laborers' payrolls. There is also material from a plantation journal in French and English, possibly written in part by Fergus Gardere. Miscellaneous material includes legal and business papers of Joseph Staring and letters to Fergus Gardere.</note>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <identifier type="local" displayLabel="Collection ID">lsu-ag-chatsworth</identifier>
+</mods>

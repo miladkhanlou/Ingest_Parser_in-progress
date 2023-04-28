@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Coral flats</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+      </role>
+      <namePart>Russell, Richard Joel, 1895-</namePart>
+   </name>
+   <subject authority="lcsh">
+      <topic>Beachrock</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Puerto Rico</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Corals</topic>
+   </subject>
+   <extension>
+      <hiddenDescription>Slide of tombolo bed symmetry at Las Palmas Altas.</hiddenDescription>
+   </extension>
+   <note type="content">Slide Rus 24-6.</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <extent>5 x 5 cm.</extent>
+   </physicalDescription>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Beachrock Research Slides of Richard J. Russell</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-brs:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by H. Jesse Walker, Boyd Professor Emeritus, Department of Geography and Anthropology, Louisiana State University. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Beachrock Research Slides of Richard J. Russell, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">br000460</identifier>
+   <identifier type="uri" invalid="yes" displayLabel="Migrated From">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/BRS/id/456</identifier>
+   <recordInfo>
+      <recordCreationDate>2004-08-16</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>BRS</alias>
+         <pointer>456</pointer>
+         <dmGetItemInfo timestamp="2016-08-03 10:50:47"
+                        mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/BRS/456/json">{"title":"Coral flats","creato":"Russell, Richard Joel, 1895-","date":{},"subjec":"Beachrock;Puerto Rico;Corals;","descri":"Slide of tombolo bed symmetry at Las Palmas Altas.","notes":"5 x 5 cm.;Slide Rus 24-6.","langua":"en","type":"Image","relati":"Beachrock Research Slides of Richard J. Russell","source":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","rights":"Physical rights are retained by H. Jesse Walker, Boyd Professor Emeritus, Department of Geography and Anthropology, Louisiana State University. Copyright is retained in accordance with U. S. copyright laws.","cite":"Beachrock Research Slides of Richard J. Russell, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":"br000460","item":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_BRS.php?CISOROOT=%2FBRS","fullrs":{},"find":"14654181962003_br000460.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2004-08-16","dmmodified":"2004-08-16","dmoclcno":{},"dmrecord":"456","restrictionCode":"1","cdmfilesize":"384545","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

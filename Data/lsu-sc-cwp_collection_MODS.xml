@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Civil War Photograph Album, 1862-1900</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The Civil War Photograph Album contains portraits of military personnel who fought during the American Civil War, 1861-1865. The album has 50 pages; each page has a capacity for four (4) photographs, and most of the photographs (cartes-de-visite) are Confederate enlisted men and officers. This photograph album can be viewed at Louisiana State University's Hill Memorial Library.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The collection contains a total of one hundred thirty seven (137) cartes-de-visite (1862-1900,undated), and thirty (30) modern black and white copies (March 9, 1984) of some of those cartes-de-visite. Of the cartes-de-visite, one hundred twenty nine (129) are individual portraits, three (3) are group portraits, and five (5) are copy photographs of art works used as filler cards.The modern black and white copies where created by the Photoduplications Department of the Louisiana State University on 1984 and represent twenty-nine (29) individual portraits and one (1) group portrait.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;&lt;a href="http://www.lib.lsu.edu/special/findaid/2572.pdf" target="_blank"&gt;View collection Finding Aid&lt;/a&gt;&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Photographs of officers in Civil War uniforms.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-cwp</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_CWP</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_CWP</identifier>
+</mods>

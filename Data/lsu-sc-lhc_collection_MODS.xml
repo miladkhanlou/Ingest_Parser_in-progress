@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Louis Hasslemans' Musicians Photographs</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;Louis Hasselmans was the son of the Belgian harpist Alphonse Hasselmans and the grandson of Joseph Hasselmans. He received his musical education at the Paris Conservatoire where he studied cello, composition, and conducting. He toured Europe as cellist with the Capet Quartet (1893-1909) and had his debut as a conductor with the Lamoureaux Orchestra in Paris in 1905. His conducting career began in 1909 and included seasons with the Opera Comique in Paris (1909-1911); in Montreal, Canada (1911-1913); with the Chicago Civic Opera (1918-1920); and the Metropolitan Opera as its director of French repertory (1921-1936). Hasselmans was a professor of music at Louisiana State University (1936-1948). He was married to Minnie Egener and died in San Juan, Puerto Rico in 1957.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;This digital collection consists of portrait publicity photographs of Metropolitan Opera performers and a photograph of Louis Hasselmans. The original photographs are housed at LSU Libraries' Special Collections Library.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Photographs include autographed studio portraits of Metropolitan Opera singers, Lionel Barrymore, and several unidentified individuals.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-lhc</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_LHC</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_LHC</identifier>
+</mods>

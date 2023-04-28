@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>New Orleans Negative Exposures and Prints, circa 1900-1930</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The New Orleans Negative Exposures and Prints Collection contains images that document New Orleans architecture and famous buildings such as the Cabildo, the Presbytere, the Pontalba Building, the Old Absinthe House, the Hotel Monteleone, and others, urban public spaces, and boats on the river near Girod Street landing just upriver from the French Quarter. A minority of the images documents private residences and United Fruit Company pier-side operations. The original images date from 1920 to 1930.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;For this project, modern photographic prints printed from the original nitrate negatives were scanned. The advanced state of decay of one of the negatives (176223b - Queen and Crescent Building) made it unprintable.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The majority of the images document New Orleans architecture and famous buildings such as the Cabildo, the Presbytere, the Pontalba Building, the Old Absinthe House, the Hotel Monteleone, and others, urban public spaces, and boats on the river near Girod Street pier just upriver from the French Quarter. A minority of the images documents private residences and United Fruit Company pier-side operations. The original images are located at the LSU Libraries Special Collections Library.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-nonegexposures</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/NONegExposures</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/NONegExposures</identifier>
+</mods>

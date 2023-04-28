@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>500 DOLLARS REWARD.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000181</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J. Leeds</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1837-03-23</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1837</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1837-03-22</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">500 DOLLARS REWARD, WILL be given for apprehending and lodging in jail the negro JERRY who absconded, it is supposed, on board the Steamer Columbus, for Cincinnati, about ten days since. Jerry is about 45 years of age, five feet ten or eleven inches in height,  ound stooped shoulders, very talkative and familar, fond of bartering and trading in horses, having been a hack-driver for some time past in this city. Jerry has no doubt obtained forged papers. his wife, who is free, accompanied him. She is a negress of small stature, and very talkative also. It is supposed he has assumed the name of WILLIAM, and that his wife calls him by that name. 100 dollars will be paid for securing him in any jail in this State; and 500 dollars for lodging him in any jail, if taken out of the State, with all reasonable expenses, besides, for bringing here. J. LEEDS New Orleans, March 23, 1837 m 2</abstract>
+   <note type="content" displayLabel="Slave Name (Age)">Jerry or William (45); wife</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>True American. : (New Orleans [La.]) 1835-18??</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-03-23/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-03-27/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-03-29/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-04/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-05/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-06/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-07/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-10/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-11/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-12/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-13/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-14/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-15/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-17/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-18/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-19/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-20/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-21/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-22/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-24/ed-1/seq-4/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-26/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-27/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1837-04-28/ed-1/seq-3/ </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83016527</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/376</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-12-11</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>376</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/376/json"
+                        timestamp="2017-02-13 13:32:46">{"title":"RSA00000181","object":"sn 83016527","publia":"True American. : (New Orleans [La.]) 1835-18??","date":"1837-03-23","year":"1837","film":"page 2, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-03-23\/ed-1\/seq-2\/","unique":"500 DOLLARS REWARD.","person":"J. Leeds","parish":"New Orleans, La.","digita":"1837-03-22","acknow":{},"public":{},"town":{},"relati":"Jerry or William (45); wife","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"500 DOLLARS REWARD, WILL be given for apprehending and lodging in jail the negro JERRY who absconded, it is supposed, on board the Steamer Columbus, for Cincinnati, about ten days since. Jerry is about 45 years of age, five feet ten or eleven inches in height,  ound stooped shoulders, very talkative and familar, fond of bartering and trading in horses, having been a hack-driver for some time past in this city. Jerry has no doubt obtained forged papers. his wife, who is free, accompanied him. She is a negress of small stature, and very talkative also. It is supposed he has assumed the name of WILLIAM, and that his wife calls him by that name. 100 dollars will be paid for securing him in any jail in this State; and 500 dollars for lodging him in any jail, if taken out of the State, with all reasonable expenses, besides, for bringing here. J. LEEDS New Orleans, March 23, 1837 m 2","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Women slaves--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-03-27\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-03-29\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-04\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-05\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-06\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-07\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-10\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-11\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-12\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-13\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-14\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-15\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-17\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-18\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-19\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-20\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-21\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-22\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-24\/ed-1\/seq-4\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-26\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-27\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1837-04-28\/ed-1\/seq-3\/ ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000181.jp2","find":"428.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-11","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"376","restrictionCode":"1","cdmfilesize":"143140","cdmfilesizeformatted":"0.14 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

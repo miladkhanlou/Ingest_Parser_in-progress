@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>iii</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1491</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1491</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1491/json"
+                        timestamp="2017-02-03 08:23:09">{"title":"iii","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"M&lt;\"\"\nLes coniit\u00a3s de vigilance sout une institution puremont\nam^ricaine. Le mot institution convient a, la ebose qui est ea\neffet organiquo et constitutionnelle ici. On peut regarder a\ntoute beure les Etats qui ont forme jusqu'a ce jour la gfcrtrae\nconfederation qui se dissout, a toute heuve il y a quelquc J&amp;rt\nun comite\" dc vigilance. Un observateur superfieiel des faits,\nse placant a l'unique point de vue de la theorie et se livran'\na une critique abstraite, protesterait tout d'abord contrc cs\nremede nomade et le comparcrait a un rbumatisme qui voyage\ndans le corps bumain et en affiige successivement les diverse??\nparties. Mais cette premiere impression serait fausse. II est ph.4\nvrai de dire que les comite\"s de vigilance sont la tente ou la\njustice, exiteede son sanctuaire, promene son appareil martial\net venge, tantot sur un point, tant&lt;5fc sur un autre, les injures\nqu'elle a recues.\nLes conrites de vigilance, en un mot, sont l'application du\ndroit d'insunection, droit plus ou moins reconuu et proclame\ndans toutes les constitutions politiques modernes. Quand lo\njoug d'un gouvernement devient trop lourd a un peuple, qu'il\nviole los droits de ce peuple, l'iusurrectiou delate et tuc le\ngouvernement.\nAux Etats-Unis, ilne s'agissait pas seulement de gouvernement,   &lt;)n salt quel peu de denote y presente la population,","fullrs":{},"find":"1492.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1491","restrictionCode":"1","cdmfilesize":"435651","cdmfilesizeformatted":"0.42 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

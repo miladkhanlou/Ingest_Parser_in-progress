@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00000323f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">DETENU á la geôle de la paroissse St-Jean-Baptiste, le nègre GEORGES, disant appartenir à M. John McCutcheon, de la paroisse Plaquemines, en ban de la ville, taille de 5 pieds 4 pouces, marron, d'après sa version, depuis six mois; àgé d'environ 30 ans, pariant l'anglais. Le proprietaire est par le présentes dûment notifié de réclaimer sa propriété conformément à la loi. Paroisee St-Jean Baptiste, ce 25 novembre 1859. URSIN JACOB, Shérif. </abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <location/>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/912</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>912</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/912/json"
+                        timestamp="2017-02-13 13:34:13">{"title":"RSA00000323f","object":{},"publia":{},"date":{},"year":{},"film":{},"altern":{},"unique":{},"person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"DETENU \u00e1 la ge\u00f4le de la paroissse St-Jean-Baptiste, le n\u00e8gre GEORGES, disant appartenir \u00e0 M. John McCutcheon, de la paroisse Plaquemines, en ban de la ville, taille de 5 pieds 4 pouces, marron, d'apr\u00e8s sa version, depuis six mois; \u00e0g\u00e9 d'environ 30 ans, pariant l'anglais. Le proprietaire est par le pr\u00e9sentes d\u00fbment notifi\u00e9 de r\u00e9claimer sa propri\u00e9t\u00e9 conform\u00e9ment \u00e0 la loi. Paroisee St-Jean Baptiste, ce 25 novembre 1859. URSIN JACOB, Sh\u00e9rif. ","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume4\/RSA00000323f-0.jp2","find":"976.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-02-24","dmoclcno":{},"dmrecord":"912","restrictionCode":"1","cdmfilesize":"60554","cdmfilesizeformatted":"0.06 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

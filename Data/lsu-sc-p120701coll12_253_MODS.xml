@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 03</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/525</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>525</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/525/json"
+                        timestamp="2017-02-09 16:31:04">{"title":"Page 03","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"iKn presented ; and where can you find a more ample field\n\u2022  ,|1(J display of your genius, than I have endenvored to lay\nopen before you.    It  is a field in which you can, with nil\npropriety, be laborers, and in which your labors will be re-\n\u2022aid by a rich harvest,    Need I point you to individual exiles?   Almost every age and every department of literature can boast of a female patron.    Greece had her Sappho,\nand Romo her Erinna, both accomplished poets.    France\n]ler\" Madame de Stael,\" and England her Lady Jane Gray,\nI 'both of these were accomplished in the classics; nnd Italy\ncan boast many a fine musician.    But our own country and\nour own age can boast of poets, novelists, and historians\u2014a\ndistinguished.    There isno reason, then, why they should not\npossess that influence which education nnd refinement are calculated to give them.    But there is every reason for us to\nlake courage in our endeavors to raise higher the standard of\nfemale education.    Where was ever the same opportunity\ngiven to a lady for obtaining an education that is given to the\nother sex, that her improvement did not surpass the expectation of the most sanguine?    Such is the elasticity of spirit,\nfitch the vivacity of mind, such the quickness of perception,\nan J such the volubility of woman, that she is ever ready to\nyield to the impulse of pleasing emotion, and to borrow lustre from the fleeting refinements that occasionally light up the\nmonotony of life; and the imagination, quick as the lightning's flash, traverses the fair fields of nature, and from\nthence gathers copious materials for delightful and interesting\nconversation.    So quick and so ready are ladies in conversation. tlj.it it has grown into a proverb, that woman    *    *    *\n'   \u2022    *.    There is no consideration, however, that should\npresent so great inducements to you for study and improvement as usefulness.    This should be the great desideratum,\nreared, and consecrated for our holy dwelling place, is full\nof strength and majesty, but it requires the embellishment of\ntaste, and the delicate beauties of refinement, to soften that\nstrength, and to impart gracefulness to that majesty. I love\nthis dwelling place above all others on the earth. I believe\nthat God has placed us in it for glorious purposes\u2014to de-\nmonstiate the capacity of man to govern each other in a republican foim\u2014to prove again, that taste, and beauty, and\nelegance, and refinement, spring from a government in such\na form, as in Greece and Rome of old, Venice, Florence,\nPisa, and Genoa, of the middle ages. I think I see its august\ndestiny traced out on the very geography ofthis land\u2014in the\nlength and breadth, and volume of its rivers\u2014in the grandeur of its hills and mountains, and the roar of ils cataract.\nMy ardent prayer to heaven is, we may be worthy of its destiny\u2014we may shame tyranny and misgovcrnmenttho world\nover\u2014we may throw up such a beacon-light as will tempt\nnations to follow us. The way is, to foster the high and intellectual nature of man\u2014to cherish the fine oils of painting,\nmusic, and sculpture, that soften and harmonize the world\u2014\nto polish society as it can be, by the lesser graces on earth,\nlift us to the graces of heaven. Now we have laid broad and\ndeep the foundations of this temple of liberty, we must form\nthe man and woman that enter it. We must make melodious the discordant notes of a tumultuous world. Society\nmust be tuned, and'conversation, which are its notes, must be\nfitted for the great trumpet ofthe goddess Liberty, that is to\nsound in the ears of an admiring world. There is a sympathetic link in the chain of social intercourse, that quivers as\nlis touched. The tones of a whole society are like the airs\nthat float through the yEolian harp. If the summer breeze\nbut gambols over ils strings, it sends forth sweet and sooth-\nIt is your influence, ladies, that must be exerted in behalf ofjing strains; but if the boisterous storm runs roughly over the\nevery good cause, before its advancement shall be rapid. All chords, it flings off notes harsh and discordant.    The tone of\nyour reading and study, all your accomplishments, and all\nyour embellishments, are calculated ultimately to give more\nstrength to your influence and increase your usefulness.  Th\ndress and external appearance has often much to do in recommending to us what is useful.\nOf two things, which are equally useful, wo prefer that\nwhich has the most charms for the eye. So it is with every\nthing-. In speaking we prefer the beautiful and well turned\nperiod to a tedious and formal recital of facts. Your usefulness, like your influence, ladies, should know no bounds;\nand you need not go abroad while so much remains to be\ndone at home. It is an old aphorism that charity begins at\nhome; and here let the work commence, and extend, until\nthe whole tone und character of society shall be exalted and\npurified\u2014until every vice and immorality shall be done\n'Way, and truth, virtue and justice reign throughout our borders. Ladies, it is for you to say whether this change shall\nlake place. Say it and the work will commence. To you\n\u2022a entrusted the care and protection of the rising generation.\n\u00ab is for you to form their minds and direct them in the proper course. You must prepare them to receive the legacy-\nleft us by our fathers, and which we shall soon have to transmit to them.\n\"The beautiful temple of liberty which our fathers have\nelevated society, and the converse of genial hearts, are like\nthe melodious notes that sprang from Memnon's statue, when\ntouched by the rays ol the morning sun. But tune society,\nand it will pour forth melodies from a thousand strings.\"\nLet American matrons but be determined to dedicate\ntheir offspring to eternal virtue and truth, then will the stability of our republican institutions be as firm and enduring as\nthe everlasting hills, and our fame as bright as a lamp that\nburns.\nEXTRACT OF A  LECTURE\nON THE rllVSICAL AND  CHEMICAL   NATURE   OF   WATER.\nDelivered before Ihe Washington Lyceum, Slay S, 1833. by S. C. Mnwui, M. D\nIn this investigation it may bosufficient for our purposes to\ntake one single drop and watch it in its peregrinations through\nthe earth, performing the different duties that have been assigned to it.\nThe natural relations of one drop being the same as the\nentire mass that fills up the basin of the ocean, we have only\nto ascertain how nature employs this little microcosm and\nwe will be possessed of all the knowledge upon this subject\nthat we can be permitted to acquire.\nAs geology teaches us to believe that water was the grand\nmenstruum that held in solution the chaotic elements of the\nml\nI\nml\n\u25a0 i","fullrs":{},"find":"526.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"525","restrictionCode":"1","cdmfilesize":"1687014","cdmfilesizeformatted":"1.61 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

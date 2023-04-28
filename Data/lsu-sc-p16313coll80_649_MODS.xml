@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Negres en Prison.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000556f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">NEGRES EN PRISON. Il a été conduit à la prison, le 3 Septembre courant, trois nègres, l'un se nommant Butler, et dit être âgé de 24 ans, taille de cinqu pieds, six pouces, ne parlant que l'anglais, ayant bonne mine; Caesar, âgé d'environ 24 ans, taille de 5 pieds, 10 1-2 pouces, ne parlant que l'anglais, faisant bonne contenance quand on lui parle; Haywood, âgé d'environ 19 ans, taille de 5 pieds, 11 pouces, ne parlant que l'anglais, regard en dessous quant on lui parle, fortement construit. Ils disent qui'ils appartiennent à P.C. Bethels, resident à environ trois milles au-dessus de Pattersonville, dans la paroisse Ste. Marie. Le propriétaire des dits esclaves est prié de venir les chereher, payer les frais et les emmener, autrement ils seront disposés conformément à la loi. CHS. THOMPSON, Geôlier. Opelousas, 17 Septembre 1853.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 4
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-09-17/ed-1/seq-1/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/957</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-25</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>957</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/957/json"
+                        timestamp="2017-02-13 13:34:08">{"title":"RSA00000556f","object":"sn 83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 1, column 4\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-09-17\/ed-1\/seq-1\/\n","unique":"Negres en Prison.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"NEGRES EN PRISON. Il a \u00e9t\u00e9 conduit \u00e0 la prison, le 3 Septembre courant, trois n\u00e8gres, l'un se nommant Butler, et dit \u00eatre \u00e2g\u00e9 de 24 ans, taille de cinqu pieds, six pouces, ne parlant que l'anglais, ayant bonne mine; Caesar, \u00e2g\u00e9 d'environ 24 ans, taille de 5 pieds, 10 1-2 pouces, ne parlant que l'anglais, faisant bonne contenance quand on lui parle; Haywood, \u00e2g\u00e9 d'environ 19 ans, taille de 5 pieds, 11 pouces, ne parlant que l'anglais, regard en dessous quant on lui parle, fortement construit. Ils disent qui'ils appartiennent \u00e0 P.C. Bethels, resident \u00e0 environ trois milles au-dessus de Pattersonville, dans la paroisse Ste. Marie. Le propri\u00e9taire des dits esclaves est pri\u00e9 de venir les chereher, payer les frais et les emmener, autrement ils seront dispos\u00e9s conform\u00e9ment \u00e0 la loi. CHS. THOMPSON, Ge\u00f4lier. Opelousas, 17 Septembre 1853.\n","subjec":{},"type":{},"format":{},"langua":"French\n","digitb":{},"digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000556f.jp2","find":"1021.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-25","dmmodified":"2016-02-25","dmoclcno":{},"dmrecord":"957","restrictionCode":"1","cdmfilesize":"180499","cdmfilesizeformatted":"0.17 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

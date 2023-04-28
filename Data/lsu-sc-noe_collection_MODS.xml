@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>New Orleans Centennial Exposition Stereoscopic Views</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The World's Industrial and Cotton Centennial Exposition, held in New Orleans, La., in 1884-1885, celebrated the centenary of the first export of cotton from the United States in 1784. The 249-acre exposition opened late and already in debt, while the exhibits were not all completed until March 1885. The Main Building, the largest exhibit building on the grounds and the largest wooden structure in the world at the time, held exhibits from 30 countries. The Government &amp; States Building hosted exhibits from 45 states and territories, as well as U.S. Government exhibits occupying one third of the floor space.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Horticultural Hall, housing the horticultural and agricultural displays and constructed entirely of glass and wood, was the world's largest structure of its type. The Art Hall opened in February 1885 and proved a success with critics. A total of 1,158,840 visitors were counted as having entered the grounds, far below the estimated 4 million that had been projected. The exposition closed $470,000 in debt.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;This collection consists of 65 stereoscopic photographs of exhibition buildings, exhibit booths, and other city buildings taken during the World's Industrial and Cotton Centennial Exposition held in New Orleans, La., in 1884-1885. They were produced by the Centennial Photographic Company of Philadelphia, Pa.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Stereoscopic views of the World's Industrial and Cotton Centennial Exposition in New Orleans, 1884-5.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-noe</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_NOE</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_NOE</identifier>
+</mods>

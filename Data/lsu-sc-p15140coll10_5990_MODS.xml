@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 57</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1542</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1542</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1542/json"
+                        timestamp="2017-02-03 08:23:11">{"title":"Page 57","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 at \u2014\nseph Guidry, Valsiu Broussard, Martial Billaut et D. Guidry gref-\nfier.\nDouze signatures d'hommes ayant des pairs en honneur, mais pas\nde supdrieurs!\nCe jour-la aussi, le Comite naissant traduisit son premier crimi-\nnel a la barre: ce fut Gudbeer!\nX.\n\u2022\nGudbeer dtait fils de pere et de mere bohemiens. Son berceau\navait dtd appendu on ne sait ou ; les uns disent : en Allemagne ;\nles autres, enLouisiaue ; tout ce que nous pouvons dire de lui, c'est\nqu'il venait du pays d'oii viennent les bohemiens; de la rue, du ba-\ngne, de la boue peut-etre ; mais a coup sur, pas d'un palais.\nSon pere s'dtait fait vaquero, et avait plaute sa tente sous les\nbeaux ombrages du bayou Tortue, sur le chemin qui relie St-Mar-\ntin a Lafayette. De cette tente, que, pour etre veridique, nous ap-\npellerons une cabane, il voyait passer journellement les negres, les\nblancs suspects, les gentilskommes de la nuit, qui abondaient alors\ndans les deux paroisses. Les gentilshommcs avaient pris insensible-\nment Phabitude de toucher la main au bohdmien, puis les rapports\nfroids des premiers jours s'dtaient chaugds en intimitd ; entre honnetes gens, Pamitid vient si vite 1... Et Gudbeer pere recevait depuis\nlongues anudes lesmembres de la gentilhommerie nocturne et sa maison, de joar comme de nuit, dtait toujours pleine et bruyante,\u2014et\nle whisky abondait chez lui! et les cuissots de chevreuil! et les\nquartiers de veau et de bccuf 1 bien qu'on ne lui connut aucun re-\nveuu, et q'il se livrat avec voluptd a la douce vie du far niente....\nSon fils Auguste grandiQsait.\nSa mere etait Alsacienne, parlait franc,ais comme les AllemaudB\nde M. Scribe, tirait les cartes.... un peu moins bien que Mile Lenor-\nmand, et vendait des medecines a ceux qui etaient... fatigues de la\nvie. Hideuse au physique, commcau moral, die ressemblait au trio '\nde sorcieres de Macbeth... Comme elles, elle jetait des herbes dans\nsa chaudiere, et les malades, qu'elle avait envoyes dans la tombe\nu'etaient jamais venus porter plainte devant notre excellent et populaire ami dc St-Martb, le juge Ed. Monge.\nSou \u00a31b Auguste grandissait toujours....","fullrs":{},"find":"1543.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1542","restrictionCode":"1","cdmfilesize":"414354","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

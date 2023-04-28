@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Ralph Sims oral history interview, Session 1</title>
+  </titleInfo>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no94017348"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisianans in the Military Oral History Project</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-military:collection</url>
+      </location>
+  </relatedItem>
+   <identifier type="local" displayLabel="Item Number">SimsRalphT1187b_Session 1 Audio</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

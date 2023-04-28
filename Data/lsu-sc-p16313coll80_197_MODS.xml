@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Brought to the First District Police Prison.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001146</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J. Worrall</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1852-11-10</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Near Plaquemine</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1852</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">BROUGHT to the First District Police Prison-- JOHN, a Black, about 28 years old, 5 feet 4 1/2 inches high ; says he belongs to Mrs. Elizabeth Rose, near Plaquemine. The owner will please comply with the law respecting him. J. WORRALL, Warden. NewOrleans, November 9, 1852. no10 1aw3w</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black</note>
+   <note type="content" displayLabel="Slave Owner">Mrs. Elizabeth Rose</note>
+   <note type="content" displayLabel="Slave Name (Age)">John (28)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 4</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent. ([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-11-10/ed-1/seq-3/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-11-17/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-11-26/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-12-02/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-12-08/ed-1/seq-3/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1180</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1180</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1180/json"
+                        timestamp="2017-02-13 13:32:52">{"title":"RSA00001146","object":"sn82015753","publia":"New Orleans daily crescent. ([New Orleans, La.]) 1851-1866","date":"1852-11-10","year":"1852","film":"page 3, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-11-10\/ed-1\/seq-3\/","unique":"Brought to the First District Police Prison.","person":"J. Worrall","parish":"New Orleans, La.","digita":{},"acknow":{},"public":"Mrs. Elizabeth Rose","town":"near Plaquemine","relati":"John (28)","slave":"M","slavea":"black","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"BROUGHT to the First District Police Prison-- JOHN, a Black, about 28 years old, 5 feet 4 1\/2 inches high ; says he belongs to Mrs. Elizabeth Rose, near Plaquemine. The owner will please comply with the law respecting him. J. WORRALL, Warden. NewOrleans, November 9, 1852. no10 1aw3w","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-11-17\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-11-26\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-12-02\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-12-08\/ed-1\/seq-3\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001146.jpg","find":"1244.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1180","restrictionCode":"1","cdmfilesize":"43914","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

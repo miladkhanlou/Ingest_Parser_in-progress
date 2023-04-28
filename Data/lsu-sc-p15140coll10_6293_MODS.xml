@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 369</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1850</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1850</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1850/json"
+                        timestamp="2017-02-03 08:23:22">{"title":"Page 369","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 369 \u2014\nvoix si basse, qu'on aurait dit la voix a peine articuTfie d'un sylplie,\n\u2014erreur, ami, nous sommes entoures d'un reseau d'ennemis invisibles. U y en a dans le lit du bayou Tortue, dans les hcrbes que\naous foulons, dans les bratiehes qui sont au-dessns de nos tetes,\u2014il\ny en a partout.\"\nValsain tressaiilit; \u2014au silence qui regnait dans la campagne ct\nqui n'avait etc interrompu que par deux coups de feu, il ne se serait jamais eru en aussi mauvaise compagnie.\n\" Oui, nous sommes entoures, poursuivit Desire ; mais heureuse-\nment nos enncmis sont laches... laches comme tout ce qui est bete\n.carnassiero ou oiseau de proie; aimant le vol, ils aiment encore\nplus la vie. La proie les attire, mais, pour la devorer, ils attendent\net attendront toujours que le danger s'eloigne. Cette nuit, ils ne vo-\nleront pas, c'est vrai; mais ce matin, en entrant dans leurs cabanei;,\nla main et la bourse vides, ils diront, eu parodiant, sans s'endouter,\nle mot de 1'empcrear de Home :\" Nou3 avons perdu notre nuit 1\"\n\u2014Mais je 11c vois rien, dit Valsain, en essayant de decbirer avec\nses yeux noir.-;, lo rideau dc tenebres qui noyait presque entie rem en t\nalors hommes ct choses.\n\u2014Tu nc void rien ? Eh bien 1 tends tes regards vers cette branche\nqut sc balance it vingt pas de nous. L'ceil qui est (ait pour contem-\npler lc soleil, peut lire aussi, a livre ouvert, dans les tenebres ; au-\ntrement, oii serait le mutif du titre que, du reste, nous nous sommes\ndonne assez arrogamment nous-memes : celui de rois de la Creation ? Au milieu de ces longs voiles de barbe espagnole, regarde, et\ntu verras, comme je la vois, une tete d'homme, seutinelle perdue qui\nobserve nos propres scntinellcs... Autaut que je puis en jnger, cette\nt\u00a3te n'est pas ou ne doit pas etre b#ile ; mais que veux-tu y faire?\nDepuis que le cbristianisme a dctrone la mythologie, les Apollons\ndu Belvedere et les Venus blondes n'abondeut plus sous lafeuiliee.\n\u2014Je vois ! jo vois 1 murmura Valsain.\n\u2014Eh bien ! lit Desire, il y eu a dix, vingt, trente peut-^tre encore ; e'est-h-dire quatre fois plus qu'il n'en faudrait pour nous cou-\ncher tous daus Its herbes du bayou; maisje Fai dit, ils sontlaches ;\nun couteau les fait fuir ; une gueule de fusil ou de pistolet leur donne\nla fievre ; c'est heureux pour nous, mais quel seduisant avenir pour\nic pays, que 1'etermte* da vol ou du brigandage! Un chancre inde-\nracinable 1 uu cancer sans fin 1... Ah 1 vienne done une bataille avec\n2-J","fullrs":{},"find":"1851.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1850","restrictionCode":"1","cdmfilesize":"395284","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

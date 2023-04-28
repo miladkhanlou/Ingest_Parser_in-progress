@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 33</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2140</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2140</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2140/json"
+                        timestamp="2017-02-03 08:24:46">{"title":"Section 3, Page 33","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"ADDRESS. 33\ntoheresT    The grand conception of such a road is worthy of\na \u2022 and judging from the great conventions that have been held\n\u2022 \"fa'advocacy, it is an idea that has taken too deep hold upon the\n\"liblic mind ever to be eradicated.\nThe Jackson Road, on the other hand, in seeking to connect us\n*th the North-western States and the Great Lakes, and with New-\nSurland and the North, through the North-Alabama, Tennessee, and\nVir\"'inia improvements, is another great work entirely worthy of\nHew-Orleans. This road will greatly facilitate, cheapen, and render\nsafe travel in either direction, as will appear from the following\nstatistics:\nNEW-ORLEANS     IMPROVEMENTS.\n1.\u2014SASTERN   ROUTE.\nN. 0. to Jackson   212\n\"   \" Columbus via. Branch    322\n\"   \" Gunter's Landing, Tennessee River  ..\u2014  452\n\"   \"Knoxville ,.-.   600\n'&lt;    \" White Sulphur Springs.... 770\nFrom the White Sulphur to Richmond, Washington, or Baltimore,\nabont 200 miles by roads already\ncompleted;  say  then  in   all, from\nNew-Orleans to Baltimore    1000\n(Forty hours.)\n2.\u2014NORTH WESTERN  AND LAKE   ROUTE.\nMiles.\nN. O. to Bonnet Carro      24\n\"    \" Donaldsonville      55\n\"    \" Branch to Baton Rouge     70\n\"    \" State Line    110\n\"    \" Jackson, (Miss )   212\n\"    \" Tennessee Line    382\n\"    \" Ohio River, (Cairo)   530\n\"    \" Chicago   830\n''Thirty-six hours)\nNo grades  or inclinations exceeding\nfifteen feet per mile, nor curves of les9\nradii than 10,000 feet, equal nearly to\nlevel and straight.'\u2014(Ranney.)\n3.\u2014WESTERN,   TEXAS,    AND   CALIFORNIA    ROUTE.\nFrom New-Orleans to Plaquemine        60 miles, (River.)\n\" \"  Opelousas     110     \"        \"\n\" \" \"   Sabine River     210     \"        \"\n\"   Paso del Norte 710     \"\n\"  Gulf of California    1350     \"\nA distance to be attained in sixty hours, as there are no snows to be encountered, nor heavy grades.\nThe Committee cannot close their labors without referring to a\nprinciple which has been lately resorted to in many quarters in the\nconstruction of rail-roads, and which has been recommended with\nmuch unanimity in both ofthe conventions which have assembled in\nRKh      ans'    The principle is thus stated in the report of Mr.\nin .folvcd' That a memorial he presented to the legislature of this state, pray\nngjM pasiage of an act providing substantially as follows, viz. :\nlice Juri TTral municipal councils of the city of New-Orleans, and the Po-\nPowrreJit* l 1G resPective parishes situated on the line of the road, be em-\nfimit. *\u00abk T,a,Bp\u20accial tax onthe real estate lying within their respective\nno orainan. ^ the N(w-Orlean8 and Jackson Rail-road tax ; provided that\nteffal votrr f k r&gt;assc(l shaI1 hc binding until approved by a majority of the\nthat the i\u201e! locality, at a special election called for that purpose, and\n8t\u00b0ck in the com by \"^ illdividual sha11 cntitle him to an equal amount of\nTenneS^PrinA!rPle has been resorted to in Kentucky, parts of Ohio,\n\u25a0mod-Sir Mls*f siPP!' the &lt;% of Mobile, &amp;c, with more or less\nn&gt; and the legality and constitutionality of it has been sus-","fullrs":{},"find":"2141.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2140","restrictionCode":"1","cdmfilesize":"546470","cdmfilesizeformatted":"0.52 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

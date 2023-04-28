@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 9</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1406</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1406</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1406/json"
+                        timestamp="2017-02-03 08:24:39">{"title":"Page 9","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"count on\naleso\nf new bonds, to meet  mate\nc.l  obligations.\nand by d\nI am no\nities (linn those\nhe estimated debt..n.,1 llier\n(obclievi\ncoiifldciitl.   trust, thai  the\nebt will hence-\nebts, andtonoothe\npurpos\nlfoldoi\nthe old Corporatio\nnils upon anplieali\nn to the\n'ennuis-:\ntted Debt.\nFrom the foregoir.\nriffled by the best\nlegal \u201e,\n1 solid s,\nRailroad Bonds.\u2014The bonds issued for I    . .      .\nto the Stock of the New Orleans, Jackson and Great North-\nern Railroad Company, $2,000,000\u2014and to the Stock of\nthe Nek Orleans, Opelousas and Great Western Railroad\nCompany, $1,500,000, are issued under the provisions of\nOrdinances of the Common Council, approved 7th April,\n1854, which Ordinal.,,- were rafiliod and approved by a","fullrs":{},"find":"1407.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1406","restrictionCode":"1","cdmfilesize":"430714","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

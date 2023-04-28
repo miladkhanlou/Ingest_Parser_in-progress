@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 9</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2052</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2052</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2052/json"
+                        timestamp="2017-02-03 08:24:42">{"title":"Page 9","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"that their police juries be instructed by the\nparishes respectively to apply to the Legislature\nfor specific authority to subscribe a specific sum,\nbearing an interest of 6 per cent, per annum,\npayable in twenty years\u2014one-twentieth of the\nprincipal and the whole interest payable annually;\nand that before the bonds be issued, the necessary ad valorem tax be laid, to pay the whole\namount, as above stated, in twenty years\u2014the\npeople of each parish to vote upon the law,\nafter its passage, to ascertain whether they accept\nits obligations and provisions or not, before any\ndebt be contracted. This road, as will be seen\ndirectly, will nay a dividend over 10 per cent, on\nits capital stock. The parishes would then have\nto pay the first, second and third years' installments, by which time the road would be finished,\nand the dividends on a subscription of $300,000\nby any parish, would for the remaining seventeen\nyears, pay the whole amount of subscription, return\nthe first, second and third installments (paid by\nthe parish as above stated) back to the planter, or\nthe parish, as might be determined by themselves;\nand at the end of the twenty years, when their last\nbond was paid, with its interest, the parish would\nhave $21,000 in the treasury, and be the owners\nof $300,000 of stock, bearing an interest annually\nof 10 per cent. This sum would forever free the\nparish from all subsequent parish taxes, and would\nmake branch railroads\u2014first, to all principal neighborhoods, then to every man's sugar house and\ngin\u2014thus interlacing their parish with railroads\nin every possible direction, and that too, without\n2","fullrs":{},"find":"2053.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2052","restrictionCode":"1","cdmfilesize":"480423","cdmfilesizeformatted":"0.46 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

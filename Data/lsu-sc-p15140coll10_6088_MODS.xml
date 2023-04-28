@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 158</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1642</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1642</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1642/json"
+                        timestamp="2017-02-03 08:23:14">{"title":"Page 158","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 15S \u2014\nLI.\nAmene a Saint-Martin ct jete dans la prison du Comite, Tiburce\nne tint pas lc serment qu'il avait fait a sa mere. Interroge, il comprit que le qnart-d'heure de jiiabclais etait arrive pour lui.\nVoici sa deposition copiee litteralcment, comme toutes cellos dc\nSaint-Mar tin ;\nII dit qu'a la tentative de vol chez Mmo Tourneu. il y avait Valery\nPicard, AurUien Picard ct lui, et que c'est Valery Picard qui a tire\nsur le jeune Tourneu, apres avoir esstiye son feu. Pcrsonne n'aite\nblessd; fee fait est dementi par plusieurs temoignages).\nChez Georges Lognan, il a commis le vol en compugnie de Prosper\nGrand, Maximin Rouly, Estcve, Manoel, Valery et Auri'lien Picard.\nCes deux derniers et lui avaient amene une charrette oil ils ont mis\nles marchandises voices. II y avait des indienues et des pieces de coton fin.\nLe partage s'est fait dans la p'rairie, en allant a Pile des Cypres.\nManoel et Prosper etaient amies chacun d'un revolver.\nJames Reed etait avec eux.\nProsper et Reed ont ouvert la porte, apres s'etre introduits daus le\nmagasin par une lucarne. Ils ont allume une chanclelle.\nReed, Prosper et Manoel faisaient passer les muicliaudisesa leurs\ncamarades qui etaient dehors, lorsque Georges Lognan se leva. Sau-\nvons-nous ! erierent Reed et Manoel.\nLorsqu'on devait eouunettre un vol, le rendez-vous etait chez Manoel. Prosper, Manoel et Tiburce etaient les trois chefs do la bande.\nChez M. Beraud, il a vole avec les individus deja eonnus ; il a vendu\nsa part de butiii a Reed.\nChez MM. Marais &amp;- Saint-Gerinain, ils ont fait une tentative qui\nn'a pas reussi. Prosper a perce les trous de la porte.\u2014Dans tous leurs\nvols, ils marchaieut parfaitement armee.\nII dit que Bernard Romero (l'expulse de 1'ile des Cypres) a garde\nplus d'un an chez lui une negressc inarronne appartcmuit a Alex. Roy,\net qu'il la faisait travailler au clos sous des habits d'homnie. Sachant\nqu'on faisait des perquisitions, celui-ci la congediu ; olors elle alia\nse cacher chez uue negresse de Mine John Frederick. Plus tard, elle\nfut arretee chez un negre de- M. Charles Gautliier.\nLe meme Romero et son his disaient qu'ils feraieut feu sur tous\nceux qui viendraient arreter 1\" J\nComme on voit, la deposition de Hulin venait tard, mais ni ses\ncompagnons, ni le Comite n'avaient perdu a attendre.\nQuelques jours apres, il ne restait plus a Saint-Martinville un\neeui des mi; enables qui, pendant plusieurs annees, eu avaient pilie et","fullrs":{},"find":"1643.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1642","restrictionCode":"1","cdmfilesize":"418018","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>April in Portugal</title>
+   </titleInfo>
+   <titleInfo type="alternative" displayLabel="First Line">
+      <title>I found my April dream in Portugal with you</title>
+   </titleInfo>
+   <name type="personal">
+      <namePart>Ferrão, Raul</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Composer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cmp</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart>Galhardo, Jose</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Lyricist</roleTerm>
+         <roleTerm type="code" authority="marcrelator">lyr</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart>Kennedy, Jimmy</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Translator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart>Larue, Jacques</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Translator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart>Damone, Vic</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Performer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">prf</roleTerm>
+      </role>
+   </name>
+   <name type="corporate"
+         authority="local"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries: Carter Music Resources Center</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>Chappell and Co.</publisher>
+      <dateIssued keyDate="yes">1953</dateIssued>
+   </originInfo>
+   <note type="content" displayLabel="Instrumentation">Voice; Piano; Ukulele</note>
+   <note type="content">Text in French and English. Includes ukulele tablature and chord symbols.</note>
+   <note type="key" displayLabel="Key Signature">C major</note>
+   <typeOfResource>notated music</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">sheet music</form>
+      <internetMediaType>application/pdf</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre type="style" displayLabel="Style" authority="local">Popular</genre>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Music Resources Sheet Music Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-music-p16313coll69:collection</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Library: Carter Music Resources Center</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail diglib@lsu.edu with questions or comments about the digital collection. Visit LSU Libraries Music Resources (http://www.lib.lsu.edu/music/) to see the original item. Identify the item using the "Call number" in any questions, comments, or requests.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Music Resources Department, Louisiana State University Libraries.</accessCondition>
+   <identifier type="local" displayLabel="Call Number">PVK1138</identifier>
+   <identifier type="local" displayLabel="Publisher Number">1881-3</identifier>
+   <identifier type="local" displayLabel="File Name">1953PVK1138.pdf</identifier>
+   <recordInfo>
+      <recordContentSource>lsu/rmt</recordContentSource>
+      <recordCreationDate>2018-10-29</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

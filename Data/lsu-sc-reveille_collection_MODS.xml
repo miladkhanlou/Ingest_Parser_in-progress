@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Reveille</title>
+  </titleInfo>
+  <name type="corporate" displayLabel="Owning Institution">
+    <namePart>Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Repository</roleTerm>
+      <roleTerm authority="marcrelator" type="code">rps</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">diglib@lsu.edu</accessCondition>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-reveille</identifier>
+</mods>

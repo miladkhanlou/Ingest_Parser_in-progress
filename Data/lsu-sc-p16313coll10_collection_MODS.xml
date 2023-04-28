@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>LSU Libraries Postcard Collections</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;This digital collection contains two different postcard collections found in the LSU Libraries Special Collections Louisiana and Lower Mississippi Valley manuscript collections.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The &lt;strong&gt; Mississippi and Louisiana postcard collection, 1906-1939 &lt;/strong&gt; contains 93 items.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The postcards in this collection depict commercial buildings, residences, churches, monuments, hotels, schools, and streets mostly situated in Bay St. Louis, Miss. Among these buildings and structures are the Osoinach's Opera House, Pass Marian lighthouse, and Our Lady of the Gulf Catholic Church, which was erected in 1850 and destroyed by fire in 1907. Collection also includes similar postcards of buildings and structures in several other Mississippi and Louisiana locations, including New Orleans and Baton Rouge. Others depict storm damage along an unidentified beach. This manuscript group includes materials originally accessioned as Mss. 4483.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The &lt;strong&gt; Louisiana postcard collection, 1904-1951 &lt;/strong&gt; is comprised of 517 items.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The postcards depict subjects in towns and regions of Louisiana and some areas of Mississipi and Wyoming. Louisiana towns and regions best represented in the collection include Abita Springs, Alexandria, Baton Rouge, Bogalusa, Convent, Covington, Donaldsonville, Franklin, Hammond, Houma, Jennings, Lake Charles, Mandeville, Monroe, Morgan City, New Orleans, Plaquemine, Saint Francisville, Shreveport, and Thibodaux. This manuscript group includes materials originally accessioned as Mss. 3645, 3754.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;This collection contains two different postcard collections found in the LSU Libraries Special Collections Louisiana and Lower Mississippi Valley manuscript collections. The Mississippi and Louisiana Postcard Collection contains 93 items and spans from 1906-1939 and the Louisiana Postcard Collection contains 517 items from 1904-1951. Many landmarks in Louisiana and Mississippi are featured in the postcards.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p16313coll10</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p16313coll10</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p16313coll10</identifier>
+</mods>

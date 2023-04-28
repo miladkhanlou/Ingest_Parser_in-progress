@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 73</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1558</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1558</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1558/json"
+                        timestamp="2017-02-03 08:23:12">{"title":"Page 73","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"* \u2014 73 \u2014\nsans distinction de couleur, a la nie\"rae table\u2014et se livrerent a de\"\nnombreuses libations\n' Apr&amp;s les libations, Vint lejeu. Un Irlandais (les enfants de la\nverte Erin n'ont pas de prdjugds) s'assit pour jouer, a cotd de nos\ngrecs en goguette. Le Icnderaain, en se rdveillant, s'il se souvint\nqu'il avait une bourse, il put se convainere, apres do courtes rechcr-\nches, que les dollars qui l'babitaient avaient disparu.\nLorsque 1'Irlandais fut ddpouilld dc sa monnaie, Prefdre prit an\nviolon et se mit a jouer avec cette furie qui distingue les artistes\nnegres, une bamboula qni aurait peut-etre dtd ddsavoude par Gott-\nchalk. Alors negres et blancs seprirent par la main, commencercnt\ndes rondes semblables aux faraudoles toulousaines et burent, sans\ndoute, dans les entractes, a la sainte alliance de 1'Afrique et de\nl'Amerique. Le bal, a la fin, arriva a un tel crescendo que M. Barra,\nquoiqne habitud a la visite de voyageurs excentriques, dut interve-\nnir et faire cesser cette orgie ou les enfants de Cham traitaient trop\nlegorement la raajestd des enfants de Japhet.\nMais, pendant ce banquet frateruel des illustres reprdsentants de\ndeux races ennemies, M. Barra avait eu 1'indiscretion de jeter un\nregard inquisiteur sur le troupeau du Texien.... Apres une minute\nd'examen, lui qui connait toutes les marques du pays, il eprouva\nune dc ces emotions qui sont toujours credes par des conps de theatre.... Le troupeau texien etait louisianais.... II compta quinze bceufs,\nportant l'dtampe de M. Cade, riche propridtaire de bestiaux de la\nparoisse Lafayette, un bceuf de M. Elisd Thibodeaux, &amp;c, &amp;c. C'dtait\nle produit d'une de ces razzias qu'on faisait alors si souvent dans\nnos campagnes   M.  Hippolyte Barra fut convaincu qu'il avait\n1'hoimenr, pea ddsire par lui, d'hdberger une bandc de voleurB.\nL'enquetc demontra qu'Alfred Oril, le Texien-proprietaire, efcait\nun mulatre du nom tVAdolphe, ex-esclave de M. Coqueliu Latiolai9,\nun des plus honorables habitants de la paroisse Lafayette ; que Pre-\nferd ct Pays etaient deux esclaves voisins des Herpin, et que les\ndeux freres Herpin, les guides, seulement les deux guides du troupeau texien, en etaient les souls et uniques propridtaires... propric-\ntaires, a la facon de M. Proudhon, qui a dit depuis longtemps cette\nparole cdlebre :\nLa propriete, c'est le vol!","fullrs":{},"find":"1559.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1558","restrictionCode":"1","cdmfilesize":"402249","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Perine-Giles-Sartain Engravings, circa 19th century</title>
+  </titleInfo>
+  <name type="corporate"
+      authority="naf"
+      authorityURI="http://id.loc.gov/authorities/names"
+      valueURI="http://id.loc.gov/authorities/names/no2015036095"
+      displayLabel="Contributing Repository">
+   <namePart>LSU Libraries. Special Collections</namePart>
+   <role>
+      <roleTerm type="text"
+                authority="marcrelator"
+                authorityURI="http://id.loc.gov/vocabulary/relators"
+                valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+   </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The Perine-Giles-Sartain Engravings comprise a part of the Picture Collection. Included are engravings and lithographs by George Edward Perine, John Sartain, and John Lawrence Giles, depicting historical scenes and events, European rulers, political figures, artists, and other notable individuals of the 19th century.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;This collection contains engravings by George Edward Perine, John Lawrence Giles, and John Sartain. The three were 19th century engravers who depicted historical events, political figures, artists, and other notable individuals. The original engravings are located at the LSU Libraries Special Collections Library.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-sartainengravings</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/SartainEngravings</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/SartainEngravings</identifier>
+</mods>

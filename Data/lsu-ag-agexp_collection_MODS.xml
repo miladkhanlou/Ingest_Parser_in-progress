@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+  <titleInfo>
+      <title>LSU Agricultural Experiment Station Sugar Research Materials</title>
+  </titleInfo>
+  <originInfo>
+      <publisher>LSU Agricultural Experiment Station</publisher>
+  </originInfo>
+  <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh">
+      <topic>Sugar</topic>
+      <topic>Research</topic>
+      <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh">
+      <topic>Sugar</topic>
+      <topic>Manufacture and refining</topic>
+      <topic>Louisiana</topic>
+      <topic>Periodicals</topic>
+  </subject>
+  <subject authority="lcsh">
+      <topic>Sugarcane</topic>
+      <topic>Louisiana</topic>
+      <topic>Periodicals</topic>
+  </subject>
+  <abstract displayLabel="Description">The LSU Agricultural Experiment Station was established in 1885 as a sugar research station funded by the Louisiana Sugar Planters Association. The station’s purpose was "to develop and improve the agricultural interests and resources of Louisiana, especially the cultivation of sugarcane and rice by scientific and agricultural and chemical experiments and to disseminated information connected therewith."</abstract>
+  <typeOfResource>text</typeOfResource>
+  <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+      <recordOrigin>Original MODS based on Louisiana Sugar Resources Collection Data (cmk)</recordOrigin>
+      <recordCreationDate>2018-02-26</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <name type="corporate"
+          authority="naf"
+          authorityURI="http://id.loc.gov/authorities/names"
+          valueURI="http://id.loc.gov/authorities/names/n83188670"
+          displayLabel="Contributing Repository">
+       <namePart>Louisiana State University Agricultural Center</namePart>
+       <role>
+          <roleTerm type="text"
+                    authority="marcrelator"
+                    authorityURI="http://id.loc.gov/vocabulary/relators"
+                    valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+       </role>
+    </name>
+  <note type="content" displayLabel="Collection Description">The LSU Agricultural Experiment Station was established in 1885 as a sugar research station funded by the Louisiana Sugar Planters Association. The station’s purpose was "to develop and improve the agricultural interests and resources of Louisiana, especially the cultivation of sugarcane and rice by scientific and agricultural and chemical experiments and to disseminated information connected therewith." With the passage of the federal Hatch Act of 1887, agriculture research at land grant universities established throughout the US. Today, the Louisiana Agricultural Experiment Station serves as the research arm of the LSU AgCenter. It is composed of academic departments and research stations across Louisiana. Scientists at research stations develop new knowledge and technologies to help agricultural producers provide citizens of the state and the nation with a vast array of food, fiber, and fuel. More information about the Louisiana Agricultural Experiment Station can be found here: http://www.lsuagcenter.com/en/administration/about_us/research/ . The digitization of the LSU Agricultural Experiment Station bulletins was funded through Project Ceres, a program that supports the ongoing preservation and digitization of collections in the field of agriculture. Project Ceres is a partnership between the United States Agriculture Information Network (USAIN), the Agriculture Network Information Center (AgNIC), and the Center for Research Librares (CRL). More information about Project Ceres can be found here: https://www.crl.edu/collections/global-resources-partnership/global-resources-agriculture-partnership</note>
+  <identifier type="local" displayLabel="Collection ID">lsu-ag-agexp</identifier>
+</mods>

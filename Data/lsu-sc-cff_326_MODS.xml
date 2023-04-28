@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_6</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/939</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-08-27</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>939</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/939/json"
+                        timestamp="2017-01-13 13:22:51">{"title":"Page_6","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M69\nd\u2019attendre ce petit mot, je suis\nretourn\u00e9 chez lui et l\u2019on m\u2019a dit\nqu\u2019il \u00e9tait all\u00e9 passer un mois\nau Havre. Je jouais de mal\n-heur d\u2019autant que j\u2019\u00e9tais for\n-c\u00e9 de partir pour les eaux\npour la sant\u00e9 de ma femme\net des [rature] moutards. Me\nvoici de retour \u00e0 Paris. Je suis\nall\u00e9 chez Mr M. Gentilhomme\nque je n\u2019ai pas trouv\u00e9, mais\nj\u2019y mettrai de la persistance et\nd\u2019ici \u00e0 huit jours je saurai \u00e0\nquoi m\u2019en tenir sur son compte\nS\u2019il ne peut m\u2019\u00eatre d\u2019aucune uti\n-lit\u00e9, je verrai \u00e0 me tirer d\u2019af\n-faire tout seul et si quelque\nchose peut se faire, je le ferai.\"\n_ Telle est la copie [rature] textuelle\nde la lettre de Burthe, dont\nl\u2019original est en lieu de suret\u00e9\ncomme dit le Morisseau de\nla Duchesse de la Vaubali\u00e8re_\nenveloppe, timbre de poste, tout\nest l\u00e0, au service de M. M.\nMarcy et Jouanni.\nDonc, si ces Messieurs ont copi\u00e9 leur\n9\n\n","typa":{},"genera":{},"fullrs":{},"find":"940.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-08-27","dmmodified":"2008-08-27","dmoclcno":{},"dmrecord":"939","restrictionCode":"1","cdmfilesize":"1456864","cdmfilesizeformatted":"1.39 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

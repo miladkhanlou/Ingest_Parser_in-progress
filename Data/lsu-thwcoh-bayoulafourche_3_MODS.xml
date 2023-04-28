@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Augustin J. "A.J." LeBlanc, Jr. oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>LeBlanc, A. J., 1947?-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Smith, Courtney</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Hadley, Brooklne</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">2010</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Cajun French dialect</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Cajuns</topic>
+    <topic>Louisiana</topic>
+    <topic>Social life and customs</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Extended families</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Families</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Hurricanes</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Insurance</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Insurance agents</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Petroleum industry and trade</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>Catholic Church</geographic>
+    <geographic>Louisiana</geographic>
+    <geographic>Lafourche Parish</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>LeBlanc, A. J. (Augustin J.), Jr., 1936</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">LeBlanc discusses his French Catholic upbringing, and the importance of community, family, and education in his youth.  He talks about his early marriage and career with Humble Oil, and about switching careers into the nascent insurance industry, in which he had financial and professional success.  He discusses the physical and socioeconomic topography of Bayou Lafourche, talking about its changes over the past sixty years, and its current physical reduction and financial inequalities.  He talks about the impact of hurricanes on Bayou Lafourche.  He discusses his family history and his offspring.  He mentions his participation in a community of local French speakers who are trying to preserve the language, and the importance of doing so.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/bayoulafourche/LeBlanc_Augustin_J_T3939.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.2093. A digital version of the index (pdf) exists for duplication purposes. A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room. Interview conducted by Courtney Smith and Brooklne Hadley.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Augustin "A.J." LeBlanc, was born July 9, 1936, in Lockport, Louisiana, and is one of three sons of Augustin LeBlanc, Sr.  He grew up speaking French at home, and his house did not have electricity until after World War II.  He was raised, and continues to be, an observant Catholic, and education was always emphasized by his parents.  After high school he married and began working for Humble Oil (now Exxon), but left in 1958 to study insurance marketing at University of Southwest Louisiana.  He set up a State Farm-affiliated practice in Larose, which grew to be very successful.  He and his wife have four children and a number of grandchildren, live in Larose and have a camp in Leeville.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>1 digital audio file (1 hour, 11 minutes); Abstract (5 leaves); Index (7 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017361" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Bayou Lafourche oral history project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>Bayou Lafourche oral history series</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-bayoulafourche:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Augustin J. "A.J." LeBlanc, Jr. Oral History Interview, Mss. 4700.2093, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">LeBlanc_Augustin_J_T3939</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-03-31T18:10:39.757-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

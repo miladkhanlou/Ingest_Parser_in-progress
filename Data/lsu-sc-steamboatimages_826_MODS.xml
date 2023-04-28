@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Recto</title>
+   </titleInfo>
+   <originInfo>
+      <dateCaptured encoding="w3cdtf">2016-04-06</dateCaptured>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Steamboat Images, circa 1842-1962</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-steamboatimages:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Parent Item Title">
+         <title>Steamer "Kate Adams"</title>
+      </titleInfo>
+   </relatedItem>
+   <note type="preferred citation" displayLabel="Preferred Citation">Steamboat Images, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">1516005a</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/mem</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-05-08</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

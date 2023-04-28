@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_2</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1013</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-12</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1013</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1013/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"Page_2","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M65\nA M.s. fr\u00e8re Artus Proiret } Nlle.. orleans le 23,, ma\u00ff 1806 \u2013\nNegt_ a marseille\nMon tres cher BeauFr\u00e8re\nL\u2019occasion de ma chere Eleonore &amp; mes chers enfants qui vont en France\nme procure Le plaisir de vous ecrire la presente pour vous a??urer la\nContinuation de ma parfaite amiti\u00e9, ain?\u00ff qu\u2019a vos chers enfants mes\nneveux &amp; nieces que j\u2019embra??e, la Cau?e principale dele vo\u00ffage, est\nLa maladie de mon aim\u00e9 qui a un Catarre depuis plu?ieurs ann\u00e9es\nQu\u2019aucun medecin de ce pa\u00ffs n\u2019a p\u00fb geur\u00ff, a\u00ffant espoir qu\u2019elle\ntrouvera ?on entier retabli??ement Soit ches vous ou \u00e0 Montpellier\n&amp; en secont Lieu Pour Leur education, vous priant de leur etre\nautant utile que si C\u00e9tait a mo\u00ff meme, etant persuad\u00e9 __\nD\u2019avance que vous ?aisires toutes les occa?ions pour vous les rendre\nagreable, Desirant que vous lu\u00ff procuries pour mes filles le meme\npen?sionat qu\u2019ont eu mes nieces, me reposant entierement\nSur ce que vous fair pour un frere qui en aura une recconai??ance\neternelle &amp; qui n\u2019a jamais ce??\u00e9 de vous estimer, etant\nAvec Sincerit\u00e9 votre tres Devou\u00e9 am\u00ff\nqui vous embra??e\nMe\u00ffnaus","typa":{},"genera":{},"fullrs":{},"find":"1014.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-12","dmmodified":"2008-09-12","dmoclcno":{},"dmrecord":"1013","restrictionCode":"1","cdmfilesize":"1380302","cdmfilesizeformatted":"1.32 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 246</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1730</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1730</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1730/json"
+                        timestamp="2017-02-03 08:23:17">{"title":"Page 246","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 246 \u2014\nLudger alia sur les bords du ravin, comme pour dcouter un oi-\nseau-moqueur qui chantait dans les branches. Nous, nous pensfraies\nii Pauline Bonaparte qui. ayant pose nne pour sa statue, chef-d'cen-\nvre de Canova, rdpondit ii uue dame qui s'etait etonnee de cette\npose sans feuille de viguc : Ma chere, il y avait du feu dans I'appar-\ntement. et nous nous dimes :\n\" Les extremes se touchent. Coco, le noir, ne comiaitpas pins la\npudeur que Pauline, la princesse.\"\nLudger et moi, nous dimes adieu au vieux chef de tribu et reprices lentement le clieimn de Marksville.\n\" Ce drolc a les deux pieds dans la tombe et il ment. C'est un\nBcdldrat doubld d'nu tartufe ; il ne durera pas deux mois ici.\"\nTelle fut I'aualyse de notre visite faite par Ludger\u2014analyse que\nnous repdtames au cafd de notre excellent et facctieux ami, Emite\nChaze, et devant d'autres amis que nous rencontrfuncs k un autre\ncafe tenu par Did ici; ce Lorrain do tant dc caw et dc bienveillance,\ndont nous nous souviendrons toujours avec plaisir.\nCoco nb'durera pas deux mois, avait dit Ludger : cette prophetie'\ndt-vait se verifier.\nAvant le terme present par notre ami, un Comite de Vigilance,\nacclame 'par le Pelican, se forma ii Marksville, ct mit it sa tete un\nhommc dont l'energie n'est egalde que par sa bienveillance; un\nhomme riche, jcune, ex-know-nothing acharnd^ mais ayant un camlet une bourse qui n'ont jamais demande ii personne un extrait de\nnaissance. Cet homme s'appelle Fenelon Cannon.\nTraque par ce Comitd, le vieux pacha noir (c'est ainsi que l'ap-\npelait le Pelican) partit un jour de Marksville, a la tete dc sa tribu,\npour aller de nouveau accrocher sa tente aux roseaux de l'exil.\nCoco et sa tribu se refugicrent d'abord aux Rapides, puis ils re-\ndescendirent la Biviere-Bouge et all&amp;reot cachcr leurs tetc^ liiamli-\ntes dans cette ville qui est a la fois un paradis et une sentmc : un\nparadis parce qu'elle a la beautd, la noblesse, lc luxe, de grands\ncccui's, la pod3ie, les fetes fderiqitcs ; une sentinc parce quelle a\naussi le revers de medaille do tout ce que nous venons de dire.\nAujourd'hui, Coco et sa tribu sont a la Nouvelle-Orleaus.","fullrs":{},"find":"1731.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1730","restrictionCode":"1","cdmfilesize":"391467","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>COMMITTED to the jail of the Parish of Caddo; http://chroniclingamerica.loc.gov/lccn/sn86079090/1863-11-10/ed-1/seq-1/</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000086</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J.W. Mahle</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1863-11-10</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Caddo parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Shreveport, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1863</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">COMMITTED to the jail of the Parish of Caddo, in the city of Shreverport, a negro WOMAN, aged about thirty-six years, is about five feet four inches high, dark copper color, calls her name HANNAH, and says she belongs to Dr. Andrew Wandle, originally from Caddo parish, La., and who is now on his way to Texas. The owner or overseer of said slave are hereby notified to come forward, prove property, pay charges, and take her away, or she will be disposed of as the lasw directs. J.W. MAHLE, Jailor. Oct.20-3t.</abstract>
+   <note type="content" displayLabel="Slave Owner">Dr. Andrew Wandle</note>
+   <note type="content" displayLabel="Slave Name (Age)">Hannah (36)</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 2</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Semi-weekly Shreveport news. (Shreveport [La.]) 1862-1864</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86079090</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/518</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2014-12-12</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>518</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/518/json"
+                        timestamp="2017-02-13 13:32:42">{"title":"RSA00000086","object":"sn 86079090","publia":"The Semi-weekly Shreveport news. (Shreveport [La.]) 1862-1864","date":"1863-11-10","year":"1863","film":"page 1, column 2","altern":{},"unique":"COMMITTED to the jail of the Parish of Caddo; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1863-11-10\/ed-1\/seq-1\/","person":"J.W. Mahle","parish":"Shreveport, La.","digita":{},"acknow":{},"public":"Dr. Andrew Wandle","town":"Caddo parish, La.","relati":"Hannah (36)","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"COMMITTED to the jail of the Parish of Caddo, in the city of Shreverport, a negro WOMAN, aged about thirty-six years, is about five feet four inches high, dark copper color, calls her name HANNAH, and says she belongs to Dr. Andrew Wandle, originally from Caddo parish, La., and who is now on his way to Texas. The owner or overseer of said slave are hereby notified to come forward, prove property, pay charges, and take her away, or she will be disposed of as the lasw directs. J.W. MAHLE, Jailor. Oct.20-3t.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Women slaves--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000086.jp2","find":"582.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-12","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"518","restrictionCode":"1","cdmfilesize":"104863","cdmfilesizeformatted":"0.10 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

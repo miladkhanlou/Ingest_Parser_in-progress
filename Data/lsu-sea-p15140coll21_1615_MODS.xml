@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Raceland No 3 ditches and levee system</title>
+  </titleInfo>
+   <originInfo>
+      <publisher>U.S. Dept. of Agriculture</publisher>
+      <dateIssued keyDate="yes">1918</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Ditches</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Levees</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Drainage</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <abstract displayLabel="Description">Fig. 9.- Sketch map of area No. 3, near Raceland, Lafourche Parish, La, showing ditch and levee systems.</abstract>
+   <note type="content" displayLabel="Sub-category">Levees, Drainage and recreation</note>
+   <note type="content" displayLabel="Category">Manmade or Engineered landforms, Agriculture</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <genre>photograph</genre>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/n83230635"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana Sea Grant College Program</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <note type="ownership" displayLabel="Source Note">Louisiana State Library</note>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Sea Grant Digital Images Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sea-p15140coll21:collection</url>
+      </location>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Copyright of federal and state documents is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Okey, Charles W.  The Wet Lands of Southern Louisiana and their Drainage.  U.S. Department of Agriculture Bulletin No. 652, (6 June 1918) p. 34.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll21/id/910</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-07-30</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll21</alias>
+         <pointer>910</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll21/910/json"
+                        timestamp="2017-05-16 08:49:50">{"title":"Raceland No 3 ditches and levee system","date":"1918","descri":"Fig. 9.- Sketch map of area No. 3, near Raceland, Lafourche Parish, La, showing ditch and levee systems.","notes":{},"format":"TIF","source":"Okey, Charles W.  The Wet Lands of Southern Louisiana and their Drainage.  U.S. Department of Agriculture Bulletin No. 652, (6 June 1918) p. 34.","creato":{},"subjec":"Ditches--Louisiana; Levees--Louisiana; Drainage--Louisiana","catego":"Manmade or Engineered landforms, Agriculture","subcat":"Levees, Drainage and recreation","publis":"U.S. Dept. of Agriculture","rights":"Copyright of federal and state documents is in the public domain.","reposi":"Louisiana State Library","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the Title or File Name in your request.","contri":"42","type":"okey0023.tif","identi":{},"langua":{},"relati":{},"covera":{},"coverb":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"1115.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-07-30","dmmodified":"2010-07-30","dmoclcno":{},"dmrecord":"910","restrictionCode":"1","cdmfilesize":"1094785","cdmfilesizeformatted":"1.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

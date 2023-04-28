@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 07</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/512</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>512</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/512/json"
+                        timestamp="2017-02-09 16:30:53">{"title":"Page 07","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN  JOU\nK N A L\n151\nsporadic yellow fever, excited into action by any exciting\nrinse, will furnish an infectious matter, which, in this mala-\n.:., will gradually extend itself, and become more active by\naccumulation; when it becomes both an exciting and predisposing cause of yellow lever; mid thus brings on the opi.\n(leniic. The samo eflect, ceteris paribus, will be produced\nbythe introduction of infected air, or of patients laboring\ntrader yellow fever.\n.\\s to the locality of the origin of the yellow fever in\nNatchez, a few remarks may be added.    Tho city is situated\ninon high, broken ground, near two hundred feet above the\nordinary stage of wnter in tho river, and covers an urea of\nuboul one mile square. As the ground rises towards the river,\nihere is no drain in that direction: and the whole: drainage\ni,f the cily passes off in a south-west direction, through a\nlarge nnd deep ravine or bayou, whose two main branches\noriginate on opposite skies of the city; one on the north and\ninjl north-west, and tho other on the south and south-east.\nFrom inch of these principal branches, there tire other lateral branches, which originate is three of the lowest parts of\nthe city, and  carry off the  water lo the main trunks of tho\nbayou.   Tho main bayou anel its principal branches, where\nthey assume that character, arc deep, jagged, precipitous, and\ncrooked ravines, from ten to thirty feet deep,and from twenty\ntu fifty feet wide, formed by the washing and undermining of\nlbs loose, friable earth,     When the yellow fever has made\nits appearance as nn epidemic, in the upper cily, it has always\nbroken out and spread in the vicinity of some of these deep\nravines; or a little higher up, where they spread out into\nlow, licit grounds.    In every instance, it has spread about and\nnear these localities, varying ils particular locality according\nlo the direction  of the winds,  until it has gradually spread\n\u2022\u25a0ii r a great portion of tho city.    At tho time it first breaks\ncut, if the winds blow gently from the north-west, the fever\nwill appear on the south-east of the bayou ; if from the southeast, it will appear on the north-west of the bayou, and rice\nversa.   These points and facts are confirmed by the knowledge of our oldest citizens, who have witnessed all these epidemics,    They are  likewise confirmed by the unqualified\ntestimony of Dr. Cartwright, in his able essays on the malig-\nnantfevers of Natchez.    In direct proportion to the vicinity\nof any part of the city to these bayoux, and the exposure to\ndie gentle winds at the time, so will be the prevalence of the\ndisease in that section.    In  1825, a heavy north-west wind,\nwein the epidemic, carried the infected air nearly a mile out\nef the south-east part of the city, and produced the yellow\n\u25a0ever there.     Dr. Cartwright says, \"the vicinities of these\nbayoux arc the points most infected, where the fever was more\nmalignant and continued much later than other points to which\n\u2022be infection had extended.\"*    In those houses, in  1825,\nwhich were nearest the bayoux, especially tho south-eastern\n\u00b0ne, he thinks few or none of the inhabitants escaped yellow\nfcver: although in other remote parts of the city, only common bilious fever was prevailing.!    The bayoux serve as\nReservoirs for the miasm and malaria, from which the latter\n'\u2022wafted upon the contiguous population by winds, and thus\n'Med. llce-cml, vol. lx\u201e\n'll'lclnm\nmost virulent degree, after they have be-\nmiasm, we suppose the contaminated air of\nthe disease is carried from these points to those which have\nbecome disinfected.\nFor the accumulation of this infectious air or malaria, in\nthese bayoux, in its i\ncome charged with i\nthe city in hot, sultry weather, to be wafted by the only breezes\nwhich occur, and to settle in these bayoux, and thus unite with\nthe miasm there existing : after this union, a gentle change of\nwinds agitates it out ofthe bayoux and low places, and wafts it\nback upon the contiguous population ; others, in remote parts\nof the city, often contract it by passing into these points. When\nthe yellow fever breaks out as an epidemic, it will he found\nthat the winds, if there be any, are in a direction nearly ihe\nreverse of what they were probably ten days previously. So\nthat there will not be yellow fever in and about the soulh-east\npartsof the city, unless there should have been gentle winds\npreviously from the west or north-west; and, in like manner,\nthere will have been no epidemic yellow fiver in and about\nthe north-west parts of the city, unless it has been preceded\nby gentle breezes from the south-east, Wc might extend the\nillustration of these facts to a much greater length; but we\ndeem it unnecessary.\nWe think- it has been shown, that these bayoux arc either\ndirectly or indirectly a fruitful source ol yellow fever malaria, when the proper kinds of seasons have preceded. We\ncannot conceive it possible, that this malaria is generated\nfrom filth in these bayoux: our reasons have been given at\nlength; and the subject is left to the discriminating observations of those who may be so unfortunate as to reside in the\ncily when it may bo again visited willi this epidemic.\nCOROLLARIES.\nIf tho views herein advanced be correct, the following arc\ncgitimate deductions.\nI, That the miasm, or gaseous matter which is essential to\nthe production of epidemic yellow fever, is generated only\nwhile the extreme temperature in the shade, is at least up to\nSS\u00b0 of Fahrenheit; and that so long as there is sufficient\nagitation and change of the air by winds, it will not accumulate in sufficient quantity to produce yellow fever as an epi-\nthat when sufficient miasm is produced and accumu-\np. 8, 9.\nated, the malarious combination, which likewise requires\nseveral days of culm, sultry weather, will proceed at a still\nlower temperature.\nII. That the miasm of yellow fever, is, per se, in a pure\natmosphere, probably innoxious ; but acquires active morbific\nproperties by combining with sultry, hot air, which has been\nexhausted by respiration, and charged with human exhalations; and that it then becomes malaria, or infectious air,\nwhich is an active predisposing cause, as well as a proper\n\"nidus\" for the reception and evolution of the infection of\nyellow fever.\nII I. That this malarious condition ofthe local atmosphere\nof any city, or portion of n city, may be so concentrated as\nto produce a strong predisposition to yellow fever in many of\nthe inhabitants, without actual disease, until a few cases are\n\u2022xcited into action by highly exciting onuses, when infection\n\u25a0't-tii\n.il\n''\u2022-v'-i':M'r.\n'Ill\n\u25a0\u25a0i..7i#\n'\u2022.\u25a0\u00ab*.\ni m\n-^-g-ra","fullrs":{},"find":"513.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"512","restrictionCode":"1","cdmfilesize":"1714541","cdmfilesizeformatted":"1.64 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

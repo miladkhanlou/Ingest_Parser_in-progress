@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>F17</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1180</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1180</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1180/json"
+                        timestamp="2017-01-13 13:22:56">{"title":"F17","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nF 17\nDonnaldsonville 15 janvier 18[ ?]\nMa ch\u00e8re Zulm\u00e9e\nJenvoie Sam en Esquif chercher ce que vous m avez promis\ndis a ta bonne maman que j accepterai avec reconnaissance\ntout ce quelle m\u2019enverra et que si elle a quelques commisions\na faire faire que je m\u2019en chargerai avec plaisir comme je\ndois partir la semaine prochaine sans faute je compte\nsur la promesse que tu mas faite de venir au mois de\njanvier nous y somme et cela ne doit pas tardez aussi\ntots que ma belle soeur m aura ecri je te fairez\nsavoir ma demeure je pence que ce ser dimanche je\nje le saurais comme je sais que tu es [ rature] bonne\nqueteuse je te prie d\u2019aller la fare en mon nom chez\nmes tant tu peux leur dire quil tres prrobable que\nce sera la derniere que je leur faire excepte celle de mon\nenterre si els ne veulent pas que je vous sois enterre\nde charite et quainsi ils peuvent bien m envoyer\ntoute un cha cun quelque choses fais leur a touse\npart de mes- adieux qui seront peutetre eternels je\nrevoye a ma tante son sac et sa serviette et je t\u2019envoye\nma selle si tu trouvais a me la vendre je te serai\nbien re connaissantes le prix en est de huite piastre\nce pendant le la donnerai a quelque chose de [ melles ?]\nmarch\u00e9 ambrasse bien des fois matant ainsique\ngrand mamam mes amities a ton papa\nvive\ntoujours celle qui taime Bazilise Mollere\nN\u00e9e Rousseau","typa":{},"genera":{},"fullrs":"Volume5\/F17.pdf","find":"1181.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1180","restrictionCode":"1","cdmfilesize":"38930","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

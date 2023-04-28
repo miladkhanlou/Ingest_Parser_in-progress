@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <nonSort>The</nonSort>
+      <title>Colony. Louisiana State University. 1899</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes">1899</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Colony (Baton Rouge, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Dormitories</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">The Colony dormitory exterior view from the northwest. Originally used as the quarters of the Treasurer and Professor of Mechanics (1887-1888); Handwritten on back- The 'Colony.' Louisiana State University. 1899. One of oldest buildings on old campus. Used for barracks.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Gelatin silver prints; 5.50in x 3.25in</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Folder">
+         <partNumber>Folder 11</partNumber>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>LSU Photograph Collection, 1886-1926</title>
+      </titleInfo>
+      <titleInfo displayLabel="Series">
+         <partName>Buildings</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Subseries">
+         <partName>The Colony - Dormitory</partName>
+      </titleInfo>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 3</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.</note>
+   <identifier type="local" displayLabel="Item Number">a50000008</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/2675</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-01-08</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>2675</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/2675/json"
+                        timestamp="2017-02-01 13:52:59">{"title":"The Colony. Louisiana State University. 1899","compoa":"1","photog":"Unknown","notes":"The Colony dormitory exterior view from the northwest. Originally used as the quarters of the Treasurer and Professor of Mechanics (1887-1888); Handwritten on back- The 'Colony.' Louisiana State University. 1899. One of oldest buildings on old campus. Used for barracks.","biogra":{},"descri":{},"typea":{},"date":"1899","publis":"Gelatin silver prints; 5.50in x 3.25in","subjea":"Colony (Baton Rouge, La.)--Photographs.; Dormitories--Louisiana--Baton Rouge--Photographs.","geogra":{},"aquisi":"LSU Photograph Collection, 1886-1926","box":"3","folder":"11","series":"Buildings","subser":"The Colony - Dormitory","reposi":{},"type":{},"source":"Louisiana State University Libraries, Special Collections","dates":{},"item":"a50000008","relate":{},"rights":{},"contri":{},"to":"To inquire about ordering copies of these images, email lsudiglib@lsu.edu See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Include the \"Item URL\" in your request. ","catalo":{},"compou":"See 'reference url' on the navigation bars.","ocr":{},"cite":"LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.","collec":"http:\/\/www.lib.lsu.edu\/special\/archives\/digital","fullrs":{},"find":"2959.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2009-01-08","dmmodified":"2009-01-09","dmoclcno":{},"dmrecord":"2675","restrictionCode":"1","cdmfilesize":"299","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

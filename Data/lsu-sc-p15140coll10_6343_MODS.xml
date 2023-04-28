@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 420</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1901</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1901</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1901/json"
+                        timestamp="2017-02-03 08:23:24">{"title":"Page 420","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 420 \u2014\nil  mt'dite ct trouve les combinaisons les plus ingenieuses ; ici il $&amp;\nrcpete avec une desesperante monotonie.\n- Voici les Comites qui existaient\u2014et existent encore, saufun,\t\ndans les trois paroisses ou nous* avons place les scenes de notre livre:\nPAROISSE   LAFAYETTE.\nComite de la Cote-Geiee Aureiien St-Julien, capitaine.\nde Vermillonville Alfred Mouton,\nGouv. Mouton, president.\n\u2014 de Foreman Foreman, capitaine.\nPAROISSE   VERMILLON.\nComite de Vermilion fid. T. Brousssard, capitaine.\ndu  Font-Perry Adrien Nunez.\n\u2014 du Lac Simouet Jean Reau. \u2014\nPAROISSE SAINT-MARTIN.\nComite de Saint-Martinville George \"VVebre, capitaine.\n\u2014 de la Fausse-Pointe Z. Broussard. \u2014\n\u2014 de la Pointe Louis Savoie. \u2014\n\u2014 du Pont-Braux Begueneaud, \u2014\n\u2014 de la Grande-Pointe L. Domingeau.\nNous n'avons pu joindre a notre gerbe de chroniques celle des\nneuf ou dix Comites de Calcassieu et Saint-Landry. A la journee\nde la Queue-Tortue, deux de ces Comites (eapitaines Maggy et\nStanton) ainsi qu'une delegation de Calcassieu, vinrent fraterniser\navec les notres. il y eut de notre part une tentative pour federer\ntoutes ces forces, toutes ces intelligences eparses et flottant au hasard. afin d'en faire nne vaste et puissante unite. Quelques Comites nommerent des deiegues a notre Comite federal; il eut meme\ndes adhesions dans la paroisse Saint-Landry ; mais, en somme, ce\ncorps, qui devait servir de trait d'union a tous. ne se reunit jamais.\nVI.\nBien que notre histoire lvait pas jete les yenx sur tous les horizons que lui ouvrait Ie riche repertoire des Comites de Vigilance,\nIe lecteur y aura vu neanmoius passer des figures assez sinistres\npour comprendre la neces*sife des mesures de salut public. 11 y\naura vu et lea Herpin, trois freres! par nobile fratrwm \/\u2014et lacouture. Fassassin, le voleur, l'homme des assauts de nuit\u2014et Ber-\nvard Romero et ses amis et soldats, les bandits de File des Cypres\u2014\net les voleurs et incendiaires de Saint-Martin\u2014et Santa-Maria, Ie\ntoreador\u2014et Coco et son lupanar de drolesses prostituees par\nleurs meres et devenant ensuite les maitresse3 de tons les voleurs de\nnos paroisses\u2014et Aladin Corner, l'homme qui avait broye la tete","fullrs":{},"find":"1902.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1901","restrictionCode":"1","cdmfilesize":"478880","cdmfilesizeformatted":"0.46 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 83</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural experiment stations</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Rice</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Crowley (La.)</topic>
+   </subject>
+   <abstract displayLabel="Description">Photograph on Page 83 shows rice fields along a dirt road with telephone poles leading to the town of Crowley in the distance.  Probable Rice Experiment Station in Crowley, Louisiana.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="citation/reference" displayLabel="References">Compare photograph to the following publication.  Stubbs, W.C. (1900) Rice. Louisiana Bulletin, No. 61, pp. 371-436.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3831</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3831</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3831/json"
+                        timestamp="2017-02-01 13:53:05">{"title":"Page 83","compoa":{},"photog":{},"notes":{},"biogra":{},"descri":"Photograph on Page 83 shows rice fields along a dirt road with telephone poles leading to the town of Crowley in the distance.  Probable Rice Experiment Station in Crowley, Louisiana.","typea":{},"date":{},"publis":{},"subjea":"Agriculture--Louisiana.; Agricultural experiment stations.; Rice.; Crowley (La.)","geogra":{},"aquisi":{},"box":{},"folder":{},"series":{},"subser":{},"reposi":{},"type":{},"source":{},"dates":{},"item":{},"relate":"Compare photograph to the following publication.  Stubbs, W.C. (1900) Rice. Louisiana Bulletin, No. 61, pp. 371-436.","rights":{},"contri":{},"to":{},"catalo":{},"compou":{},"ocr":{},"cite":{},"collec":{},"fullrs":"Volume167\/LSUAgExt120_Page 83.jpg","find":"4115.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2014-08-25","dmmodified":"2014-08-25","dmoclcno":{},"dmrecord":"3831","restrictionCode":"1","cdmfilesize":"10125750","cdmfilesizeformatted":"9.66 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

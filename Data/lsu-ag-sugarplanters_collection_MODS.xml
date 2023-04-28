@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Louisiana Sugar Planters' Association papers, 1877-1917</title>
+  </titleInfo>
+  <identifier type="local" displayLabel="Collection ID">lsu-ag-sugarplanters</identifier>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+              <namePart>LSU Libraries. Special Collections</namePart>
+              <role>
+                  <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+              </role>
+          </name> 
+  <typeOfResource collection="yes">text</typeOfResource>
+<physicalDescription>
+  <digitalOrigin>reformatted digital</digitalOrigin>
+</physicalDescription>
+  <note type="content" displayLabel="Collection Description">The Louisiana Sugar Planters' Association was founded in 1877 by a group of prominent planters. Based in New Orleans, the group was largely responsible for setting in motion the modernization of Louisiana's sugar industry. It merged with the American Cane Growers' Association in 1922, creating the American Sugar Cane League. Correspondence is primarily addressed to Reginald Dykers, secretary of the Louisiana Sugar Planters’ Association. Letters pertain to topics of discussion at meetings; statistics on cane growing; new cane cutting machines; Spanish, Italian, and German immigrants working in Louisiana as plantation laborers and supervisors; and funding needed for a molasses refining test.
+  </note>
+  
+  <abstract displayLabel="Collection Summary">The Louisiana Sugar Planters' Association was founded in 1877 by a group of prominent planters. Based in New Orleans, the group was largely responsible for setting in motion the modernization of Louisiana's sugar industry. Letters pertain to issues in growing and cutting cane and the use of immigrant labor on sugar plantations.</abstract>
+  
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordCreationDate>2020-06-22</recordCreationDate>
+    <recordContentSource authority="local">lsu/mem</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

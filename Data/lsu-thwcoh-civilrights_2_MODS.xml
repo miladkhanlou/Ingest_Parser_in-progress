@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Meg Redden oral history interview</title>
+  </titleInfo>
+   <name displayLabel="Interviewee">
+      <namePart>Redden, Meg, 1944-</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Interviewer">
+      <namePart>De Jong, Greta</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+      </role>
+  </name>
+   <note type="biographical/historical" displayLabel="Biographical Note">Meg Redden was born in Indiana in 1944 but grew up in Iowa. She joined the Congress of Racial Equality (CORE) in 1964 and worked on the freedom movements in Louisiana that summer. She later became involved in anti-Vietnam War demonstrations and the Equal Rights Movement.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1996</dateCreated>
+  </originInfo>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Redden, Meg,</namePart>
+         <namePart>1944-</namePart>
+         <namePart>Interviews</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Congress of Racial Equality</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Civil rights</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Suffrage</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Civil rights movements</topic>
+      <topic>United States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Civil rights workers</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>United States</geographic>
+      <geographic>Race relations</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Louisiana</geographic>
+      <geographic>Race relations</geographic>
+   </subject>
+   <abstract displayLabel="Description">Redden discusses her early views on American race relations, joining CORE, her work on voter registration issues in Louisiana, race relations in Louisiana, and the aims of the wider civil rights movement.</abstract>
+   <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/civilrights/Redden_Meg.pdf</abstract>
+   <note type="content">This collection includes materials accessioned as Mss. 4700.0740.; A digital version of the transcript (pdf) exists for duplication purposes.; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room.; Interview conducted by Greta de Jong.</note>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>1 sound cassette (45 minutes); Transcript (31 leaves)</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no94017348"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Civil Rights Movement Oral History Project</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series">
+         <title>T. Harry Williams Center for Oral History civil rights series</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-civilrights:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Library: Oral History</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Meg Redden Oral History Interview, Mss. 4700.0740, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">ReddenMegT1074b_Audio</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

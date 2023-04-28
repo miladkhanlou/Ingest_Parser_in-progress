@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 147</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1631</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1631</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1631/json"
+                        timestamp="2017-02-03 08:23:14">{"title":"Page 147","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 UT \u2014\nnation que celle dc pillage, vol avec digal, ce qui, vous en convicndrcz,\nn'est pus tres flatteur pour d'ancietis amis que vous reconnaissez avoir\nparmi quelquos-iuis des membres des comitds de notre paroisse.\nJfous vous rappellerona dc nouvcau,pour vous mettro en flagrante\ncontradiction avec vous-meme, que vous a vest declare publiquement,\nen presence de MM. Ddsird Beraud, Alphonsc Tertrou, Victor Carresse\net le siguutuire de cet article, qu'il est vrai qn'eu vertu de vos devoirs\nofliciels, vous aviez Ctc contruint d'adresser au gouverneur de l'Etat\nan rapport official dans lequel vous reclaimer la dissolution du comitd\nde vigilance dc Vermilion, mais quo, dans cette c ire on stance, vous\nftgifflSieB comme magistral et non comme simple particulier ; que bien\n'loin de la, si le gouverneur envoyait des \u00ab gueulos rouges d'lrlandais &gt;\u25a0\n'car c'est ainsi quo vous designee les enfants de la veite Erin], pour\ndissoudre, par la force, le comite de St-Murtinville, vous-meme seriez\nnn des premiers a Vous opposer a cet acte a main anode. Nons vous\navons rdpete ces inemes paroles, a St-Martinv'illc, en presence dc\nMM. Aleibiade Deblanc, Valmont Richard, Bdlisairc Rorol, Georges\ntVebre, Thiilismar Bienvcnn et plusieurs autres personnes, et vous\nii'avez pu faire autrement que de convenir de la veracity de notre allegation. Dites-Dous mniuteuant quel est celui, do vous ou de uous, qui\nse trouve en contravention avec la loi et la morale publique ot en contradiction avec lui-meme. Est-ce celui qui demande au gouverneur\nd'envoyer des :t gueiiles rouges d'lrlandais pour dissoudre les Comites, *\nfee sont la vos proprcs expressions), ct qui eiisuite so fait fort d'etre\nfun des premiers *cr s'opposer a main armee aux susdites gueules\nrouges, i ou ceux qui, depuis rorigine de cette discussion, n'ont pas\nvarie d'un iota dans leur conduite ou dans l'expression de leurs sentiments, ct qui n'ont jamais recule devant la responsnbilitd morale\nqu'ils s avaient fort \"bien eneourir, en participant ades notes qui, quoiqne\nd^uno stricte justice en enx-memos, no laissaient pas cependant d'etre,\njusqu'a uncertain point, attaquables au simple pointde vuclepil ?\nNous espdrons, monsieur A. -Olivier, qu'en novembre proclutin.vous\nsere\/, debarrasse dulracus que vous douneut .cos turbuleuts Comites do\nVigilance, et. du soiii de la justice a faire rendre a notre paroisse. Si cependant, contre notre attente, vous etiez dc nouveau nppcle a veiller a\nI'exeeulion des lois, nous csperons que vous saurez nppr^cier.\na leur juste valeur, les ddlutours ct les culomniakmrs de ces Comites;\nnous espiirons de plus que, quand il B'agira, pour vous, dc qualifier des\ncitoyens honorables, vous saurez trouvcr des expressions moins offen\nsantesque cellos que rentermc la, proclamation du gouveniciir do l'Etat.\nsi toutefois ces expressions ont ete empruntees au rapport orHcicl que\nvous avcz adresse ace fonetionnnirc, ainsi que tout poricrait a lc fairn\n-eroire.\nPermcttez-nous, monsieur A. Olivier, avant dc terminer, do von*\n.-oumettro ane deiaiiere rdfioxion.","fullrs":{},"find":"1632.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1631","restrictionCode":"1","cdmfilesize":"379296","cdmfilesizeformatted":"0.36 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

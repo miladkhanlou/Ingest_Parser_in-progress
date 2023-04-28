@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 27</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/616</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>616</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/616/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 27","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"S 0 U'l'll- W E S T E RN J 0 U R N A L.\n253\nwhich often win the, heart, and arc in unison with other qualities of the highest importance: neither will the gifts of intellect, nor a high degree of mental cultivation alone establish\nher permanent influence. Tho social affections should be cultivated, and much labor bestowed to eradicate from the youth-\nfill heart those unhallowed tempers and dispositions to which\nso much of human happiness has been sacrificed. Selfishness should have no place in the breast of a woman. A\nregard for the wants, wishes, and feelings of others, if constantly practised, will finally become a fixed habit, and afford\nmore pleasure than the most devoted love of self. Habitual\nc.heerfulncs should not be neglected\u2014a contented mind is a\nmine of wealth\u2014it lightens the gloom of poverty, and sheds\nn cheering lustre around the fireside in tho day of the deepest\nadversity. The government of the temper is one of the indispensable requisites to the perfection of female character;\u2014\nhow much woe and anguish the influence of unbridled passion has caused in ihe world; how much individual suffering,\nmay never be known uniil tho day of final account. And,\nabove all, woman should be under the influence of religious\nprinciples. Man may, possibly, without any such influence,\nbe guided by a high sense of honor founded on the opinions\nof the world; but a woman, acknowledging no dependance\nupon a supreme power\u2014no responsibility\u2014actuated by no\nmotives, save those of mere caprice\u2014is not a being to whom\nto trust one's happiness. She must be a firm believer in the\ntruths of revelation, and act in accordance with that belief.\nFaith is one of the most beautiful traits in the female character, and a proper sense of her dependance constitutes one of\nher greatest charms ; woman, then, above all others, should\nnever forget her dependance on that arm which is mighty to\nsave.\n\" I am addressing woman in youth, and have endeavored\nthus imperfectly to sketch some of the most prominent quali\nties that 1 deem indispensably requisite in every female\nThese, united with a high degree of mental cultivation, and\nthose; graces of manner which will scarcely (ail to follow the\nhabitual exercise of these virtues, will constitute a character\nwhose influence may not be limited by the age in which she\nlives. 1 look around upon my young companions, and be\nbold on each brow the stamp of intellect\u2014the broad seal of\nA Imighty power. Upon each one lie has bestowed faculties,\nand power of mind, of which, perhaps, we have no conception, and which might forever be dormant unless some casual\ncircumstance should call forth the slumbering energies of the\nsoul.\n\" Nature has bestowed upon every individual at least one\ntalent, and, perchance, by improvement, that one might become ten; but her gifts are valueless unless improved. Youth\nis the season for such improvement. Let us then remember\nthat ours is a high and holy calling\u2014that each individual,\nhowever humble may be her situation in life, is not without\ninfluence\u2014an influence which it is her duty to exert in the\ncause of virtue and human happiness; and may each one of\nus make such improvement ofthe time, talents, and advantages which God has bestowed upon us, that we may receive\nthe applause of our own consciences and the just commendation of our Maker.\"\nFOURTH OF JULY-MODERN REVOLUTIONS.\n[We cannot, as journalists, belter pay our tribute to the\nimmortal birth-day of our National Independence than by\ncopious quotation from the Oration, delivered July 4, 1838,\nbefore the Military and Civic Societies of Natchez, by C. L.\nDubuisson, Esu.]\n\"Willi July, 1830, commenced a series of revolutionary\nmovements, uninteresting, because unsuccessful, but manifesting clearly that the whole mass of human beings who\nhave been ' hewers of wood and drawers of water,' are\nalive to their political interests, and need but a word to\nrouse to desperate action. Among others, and by far\nthe most interesting to us, because associated to some of\nour proudest recollections, was the last revolution in Poland.\nPoland, bowed down and crushed by accumulated wars,\ncaught the sound of the clarion which rung out the victory\nof the people and overthrow of the Bourbons, nnd revived\nfrom her death-like slumber. The valor of this unhappv\nnation was never doubted, but the irresistible power of her\nenemies, nnd treachery of some who should have, been her\nfriends, crushed lhc energies and humbled the spirit of this\nromantic pcoplo. But there was no want of disposition to\nstrike when opportunity should offer. Such an opportunity\nwas given ; and so soon as the glad tidings of the issue of the\nFrench revolution was heard, the Poles rose with ono consent\nand rushed, without counting the costs, and with ungovernable fury, upon their oppressors. Hard was the struggles\nFeats of high daring, deeds of heroic valor were performed,\nwhich threw far into the shade the deeds of other times;\nbut the struggle was vain; the cup of her misery was not\nyet full; and Poland was doomed to fall again before her\nproud and merciless foe. The only inheritance left that unfortunate land is the memory of her brave defenders. In\nthis only can she find consolation, and in this none can surpass\nher, The fame of Kosciusko alone is dearer to iho homeless Pole than the richest treasures his enemies can boast.\nThe virtues of such men form and fashion lhc character of a\nnation\u2014they mould the public taste and public feeling. Empowered with ubiquity they restrain and chasten the selfish\ndesires of aspiring men. Utter but lhc name of Washington in the healing of an American, and you will see the\nproud Hash from his eye. The name of Lafayette is like,\nmagic to the enthusiastic Frenchman. Name Kosciusko to\nthe Polish exiloand a tear will gush from his eye. Such men\nare regarded as benefactors of mankind, and their names are.\nall words of power which can conjure a spirit from the human\nheart, when cold deductions of reason have no effect, and\nthe most eloquent appeals fall dull and tame upon the ear.\nWith these three names arc associated all that is grand, all that\nis noble in the history of the times in which they lived. With\nthe name of Washington arise the scenes of the revolution,\nthe fields of Brandywine, Monmouth, and Trenton. What\nPole or American can hear the name of Kosciusko without\nmingled emotions of admiration and regret, and without immediately thinking of the bloody siege of ninety-six, and the\nglorious defence of Dubienka; and his memorable words en\nresigning his commission lo the degenerate Stanislaus:\n' Grant, oh ! my God,  ihat I may once again draw m.y","fullrs":{},"find":"617.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"616","restrictionCode":"1","cdmfilesize":"1809647","cdmfilesizeformatted":"1.73 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 107</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Cattle</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Wagons</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cattle</topic>
+      <topic>Transportation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Caravans</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Trees</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Forestry extension</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Post-fire forest management</topic>
+   </subject>
+   <abstract displayLabel="Description">Page 107 of the album includes three photographs.; Photograph 1 [60] shows a caravan of cattle drawn wagons moving down a dirt road.  Buildings, probable town, and trees shown in the background.; Photograph 2 [61] shows burned trees in a forest, three men in suits survey the situation.  Probable controlled burn.; Photograph 3 [62] shows a caravan of cattle drawn wagons moving down a dirt road.  Buildings, probable town, and trees shown in the background.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3855</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3855</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3855/json"
+                        timestamp="2017-02-01 13:53:05">{"title":"Page 107","compoa":{},"photog":{},"notes":{},"biogra":{},"descri":"Page 107 of the album includes three photographs.; Photograph 1 [60] shows a caravan of cattle drawn wagons moving down a dirt road.  Buildings, probable town, and trees shown in the background.; Photograph 2 [61] shows burned trees in a forest, three men in suits survey the situation.  Probable controlled burn.; Photograph 3 [62] shows a caravan of cattle drawn wagons moving down a dirt road.  Buildings, probable town, and trees shown in the background.","typea":{},"date":{},"publis":{},"subjea":"Cattle.; Wagons.; Cattle--Transportation.; Caravans; Agriculture.; Agriculture--Louisiana.; Trees.; Forestry extension.; Post-fire forest management.","geogra":{},"aquisi":{},"box":{},"folder":{},"series":{},"subser":{},"reposi":{},"type":{},"source":{},"dates":{},"item":{},"relate":{},"rights":{},"contri":{},"to":{},"catalo":{},"compou":{},"ocr":{},"cite":{},"collec":{},"fullrs":"Volume167\/LSUAgExt144_Page 107.jpg","find":"4139.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2014-08-25","dmmodified":"2014-08-25","dmoclcno":{},"dmrecord":"3855","restrictionCode":"1","cdmfilesize":"9770379","cdmfilesizeformatted":"9.32 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

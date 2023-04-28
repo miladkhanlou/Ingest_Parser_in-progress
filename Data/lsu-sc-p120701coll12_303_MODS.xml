@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 19</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/575</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>575</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/575/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 19","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"if m\n\"\u2022a a\nSOUTH-WESTERN JOURNAL.\n211\nh like hell earth could become under the spells of suchj    Inconceivably dim as  may be these first glimmerings of\nmuc\na fiendish enchanter.\nIt was education ihat made Franklin stronger than th\nthunder, and Fulton the king ofthe waves.\nEducation has brought Europe within a week's distance\nof young America\u2014has chained the Alleghanies to the\nWhile Hills of New Hampshire, bound the Mississippi with\na silver thread to the Hudson, lashed the St, Lawrence to\n\u2022he hoary mane ofthe Atlantic, anel made Lake Superior the\ntranscendent Adriatic of the New World.\nWhat deity gave such a sceptre to man, as he went wee'p-\ning- through the angel-guarded gates of Eden, into a world\nnl tears and death 1 To this question the Delphic oracle is\ndumb and Mythology hath no answer : but ihe great age of\nimprovement speaks from the observatory of mind, and answers me\u2014Education is both moral and physical power!\nWith modern educationists, I divide instruction and human\nculture into its three departments: physical, intellectual and\nmoral education. Of the first I shall not be expected to\nspeak at large. To another profession than mine belongs\nthe consideration of ihe ways and means to give breadth to\nthe chest, lithcness to the limbs, and elasticity to the foot. It\nwill not be expeeled that I should go inlo the comparative\nmerits of Graham's bread and saw-dust, as articles of diet, or\nwhether the man-machine is capable of more intense thought\nwhen starved down to the thinness that the moon will shine\nthrough, or when as fat as \"two single gentlemen rolled into\none.\"\nNor can I, like the giants of phrenology, toll how to improve tho human race by \"crossing the breeds.\" These\n\"crossings\" are for the magi of another section of our conn\ntry\u2014the wise men of the east.\nBut may I not speak of the rise and development of the\nintellect\u2014that glorious faculty which has inscribed immortality on the destinies of man 1\n\"Of all that lire and move and breathe,\nMan only rises o'er his birth;\nHe looks around, above, benealh,\nAt once tbe licir of heaven and earth.\nWhat guides him in his high pursuit,\nLightens, illumines, cheers bis way,\nDiscerns the Immortal from tbe brute,\nGod's image from Ihe mould of clay ?\n'Tis knowledge!  Knowledge to the soul\nIs life and liberty and peace;\nAnd while eternal ages roll\nThe joys of knowledge shall increase.\"\nCommencing at a point scarcely perceptible on the map of\nhuman existence, the intellect grows lo a godlike size; yet it\nis never monstrous. The larger it grows tho more perfect\n-ire its proportions. Passions may be of a monstrous growth,\nhut intellect never I The philosophers of mind, divided\n\u2022bough they may bo on the topics of an innate moral sense,\nor of innate ideas in the mind ofthe new-born infant, are yet\n'mited on the doctrine of the adaptation of such a mind for the\ngradual reception of now ideas which may be derived from\nsensible objects in the world around, from parental example,\na\"d moral lessons,\nintellect, they may be destined to astonish and bless mankind\nin the progress of their development; they may kindle slowly, yet burn brightly nnd long.\nThe object of intellectual cultivation is, no doubt, ns said\nby one author\u2014\" to enlarge the understanding, polish the\ntaste, strengthen the reasoning facilities, and to give Habits of\npatient attention, deliberate, independent judgment; and to\nunite with these the attainment of useful practical knowledge,\nas well as to furnish mental exercises.\"\nTo gain these objects, attention and study are requisite, as\nwell as thought. The intellect must act of itself upon tho\nsubjects brought before it; its perceptions must be brightened\nby intense menial labor, and the habil must be acquired of\nself-reliance, not only on its own powers, but on ils own taste.\nThe energies of intellectual life require ready-furnished\nminds, having a cool command of every instrument or avenue of approach to other minds. The man of intellectual\npower sufficient lo form his own opinion correctly, and then\nto control the opinions of ninety-nine others, is a hundred\nstrong; he represents a body; he is no longer a single individual ; ho has the suffrages and the power of a multitude!\nThe simple resolution lo know not only the meaning of,\nhut the reason lor, every accessible subject that comes under\nihe consideration of any intellect, will carry one much farther towards the goal of perfection and the full development\nof mental [lower than many seem to be aware. This resolution will carry one far into the nature and analogies of\nthings. A word, for instance, is spoken or written on some\npeculiar occasion or subject. The intellect is charmed with\nits fitness, and follows it back, in its history, to some other\nlanguage, perhaps, from whence it is derived. Here, in its\norigin, the word in its formation, alludes to some peculiar\nrite, or custom, or time-hallowed locality, which link it lo associations of rich interest and unwasting grandeur! Thus\nthe full development of the. intellect includes a study of the\norigin and philosophy of language j and the richer in-philosophy and associations, either sentimental or historical, any\nlanguage may be, the greater the benefit which the intellect\nderives from its study. These are reasons strong enough to\nsustain the linguist, ns he reads, wilh patient labor, the languages of those departed nations who were cither illustrious\nin arms, the arts, in science, literature or philosophy.\nFrom the mathematics the intellect gains its love of truth\nand demonstration, and is armed with a new power over matter, running lines and anghs where none save the foot of an\nangel hath trod, or his spirit-wing'waved on some errand of\nhis ministry.\nAided thus, the intellect measures the mighty cycle of nature. Every thing vast, anel distant, dipped in space, and\nhung by canopied clouds, is measured by the mathematician's\nrule, spanning the void across which scarce, a twinkling\nbeam bath found its way from the dawn of creation up lolho\nhour when La Place, and Herschcll, and Olmstead, and Es-\npey talked with ihe stars, tho meteors, and the storms.\nIn the midst of my subject, I am somewhat confused by\nthe intimate connection which subsists between the intellcc-\nti.\n*'.V\nV.i\nM\n!\n,if\n&lt;","fullrs":{},"find":"576.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"575","restrictionCode":"1","cdmfilesize":"1785993","cdmfilesizeformatted":"1.70 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

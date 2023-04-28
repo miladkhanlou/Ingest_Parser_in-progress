@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 26</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2251</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2251</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2251/json"
+                        timestamp="2017-02-03 08:24:51">{"title":"Section 7, Page 26","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[26]\nThe various Isthmus routes with the Pacific have occupied m, l\nattention. Allow me to send an interesting printed letter on th\nsubject, from Brevet Colonel Hughes, ofthe Corps.*\nBut these several routes have always appeared to me open to sen\nous objections.\n1st. From the time they require.\n2d. From interruptions in the continuity of the voyage, by fre_\nquent changes from land to sea, and the consequent different modes\nof transportation.\n3d. They would of necessity become prolific sources of maritime\nwars, and of consequent interruptions in the trade.\n4th. They are out of our jurisdiction and control.\n5th. The money required in the construction of parts would be for\nthe benefit of a foreign people and of foreign soil.\n6lh. In all suspensions of the trade from war or other durable\ncause, the inland parts would necessarily become dilapidated or destroyed ; and when these causes of interruption had subsided, there\nis no telling how much time and how much money would be required\nto restore the way to use, and to bring commerce back again to these\nchannels, wrhich the interruption had forced to be changed.\n7th. Expenses on these routes must necessarily be great.\n8th. The armed fleets which the protection of the commerce on\nthese routes would require, would involve most serious national ex-\npenses. The nation could better afford to give half the cost of a continuous rail-road from the Mississippi.\nA war of one year, with its cost, and consequent losses of all\nkinds\u2014a war resulting from circumstances necessarily attending any\none of these Isthmus routes, would probably amount to more than\nthe making of the entire road from the Mississippi.\nThese Isthmus routes are good temporary expedients; but the\ndurable and really valuable route is, in my opinion, to be found only\nin a continuous rail-road route from the Mississippi to the Pacific\nwithin our own jurisdiction.\nRespectfully, sir, your obedient servant,\nJ. J. Abert,\nCol. Corps Top. Engineers.\nGlenoy Burke, Esq.,\nChairman, &amp;c, dec, New-Orleans.","fullrs":{},"find":"2252.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2251","restrictionCode":"1","cdmfilesize":"428838","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

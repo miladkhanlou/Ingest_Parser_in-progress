@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 9</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2118</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2118</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2118/json"
+                        timestamp="2017-02-03 08:24:45">{"title":"Section 3, Page 9","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"ADDRESS. 9\nThe same period of five years in New-York, showed a falling off\nm otfo .- - -f real. estate from $251,194,920 to $247,152,303, an\namount equal ^$-^042,617. This striking fact has alarmed the\nNew-Yorkers, ~- * ^it^in l(]0 \u2022nsfarfo yudLa\u201eway as must restore\ntinuetf their amazing strides.\nWe turn now to our neighbor and enterprising city of Mobile for\nillustration. The assessment rolls of real and personal estate, published by authority, shows that the total value of property, which from\n1836 to 1847 had averaged $20,000,000, had declined in 1847, '48\nand '49 to $12,000,000. The result was on all sides evidences of\ngeneral decay. Rents fell, business declined, and emigration commenced its inroads. The glory of Mobile had departed ! But these\nthings were not to last. The stake was too large a one. Property holders awoke from their sleep of death. They looked around.\nThe grand conception of a rail-road to the Ohio was formed. Many\nlaughed and sneered. Thousands doubted. But the work gained\nsteadily in favor, until now, its realization is demonstrably certain,\nhi a single year the real estate of Mobile has advanced $5,000,00^;\nrents have taken a new start; lots are sold at an immense premium\nover previous rates, and general confidence has been re-established\nthroughout the city.    The St. Louis Reveille says :\n\"That the remarkable increase in the price of property in St. Louis this\nspring, as shown by the late sales of real estate in that city and the suburbs,\nis referable, in no small degree, to the anticipated construction of rail-roads having their termini at St. Louis. Since the passage by the Illinois legislature, of\nthe charter for the Ohio and Mississippi Rail-road, foreign capital and enterprise have been directed to that point, and large amounts have been invested\nin the last two months in real estate, at prices far in advance of those hitherto\ncommanded by property at the same season, and under circumstances of an ordinary character.\"\nThe next illustration is Virginia; and here we quote from the late\nable message of Gov. Floyd. \"The wisdom of the policy stands\nfully vindicated by the recent assessment of lands in the commonwealth, which shows an increase of 29^ per cent, upon our entire\nlanded property during the last twelve years, or an aggregate increase\nin the value of real estate alone, since 1838, of $62,749,718, while\nthe increase between the assessments of 1819 and 1838 was only\n$5,036,530, or two and a half per cent. The total value of lands in\nthe state, in 1819, was $206,893,978 ; in 1838 itlwas $211,930,508,\na\u00bbd in 1850 it is $274,680,226; which shows an average increase\neach year, since 1838, whilst the system of internal improvement has\nbeen in operation, equal to the whole increase during the nineteen\nyears prior to that time. This result has been owing chiefly to the\nimpulse imparted to the industry of the state by the facilities which her\npublic works have afforded to our citizens, for transporting their produce to market. Portions of our country which, twenty years ago,\nwere scarcely inhabited, are now thickly settled, well cultivated and\nProsperous. A tax-paying fund has been thus provided, which will\nconstitute, through all time, a valuable addition to the permanent\ncapital of the commonwealth.\"","fullrs":{},"find":"2119.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2118","restrictionCode":"1","cdmfilesize":"525148","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

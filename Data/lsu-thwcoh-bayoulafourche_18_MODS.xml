@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Reynold "Ray" Adams oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Adams, Reynold, 1944?-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Duffy, Kai</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">2010</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Cajuns</topic>
+    <topic>Louisiana</topic>
+    <topic>Golden Meadow</topic>
+    <topic>Social life and customs</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Fisheries</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Hunting</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Neighborhoods</topic>
+    <topic>Louisiana</topic>
+    <topic>Golden Meadow</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Petroleum industry and trade</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Police</topic>
+    <topic>Louisiana</topic>
+    <topic>Golden Meadow</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Shrimp industry</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>Catholic Church</geographic>
+    <geographic>Louisiana</geographic>
+    <geographic>Lafourche Parish</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Adams, Reynold, 1944?</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Adams discusses his childhood on Bobs Lane in Golden Meadow, La., and what children did for recreation, which included hunting and sports.  He spent time with his father in the garden, hunting, and at church.  He was raised Catholic and his father was particularly devout.  Adams recalls the shrimp packing plants in Golden Meadow and discusses the local fishing culture, including recent developments.  He discusses, throughout the interview, how Golden Meadow has changed, specifically the sense of community, commerce and development.  He talks about his first job at the ice plant, and about the Golden Meadow Police Department, where he worked from 1976 to 2005.  Adams recalls his grandparents and his family's Cajun heritage.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/bayoulafourche/Adams_Ray_T3950.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.2351. A digital version of the index (pdf) exists for duplication purposes. A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room. Interview conducted by Kai Duffy.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Reynold "Ray" Adams, Harold's brother, was born in Golden Meadow, La., around 1944 to Andrew Adams and Letucia Johnfroe Adams.  He grew up on Bobs Lane, which was home to the Adams and the Collins extended families.  Adams's father was a refrigeration engineer at an ice plant; Adams also worked there for 13 years after high school.  In 1976 he became a Golden Meadow deputy police officer, and was eventually promoted to chief of police, a position from which he retired.  Adams is a practicing Catholic.  He is married to Judy Adams and has children and four grandchildren.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>1 digital audio file (44 minutes); Abstract (4 leaves); Index (5 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017376" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Bayou Lafourche oral history project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>Bayou Lafourche oral history series</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-bayoulafourche:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Reynold "Ray" Adams Oral History Interview, Mss. 4700.2351, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">Adams_Ray_T3950</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-03-31T18:10:39.757-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 127</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1611</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1611</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1611/json"
+                        timestamp="2017-02-03 08:23:13">{"title":"Page 127","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 127 \u2014\nque nous racontons seront peut-dtre une lumiere pour 1'aveuir des\n\u25a0 generations attakapiennes.\nLa   scene se   passe dans la prison de paroisse. \u2014 Uu joyeux\nrayon  de soleil essaie en vain dc sourire h travers les bui'reaux des\ncellules. C'est du drame avec une raise en scene a la Rembrandt.\nJeudi, 5 mot 1859.\nTemoignage d'Esteve, h. c. 1.\ntl declare- commit re ceux qui ont defonce chez M. A!cihiadel&gt;e-\nblanc;\u2014il tient dc Maximin Rottly, que Prosper Grand avait mis If\nfeu chez M. D. Eastin. et quo Prad, h. c. 1., volait souvent des oies au\nfaubourg, en eompaguio d'un nomine Bin.\nCe3 deux dcrniers sont deux jeunes gens de couleur.\nII avoue de plus que Prosper Grand, Shout (griffe clair), Gudbeer\n(,fouctte ct banni par le Comite do la Cote-Gelee), Alfred (negre de\nJf. Zenon Ferret) et lui-meme, sont les voleurs de M. A. Deblane ; \u2014\nque lee voleurs formaient une bandc dont les noms so trouvaient ine-\nerits but une- feuille qui devait se trouyer entre les mains de Maximin\nRouly, et quo cette feuille se trouvait dans une boite sous son lit, ou\nsur une tablette plaoee a cote dece meme lit.\nII dit qu'il doit son initiation aux secrets de ]a bando ah hasard qui\na fait toinber entre ses mains la feuille citee plus haul. Le nom des\nobjets voles et leg noms de ceUx A qui on les avait voles se trou'va'Kmt\naussi sur la meme feuille.\nII parait que ces messieurs tenaient des livrcs rdguliers, comme\nune maison de commerce.\nII avait vu entre les mains de Rouly aire pipe Cummer, dan* laquelle il ne voulait pas turner, de peur qu'on 1'accusiitd'etre trop\njeune.\nCbez M. Desire Beraud, les metnes voleurs que cbez M. Alcibiadr?\nDeblanc.\u2014Ils ont i'ailli inceinlier la maison, en Iaiseant tombcr du leu\n\u00abur du coton.\nCbez M. Alphonsc Tevtrou, la meme compagnie, augmentee d'un\nlioimne de Pile des Cypres, connu de M. Rouly.\nChez MM. G.Lognau,Aristide Deblanc ct Matin, trois ccmplices de\nplus, trois homines de file des Cypres. lis ont vole peu do chose.\nCbez Georges Lognan, les voleurs ont enleve nne piece de cofcn:.\ndes nioucluiirs et quelques paircs de souliers. M. Rouly savait que\nl'on devait attaquer les magasins Lognan ct Tourneu ;\u2014il Bavait de\nplus que l'individu tire par lo jeune Tourneu n'etiiit pas mort, mate\nqu'il etait ^implement ble^se a la, tsuisse gauche et au bas-ventre. II a\nete le voir accouipagne de M. Roiily, ct l'a trouve daus Pile, coucho\nsous un vieux chene. II s'appelle Mdrcetlin Dubois, etveitd sou ent du\nhois au village, accouipagnc d'un petit eauvage.","fullrs":{},"find":"1612.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1611","restrictionCode":"1","cdmfilesize":"418355","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Cover</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/120</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2006-07-24</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>120</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/120/json"
+                        timestamp="2017-02-02 09:47:14">{"title":"Cover","creato":{},"date":{},"dates":{},"publis":{},"contri":{},"subjec":{},"descri":{},"notes":{},"langua":{},"transc":"Kate Chopin (1851-1904) published Bayou Folk in 1894.  It was her second book, and her first to be commercially published.  Although today Chopin is considered among the most important women in nineteenth-century American fiction, she was a highly controversial writer during her lifetime. Her novel, The Awakening, published in 1899, brought Chopin critical abuse and public denunciation as an immoralist, and she consequently abandoned writing.  More recent critics call it a masterpiece of its time, significant for its social and psychological themes.  Special Collections recently acquired a copy of Bayou Folk, in which Chopin has written out and signed a variant version of her poem, \u201cWhite Oaks,\u201d substituting \u201clive oaks\u201d for \u201cwhite oaks\u201d:  Of all the places on earth I know I\u2019d rather stay where the live oaks grow. From dawn till night, the whole day long They sing their musical, mystical song Of rest, rest for the time is flying, Dream, dream for the day is dying! Oh! That tomorrow were far away And all forever a long today When the world stands still and the soft winds blow In the beautiful land where the live oaks grow!  Although Chopin biographer Emily Toth suspects that the author inscribed more than one copy of this book, no others inscribed by her are known to survive, perhaps because the book was not made from sturdy materials.  In fact, LSU's copy is so fragile that the originals cannot safely be displayed.","digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":{},"collec":{},"sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":{},"format":{},"imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":"Volume6\\2_sd000403a_Cover.tif","find":"121.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2006-07-24","dmmodified":"2006-07-24","dmoclcno":{},"dmrecord":"120","restrictionCode":"1","cdmfilesize":"880553","cdmfilesizeformatted":"0.84 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <transcript displayLabel="Transcript">Kate Chopin (1851-1904) published Bayou Folk in 1894.  It was her second book, and her first to be commercially published.  Although today Chopin is considered among the most important women in nineteenth-century American fiction, she was a highly controversial writer during her lifetime. Her novel, The Awakening, published in 1899, brought Chopin critical abuse and public denunciation as an immoralist, and she consequently abandoned writing.  More recent critics call it a masterpiece of its time, significant for its social and psychological themes.  Special Collections recently acquired a copy of Bayou Folk, in which Chopin has written out and signed a variant version of her poem, “White Oaks,” substituting “live oaks” for “white oaks”:  Of all the places on earth I know I’d rather stay where the live oaks grow. From dawn till night, the whole day long They sing their musical, mystical song Of rest, rest for the time is flying, Dream, dream for the day is dying! Oh! That tomorrow were far away And all forever a long today When the world stands still and the soft winds blow In the beautiful land where the live oaks grow!  Although Chopin biographer Emily Toth suspects that the author inscribed more than one copy of this book, no others inscribed by her are known to survive, perhaps because the book was not made from sturdy materials.  In fact, LSU's copy is so fragile that the originals cannot safely be displayed.</transcript>
+  </extension>
+</mods>

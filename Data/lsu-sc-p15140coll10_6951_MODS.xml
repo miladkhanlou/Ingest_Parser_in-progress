@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 10, Page 11</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2357</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2357</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2357/json"
+                        timestamp="2017-02-03 08:24:55">{"title":"Section 10, Page 11","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"AND OPELOUSAS RAILROAD.                            11      I\n. &amp; Baquie,\n\"s,7\u201e\nPollock, S.\nnd Jolm\nPoland. T. W,\nr,LU\nPeter, Jacob\nPurvis, George\n20\nuell, B\n10\nPlitt, P. H.\nPearson, A. G.\nalien.    Vtllsin\n5\ni'cntlund, Alex.\nn   7C\n10\nPeychruirl, A. A.\npA\n120\nPalmer, Jos. 11. Sc Co.\nPluuol.e, J.B. &amp;Co.\na.m'.'Vat.i.l\n10\nPeterson, Robert\nPooley, J.C.&amp; Co\nliio'in.  !!_\nPitkin, R.\nPeyton, J. H.\nne, V 31\nPeck, Walter A.\nParmley, G. W.\n25     &lt;\ntteB\n20\nPeterson, Peter M.\nPayne, E. C.\nP\nPickles, Jonas\non, J. 0.\nPochclu, R.\nit, F.\nPhelps, P. B.\ney, R. D.\nPhelps, William V.\nrial, George Al.\nPinoham, E.\ne, ,1. M  ,\\  A.\nPearce, Joseph W.\ne, J. M.\nPhelps, A. S.\n\"tly &amp; Bein,\n50\nQ\nQuerouse &amp; Langsdorff,\n50     |\n,.V  Ii n\nR\non,H.\nRodd, E W\nms, W. M.\nRareshide, J H\nc, Cornelius li.\nRobb, A\nes, Oliver\nRaymond, W C\nam, J. M.\nReynolds, M M\n12\nRoselius, C\ne.RL. '\n2\nRelf, J M &amp; Co\nuier. P.\n15\nRatier, G\n,P.J.\nRoman, Charles\ny, Lobitt &amp; Co.\nRubieu, O\ne, Louis\n5\nRym, Theodore\nRea, Thomas\nam, J. M.\nRankin, Thomas\nten, R.\nRand, J M\ne,H.B.\n\"iston, Thomas\n_!L\nRem? it Reese","fullrs":{},"find":"2358.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2357","restrictionCode":"1","cdmfilesize":"488192","cdmfilesizeformatted":"0.47 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

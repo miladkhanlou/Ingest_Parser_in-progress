@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>F02</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1166</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1166</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1166/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"F02","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"F2\nPlaquemine F\u00e9vrier 14. 1874 [1876 ?]\nMme Eug\u00e9nie Arceneaux,\nCh\u00e8re Soeur.\nJai recu votre lettre du\n23 Janvier et suis bien heureuse de savoir que vous\n\u00eates tous en bonne Sant\u00e9, J\u2019esp\u00e8re bien que cela\ncontinura; tant qu\u2019a moi en ce moment je ne\nsuis pas bien, je souffre du malle de T\u00eate\nnerveux depuis quelque semaine, Tant qu\u2019a tous ce\nqui a \u00eate fait j\u2019en suis satisfaite, faite faire un\nService pour Maman en Avril come vous en\navez l\u2019intention, je voudrai bien pouvoir i assist\u00e9\nmais cela ne se peut, car mes moiyen ne le\npermettr\u00e9 pas, alors ju\u2019nirai mais Pri\u00e8re avec les\nvotre ce jour faite moi savoir le jour que\nvous ferai faire le Service, tant qu\u2019a la [rature]\nTerre je pense qu\u2019il faudra qu\u2019ell sois\nVendu tot ou tard ainsi Drofin peut faire\ncomme il croira mieux je me fi enti\u00e8rement\na lue car je crois qu\u2019il prendra mes interet\ncomme pour une soeur. Jai un de mes\nbeau fr\u00e8re qui voudrai avoir de la cotonnade\nen faites vous toujours, et combien la vend\u00e9 vous\nJ\u2019en voudrai pour deux pair\u00e8 de Pantalon blue et\nF2\nblanc laiss\u00e9 savoir le prix, et si vous pouvez l\u2019envoye\npar la poste alors je vous \u00e9crir\u00e9 s\u2019il faut l\u2019envoy\u00e9,\nJe serais bien heureuse s\u2019il \u00e9tait possible de vous voir a tous\nmais l\u2019argent est tellement rare de ces cot\u00e9 cis, que et ma\nsant\u00e9 si mauvaise que je bien peur d\ufffd\ufffd\ufffdetre oublige de\nmourir sans vous voir. Mes amiti\u00e8 \u00e0 Drofin est \u00e0\nsa famille, bien des chose \u00e0 vos enfant est pour\nvous recevez les amiti\u00e8 Sinc\u00e8re d\u2019une Soeur\nD\u00e9vou\u00e9\nCarmelite Brown","typa":{},"genera":{},"fullrs":"Volume5\/F02-1.pdf","find":"1167.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1166","restrictionCode":"1","cdmfilesize":"45627","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 22</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2247</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2247</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2247/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 22","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[22]\nunder the same impressions now, believing that it is a work which'\nevery point of view is of the highest importance to the confederac\"\nand that it is within the powers of Congress to execute, I ask leay\nthrough you, to present the following resolutions for the adoption J\nthe Convention :\nResolved, That the interests of all the states bordering on the Grulf0f\nMexico, as well as of those states whose productions find an outlet therein,\nare deeply involved in the inquiry, whether the expense, delay and danger\nwhich now burthen the commerce of the gulf in the navigation of the Cape\nof Florida, may not be avoided by a ship canal across that state.\nResolved, That the representatives ofthe states interested, now assembled\nat Washington, be requested to urge this question upon Congress at its\npresent session; and if the proper departments are not now ready to giye\nthe work such an approbation as to justify Congress, with the consent of\nthe state of Florida, at once to undertake the work\u2014then that these representatives be requested to take such action as will cause a full and accurate\nsurvey to be made, so that the necessary information may, at the earliest\npracticable time, be given to the government and the country.\nResolved, That copies of these resolutions be forwarded to the members\nof Congress, and that copies also be immediately forwarded to the state\nlegislatures, now in session, requesting their aid in bringing this matter\nfully before the Congress of the United States.\nRegretting that circumstances prevent any other return to your\nkind invitation than these hastily-penned remarks, allow me, gentlemen, to wish you the fullest success in the patriotic movement now\nbeing made by you.\nWith sentiments of great respect,\nI remain your obedient servant,\nP. Phillips.\nTo Messrs. Burke, De Bow, &amp;c.\nMobile, Slst December, 1851.\nINTERNAL IMPROVEMENTS BY GOVERNMENT-PACIFIC RAIL-ROAD-\nI have received your letter, inviting me to attend the Rail-road Con*\nvention which is to meet in New-Orleans on the first Monday^\nJanuary next. It will not be in my power to attend. Official duties\noblige me at that time to be at my post at Washington.\nBut I send you three reports in reference to the trade ofthe lakes\nand western rivers, which may be of service to your deliberations.*\nAllow me to draw your attention to a few of the facts of these\nreports.\nThe system of harbor and river improvements may be considere\nas having been commenced in 1806, and as having been continued\nwithout interruption, up to, and including the year 1845; and, bJ\nreference to the table, page 24, report No. 1, it will bepercei*\n* These reports were made by Col. Abert, ofthe dateB December, 1846, JanuM?!\nMay, 1850.","fullrs":{},"find":"2248.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2247","restrictionCode":"1","cdmfilesize":"527748","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

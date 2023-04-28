@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Brought to the Police Prison, 1st District.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001110</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J. Worrell</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1852-05-11</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Columbus, Ark</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1852</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">BROUGHT to the Police Prison, 1st District, CHARLES, a griff, about thirty-one years old, five feet seven and three-quarter inches high, has a large scar on left cheek and bald on back of head from a scald. Says he belongs to Mr. Draper, near Columbus, Arkansas. ELIZABETH, a mulattress, about twenty-three years old, five feet one inch high, has scars on both arms. Says she belongs to Mr. Delway. HENRY, a mulatto, about twenty-nine years old, five feet three and a half inches  high, has a small scar on forehead and on left check. Says he belongs to Mr. Pickerell. MARIA, a griffe, about thirty-seven years old, five feet two inches high, scar on right eye, fore-finger off right hand, and smal finger off the left. Says she belongs to Mr. Claa. PEGGY or REBECCA, a black, about twenty-four years old, five feet high, scars on forehead and on the wrists. Says she belongs to Mr. Segal. THOMAS, a black, about forty-six years old, five feet five inches high. Says he belongs to Mr. Robertson. The owners will please comply with the law respecting them. NewOrleans, May 4, 1852--my5 1aw3w J. Worrell, Warden</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">griff; mulatto; black</note>
+   <note type="content" displayLabel="Slave Owner">Mr. Draper; Mr. Delway; Mr. Pickerell; Mr. Clapp; Mr. Segal; Mr. Robertson</note>
+   <note type="content" displayLabel="Slave Name (Age)">Charles (31); Elizabeth (23); Henry (29); Maria (37) Peggy or Rebecca (24); Thomas (46)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M; F</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">6</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 5</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent. ([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-05-11/ed-1/seq-3/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-05-12/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-05-17/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-05-25/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-05-26/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-05-27/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-05-28/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-05-29/ed-1/seq-1/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1144</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1144</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1144/json"
+                        timestamp="2017-02-13 13:33:19">{"title":"RSA00001110","object":"sn82015753","publia":"New Orleans daily crescent. ([New Orleans, La.]) 1851-1866","date":"1852-05-11","year":"1852","film":"page 3, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-05-11\/ed-1\/seq-3\/","unique":"Brought to the Police Prison, 1st District.","person":"J. Worrell","parish":"New Orleans, La.","digita":{},"acknow":{},"public":"Mr. Draper; Mr. Delway; Mr. Pickerell; Mr. Clapp; Mr. Segal; Mr. Robertson","town":"Columbus, Ark.","relati":"Charles (31); Elizabeth (23); Henry (29); Maria (37) Peggy or Rebecca (24); Thomas (46)","slave":"M; F","slavea":"griff; mulatto; black","slaveb":"N","slavec":{},"reward":{},"multip":"6","physic":"Y","persoa":"N","transc":"BROUGHT to the Police Prison, 1st District, CHARLES, a griff, about thirty-one years old, five feet seven and three-quarter inches high, has a large scar on left cheek and bald on back of head from a scald. Says he belongs to Mr. Draper, near Columbus, Arkansas. ELIZABETH, a mulattress, about twenty-three years old, five feet one inch high, has scars on both arms. Says she belongs to Mr. Delway. HENRY, a mulatto, about twenty-nine years old, five feet three and a half inches  high, has a small scar on forehead and on left check. Says he belongs to Mr. Pickerell. MARIA, a griffe, about thirty-seven years old, five feet two inches high, scar on right eye, fore-finger off right hand, and smal finger off the left. Says she belongs to Mr. Claa. PEGGY or REBECCA, a black, about twenty-four years old, five feet high, scars on forehead and on the wrists. Says she belongs to Mr. Segal. THOMAS, a black, about forty-six years old, five feet five inches high. Says he belongs to Mr. Robertson. The owners will please comply with the law respecting them. NewOrleans, May 4, 1852--my5 1aw3w J. Worrell, Warden","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-05-12\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-05-17\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-05-25\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-05-26\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-05-27\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-05-28\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-05-29\/ed-1\/seq-1\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001110.jpg","find":"1208.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1144","restrictionCode":"1","cdmfilesize":"113761","cdmfilesizeformatted":"0.11 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

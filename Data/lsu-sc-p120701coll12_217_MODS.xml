@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/345</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>345</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/345/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\nVllilicH Scm(\u00abmoutl)l.\u00bbi at J?f be Co lints li'tnt, bji the Jefferson \u00a9 o 111 fl e null Eat(is!i[n0ton liiccum,\nI N T K H   \u00bb V I. V A a   ACAD I'. M I   ((I! US tl 8 HE   V K II B U.\nMil\nNATCHEZ, AlMtlli IS, IKllrt.\nNO. 0.\nrosemary and the myrtle, the laurel and the heather: are all\n,       called in requisition to create terror or delight.    Art can no\nmore supply the poet with\" a subject, than it can the painter\n\u201eIK,od byO. I. Dukimok, A _M^Pro.Idonlof Joffbrron College, bcto ^ ^ scnlplor_    To appri,ciaU, the beauties of poetry, the\nreader must expect to leave the drawing room, and to the\n\"i ask voar altendonI\"for a time, this evening, to a very fields: he must lay aside his scented waters, and inhale the\n1   reduction     The subject, however, if not tiie subject aromatics which scatter their sweetness,on the breeze.    The\nZr may be interesting.    I ofTer a few desultory thoughts music of the timbrel and the harp   must give place to the\nmatter, muj ...\"     ,   .nniT nf thn lurk and the thrush: and the converse of cossin-\nA LECTURE.\n.   rMFtUKNCK   OF   l'OKTHV   ON   NATIONAL   OHARACTER.\ni, a   M , Pro\u00bbl\nIII.: Lyceum.\nMn. PmaiDENT and Gentlemen:\n,the influence which poetry exerts on character\nsong of the lark and the thrush; and the converse of gossip.\nthe influence which poetry exerts on enaiaciei. -~\u00bbe - \u2022      - &gt;    , \u00bb     \u00ab\u2022\nT  a I, what is poetry, is a question which few persons \"&gt;g dames, or the chatter of the p,e and the noisy paroquet\n10'1S '       .'. , ,  i.i  i._ t. i Pnpfrv snwiki the lnnffuace of nature, and sneaks it to tin\nwould ever think of asking, and very few would be found\nable lo answer. It has been defined, \" Highly figurative language, written in verse or measured lines: \"but this definition\nis far from perfect. It describes, it is true, the exterior form,\nbut the soul, the aerial part is overlooked. There is a hid-\n,l,n something in poetry, which cannot be defined or described. It can only be felt. He who has never read a fine\npoem, can form no more accurate conception of it, than a blind\nman can of the beauties of the rainbow.\nStill, though we be unable to define all that is conveyed by\nthe term, there arc some features so strongly marked, that\nsomething like a delineation can be effected, we will attempt a portraiture of these.\nVerse is a succession of long and short, or what is very\nsimilar, accented and unaccented syllables. The pronunciation of these produces rhythm of the same kind, though not\nequal in variety, to that of music. Lines of poetry maybe\ndivided by bars, and set to music with perfect propriety, A\nsuccession of long syllables gives the expression of majesty\nshort, give life and vivacity; and a judicious mixture gives\nvariety. It possesses likewise the like pauses. Now as the\nlove of music is natural, we may ascertain the reason why\nthe most ignorant are fond of poetry; and \"the dwellers on\nthe rocks\" and in the caverns of the earth, have their songs\nand ballads, and relate their deeds of arms and tales of love in\nverse. Poetry is invariably anterior in date to prose; for the\nsame reason, that it makes a vivid impression on the mind\nwhen the apprehension is so obtuse, that prose is unintelligi\nhie. Hence it is, that the earliest monuments of history of\nlaws and religion, are found in verse. Even before the art\nof writing was invented, traditions were preserved in rude,\nbarbaric measures.\nThe imagery is chosen from nature.    The poet, to please,\n'\u2022alls up every beauty that meets the eye, and every agreeable t\nsound that salutes the ear:   the mountain steep,  the dizzy \u25a0\nprecipice, the rugged crag, and the carpet-clad plain.    The o\ngnarled oak, and the fragile lily; the odoriferous shrub, and p\n  \u00b0 _   , .......    1   .l.\u201ec.\u201e..r,|   f.\n\u25a0adding rose; the giant roar of. h e cataract, and thesweet features, that of Egypt.\nthe .. ,,...\nvoice of the \" silver-footed \" stream, that trips melodious over\nWs of polished  pearls; the dark cavern, whose Avernian\nPoetry speaks the language of nature, and speaks it to the\nheart.\nIts subject is the human heart. It describes emotions and\nmanners living as they rise. When it addresses the virtuous\nsusceptibilities, or cultivates the vicious propens.'ties of our\nnature, it speaks a language which cannot be mistaken, and\nmust be obeyed. These are some of the reasons why poetry\nhas ever exerted so great an influence. Nature makes the\nheart warm; but science makes the head clear. *\n\u00bb        * A very large proportion of the ignorant, and\neven many who do not deserve this opprobrious epithet, are\nimpelled to action by feeling and passion, rather than philosophy. They act with enthusiasm, feel intensely, but reason\ntamely. It is a truth which must be admitted on all sides,\nthat a very large proportion of even civilized people are littlo\nin advance of their ancestors. The same poems remain popular, that were admired in remote antiquity, and the same\nor similar feelings pervade certain classes. With this class\nin England, \" Chevy Chace\" is more universally read, than\nour highly finished poems, and has more weight, because\nit is better understood, and better accoids with the fierce\nspirit of the lower classes. Robin Hood is the poacher's\ntext book, and has caused more offences against the game\nlaws than unjust rigor could prevent. Men understand and\nobey the language of poetry, long before they comprehend\nthe laborious deductions of philosophy.\nIt will not be. deemed irrelevant to our present purpose, to\nglance at some of the chief poetic works, stating the known\n-md probable effects upon the character of their readers. First\njnordernreHesiodand Homer. Greece, it is well known, pes-\nsesses a mild climate and fertile soil, with great w.ldmssand\nbeauty of scenery.   These circumstances alone would tend to\nproduce vivacity and genius among the people. But theirchar-\nucter was at least modified by these two great poets.   As re-\np-ards mythology, there is little doubt, that, prior to the I he-\no-ony and Iliad, nothing like a system existed.    Paganism\navailed, and probably resembled closely, in its prominent\nSgypt.    But the Greeks were a rude nation\n-\u201e that time, and had not advanced fir enough in civilization to\nappreciate, even if they were acquainted with the refined my*\n.icisms of the Egyptian Priests\nHesiod perhaps had from\nvapors drive back the'intruder, man; and the cool grotto, .icisms of the, Egyphimi \u2022 to found bia fa-\nwhore limpid waters flow, refreshing and salubrious; the this source many nnportant","fullrs":{},"find":"346.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"345","restrictionCode":"1","cdmfilesize":"1699247","cdmfilesizeformatted":"1.62 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

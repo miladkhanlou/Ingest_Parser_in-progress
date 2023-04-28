@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Runaway in Jail.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001071e</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">Runaway in Jail. A NEGRO man. Who calls himself ABE, was lodged in the Parish Jail on Monday the 29th ultimo. When first interrogated, he said he belonged to Mr. Cravatt living in New Orleans. He now declares that he is the property of Isaac R. Jackson a resident of this parish. Said boy is about 22 years old and is 5 feet and 8 inches in height. His color is rather on the griff order. The proprietor is requested to come forward and prove property, pay costs and take him away, or else he will be dealt with according to law. JACOB ANSELM, Jailor. Opelousas, August 3d, 1861.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5
+</number>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86079076/1861-08-03/ed-1/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86079076/1861-08-10/ed-1/seq-2/; 
+</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3452</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-06-22</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3452</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3452/json"
+                        timestamp="2017-02-13 13:34:04">{"title":"RSA00001071e","object":{},"publia":{},"date":{},"year":{},"film":"page 2, column 5\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079076\/1861-08-03\/ed-1\/seq-2\/\n","unique":"Runaway in Jail.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"Runaway in Jail. A NEGRO man. Who calls himself ABE, was lodged in the Parish Jail on Monday the 29th ultimo. When first interrogated, he said he belonged to Mr. Cravatt living in New Orleans. He now declares that he is the property of Isaac R. Jackson a resident of this parish. Said boy is about 22 years old and is 5 feet and 8 inches in height. His color is rather on the griff order. The proprietor is requested to come forward and prove property, pay costs and take him away, or else he will be dealt with according to law. JACOB ANSELM, Jailor. Opelousas, August 3d, 1861.\n","subjec":{},"type":{},"format":{},"langua":"English\n","digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079076\/1861-08-10\/ed-1\/seq-2\/; \n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00001071e.jp2","find":"3519.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-06-22","dmmodified":"2016-06-22","dmoclcno":{},"dmrecord":"3452","restrictionCode":"1","cdmfilesize":"86484","cdmfilesizeformatted":"0.08 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

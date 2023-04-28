@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 63</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1986</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1986</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1986/json"
+                        timestamp="2017-02-03 08:23:56">{"title":"page 63","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"duration.    The Mechani\nArts   a\ne  the pillars\nwhich support the conipl\ncited fal\nric of modern\nsociety, and there is a sp\nrit on the\nwatch which\nwill not easily allow the\niliud S.u:\nson of war to\nshake them and to bury\nivilizatio\ni under their\nruins. Hence the present hesitation in the belligerent dispositions of Europe. The sword itself\nis made to think and reflect; it may fret in the\nscabbard, but before it leaps out, it is bound to\nconsult the scythe, the plough, and the other\nengines of industry.\nThere are evils, however, to be apprehended\nfrom the excessive development of the Mechanic\nArts, and from their exercising a sort of monopoly over the public mind. It is the \"over-\nsharpening of the appetite 1',,,' properly, which,\"\nas it has been observed, \"although a great blessing in its nature, degenerates into a great curse\nwhen it transgresses the bounds of moderation.\"\nof life were the objects of exchange or barter, before money had become a medium of trade.    But\nkind of property, it inflamed the covetousness\nspirit tainted the cultivation of the Mechanic\nArts.    I have paved the way","fullrs":{},"find":"1987.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1986","restrictionCode":"1","cdmfilesize":"458155","cdmfilesizeformatted":"0.44 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

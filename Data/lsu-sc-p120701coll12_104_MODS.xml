@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/393</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>393</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/393/json"
+                        timestamp="2017-02-09 16:30:55">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"S O U Til- W E S T E It N J 0 U It N A L.\n20\n\u25a0\u25a0 How long was ii In foro man ascertained that yonder star\n-was the centre of a system, and that yonder one revolved\naround our sun? That this shed its own light, nnd that reflected borrowed beams\/ Cicero and Socrates thought them-\nsi Ives wise, but it was only Columbus who drew the veil from\nanother world.    Do you think man yet knows all 1\"\n\u2022\u25a0 No.    Go on.\"\n-1 have, partly by accident, partly by study, learned to\nread the form, tokens, sentiments, propensities and liieiilties of\nthe human character. I can make every man know and\nin tster himself I can point lo each individual the path of\nsuccess. I can take the peasant from the plough and make\nhim a Raphael, the smith from the anvil a Petrarch. I can\ns iy to a people, ' Take that man for your king, he will .make\nyau happy;' ortoaking, ' This ono of your number is n hyp-\nocrite, that an assassin, that a faithful and good servant,' and\ntime and circumstances will approve all. You smile again;\nyou are still incredulous.\"\n\" 1 am. Von nre an enthusiast. If you possess, d tho boasted power, you could become master of mankind You are\nonly a wandering beggar.\"\n\"Alas! my son, the power which I hold is only one of perception, not of creation, In myself I find no qualities but\ni lioness, improvidence\u2014every attribute which preventsa man\nfrom succeeding in life, joined with a power of observation\nmid reflection which have led mo to tho rcmarkobla discovery\nwhich I have made. I read in my own file, 'You will he a\nbeggar;'and lam.\"\n'\u2022 Why have you not male known your secret to others\nwho might us\" it with moroprofit?\"\n\" Alas ! who listens to the beggar? You are the first who\never interchanged with me a rational or respectful word of attention. Ono day my system will doubtless be taken up.\nSome one will reap the glory while I shall be foi'gottl n. lie\nit so.    In i itber ease, I should be a beggar.\"\n\"This i.- pri . si million.\"\n\" No, ii commenci I in predestination, but I soon abandoned\nthat, except to a limit 1 degree; man has power over himself\nI le may go east or w&lt; st. To call his frco choice predestined,\nisto repim illy. I can tell you your character, and what you\nwill he most liki Iy to succeed in. Your soul is in your brain :\ntho master \u2022\u2022\u2022' fans fy ,ur being, your propensities, your pas-\nsinus are in your skull, mid show their size and formation on\nthocxterior surl ice. i.; is not blind fortune-telling, it is n\nscii nee found* ' on truth i n 1 an itomy.'\n\" Come, tin n, tell i .\u25a0 whether I shall succeed in the path ol\nmy choice?'\n\" What would yo i be?\"\n\" A piiintt i\n\"Gratify my curiosity; what do you discover? tell me I\"\n\"Notfor worlds; no, I will not.\"\n\" 1 pray you.\"\n\" I will not.\"\n\"Well, good friend, I will not he angry; but although you\nrefuse to oblige me, you shall nevertheless have your supper.\"\n\"Yet\u2014stop, I will speak\u2014but first to chose that incredulous smile from your lips, I will tell you some of your\nthoughts.\"\nHe whispered in his ear.\n\"HightI\" said the boy, wilh some surprise.\nAgain, again, and again, and each time the youth, with\nmore profound astonishment, rejoined \"very right!\"\n\"Now hear me. Young boy, you may become master of\nthe world.\"\n\" You rave, old man.\"\n\" No.     You have never dreamed of being a painter.\"\n\" True.    I di ceived you.\"\n\" Yoiirniiud is bint on military studies.\"\n'\u25a0 It is. I inn a pupil ofthe Koyul Military School at\nParis.\"\n'\u2022 Your name!\"\n\" Nnpolci n Bonaparte.\"\n\u2022\u25a0 Your age?\"\n\"Sixteen.\"\n'\u25a0 In twenty years\u2014ifyou but follow the tide\u2014if you pursue the hint of your own nature, you may be master ofthe\nworld.\"\n\" It is a dream,\" said ihe lad.\n\" But beware ofthe recoil ofthis terrible genius,\" continued\nthe old beggar. \"It may crush millions, and with them yourself.\"\n\" Possibly; bul, in the meantime,  you must be hungry.\nCome with me, I will give you food, and we will talk more of\nis.\"\u2014N.  1. Mirror.\nPORSON'S SATIRE ON  METAPHYSICS, LOGIC, NATU-\nIt.'tL PHILOSOPHY, ANATOMY AND CHYMISTEY.\nThe  following feu d'espril is from the pen ofthe prc-\nfound Professor Porson, and is a most happy touch at some\nsystems of modern education.\nMETAPHYSICS.\nProfessor. What is a salt box?\nStudent.  It is a I -i.- made to contain salt.\n\/'. How i. ii divided?\n.\".  Into a salt-box, i ml n box of salt.\n\/'.  Very will.   Show tho distinction.\nS. A salt-box may I   where there is no salt, but salt is ab-\nTuke ell yi ir in:; approach me; let me lay my hand en soliilt Iy necessary to tl .\u2022 e listcncoof a box of salt.\nP.  A re not salt-boxi s otherwise divided ?\n,V.   Yes, byu pit ilion.\nP. What is the use of this division?\n,'\u25a0'. To separate the coarse salt from the fine.\nP. How! think a little.\nS   To separate the fine salt from the coarse.\n\/'. To Le sore: to separate the lino from iho coarse.\u2014But\nare not salt-bo) - \u2022- olhi rwis   distingui ;.-. I?\nyour head; a painter, you said?\"\n\"   \"Ay.\"\n'\u2022 Threw by your brushes, you will  make only daubs, t\nihe end ofyour life; ! 'i,\u2014Powers of Mercy! '\n\" What is tha matter! you turn pale,\"\n\" Amazement i'\n\"What do you mean?\"\n\" Amazement! a: . iz ment I\"\n\u2014","fullrs":{},"find":"394.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"393","restrictionCode":"1","cdmfilesize":"1575381","cdmfilesizeformatted":"1.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

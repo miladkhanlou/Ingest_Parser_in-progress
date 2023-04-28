@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 267</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1751</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1751</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1751/json"
+                        timestamp="2017-02-03 08:23:18">{"title":"Page 267","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 2dT \u2014\ni'homme qui vole, et tue, et se parjure ; celui qui torture ses sembla-\nbles : celui qui est laehc. hypocrite et rampant, ah! celui-la, Alcee.\nsi feiais puissant comme Dieu.au lieu d'etre un ver de terre, celui-la\nje vondrais pouvoir le rayer de la Creation aussi fadlement que Dieu\n'rave une creature du livre de la vie. Peut-etre, a co jeu-Ia, depeuple-\nrais-je&gt; la terre; mais ceux qui resteraient f'eralent comme Nog, ils\nrepeupleraient le monde et peut-etre la mauvaise graine, etant detruito.\na'aurait pas la chance de repousser.\nAmi Alcee. cette bontade m'est insplive par I'homme dont je me,\nsuis charge, je ne sals comment ni pourquoi, de vous conter l'histoire.\nAimez-vous le serpent a sonnettes . Non, sans doute ; eh bien ! j'ai-\nmerais mieux en voir un se dresser devant moi que de croquer\nI'liomme en question.\nCet homme etait de taille ordinaire. II avait des yeux bleus fai-\nsant oublier par leur douceur I'enluniinure de son teint. On eut dit\nuu pan du manteaii du del plaque sur un masque d'ivrogne. Figurez-\nvous une comhinaison chiiuique, un accouplement de l'azur et d'un\nincendie. Tout chez lui semblait respirer la douceur, une douceur\nfeline! celle du chat ou du tigre caressant sa victime avant de la\nbroyer. Jo comph'-tevai ce croquis en disitut que sa voix etait d'uae\nsuavity, d'une purete telles qu'on levait involontairement les yeux\nsur lui pour chercher si on n'avait pas devant soi une femme habillee\nen homme, ou uu de ces eastrats d'ltalie qu'on employait autrefois a\nla Chapelle Sixtiuo et que la civilisation inodeme a abolis. Ses levres etaient fines et se plissaient comme les fraises des tnignons\nd'Henri III\u2014 slgne de eruaate, ont dit Gall et Lavater. Neron. Sylla,\nHeliogaBnle, Charles IX,'out eu sans doute de pareilles levres. Dieu\na fait du visage le miroir de Tame, mais quel miroir ! Quelque chose\nde terne, de nebuleux, de rouille, un hieroglyphc que peu do Cham-\npolion ont su lire.\nCet homme s'appelait Pierre Bergeron.\nBergeron avait son habitation sur la rive droite du bayou Teche.\nvis-a-vis la splendide habitation Lastrapes. La fortune, cette catin\naveugle qui se donne au premier ninnant qui saisit un pan de sa robe,\n1'avait traile en enfant gate : elle lui avait donne un camp iounniliaiit\ndo nogn-s qu'il se plaisait a moutrer aux voyageurs que les affaires ou\n1'auiitie eonuulsaient it sa demeure\u2014et dont il gourmaudait la paresse\navee les notes les plus harmonieuses de sa voix de seraphim\nDans ses relations avec le monde, ii etait doux. pull, reserve dur,s\nses propos. parlant parfois de lui-uieme et des autres avec uu tact et\nune modestie qui lui eonciliaient sj bien les suffrages que, moi, qui\nTOUS parle, j'ai entendu un jour la conversation suivante entre un\ntres honorable habitant de la paroisse Saint-Martin et uu homme eminent d'une paroisse voisine. La scene s'est passee au Cojfc des Allc-\nmands, tenu par les deux magots que vous conmiisscz a Saint-Mar-\ntmville.\nde\nJe viecsde voir Bergeron, disait 1'un ; on m'a dit qu'on raccusait\ncrimes  que   sa religion lui defendait de commettre, et, dernieiv\npreuve d'innoceuce, il a pleur","fullrs":{},"find":"1752.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1751","restrictionCode":"1","cdmfilesize":"387536","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

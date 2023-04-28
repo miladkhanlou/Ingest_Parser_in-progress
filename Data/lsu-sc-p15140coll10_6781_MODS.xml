@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 5, Page 28</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2187</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2187</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2187/json"
+                        timestamp="2017-02-03 08:24:48">{"title":"Section 5, Page 28","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"28\ncities of the Southwest even to compress their whole business into a few mouths, ft\nhas limited their profits to a mere factorage upon the produce of the valley, whilst it\nhas given away the far greater profits which the supply of merchandize by uninterrm.\nted communication would have enabled them to secure.\nSo long as the producer was limited to a water-borne transportation, there wagj,\nalternative. He must await the rising ofthe river;;: he could not chouse any 0%\nmarket than those upon the banks or at the debouceure of the river upon which he\nresided.\nBut modern enterprise has relieved him from his dependence upon the current. The\nAtlantic cities of the Union have introduced syphons into the basin of the Greit\nWest. New York, Boston, Philadelphia, Baltimore, Richmond, are competing amongS\nthemselves by lines which offer cheap and rapid communication. There is a joiM\ncompetition against the cities of the south-west. It has opened a scries of crevom\nin the trade of the lower cities that will ultimately, unless counteracted, compete &amp;\nously with the Mississippi and the Gulf stream\u2014that almost continuous current that\nllows around the Atlantic States, and which was once the natural course of commercal\nintercourse between the valley of the West and the market cities of the world.\nEut, in this connection, the attention of the south-west should be called to an ii\nmense advantage of position which can be fully realized by applying the lessons whkk\nnorthern capacity has taught us.\nThere is no doubt but that the course of commerce will be upon the most direct line\nbetween production and consumption, and that, upon a triangulation of any trade ar\u00bb\ntrade and travel will prefer the hypothenuse. Whilst, therefore, the south-westen\ncities may lose much of the trade wrr;ch will obey this newly developed law of tra\u00bb\nportation, they should devote themselves to opening similar communications with the\nwestern, south-western and southern trade.\nIn this point of view the communications with Arkansas and southern Jlissouri-\nthe Opelousas, El Passo and Pacific, with the Texan connections of this great hue-\nbecome important. Throw into that vast, fertile and unsettled interior the emmign\u00bb\npopulation that now passes up the Mississippi to vote for free-soilers and growg\nfor New York; create anew empire of the south-west to counteract that newempn\nof the north-west, and the cities of the south-west will regain a larger amount of tw*\nthan they can possibly lose. Nay, more. The Mississippi now pours its trade into UK\nGulf, which is a trade eddy, and all that commerce which is destined for the PacuK\nmarkets is returned to the North for exportation; because iu the inevitable voyap\nround the Horn the differeuce of the coast-wise shipment to New York is immaten*\nBut the Isthmus of Central America is a bar across the mouth of the IMississippi-\nmust be removed, either by national or associate enterprise.\nLet then the lower crossings, which have been projected since the days of BalD*\nbe opened by ship canal, and let the Isthmus of Tehuiuitepec\u2014so iit\\ orably descnW*\nby the gentleman from New Orleans (Mr. Benjamin)   as passing through  a lo13^:\nwhich a recent survey has shewn to present few physical obstacles, which is sa lo\nous in its climate, exuberant in its productions, and peopled by a docile and  frieD~'\npopulation\u2014let these communications be opened with canals and   roilroad,  an0\ntrade of the Mississippi valley destined for the   Pacific  markets^will be jnf    j\ndrawn to your south-western cities for exportation.     The  arm of the  ^u  tL\ncross-id is narrow, the Pacific  coast is safe and the ocean placid; the  strong \u00bb*\nand expensive vessels built to be buffeted by the storms oi Patagonnia, are supe     ^\nby the cheaper craft, and which will conduct the coast-wise trade from the o&amp;\nthe Callao or San Francisco.","fullrs":{},"find":"2188.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2187","restrictionCode":"1","cdmfilesize":"609308","cdmfilesizeformatted":"0.58 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

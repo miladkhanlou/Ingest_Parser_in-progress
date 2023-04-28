@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Louisiana Department of Wild Life and Fisheries: Biennial Report 1944-1945</title>
+   </titleInfo>
+   <part>
+      <detail type="volume">
+         <number>1</number>
+      </detail>
+   </part>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/n83069941"
+         displayLabel="Author">
+      <namePart>Louisiana. Department of Conservation</namePart>
+   </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1945</dateIssued>
+      <publisher>Dept. of Conservation</publisher>
+      <place>
+         <placeTerm type="text">New Orleans, La.</placeTerm>
+      </place>
+   </originInfo>
+   <subject authority="lcsh">
+      <topic>Game protection</topic>
+      <topic>Louisiana</topic>
+      <topic>Periodicals</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fisheries</topic>
+      <topic>Louisiana</topic>
+      <topic>Periodicals</topic>
+   </subject>
+   <abstract displayLabel="Description">The Biennial report was published by the Louisiana Wildlife and Fisheries Commission between 1954-1970.</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>application/pdf</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name type="corporate"
+         authority="local"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Government Documents</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Department of Wildlife and Fisheries Documents - LSU Libraries</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-govdocs-p16313coll45:collection</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>SH 11 L8</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">This document is in the public domain.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll45/id/499</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-07-23</recordCreationDate>
+      <recordChangeDate>2020-11-17</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll45</alias>
+         <pointer>499</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll45/499/json"
+                        timestamp="2017-02-07 15:37:41">{"title":"Louisiana Department of Wild Life and Fisheries: Biennial Report 1944-1945","volume":"1","issue":{},"creato":"Department of Conservation, State of Louisiana","date":"1945","source":"SH 11 L8","subjec":"Game protection--Louisiana--Periodicals.; Fisheries--Louisiana--Periodicals.","publis":"New Orleans, La. : Dept. of Conservation","descri":"The Biennial report was published by the Louisiana Wildlife and Fisheries Commission between 1954-1970.","rights":"This document is in the public domain.","notes":{},"type":{},"format":{},"langua":{},"relati":{},"covera":{},"audien":{},"identi":{},"fullrs":{},"find":"500.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2013-07-23","dmmodified":"2013-07-23","dmoclcno":{},"dmrecord":"499","restrictionCode":"1","cdmfilesize":"14809118","cdmfilesizeformatted":"14.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+   </extension>
+</mods>

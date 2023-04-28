@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M53</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1334</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1334</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1334/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"M53","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM53\n1768-13 Sept\n[375]\nMonsieur\nQuelque humiliante qu\u2019ayt Et\u00e9 pour moi ___\nVotre fa\u00e7on de penser amon Egard, relativement\n\u00e0 un homme que j\u2019ai gard\u00e9 aupres de moi par\nun motif de charit\u00e9, Et que L on a Cr\u00fb perdu ; Je\nCrois en quelque fa\u00e7on Etre d\u00e9domag\u00e9 par Les\nrecherches, que j\u2019ai faitte de cet homme, qui\nN\u2019ont pas Et\u00e9 inutilles, il partit de La Nlle\norleans pour \u222be rendre par terre aux Adaes, __\nune incomodit\u00e9 Lui Etant \u222burven\u00fce. Jointe\nA une rivi\u00e8re qui a Barr\u00e9 \u222bon Chemin\nLui ont Empech\u00e9 de continuer \u222ba routte. Et l\u2019ont\noblig\u00e9 a \u222be rendre dans ce poste. ou je L\u2019ai\nfait arester &amp; Conduire par \u222bon p\u00e8re\nChez Monsr. Duplessis, qui Vous Emmenera\n\u222ba [illisible] Compte.\n2\nM53\nJ\u2019avois intention, avant mon D\u00e9part de la Nlle\norleans, d\u2019inplorer La protection que je \u222bcait\nque vous ne refus\u00e9s point aux honnetes Jens_\nqui ont eu des malheurs ; La mauvaise opinion\nque vous par\u00fbtes avoir Con\u00e7\u0169 de moi Monsieur\nparaport \u00e0 La pr\u00e9tend\u00fce perte de L\u2019homme\nEn question, m\u2019a interdit La voye de\nrepresentation ; Comme je \u222buis pleinement\nJustifi\u00e9. Je Crois Etre authoris\u00e9, a metre \u222bous\nVos yeux Les pertes que m\u2019a \u00f4casion\u00e9e___\nL\u2019incendie que j\u2019ai \u222buport\u00e9 il ya plusieurs mois\npersuad\u00e9 qu\u2019en ayant Et\u00e9 Touch\u00e9 vous voudr\u00e9s\nBien m\u2019\u00e9tre favorable. C\u2019est dans cette persuasion\nque je vous prie de Jetter un O\u00fcil favorable\n\u222bur un m\u00e9moire que J\u2019adresse a Mr Ranson\n\u222bindic de mes Cr\u00e9anciers ; Les pertes que j\u2019ai\nfaittes ne \u222bont pas \u222buspectes, Le publiq\nEn Est convaincu.\nVous Ettes Le p\u00e8re des peuples. Le\n3\nM53\nprotecteur De l\u2019Infortune c\u2019est \u222bous ce double Etre\nqu\u2019est fond\u00e9e L\u2019esperance que J\u2019ai que vous__\nvoudr\u00e9s bien m\u2019honnorer de v\u00f4tre protection.\nJ\u2019ai l\u2019honneur d\u2019Etre tres respectueusement\nMonsieur\nV\u00f4tre tres humble\nPointe coup\u00e9 Le 13e 7bre 1768. &amp; tres \u00f4beissant \u222berviteur\nLamathe\nA Monsieur De Ulloa","typa":{},"genera":{},"fullrs":"Volume7\/M53.pdf","find":"1336.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1334","restrictionCode":"1","cdmfilesize":"53719","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

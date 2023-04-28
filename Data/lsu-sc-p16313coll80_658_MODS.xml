@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Negre en Prison.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000559f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">Negre en Prison. IL a été conduit à la geôle de la Paroisse St. Landry, le 22 Novembre courant, un Nègre s'appelant Henry, âgé de 22 ans et se disant appartenir à M. William Jacob, demeurant dans la Paroisse Ste. Marie. Ce nègre est noir, d'un forme robuste, parle Français et Anglais, il a une balafre au travers du visage qu'il dit avoir été fair par le fouet. Le propriétaire du dit esclave est requis de venir le réclamer, prouver sa propriété, payer les frais et l'emmener, autrement il en sera disposé selon la loi. CHS. THOMPSON, Geolier. Opelousas, 26 Novembre 1853.</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 4</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-11-26/ed-1/seq-1/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-12-03/ed-1/seq-1/; </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83026389</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/951</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-25</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>951</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/951/json"
+                        timestamp="2017-02-13 13:34:20">{"title":"RSA00000559f","object":"sn 83026389","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910","date":{},"year":{},"film":"page 1, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-11-26\/ed-1\/seq-1\/","unique":"Negre en Prison.","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"Negre en Prison. IL a \u00e9t\u00e9 conduit \u00e0 la ge\u00f4le de la Paroisse St. Landry, le 22 Novembre courant, un N\u00e8gre s'appelant Henry, \u00e2g\u00e9 de 22 ans et se disant appartenir \u00e0 M. William Jacob, demeurant dans la Paroisse Ste. Marie. Ce n\u00e8gre est noir, d'un forme robuste, parle Fran\u00e7ais et Anglais, il a une balafre au travers du visage qu'il dit avoir \u00e9t\u00e9 fair par le fouet. Le propri\u00e9taire du dit esclave est requis de venir le r\u00e9clamer, prouver sa propri\u00e9t\u00e9, payer les frais et l'emmener, autrement il en sera dispos\u00e9 selon la loi. CHS. THOMPSON, Geolier. Opelousas, 26 Novembre 1853.","subjec":{},"type":{},"format":{},"langua":"French","digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-12-03\/ed-1\/seq-1\/; ","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000559f.jp2","find":"1015.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-25","dmmodified":"2016-02-25","dmoclcno":{},"dmrecord":"951","restrictionCode":"1","cdmfilesize":"166111","cdmfilesizeformatted":"0.16 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

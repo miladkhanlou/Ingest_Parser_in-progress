@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 04</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/401</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>401</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/401/json"
+                        timestamp="2017-02-09 16:30:59">{"title":"Page 04","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"w.\nSOUTH-WESTERN JOURNAL.\nelves, they surely cannot desire\n.!.'\u00bb\nengaged in doing good llieinse\nthat others should do less.\nThe Legislature thought proper, in chartering this institu\ntion, to require the Trustees to \"take effectual care that students of all denominations should be admitted to equal advantages, and, receive alike fair and generous treatment, eye. \" It can, therefore, never be committed to the exclusive control of any religious sect: in this, there would\nbe an infringement of rights, and would, wc are persuaded,\njustly provoke the enmity and opposition of all others. As\nit is, we cannot believe that, in this enlightened age of toleration, tho class of the community whose peculiar province\nand pursuit it is to cultivate \"peace, good will and-charity,\nwith all mankind,\" could be arrayed against an institution designed lo enlighten, refine and ameliorate the condition of society. In the organization and conduct of this Institution\nthroughout, we can discover nothing to provoke either jealousy or hostility from such a quarter.\nTho Trustees arc taken indiscriminately from persons of\nall persuasions! Clergymen of all denominations, within a\nconvenienl distance, have been from timeto time elected into\nthe board. On various occasions clergymen have filled ihe\nPresidency, or important professorships, and the same offices\nhave been repeatedly tendered to olheis. Of the present faculty, we learn that some of them are connected, by membership, with some of the churches; of which, wo arc well assured, the board have never thought it necessary to inquire.\nOf all the Professors; we do them but justice to say, that we\nbelieve them to he men of exemplary moral deportment.\nThe moral tone and religious tendency of tho President's\nsentiments, are as well known nnd appreciated, as his gentle:\nmanly deportment and conciliatory manners are approved\nand admired.\nWeapprchend that in.tho feelings of ihe faculty, a leaning\nhas been towards the languages, rather than to the arts and\nsciences, in a degree prejudicial to the wants and interests of\nthe great mass of the community\u2014of those who propose lo\neducate their sons at home.\n'I'o meet, in some degree!, the distinct manifestation of the\npublic desire in this respect, the Professorship of Civil Engineering, Surveying, &amp;c. was established. Why it is continually referred to, and regarded as \"sinecure,\" we know not.\nWe are well assured tho board meant it as no such thing.\nTho knowledge lo be acquired- in that department, together\nwith a comprehensive course of instruction suited to a preparation for commercial pursuits, will attract more students to\nthe institution than any other inducement that can be held\nout. and lo abstain from such a course, is virtually, we believe, to close the door upon nine tenths of the youths of Mississippi.\nWo promised to recur to the subject of the IMilitary System practiced by Messrs. Williston nnd Holbrook. We do\nso now, not with a view of discussing its merits in detail, but\nto express our conviction that thai system, without in the least\nneglecting the classics, embraced a course more consonant to\ndie pursuits and interests of our youth, than any other; and\nby no other plan that has been devised, can southern youth\nbe brought under so rigid and wholesome a discipline as they\nmaintained.\nIt is not our purpose to urge, at this time, a recurrence to\nthis system, to which we are aware that many, whose opinions are entitled to great deference, are opposed.\nWe would say, let every member of this board by his presence, influence and exertions, unite in giving the present organization and the faculty connected with it, a fair and impartial trial, with a liberal and energetic support, to the close of\nthe session. If the experiment then fails\u2014if there is not then\nu large accession of patronage, and the most unequivocal evidences of future prosperity\u2014why, experience has taught us\nwhat tho public approve, and it will be high time to resort\nto it.\nWe would not be understood as yielding to despondency.\nThis institution can be made of great utility. Whilst reflection chastens our hopes, and experience restrains inordinate\nexpectations, they should stimulate us to renewed efforts for\nthe attainment of its true and permanent interests. Reason\ndictates a firm, uniform, and persevering policy, in the application of tho whole of its accumulating revenues to the most\neffectual promotion of the end for which it was created, by\nwhich so much, at least, cannot fail to be accomplished, that\nthe pursuit of education abroad, will be merely a matter of\nchoice\u2014not of necessity.\nIn conclusion, to comply with the latter member of the\nresolution under which we act, we will only add, with great\ndeflerence, the following brief suggestions :\n1st. That tho additional buildings necessary for all the de.\npertinents of the Institution be erected with nil the despatch\nwhich its funds will admit of, and without causing an interruption in ils current operations: that they be carried on upon a\nuniform plan, adapted to permanency and utility, not expensively ornamental, but with a proper regard to agreeable effect.\n2d, That the whole amount of the tuition received (until it\nexceeds 8 2,000 per annum) be set apart for the annual increase of ihe library, apparatus, and mineralogical cabinet.\n3d. That the whole nett income of the Institution, after\nproviding for the foregoing objects, be appropriated to the\nmaintenance of the several professorships that are, or maybe established; and that additional professorships be created\nas income accumulates, and the increase of patronage may\nrequire.\n4th. That a Chaplain be appointed to lecture to the students\nevery Sunday, at one of the churches in the village, and also\nto deliver a lecture on the History of the United States, on\ncry Saturday morning to the students in the'Preparatory\ndepartment: that he be appointed annually, in rotation from\nall the denominations of Christians in the State, and be nominated to ihe Trustees by a permanent board of Clergymen ol\n11 persuasions, to be chosen by the Trustees.\n5th. That in filling future vacancies in the Board of Trustees, selections be made of persons having sons whom they\nwish to educate in the Institution, and who may be not merely\nwitling to serve, but desirous of serving\u2014having a proper regard, of course, to the ability of such persons to be serviceable\nto the institution.\nf\n\u2022&lt;\u00ab .\nt\nc\ns\nc\nc\nti\nt\nSI\nI\ntl\ntc\ndt\nin\ndi\nai\nth\nry\npa\nIre\nqu\ndel\nex,\nbui\nnot\nlati\nsid\n.rap\nIn\nam\ngra","fullrs":{},"find":"402.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"401","restrictionCode":"1","cdmfilesize":"1804780","cdmfilesizeformatted":"1.72 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 77</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1562</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1562</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1562/json"
+                        timestamp="2017-02-03 08:23:12">{"title":"Page 77","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 77 \u2014\nEt nos aleux disaient qu'il y avait des juges a Berlin !\nLa femme de Jean (fille d'un honnete homme) a dtc partager\nvolontairement l'exil de son mari.\nElle a rendu vrai ce vers de Victor Hugo :\n-Les loupe et los seigneurs n'ont-ils pas loura families ?\nXXVI.\nBernard dtait Francois et, comme nous 1'avons dit, avait dpouse\nnne sceur des Herpin.\nJeune fille, elle avait oublie un jour qu'il existait des juges de\npaix pour ldgaliser, et des prctres pour sanctifier les amours dea\nhommes. et elle s^dtait livrde a un jeune homme que nous avons vu\nmourir, il y a quelques anndes, odieusement assassiud dans-un bal\npar uu nommd Vileor Valot. Drame commis au son desviolonsl\nSang jeune et chaud tachant les robes des danseuses 1\nDe cet amour, dtait nd un fils que la jeune mere garda courageu-\neement aupres d'elle, et dleva avec une tcndresse qui ne se ddmentit\njamais. (Nous constatons avec empressement ce courage maternel,\nle plus beau, le plus difficile de tous les courages.\u2014Quand il nous\narrivera de trouver un rayon de soleil sur notre route, nous le \u00bba-\nluerous toujours avec bonheur.)\nXXVE.\nBernard dtait un de ces Michcl-Morin que la nature a doue\"sd'ane\ngrande adresse de corps, d'une certaine dose d'intelligence et d'une\nde ces activites inquietes qui, lorsqu'elles ne sont pas guiddes par\nle fanal ,de la morale, egarcnt promptement un homme et en font,\ndu soir au matin, un vulgaire aventurier ou un bandit.\nCharron, macon, carrossicr, charpentier, armurier, il avait cette\nsuffisance gasconne qui fait croire a l'homme qu'il peut tout, qu'il\nest propre a tout, lorsqu'il ne sait rien, ni ne,peut rien. Ces types se\nretrouvent, du reste, daus toutes les parties du monde : il n'y a pas\nde gascon que sur les bords de la Garonne ; il y en a aussi sur les\nbords du Meschacdbd.\nApre3 quelques dehantillons dc son adresse, donnds aux bons habitants, ses voisins, il avait dtd jugd, et la clientele .de Michel","fullrs":{},"find":"1563.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1562","restrictionCode":"1","cdmfilesize":"422905","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

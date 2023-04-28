@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Valse de concert</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Op. 3, no. 1</title>
+   </titleInfo>
+   <name type="personal">
+      <namePart>Wieniawski, J. 1837-1912 (Józef),</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Composer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cmp</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart>Leefson, Maurits</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Arranger</roleTerm>
+         <roleTerm type="code" authority="marcrelator">arr</roleTerm>
+      </role>
+   </name>
+   <name type="corporate"
+         authority="local"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries: Carter Music Resources Center</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Philadelphia</placeTerm>
+      </place>
+      <publisher>Theodore Presser Company</publisher>
+      <dateIssued keyDate="yes">1899</dateIssued>
+   </originInfo>
+   <note type="content" displayLabel="Instrumentation">Piano</note>
+   <note type="content">Edited and fingered by Maurits Leefson. Includes exceprts from six piano pieces and two violin pieces published by Theodore Presser.</note>
+   <note type="key" displayLabel="Key Signature">D flat major; F sharp major; B major</note>
+   <typeOfResource>notated music</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">sheet music</form>
+      <internetMediaType>application/pdf</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre type="style" displayLabel="Style" authority="local">Classical</genre>
+   <relatedItem type="series">
+      <titleInfo displayLabel="Series Title">
+         <title>Standard compositions by European composers for the pianoforte</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Music Resources Sheet Music Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-music-p16313coll69:collection</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Library: Carter Music Resources Center</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail diglib@lsu.edu with questions or comments about the digital collection. Visit LSU Libraries Music Resources (http://www.lib.lsu.edu/music/) to see the original item. Identify the item using the "Call number" in any questions, comments, or requests.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Music Resources Department, Louisiana State University Libraries.</accessCondition>
+   <identifier type="local" displayLabel="Call Number">CSK0117</identifier>
+   <identifier type="local" displayLabel="Publisher Number">2929_10</identifier>
+   <identifier type="local" displayLabel="File Name">1899CSK0117.pdf</identifier>
+   <recordInfo>
+      <recordContentSource>lsu/rmt</recordContentSource>
+      <recordCreationDate>2018-10-29</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

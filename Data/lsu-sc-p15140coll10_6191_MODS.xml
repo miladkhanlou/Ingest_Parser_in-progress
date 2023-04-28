@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 263</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1747</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1747</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1747/json"
+                        timestamp="2017-02-03 08:23:18">{"title":"Page 263","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 263 \u2014\ncjomme celui du fumeux coursier de Mazeppa: plus loin, on avait vu\nles fugitifs assis sur l'herbe, au pied d'un arbre, se tenant amoureuse-\nment enlaces, pendant que  les deux chevaux, haletants et converts\nde sueur, paiesaient, k cote d'eux, l'herbe rase de la prairie.\nNous etious evidemiuent sur la voie; 1'arrestation du coupable\nn'etait done plus qu'une question de tenqis.\nNotre course contimia.\nEulin, apres un steeplechase, qui n'eut d'autre peripetie que le de-\nsir que nous avions de donner une 109011 au jeune sectaire abolitioniste,\nnous atteigtlTmes les bords du bayou Fuselier\u2014hayou etroit, obstrue\npar des arbres renverseB par le temps ou par la tempete, et appeles\nbieii legitiinement embarras, par les habitants du pays. Au milieu des\nlataniers et des cafes sauvages, plantes tres peu embaumees de ce\nparadis ties terrestre, uous vhnes poindre une robe et les pans d'un\npaletot. Lo taillis trahissait les amoureuxen f'nite. II y avait lit de\nquoi discrediter toutes les apostrophes passees, presenter et futures\naux forets.\n0 bois, inuet temoin, couvre-nous de ton ombre!\n1\navait, peut-etre murmure   John eu s'adressant aux lataniers qui allaient, pour le moment, jouer le role de Judas et trahir les t'ugitii's.\nLe cerf et la bidie sunt pris au gifce, liallali '\u25a0 mes chasseurs !\nDans deux minutes, la negresse et le blanc furent entoures et garrottes. C'est en vain que John s'etait arme d'un poignard ; uue\nmain vtgourense lui avait tordu le bras, et sa main, s'ouvrant contre\nsa volonte, avait hiisse toinberl'armo, qu'un des nitres avait rmnas-\n\u00abee.\n1 Qu'on separe les deux amoureux ! John eouffrirait trop du supplice de sou Anita. \u00bb\nLa negresse fut conduite ii une centaine de pas, sous un de ces\nchimes eentenaires qui abondeut dans cette partie de la Loiusiaue, et\nmes Vigilants lui grnve-rent sur le dos 1111 souvenir eternel des devoirs\nde l'esclave enversson maitre et du danger que l'on court en les vio-\nlant.\nAu bruit des premiers eoups-de fouet, le stoicisme de John s'etait\nfoudu.\na Grace pour elle ! s'etait-il eerie. C'est moi qui I'ai entraiuee dan^\ni'iiiiii.ie : a moi seul le chatiment' \u00bb\nEt comme le supplice avait continue, il avait fondu en iarmes.\n-. Toute ma reconnaissance, b'l vous l'eparguez ; toute ina haine, si\nvous lui doe.hiroz la chair! t\nOn ne lui repondit pas. II etait lie, done nous ne pouvions pas l'm-\nsulter; il avait vole, puisqu'il avait fui avec une negresse, done fious\nne pouvions pas par lei neuter avec lui.\nJ'etais pourtant oblige de lui faire subir un interrogatoire. avani\n.\u25a0=0:1 supplice sommali'e.\ni. John, lui dis-je,'pourquoi avez-vous vole cette esclave?\n\u2014Parce que je I'aimuis. et que, ne pouvant l'epouser iel. je voulai*","fullrs":{},"find":"1748.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1747","restrictionCode":"1","cdmfilesize":"403686","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

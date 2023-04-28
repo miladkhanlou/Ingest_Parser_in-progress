@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Emma Dell Peters oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Peters, Emma Dell, 1941-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Contributor">
+    <namePart>Jackson, Willie, 1889-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>LaCour-Patrick, Adrienne, 1954-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1993</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Plantation life</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African Americans</topic>
+    <topic>Louisiana</topic>
+    <topic>Saint Mary Parish</topic>
+    <topic>Social life and customs</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African Americans</topic>
+    <topic>Music</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Spirituals (Songs)</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Slavery</topic>
+    <topic>Louisiana</topic>
+    <topic>Saint Mary Parish</topic>
+  </subject>
+  <abstract displayLabel="Description">Peters give an account of her great-grandparents' purchases as slaves, and discuss slaves' religion, the treatment of slaves, and female slaves who bore children for their white masters.  The interview records spirituals that Peters learned from her grandparents, and her accounts of illnesses, funeral customs, early jobs she held, poverty in her youth, discipline and life in her large family, traditions of Sunday prayer, and crops grown by her parents.; Peters discusses the impact of Civil Rights legislation. Remarks of her father, Willie Jackson, are included.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/adriennelacour/Peters_Emma_T392.2.abs.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.0283. A digital version of the index (pdf) exists for duplication purposes. A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room. Interview conducted by Adrienne LaCour.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Resident of Four Corners, an unincorporated community south of Franklin, St. Mary Parish, Louisiana.  Emma Dell Peters lived on Sterling Plantation; her great-grandparents were slaves.  For 26 years, Peters worked as a cook in the school system.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>1 sound cassette (45 minutes); Index (6 p.)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017350" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Adrienne LaCour Four Corners oral history project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>Adrienne LaCour Four Corners oral history series</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-fourcorners:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Emma Dell Peters Oral History Interview, Mss. 4700.0283, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">Peters_Emma_T392.2</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-03-31T18:10:39.757-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

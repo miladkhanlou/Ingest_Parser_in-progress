@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$20 Reward!!
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000572e</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">$20 REWARD!! RUNAWAY from the subscriber, on the evening of the 3rd June last, the negro-girl CAROLINE ; she is about 17 years old, but very large for her age.  Said girl was bought from Mr. Laurent Dupré, in February last, and is supposed to be harbored in the neighborhood of his plantation. I wil lgive the above reward to any person bringing her back to me or lodge her in the Parish Jail. P. CASSE. Washington, La. July 1st., 1854.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-07-01/ed-2/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-07-15/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-07-22/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-07-29/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-08-05/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-08-12/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-08-19/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-08-26/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-09-02/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-09-09/ed-2/seq-1/; 
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/992</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-25</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>992</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/992/json"
+                        timestamp="2017-02-13 13:34:04">{"title":"RSA00000572e","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 5\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-07-01\/ed-2\/seq-2\/\n","unique":"$20 Reward!!\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"$20 REWARD!! RUNAWAY from the subscriber, on the evening of the 3rd June last, the negro-girl CAROLINE ; she is about 17 years old, but very large for her age.  Said girl was bought from Mr. Laurent Dupr\u00e9, in February last, and is supposed to be harbored in the neighborhood of his plantation. I wil lgive the above reward to any person bringing her back to me or lodge her in the Parish Jail. P. CASSE. Washington, La. July 1st., 1854.\n","subjec":{},"type":{},"format":{},"langua":"English\n","digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-07-15\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-07-22\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-07-29\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-08-05\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-08-12\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-08-19\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-08-26\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-09-02\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-09-09\/ed-2\/seq-1\/; \n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000572e.jp2","find":"1056.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-25","dmmodified":"2016-02-25","dmoclcno":{},"dmrecord":"992","restrictionCode":"1","cdmfilesize":"120360","cdmfilesizeformatted":"0.11 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

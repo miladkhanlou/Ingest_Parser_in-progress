@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 333</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1814</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1814</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1814/json"
+                        timestamp="2017-02-03 08:23:20">{"title":"Page 333","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"-333-\nTroisieme arrondissement:\nDdsird Landry et Auguste Murr.\nQuatrieme arrondissement :\nOctave Bertrand, Trdville Guidry et Joseph V. Guidry.\nLes chefs susnomnids dtaient investis du droit de requdrir au-\ntant de membres du Comitd de Vigilance qu'en exigcraient leurs\npatrouilles ou les arrestations qivils auraient a faire.\nC'dtait la police de Pdtat de sidge ; mais sous cette police som-\nmaire, \"'race h Dieu, nul honndte homme n'allait voir mettre en\njeu hi ses inidrets. ni sa vie, ni son honneur.\nLe 21 mai, le Comitd adopta une resolution disant que :\nLorsque des charges s'eleveraient contre quelqn'un de ses membres, il serait jugd et expulse sur un vote de la innjorite.\nCette rdsolution dtait logique : ils devaient ddcrdter des chatiments contre les membres impurs de leur socidtd, ceux qui allaient\nehutier ton tes les impuretes sociale? 1\nOSCAR BRAUX\n11 n'est pas un habitant de VermiHonville ou de la paroisse Lafayette qui n'ait entrevu, au moins une fois, Oscar Braux.\nOscar Braux n'dtait pas prdeisdment de la premiere gentiibom-\nraerie. Si par hasard il avait eu cette prdtention, e'eut dtd pure fa-\ntuitd de sa part. II dtait plus pres de Baton-Rouge que des Montmorency.\nR habitait une cabaue cachde sous les plus hauts arbres de la\nPrairie-Marronne.\nQuel dtait son intdrieur? Nous ne saurionsle dire, ne lui ayant\njamais rendu visite ; mais tout nous porte ndaumoins a eroire qu'il\ntenait pintot d'un bouge que d'un palais.\nCeei soit dit sans insulte aux homidtes gens qui n'ont qu'une ca-\nbane ; nous eonnaissons notre Virgile et nous savons qu'il a dit Res\nsacra miser. L'fivangile devait le dire aussi 1","fullrs":{},"find":"1815.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1814","restrictionCode":"1","cdmfilesize":"429582","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

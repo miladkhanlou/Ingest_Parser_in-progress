@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 233</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1717</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1717</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1717/json"
+                        timestamp="2017-02-03 08:23:17">{"title":"Page 233","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 233 \u2014\n\"Co jour-la, nous allames tous deux nous agenouiller devant\nJeanne-Marie Sellier:\n\" Vous qui avez continue notre mere, lui dimes-nous, soyez benio\npour ce que vous avez fait pour nous, au ciel et snr la terre. Aujourd'hui, nous sommes des hommes ct notre tour est venu de vous\nrendre bienfaits pour bienfaits. Mere, benissea-nous, car nous par-\ntons pour les Ltats-Unis.\"\n\"Elle n'essaya pas de nous- reteuir, bieu qu'elle fut lit, devant\nnous, pleurant comme Rachel, et ne voulant pas etre consolee, puree\nque ses enfants allaient partir.\n\" Mon Dieu 1 couvrcz-les de votre aile 1\" dit-elle en nous baisant\n: tous deux au front, GQmme Marie dnt baiser son tils, lorsqu'on le\ndesccndit de sa eroix.\n\" Nous partlmcs, charges de ses benedictions ct trempes de ses\nlarmes,\n\"Arrives it la Nouvelle-Orleans, nous cherdiames du travail.\nMoi, j'entrai, comme professeur, it rinstitutiou Z... Eugene acheta\nquelques bijoux et se mit a. pareourir la COte oil, grace it sa bonne\ntemic, a sa gentillcsse et li sa douceur, il eut bientot acees dans les\nmeilleures habitations.\n\"Et comment aurait-on pu mal accueillir cette figure de cheru-\nbin, aux grands yeux noirs, aux longs cheveux tombant a Hots sur\nses epaulcs, au visage male et bistre legerement par le soleil du\nmidi, qui Iresssaillait au bruit d'une robe de femme, et qui avait un\nrespect presque religieux pour le sexe de sa mere. \u2022\n\" Dans une de ces habnations, 11 avait souvent remarque que, des\nqu'il arrivait sur la gale'rie, une tete de jeune fille apparaissaitaussi-\nt ot it une fenetre, dans un cadre de fieurs grimpantes, de jasmins et\nde rosiers. C'etait frais et poetique comme si Titunia etait sortie\nde sa coiique de Hears pour lui apparaitre.\n\"Dans des vers de lui\u2014ear il faisait des vers...\u2014il n'y a lit. rien\nd'etoiuiant, il avait 1'imagination si riche\u2014il disait:\nTjorscjm. dun.!? lo salon tomlm roiiiluc du soir,\ntine vier^e appnrut\u2014si ravispante &amp; voir\nQue je ne suis encore, apres 1'avoir trouvee,\nSi ce soir jc l'ai vue, ou si ie 1'ai rcvec\t\npoesie et enthousiasme dc jeune homme, monsieur ; c'e2*. date dc\njniu 185... .","fullrs":{},"find":"1718.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1717","restrictionCode":"1","cdmfilesize":"393103","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_3</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1047</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-18</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1047</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1047/json"
+                        timestamp="2017-01-13 13:22:54">{"title":"Page_3","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M68\nchevaux qui manquaient ont \u00e9t\u00e9 Retrouv\u00e9s ils \u00e9taient\ntous deux ble?s\u00e8s.\nHier au soir l\u2019ennemi s\u2019est all\u00e9 \u00e0 la mine de sel pour\nfaire une attaque. Nous avons envoy\u00e8 plusieures compa \u2013\ngnies dinfanteries; du nombre \u00e8tait la compagnie _\nd\u2019Emile Cloutier.\nLe Col Alex Desclouet \u00e9tait \u00e0 Franklin il y a quelques\njours de cel\u00e0 ; il rapporte la nouvelle que la France et\nl\u2019Angletere nous ont reconnu notre ind\u00e9pendance\nCe matin j\u2019ai vu pa?ser 6 de nos soldats avec un drapeau\nblanc se dirigant vers la baie. Dans ma prochaine je\nvous dirai ce qu\u2019il en \u00e9tait\nEmile Cloutier est malade il avait la fi\u00e8ve et le\nfri?son hier apr\u00e8s midi.\nJ\u2019ai un de mes malade de perdu c\u2019est \u00e0 dire que je ne\nsais pas ce qu\u2019il est devenu. La derniere nouvelle que j\u2019ai eu\nde lui il \u00e9tait bien mal. J\u2019\u00e9crivit au Dr \u00e0 la nouvelle\nIb\u00e9rie hier afin d\u2019avoir des renseignements \u00e0 son \u00e9gard.\nC\u2019est le jeune Vercher [?]\nLe jeune St Andre que je vous avait annonc\u00e9 si mal est\nmaintenant parmis nous. Il est tr\u00e8s maigre et il \u00e0\ncontinuellement la fi\u00e8vre.\nMr Champlin est absent \u00e0 cause de maladie pour le terme\nde 20 jours. Je voudrais bien le voir revenir car c\u2019est\nle seul officier que j\u2019ai qui vaille quelque chose.\nLes autres sont trop moux.\nLes officiers s\u2019occupent maintenant \u00e0 faire des fortifications","typa":{},"genera":{},"fullrs":{},"find":"1048.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-18","dmmodified":"2008-09-18","dmoclcno":{},"dmrecord":"1047","restrictionCode":"1","cdmfilesize":"2145447","cdmfilesizeformatted":"2.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

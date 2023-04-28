@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_11</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/666</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-07-30</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>666</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/666/json"
+                        timestamp="2017-01-13 13:22:55">{"title":"Page_11","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"F 18\nrach\u00e9 de la premi\u00e8re belle p\u00e9r?onne que l\u2019on voit non ; ce\nn\u2019est pas cela le mariage demande plu? de r\u00e9fl\u00e9x?ion que\ntu y p\u00e9nce. Avant de te mari\u00e9r, il faut avoir le? moyen?\nd\u2019entretenir une famille bien faire? te? affaire? avoir un chez\ntoi, il vaut mieux un petit chez soi\u00e9, qu\u2019un palai? chez le?\nautre?. Et alor? tu fait ton choix d\u2019une demoi?\u00e9lles? d\u2019une bonne\nfamille qui ne soit pa? maladiffe, qu\u2019elle ait une bonne\n\u00e9ducation, qu\u2019elle ?oi\u00e9 mod\u00e9?te, bonne s\u00e9n?ible, et d\u2019\u00e9galle hu-\nmeur, qu\u2019elle soi\u00e9 parfaitem\u00e9nt bien \u00e9lev\u00e9, Voil\u00e0 la pre-\nmi\u00e8re riche??e d\u2019une demoi?elle, et une femme capable lor?-\nqu\u2019elle sera m\u00e8re donn\u00e9 le? premi\u00e8re? principe? \u00e0 se? \u00e9nfant?,\nl\u2019\u00e9ducation de l\u2019homme doit commencer de? son berceaux,\nne croi? pa? que d\u2019avoir de? \u00e9nfant?, et de dire, ba? tout\ncela leur pa??era? lor?qu\u2019ils iront aux col\u00e8ges, et aux cou-\nv\u00e9nt? ! non\u2026.. non\u2026.. nom mom fil?, ce qui s\u2019ap-\nprant aux berceaux ne s\u2019oubli\u00e9 j\u2019amai?. El\u00e9ve te? \u00e9nfant?\ncomme je t\u2019ai \u00e9leve, il faut de bonne heur ployer leur car-\nract\u00e8re \u00e0 l\u2019ob\u00e9i??ance, l\u2019avantage de la docilit\u00e9 sont immen-\nses chez les \u00e9nfant?, cela les pr\u00e9pare? \u00e0 un avenir heureux, ne\nleur promet j\u2019amai? rien si tu ne peu? leur tenir parole,\nlor?que tu leur dira? non, que cela soit non, et lor?que\ntu leur prom\u00e9tera quelque cho?e? tu doit faire de m\u00eame,\nil n\u2019ya rien de plus m\u2019auvai? que de tromp\u00e9 un \u00e9n-\nfant, il sabitu peux \u00e0 peu \u00e0 cela, de mani\u00e8re qu\u2019il croit\npouvoir en faire autant aux autre?.\nEl\u00e9ve tes \u00e8nfant? pour eux, et non pour toi, tu peut\n11","typa":{},"genera":{},"fullrs":{},"find":"667.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-07-30","dmmodified":"2008-07-30","dmoclcno":{},"dmrecord":"666","restrictionCode":"1","cdmfilesize":"1066620","cdmfilesizeformatted":"1.02 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 193</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1678</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1678</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1678/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 193","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 193 \u2014\nOar voici ce qui arrivaau mois de mai 1859.\nUn soir, le vieux Toups manqua au foyer oil il aimait tant a voir\nyes huit enfants. Ce soir-la, la famille fut r6 reuse, mais s'endormit\nneanmoins daus le calme, peasant que sou chef lui revieudrait le\nlendemain.\nD'ailleurs, qui aurait pu faire du mal ii celui qui n'en avait jamais fait ii pcrsonne ?...\nIls attendirent dune le lendemain,' cette femme et ces huit enfants, avec la s6curit6* de ceux qui se sentent tellement petits, qu'ils\ncroient qu'ils ne font ombrage a personae.\nOe lendemaiu arrlva et les premiers habitants qui coururent a\nleurs travaux u, travel's la rosee da matin ct en aspirant les parfums\nsecoues par les arbres de la foret voisiue, ces habitants trouverent\nToups etendu sur la route, et la te\"te tellement broyee que, sans\nSGS habits, il u'aurait pas ete recotmu.\nOu lava le sang qui s'etait liorribleuteut colle\" sur cette tete d'ou\nla vie s'etait ecliappee en meme temps que des Hots de ccrvclle et\nde sang, par miile blessures. On recoiiiuit que le malheureux avait\n-'te assassine h. coups de mauche de quarts plombee.\nIje meurtre de ce vieillard inoffensif fit sensation dans le pay?.\nJusqu'a ce jour, les vols avaient ete nombreux, epiderniques,\npourrions-nous dire ; mais les meurtres ne s'etaient guiire montres\nqu'a 1'titat sporadique. Dceidement les bandits de la paroisse faisaient une formelle declaration de guerre a la societe. Du vol ils\npassaient au meurtre. Leur cartel etait redige et sigue\" selon toutes les regies.\nAussitdt tons les yens s'onvrirent: tout le monde alia aux informations. .\nOn commenca par remarquer une chose : c'est qu'Aladin Corner\navait disparu.\n\" Pourquoi ? \" se demanda-t-on.\nLa repouse ii ce pourquoi parut si concluante qu'un mandat d'ar-\nret fut lance contre lui.\nM. Lufrosi Guidry fils, depute-sherif, fut charge dc le mettre a\n'\u25a0.xeeution et partit immediatement.\nDenx jours apres, il rameiia dans la prison d'Abbeville l'assassin\nqu'il avait arrete ii la riviere Mermento.\nAussitot I'instruction criminelle eommenca,\u2014instruction legfere,","fullrs":{},"find":"1679.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1678","restrictionCode":"1","cdmfilesize":"395362","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

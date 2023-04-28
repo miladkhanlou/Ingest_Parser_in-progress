@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/415</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>415</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/415/json"
+                        timestamp="2017-02-09 16:31:04">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\nX) ii ti I f s!) c U 5 r m 1\u00bbin o -i 11) 1 n\nnt .fffbc JDoIUcs iil'tjr, 6j the .\u2022Jefferson (Eollrac niti BZtaspfnOtOtl a.nccain.\nINT tin   8YLVA8   cucDntti;   \u00ab u A: n K It 8   villi CM.\nVOI,.   1.\nNATCHEZ, JANUARY 30, 183H.                                                              NO. 4.\nA FORENSIC ESSAY\nIn ihe Affirmative ofthe question, \"Are the claims of the Mathemailca to pre\ndomtnunco in c-eii.-r.il Education, grcaicr lhan ihe claims of the Ancient Clos\nales!\" Read before tho Jefferson College Lyceum, 3d Juno, 1837. HyC. 0\nI'iiiisiiey, A. St., Professor of Slalhematlcs and Civil Englnoerlug, in Jeffersoi\nCollege.\nTo vindicate the claims of mathematical science, is to defend the physical, intellectual and moral amelioration of human society. Its history is that of substantial improvement,\nand its hoary ago entitles to profound veneration. It needs\nno labored commendation, much less from a tyro in its acquis!\ntion. Sounding epithets are ils slander;\u2014they serve hill lo\nobscure the lustre of its value. The traveller, Upon iho burning desert, needs not be told of the sweetness of cooling waters.\nAs water is to the thirsting pilgrim, so is the deep draught\nfrom the mathematics, to tho mind that thirsts fur deeper\nknowledge. To attract attention, then, to some of its uses,\nnot to eulogise, shall be the purpose ofthe present essay.\nThere can be hut two leading objects of correct education;\nnamely, to prepare man for usefulness in the present, and\nhappiness in a future existence. And fortunate is it thai\nsuch is the constitution of human character, and the order ol\nnature, that the process which best secures the former will,\ninevitably, lead to the latter.\nWe find ourselves placed among myriads of similar beings,\n\u2014our wants, our interest, and our destiny linked with theirs.\nThe littu'ss ol' our frame lor vigorous action, and the quenchless thirst of our minds alter knowledge, evince the high dominion man was intended to hold over subordinate creation,\nnnd the empire his own intellect should sustain in self-sub-\njuration and ihe happiness of bis spi cies. Menco is derived\nthe first object of correct education. From Divine Revelation and the phenomena of mind, we learn its immortality;\nfrom holy Scripture, an 1 the analogy of nature, we are\ntaught upon what ils future weal or woe is dependant. Here\nwe derive the second objecl of correct education.\nHaving thus promised our views of the purposes of proper\neducation, and quoted the sources whence those views are derived, we shall endeavor to show how these objects may best\nbe secured. And first; what species of education will render\nman most useful lo himself and to his fellow-man? We unhesitatingly answer, as we conscientiously believe, Mathematical science, pure and applied.\nAs a discipline of the mind, it has incomparably the advantage of every other study. Ils principles are independent\nof material existence, and upon them is based tho stupendous\nfabric of nature. It was by mathematic laws the ETERNAL\nwrought when the universe sprang into being; and when the\nmorning stars sang together, it was but the silent\u2014august\nharmony of their motion. And while man, the masler-picce\nof creation,\u2014a god in miniature, has emulated his Father in\nthe creation of systems, time has prostrated anil scattered\nnearly every theory of philosophy, leaving unscathed\u2014untouched, the science of Mathematics.\nAs a discipline to the mind, it should commence! with the\nfirst buddings of intellection, under the form of arithmetic.\nIf we mistake not, duality, then plurality, are the first rational perceptions we observe in the inliuit mind: for, to distinguish, among things, implies the existence and the perception\nof plurality. From that moment, mathematics should commence its discipline. Every successive reach of childhood\nthought can thus be trained and rendered systematic! for the\nexternal world is systematically, and wilh the simplest gradation unfolded; requiring but the present mastor-mind of\nteacher or parent to point out the number, relation, combination and urn; as the capacity expands lo admit the idea. Such\na philosophic training would master the fundamental principles of Arithmetic and mathematics, Ion,\"; before tho age at\nwhich they are usually commenced; and the subject of discipline would scarce be conscious of having accomplished a\ntask. Experiment has settled this position, and placed it\nbeyond contradiction; improvement having, in every case, been\nfound in the direct ratio of capacity, and the rational jiuins\nthus bestowed upon early thoughts.\nThe next legitimate province of mathematical study, after\nthe mind has thus been taught to systematise, is in the discipline of tho reasoning powers, in the form of Geometry nnd\nAlgebra. The synthetic or analytic mode of reasoning is\nemployed to arrive at or establish every truth, whether in\nmathematical or moral reasoning. The former establishes the\ntruth of a proposition, by commencing upon known and\nadmitted truths, nnd following the train of undeniable\nsequences to the desired result. The latter1 lakes the result,\nseparates it into its original or simple truths, and examines\nthe strength of each, and iheir arrangement in establishing\nthe final result. \"The one would prove the principles of a\nmachine, by putting together to form a whole; tho other by\nInking it to pieces and examining its parts. At the head of\niho first stands Geometry, of the second, Algebra.\" They\nform a system of logic of the most perfect character, since\nthey present, nt once, iho mode and ils application. It is\nlearned from its application or not nt nil. No catalogue of\ntechnicals, in explanation of the theory, mystifies this tangible logic. Tho syllogisms of Geometry admit but simples\nto prove a compound; not general, to prove particular and\nsubordinate truths, as in other systems of logic. Its basis is\nreal, nol hypothetic! So Algebra, in the analysis of truth, as\n(leometry in the inductive process, deals in the application,\nnot tho theory of logic.\nThe eflect, then, of Geometry, in the discipline of tho mind,\nonsisls, first, in perpetuating that habit of systematizing f.oii-\nmenced in Arithmetic: second, in enabling the mind to hold\nsuspended a long series of truths, each essential to the result,\ntill the last be added, and the general truth irresistibly established: third, in teaching the mind to arrange truths in the\norder of their necessary sequences, to reject redundancy\u2014to","fullrs":{},"find":"416.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"415","restrictionCode":"1","cdmfilesize":"1842163","cdmfilesizeformatted":"1.76 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

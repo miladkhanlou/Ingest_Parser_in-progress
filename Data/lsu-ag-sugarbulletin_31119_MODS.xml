@@ -1,0 +1,76 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Sugar Bulletin 2016-04-01</title>
+  </titleInfo>
+  <part>
+    <detail type="issue">
+      <caption>Issue</caption>
+      <number>07</number>
+    </detail>
+    <detail type="volume">
+      <caption>Volume</caption>
+      <number>94</number>
+    </detail>
+  </part>
+  <name displayLabel="Author">
+    <namePart>American Sugar Cane League</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <publisher>American Sugar Cane League, New Orleans, La.</publisher>
+    <dateIssued keyDate="yes">2016-04-01</dateIssued>
+  </originInfo>
+  <subject authority="lcsh">
+    <topic>Sugar trade</topic>
+    <topic>United States</topic>
+    <topic>Periodicals</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sugarcane industry</topic>
+    <topic>United States</topic>
+    <topic>Periodicals</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sugar growing</topic>
+    <topic>Periodicals</topic>
+  </subject>
+  <abstract displayLabel="Description">The Sugar Bulletin is the official organ of the American Sugar Cane League of the U.S.A., Inc. The monthly publication is  a communication tool to keep American Sugar Cane League members up to date on the on goings of the industry.</abstract>
+  <typeOfResource>text</typeOfResource>
+  <name authority="naf" authorityURI="http://id.loc.gov/authorities/names" displayLabel="Contributing Repository" type="corporate" valueURI="http://id.loc.gov/authorities/names/n83188670">
+    <namePart>Louisiana State University Agricultural Center</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" type="text" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Sugar Bulletin</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ag-sugarbulletin:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>SB215 .S89</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition displayLabel="Rights" type="use and reproduction">This item is in the public domain.</accessCondition>
+  <accessCondition displayLabel="Contact Information" type="use and reproduction">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordContentSource>lsu/cmk</recordContentSource>
+    <recordCreationDate>2018-08-30</recordCreationDate>
+    <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>William Barth Photographs of Mississippi and Atchafalaya River operations</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The photographs in the &lt;em&gt; William Barth Papers, 1917-1959 &lt;/em&gt; Series I "Engineering and Levee Revetment documents, ca. 1925-1959" contain the subseries "Photographs of levee work, ca. 1928-1945." The nearly 250 images depict various stages and types of work on the levees of the lower Mississippi River and Louisiana's Atchafalaya Basin. Most of the larger photographs (9.5x6.5 inches) involve revetment of the levees on the Mississippi River from around Natchez down to the New Orleans area. Various revetment types (including those using wood, concrete, and asphalt) appear in this series. Also depicted are the procurement of loess and sand for various construction projects on the river. The smaller photographs show levees in the Atchafalaya Basin being built; many of these include photographs of heavy machinery such as excavation towers, elevating graders, and Caterpillar tractors.&lt;/p&gt;&#xD;
+&#xD;
+&lt;h3&gt;Biographical Note&lt;/h3&gt;&#xD;
+&#xD;
+&lt;p&gt;William Barth was born in New York City on December 22, 1898 to German immigrants. Barth worked for the Interstate Commerce Commission, traveling from Maine to Florida to survey railroad tracks. In 1928 he took a position with the U.S. Army Corps of Engineers in Natchez, Mississippi. For thirty years he worked on flood control of both the Mississippi and Atchafalaya Rivers and helped with major projects such as the Bonnet Carre Spillway. During World War II he received a commendation for meritorious civilian service since he helped control flood waters that could have damaged crops and held back war production. He died February 17, 1982.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;&lt;a href="http://www.lib.lsu.edu/special/findaid/4421.pdf" target="_blank"&gt;View the collection finding aid&lt;/a&gt;&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;This collection contains nearly 250 images depicting various stages and types of work on the levees of the Mississippi River and Louisiana's Atchafalaya Basin between 1928-1945. They are part of a collection from U.S. Army Corps of Engineers employee William Barth.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p16313coll58</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p16313coll58</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p16313coll58</identifier>
+</mods>

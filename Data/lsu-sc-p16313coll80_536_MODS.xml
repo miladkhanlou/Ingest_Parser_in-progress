@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>IL a été amcuée à la prison de la Seconde Municipalité</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000218</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>H.S. Harper</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1838-07-12</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1838</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">IL été amené à la prison de la Seconde Municipalité, les esclaves suivants: PRIMUS HART, àgé d'environ 23 à 24 ans, se dit appartenir à William Rose. LUCRETIA, àgée de 35 ans, elle se dit appartenir à Mr John Carroll. CECELIA, àgée de 25 ans, elle se dit appartenir à Mr Delahoussaye. Les propriétaires des dits esclaves, sout priés d prouver leurs propriétés, payer les frais et les retirere H S HARPER, Capitain de Watch, 12 juillet</abstract>
+   <note type="content" displayLabel="Slave Owner">William Rose; John Carroll, Mr. Delahoussa</note>
+   <note type="content" displayLabel="Slave Name (Age)">Primus Hart (23 or 24); Lucretia (35); Cecelia (25)</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 7</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>True American. : (New Orleans [La.]) 1835-18??</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">RSA00000217</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83016527/1838-07-12/ed-1/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83016527</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/408</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2014-12-11</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>408</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/408/json"
+                        timestamp="2017-02-13 13:33:08">{"title":"RSA00000218","object":"sn 83016527","publia":"True American. : (New Orleans [La.]) 1835-18??","date":"1838-07-12","year":"1838","film":"page 2, column 7","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1838-07-12\/ed-1\/seq-2\/","unique":"IL a \u00e9t\u00e9 amcu\u00e9e \u00e0 la prison de la Seconde Municipalit\u00e9","person":"H.S. Harper","parish":{},"digita":{},"acknow":{},"public":"William Rose; John Carroll, Mr. Delahoussa","town":{},"relati":"Primus Hart (23 or 24); Lucretia (35); Cecelia (25)","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"IL \u00e9t\u00e9 amen\u00e9 \u00e0 la prison de la Seconde Municipalit\u00e9, les esclaves suivants: PRIMUS HART, \u00e0g\u00e9 d'environ 23 \u00e0 24 ans, se dit appartenir \u00e0 William Rose. LUCRETIA, \u00e0g\u00e9e de 35 ans, elle se dit appartenir \u00e0 Mr John Carroll. CECELIA, \u00e0g\u00e9e de 25 ans, elle se dit appartenir \u00e0 Mr Delahoussaye. Les propri\u00e9taires des dits esclaves, sout pri\u00e9s d prouver leurs propri\u00e9t\u00e9s, payer les frais et les retirere H S HARPER, Capitain de Watch, 12 juillet","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Women slaves--Louisiana.","type":"text\n","format":"clipping","langua":"French","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":"RSA00000217","contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000218.jp2","find":"472.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-11","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"408","restrictionCode":"1","cdmfilesize":"91232","cdmfilesizeformatted":"0.09 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

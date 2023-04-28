@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 14</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/603</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>603</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/603/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 14","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"MO\nSOUTH-WESTERN  JOURNAL.\nH &lt;; !'\u2022\nif\nII\nMr:\niIHb'\n1\nliumor sufficiently acute, and bestowed upon him the powers\nof an accomplished mimic. The graces of his person and\nhis manners need not be noted, for neither are valuable, but\nas the adjunct of higher qualities; and the latter, graceful\nmanners, arc hardly to bo avoided by one occupying all his\nlife that first station which removes constraint, and makes the\nmovement of the princes as naturally graceful as those ofthe\ninfant, or, the child too young to feel embarrassment.\n\"But of what avail arc all the natural endowments without cultivation ? They can yield no more fruit than a seed or\ngraft cast upon a marble floor; and cultivation which implies labor, discipline, self-control, submission to others, never\ncan be applied to the Royal state. They who believe ihat\nthey are exempt from the toils, and hardly liable to the casualties of other mortals, (all whose associates, and most of\nwhoso instructors, set about confirming this faith,) are little\nlikely to waste the midnight oil in any contemplations but\nthose ofthe debauchee; nnd those who can hardly bring\nthemselves to believe that they are subject to the common\nfate of humanity arc pretty certain to own no inferior control.\n' Quoi done,' (exclaimed the young Dauphin to his right\nreverend preceptor, win n some book mentioned a king as\nhaving died)\u2014\u25a0' Quoi done I les Rois meurenl its ?' 'Quel-\nquefois, Monseigneur,' was the cautious and courtly reply.\nThat this prince should afterwards grow in the natural course\nuf things, into Louis XIV., and that bis infant aptitude for\ntho habits of royalty thus trained, should expand into the\nmaturity of self-indulgence which almost proved too grcat a\ntrial of French loyal patience, is not a matter of wonder.\nOur Louis, notwithstanding the lessons of Dean Jackson and\nthe fellowship of Thurlow and Sheridan, was a man of very\nuncultivated mind\u2014ignorant of all but passages of history\nwhich most princes read, with some superficial knowledge of\nthe dead languages which he had imperfectly learnt and\nscantily retained, considerable musical skill, and great facility\nof modern tongues, nnd no idea whatever of the rudiments of\nany sciences, natural or moral; unless the very imperfect notions of the structure of governments, picked up in conversation or stupidity in newspapers, can be reckoned any exception to the universal blank.\n\"We have said nothing ofthe great quality of all\u2014the\nlest of character\u2014firmness, and her sister truth, That the\nPrince was a man of firm mind, not even his most unscrupulous flatterers ever could summon up the courage to pretend.\nHe. was much the creature of impulses, and the report of feeling naturally good and kind\u2014but had become wholly selfish\nthrough unlimited indulgence. Those who knew him well\nwero wont to say that his was a woman's character, when\nthey observed how little self-command he had, and how easily he gave way to petty sentiments.\u2014Nor was the remark\nmore gallant towards tho sex than it was respectful towards\nthe prince\u2014inasmuch as the character of a woman transferred\nto the other sex implies the want of those qualities which\nconstitute manly virtue, without the possession of the charms\nby which female weaknesses are redeemed\u2014independently of\nihe fact that those weaker parts are less prejudicial in lhc\nwoman because they are more in harmony with the whole.\nThat they who draw the breath of life in a court and pass all\ntheir lives in an atmosphere of lies, should have any ver \u2022\nsacred regard for truth, is hardly to be expected. The\",\nexperience such falsehood in all who surround them, that de\ncepiion, at least suppression of the truth, almost seems necessary for self-defence\u2014and accordingly, if their speech he not\nframed upon the theory ofthe French cardinal, that language)\nwas given to man for the heller concealment of his thoughts\nthey at least seem to regard in what they say, not its resem-\nblance to the fiict in question, but rather its subserviency to\nthe purpose in view.\n\" The course of private conduct which one in such a station\u2014of such habits, and of such a disposition\u2014might naturally bo expected to run, was that ofthe prince from his early\nyouth upwards\u2014and when ho entered upon public life, be\nwas found to have exhausted the resource of a career of pleasure\u2014to have gained followers without making friends Ic\nhave acquired much envy and some admiration among the\nunthinking multitude of polished society; but not to command in any quarter, either respect or esteem.\"\nWe gladly give place in our Journal for the names of llic\nofficers, and for the introductory Lecture read before the Society for the Acquisition and Diffusion of Useful Knowledge,\nof Columbus, Mississippi, June 9th, 1838.\nWc are glad to see our sister towns turning a portion ol\ntheir attention to the subject of improvement in useful knowledge. We hail with pleasure the establishment of every\nsuch society in Mississippi, and are ready to extend lo them\nthe right hand ol\" fellowship; and the columns of our Journal are always open to such societies. The following arc\nthe names of the officers ofthe Sociely for the ensuing year:\nDr.  Dabney  Lipscomb, President.\nHenry Dickinson, Esq., Vice President.\nN. Lester, Secretary.\nJ. D. Montgomery, Treasurer.\nN. E. Goodwin, Librarian.\nRev. Mr liii-.n, Col, P. B. Barker, M. M. Brioiiam,\nRobert Bruce Witter and Wm. L. Harris, Esqs,\nBoard of Directors.\nKNOWLEDGE.\nA Leclure delivered before tits \"Hoelely Ibr Hie Acquisition nnil Diffusioni&gt;t\nUseful Knowledge, uf Columbus, Mi.,\" June fi, by I). Lipscomb, M- D.\nIn submitting an opening lecture to the public exercises of\nour association, the title by which we are known, has very\nnaturally suggested my subject. Our avowed object in this\nassociation, is the acquisition and diffusion of knowledge.\nYou all know what this means. It were vain to follow the\nschoolmen in their various readings and definitions of this\nterm. On this subject they have assuredly \"darkened counsel by multitudes of words without knowledge.\" It is sufficient for our purpose to remark, that knowledge embraces\nexperience, or the acquirement of idea\" or truths by observation, or the improvement of our faculties by reading and re-\nfleclion, and learning. The Almighty has wisely and bencf-\niccnlly ordained ihat we shall come into being, ignorant of\nourselves, and of every thing around us; but with powers\nand faculties, capable, by exercise and direction to their ap-","fullrs":{},"find":"604.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"603","restrictionCode":"1","cdmfilesize":"1739562","cdmfilesizeformatted":"1.66 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

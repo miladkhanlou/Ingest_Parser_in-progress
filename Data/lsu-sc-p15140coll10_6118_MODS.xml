@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 187</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1672</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1672</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1672/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 187","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 187 \u2014\nlevres avec un plaisir qui fait oublier que le temps a mis des rides\nsur son visage intelligent.\nCc jour-la, un homme etait entre dans cette maison, avait echange\nune poignee dc main avec le vieillard, et avait adresse it la femme un\nsalut respeetueux que celle-ci lui avait rendu avec dedain.\nPuis, comme la conversation s'etait engager sur la question brii-\nlante du jour (celle des Comites de Vigilance), ou la noble mai.\ntresse de cette maison a ses deux fils engages, le nouveau venu fit\na, ce couple d'hounetes gens uue appreciation des Comites, de sa\nfacon. Cette appreciation ou le cynisme et rimmoralite debordent,\nnous sommes a peu pros sur de la reproduire avec exactitude ;\u2014la\npersonne qui nous l'a rapportee, ayant uue des plus mervelIleuses\nme moires que Difia ait jamais creees.\n\" II existe des comites, dit-il: a quoi bon ? Ils sont tcuus trop\ntard. C'est il y a vingt ans qu'ils auraient du se former pour frap-\nper comme la foudre ; ear alors le vol engrand existait.\u2014C'etait le\nbon temps 1\u2014Prairies immenses et presque pas peupiees.:.. Justice\naveugle... avocats faisant prendre au juri des vessics pour des Ian-\nternes... Ah 1 comme nous volions .' Jelerepete, c'etait le bon temps 1\n\u2014Et puis e'etaient, not! de petits troupeaux coinme aujourd'hui,\nmais des armees dont les proprietaires cux-memes ne connaissaient\npas le nombre... Yingt, trcnte, cinquante tetes enlevees a. ces troupeaux, c'etait comtno nn verre d'eau enleve au Vermilion.\u2014On n'y\nconnaissait rien. II y avait surtout des marques si nombreuses et\nsi mal surveillees que e'etait un plaisir. Celle des Vt'ilkoff, surtout!\n\u2014Dteu 1 la bonne marque .' on pouvait tomber dessus les yeux ferules. Mais aujourd'hui tout cela est raine on a degenere. II ne\nreste rien, plus rien, que de petits troupeaux que l'on compte du regard... Une tete de moins y est aussi visible que le soleil en plein\nmidi... Le Texas soul a aujourd'hui les grandes marques, et (ceci fut\naccentue par un soupir) le Texas est bien loin... et l'on y pend.\"\nLTauteur de ces cyiuqucs paroles, dites a un homiete vieillard et\na uue noble femme, s'appvlie Marcclhn T\/nbodeau.\nMarcelliu Thibodcau est le pere de celni dont nous allons vous ra-\nconter l'histoire.\nTel pere, tel fils. II n'est jamais sorti de lion de lu taniore d'un\nehaeal.\nCe digue fils d'un tel pere avait voulu imiter son pere et Georges\nL","fullrs":{},"find":"1673.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1672","restrictionCode":"1","cdmfilesize":"370817","cdmfilesizeformatted":"0.35 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

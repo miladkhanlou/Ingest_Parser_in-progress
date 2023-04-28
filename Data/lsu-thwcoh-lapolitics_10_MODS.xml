@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Brodie S. Crump oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Crump, Brodie</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Baker, Lewis, 1953-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1976</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Floods</topic>
+    <topic>Mississippi River</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>Ku Klux Klan (1915- )</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Crump, Brodie</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Percy, LeRoy, 1860-1929</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Vardaman, James Kimble, 1861-1930</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Bilbo, Theodore Gilmore, 1877-1947</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Parker, John Milliken, 1863-1939</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Roosevelt, Theodore, 1858-1919</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Percy, William Alexander, 1885-1942</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Crump discusses the life and political career of Leroy Percy, including Percy's relationships with James K. Vardaman, Theodore Roosevelt, Theodore Bilbo, John Parker, and others; Sunnyside Plantation; Percy's opposition to the Ku Klux Klan; his interest in road building and flood control; and his son, Will Percy.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/political/Crump_Brodie_T562_563_564.abs.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as 3569 and 4700.0399; A digital version of the transcript (pdf) exists for duplication purposes; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room; Interview conducted by Lewis Baker.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Brodie S. Crump was the son of William Crump, the secretary and campaign manager of Mississippi politician, Leroy Percy.  Leroy Percy received his law degree from the University of Virginia in 1881 and practiced law in his home town of Greenville, Mississippi.  He served as a U.S. Senator from 1910 to 1912 and with the Federal Reserve Board branch in Saint Louis, Missouri, from 1914 until his death in 1929.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>3 sound cassettes (2.25 hours); Transcript (59 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017348" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Louisiana Politics Oral History Project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>T Harry Williams Center for Oral History political series</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-lapolitics:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Brodie S. Crump Oral History Interview, Mss. 3569, 4700.0399, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">4700.0399</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-04-23T12:08:15.383-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

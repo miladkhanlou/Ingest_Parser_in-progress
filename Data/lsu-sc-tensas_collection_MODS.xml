@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Tensas River National Wildlife Refuge Ivory Billed Woodpecker Records</title>
+  </titleInfo>
+  <name type="corporate"
+      authority="naf"
+      authorityURI="http://id.loc.gov/authorities/names"
+      valueURI="http://id.loc.gov/authorities/names/no2015036095"
+      displayLabel="Contributing Repository">
+   <namePart>LSU Libraries. Special Collections</namePart>
+   <role>
+      <roleTerm type="text"
+                authority="marcrelator"
+                authorityURI="http://id.loc.gov/vocabulary/relators"
+                valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+   </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;This collection is comprised of 100 photographic prints documenting 6 field seasons during the years 1935-1941 when James T. Tanner and associates studied the ivory-billed woodpecker and its environment on the Singer Tract, Madison Parish, Louisiana, in what is now the Tensas River National Wildlife Refuge. Also included is Tanner's hand-drawn, two-sided map documenting nesting sites and other signs of the ivory-billed woodpecker's presence in the Singer and Ayer Tracts, Madison Parish.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;In 1935, a team of Cornell scientists - including Arthur A. Allen, Peter Paul Kellogg, George Miksch Sutton, J.J. Kuhn, and James T. Tanner - located three ivory-billed woodpecker nests in the Singer Tract. The researchers spent several days closely monitoring one of the nests and produced the first motion pictures and sound recordings ever obtained of the species. From 1937 to 1941, James Tanner (1914-1991) spent a large portion of his time living in the Singer Tract, collecting information about the ivory-billed woodpecker. Tanner used the data for his Cornell doctoral dissertation, which the Audubon Society later published in the Research report of the National Audubon Society, number 1, 1942. In 1941, Tanner and his wife, Nancy Burnham Sheedy Tanner, saw several ivory-billed woodpeckers at the Singer Tract. That same year, the National Audubon Society launched a campaign to preserve the Singer Tract as a refuge for ivory-billed woodpeckers. Tanner taught at East Tennessee State University from 1940, before serving in the Navy during World War II, reaching the rank of Lieutenant-Commander. From 1947 until retirement in 1979, he was at the University of Tennessee. Tanner did not return to the area until the 1980s, when the Tensas River National Wildlife Refuge officially opened.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The 95 photographic negatives and 100 photographic prints document 6 field seasons during the years of 1935-1941 during which James T. Tanner and associates studied the ivory-billed woodpecker and its environment on the Sanger Tract, Madison Parish, Louisiana, in what is now the Tensas River National Wildlife Refuge. Also included is Tanner's hand-drawn, two-sided map documenting nesting sites and other signs of the ivory-billed woodpecker's presence in the Singer and Ayer Tracts, Madison Parish.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-tensas</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/Tensas</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/Tensas</identifier>
+</mods>

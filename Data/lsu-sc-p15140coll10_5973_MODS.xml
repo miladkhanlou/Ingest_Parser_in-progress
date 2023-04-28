@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 38</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1525</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1525</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1525/json"
+                        timestamp="2017-02-03 08:23:11">{"title":"Page 38","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 38 \u2014\nraagique du peuple qui, lorsqu'il s'en mele, change si facilement en\nchoses palpable3 et tangibles les prestiges des contes de fees.\nCependant,\u2014hatons-nous de le dire,\u2014il l'avait occupe avec probite, fermete et eonvenance,\u2014et, malgre\" toutes les e*pines qu'il\nsemblait devoir y rencontrer,\u2014ses jugements n'avaient pas plus e\"te\ncasses devant la Cour Supreme que ceux de certains juges de district\nde notre connaissance.\nTont-a-coup eelata le coup d'Etat des Comites, la Cour de Ver-\nmillonville s'ouvrit et Thonorable A. Martel prononca ce que la\nphraseologie anglaise appelle la charge au juri.\nLe juge,\u2014plusieurs de nos amis s'en souviennent encore.\u2014parla\ndes Comites de Vigilance et dit que leur formation etait une conse-'\nquence de l'indulgence et de la criminelle faiblesse que le juri avait\nsouvent deployees dans ses acquirements. (Nous ne reproduisons\npeut-fitre pas textuellement les paroles,\u2014mais nous sommes parfai-\ntement sur de reprodnire la pensee.)\nLes Comites applaudirent d'autant plus a ce qu'avait dit le juge:\nqu'il avait reellement touche du doigt la veritable plaie, la plaie\nsaignante et purulente, celle dont ils voulaient guenr la socie\"te,\npour l'empe'cher de mourir.... Impartiality e\"phe\"mere comme la\nrose.\u2122, passagere comme la luenr d'un feu follet.\nLa journee de la Queue Tortue arriva. (On trouvera plug loin le\ncompte-rendu de cette jourueu qui restera dans les annales attaka*\npiennes.)\nBien que ces evehements eussent die* provoquespar les bandits et\nque les comites, en les chatiant, n'eussent fait que repondre a une\nprovocation et a une ne'eessite' de salut public, lejuge Martel s'em-\npressa de requerir le gouverneur. Celui-ci acconrut, vit superficiel-\nlement les hommes et les choses et, sans doute convaincu que les comites Etaient une manifestation de la vo!onte\" populaire, s'en re-\ntourna... gouverneur comme il etait venu !\nN'y eut-il pas, dans cette inaction on ce silence du gouverneur,\nune satire directe et peut-etre calcnlee de la susceptibilite ombra-\ngcuse de l'honorable A. Martel?\nM. Martel ne la comprit point.\nII ne la comprit point,\u2014car les vamcus du Bayou Tortue trouve-\nrent, grace a lui, dux Opelousas. un patronage et me'me des certifi-\ncats, inspires, nous n'en doutons pas, par les passions du moment.","fullrs":{},"find":"1526.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1525","restrictionCode":"1","cdmfilesize":"430615","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

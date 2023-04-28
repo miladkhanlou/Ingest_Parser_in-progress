@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 145</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1629</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1629</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1629/json"
+                        timestamp="2017-02-03 08:23:14">{"title":"Page 145","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 14o \u2014\n. daus noire humble jugemeat, nous pensons quo ces peccadilles\nBoat au nombre des industries proliibi.es, qnoiquedana Gasman d'Alfa-\nraclie, Gringalet-le-Grand pretonde que i le vol est un metier franc,\nu qui peut s'exercer sans payer licence, et qut.journellement, se com-\nunet impundment, d il en rdsulte e^ddemment que les lois restcntincxe-\ncutees.\nM. A. Olivier nous dymande de consnlter lc dossier de la com- criminelle de la paroisse Saint-Martin, et de lui dire, depuis quelques annees\ncombien do crimiuels sont reside impiinls. Il n'est pus besoin, pour lui\nrupoudre, d'aller feuilh-ter le dossier de la Cour Criminelle, car les faite\nsont de notorietd publique, ot eoniius comme Barabas don*la passion.\nPour repondre a bu question, nous le prierons de vouloir bien nous ap-\npreudre ce-qu'est devemi Valsin Ddrouaaelle. condamnd par la Cour a\nvingt anmJes de tr&amp;vaux forces, et qui, depuis sa condemnation, a eu\nI'eflrontorie, apres s'etre eehappe de la gctile de Saint-Martinville, de\nroparattre daus la paroisse sans avoir ete jamais inquire. D'aillcurs\nson domicile an Texas est parfaitement connu, et rien n'efit dte plus facile que dc l'arrdter, si l'on eut bien voulu en prendre la peine. Qu'est\ndevenule negre doM. Gerard Fooraot, qui, apres avoir commie un os-\nsassiuut, sur la persouuc d'un autre negre, avait ete incurcdre, et s' est\neehappe de la geftle, la veille meme dc sa condamnation ?iQu'est &lt;ie-\nveuu l'individu qui a void le clieval de M. Eagleson, et qui, apres\n1*avoir vendu a la Cote-Gelee, avait ete arrete et litibcrgd dans la meme\ngeole? Bieu plus, il a meme pOOSfid I'effrontoric.a I'instantdesasecowde\nincarceration, jusqu'a porter le defi qu'on parv.ut a le gnrder sous les\nveiTous? Et c'est apres de tels faits qnine peuvent manquer d'etreav&lt;J&gt;\ntie connaissauce, aussi bien qu'a la notre et a celle du public en general, que vous osez nous mettre en deraeure do vous citer des faits qui\nattestantl'inexecution des lois! Fraueiicment, il faut avouer que si de\ntels faits sont dejd sortis de votre mdmoire, la nature vous a bieu peu\nfavorise sous ce rapport.\nQuant a rimpartiulitu des jares, ot &amp; la bonne' foi exemplaire avec\nlaquelle ils observent le serment qu'ils oat prete de rendre bonne et\nimpartiale justice, uous vous renverrons a. un autre article qui porte\nla signature de votre ami, M. A. B. Vous trouvcrea dans cet article\ndes faits rdellemont ddiriants. Voici unde ecs faits, extrait testoelle-\nment du communique dc M. A. B., communique qui a paiu daus le\nuuuiero da lGjuilletdu Courrier des  Opelousas.\nLa scene se passe a Vei'millonvillc, un jour de Cour. On jugeait ua\nhomme cues: qui l'on avait trouve uue curgaiseu de pei ux, les lines\nayaut leur marque, les autres une marque coutrefaite, enfin, d'autres\nayant uue marque brillant par son absence. J'entrai dans la salieen\ncompagnie d'uu des jeunes Creoles les plus bonorables de lu paroisse Lafayette. Nous nsaistames aux debuts : les tdmoignajree etaient u'crasante,\ni Cet lioinm\" sera condonm?' lui die io.","fullrs":{},"find":"1630.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1629","restrictionCode":"1","cdmfilesize":"394685","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

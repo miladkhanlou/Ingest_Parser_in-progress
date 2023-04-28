@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M19</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1191</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1191</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1191/json"
+                        timestamp="2017-01-13 13:22:54">{"title":"M19","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM19\nNouvelle Orleans\n1.e Sep.bre 1808.\n[Betkel]\nMonsieur\nMonsieur Antoine Gra\u222bs\nBatonrouge\n2\nM19 [1808 Sep 1]\nMonsieur &amp; Ami\nVous \u00eates sans doute d\u00e9ja inform\u00e9 du Vol\nqu\u2019on a commis dans mon Magasin \u2013\npour le Montant de $4500--- Apr\u00e9s avoir\ntravaill\u00e9 comme moi je trouve cette perte\nplus dur, on a mis une r\u00e9compense de\n$ 3000 \u2013 pour celui qui decouvriroit l\u2019offenseur\nVous aurer la bont\u00e9 de dire \u00e0 Mr\nFoelekel de se rendre chez Madme Legendre\n&amp; l\u2019informer que pour le present je ne\npourrait pas executer l\u2019ordre qu\u2019elle m\u2019avait\ndonn\u00e9, parceque je sais que je serai\noblig\u00e9 d\u2019attendre pour l\u2019argent trop\nlongtems. Si vous pourriez rentrer l\u2019argent\nde Monsieur Yvon Legendre, duquel\nje vous inclus le Compte, comme celle\nde Monsieur Frederick, sur lequel je\nvous inclus un Ordre, vous me servirez\ninfiniment \u2013 Des articles je vous\nai envoy\u00e9 je vous inclus ainsi le borderau ---\nJe vous prie de faire mes\nrespects \u00e0 Madme votre Epouse \u2013 \u00e0 Madme\nFoelekel, a Mselle Pauline &amp; Mselle Margaritte\n&amp; me croire pour toujours\nVotre Serviteur &amp; Ami\n1 Septbre 1808\nJ\u2019ai ajout\u00e9 [Bechtel]\n[J.S.v.P.]\n3\nM19\nJ\u2019ai ajout\u00e9 sur les 100 Piastres que\nMr Frederick me doit 12 Piastres d\u2019interest\nparcque parceque il est du 6 de Mai\n1807. quil a re\u00e7u les Marchandises \u2013\nCe qui fait 16 Mois \u2013 En cas qu\u2019il ferai\ndes difficult\u00e9 on ferait mieux de prendre\nles 100 Piastres, j\u2019espere pourtant\nque Mr Legendre ne refusera pas de\npayer les Interets que j\u2019ai charg\u00e9\ndans le Compte. Si vous recevez quelque\nargent faites moi le plaisir de me le\nfaire parvenir par la premiere Sure\nOccasion. Je vous prie ainsi de faire\nremettre a Mr Joseph Lange lalettre\n[rature] ci inclue. Vous aurez la Complai=\n=sance d\u2019arranger les Interets de Yvon\nLegendre \u00e0 votre pens\u00e9e en Cas qu\u2019il\nles dispute.\nJ\u2019espere que les habitants\nd\u2019en haut aurons les memes\nSentiments pour moi apres cette\nperte, que les Negocians de cette\nville, dont les premieres m\u2019ont\noffrir leurs Services &amp; m\u00eame ont\nparler aux deux banques pour\n\u00e9tablir mon Credit \u2013 afin\n4\nM19\nque je jouirai du m\u00eame Credit\nj\u2019espere que ceux qui [tache] me doivent\nen haut feront leur po\u222bsible de\nme payer sit\u00f4t que au\u222bsit\u00f4t \u2013\ncar certainement j\u2019ai eu toute l\u2019Indulgence\npour eux qu\u00f3n pourrait demander.","typa":{},"genera":{},"fullrs":"Volume5\/M19-0.pdf","find":"1192.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1191","restrictionCode":"1","cdmfilesize":"50883","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

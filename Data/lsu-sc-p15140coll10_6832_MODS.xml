@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 13</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2238</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2238</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2238/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 13","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[13]\nnt it and if great interests of state demand it, shall a nation like\nniis expose itself to injury and insult because it cannot afford to supply tiie necessary means of defence to any part of it % Let us have\nL establishment there worthy'of its object, and of the people whose\n5 it is to subserve.    It should be the pride and the boast of\nthe entire Mississippi valley. In times of peace it would stand you\nin the place of a great university for teaching the higher branches of\nmany of the mechanic arts to your young men.\nThe workshops connected with such an establishment would be\nfilled with apprentices whom the government pays while they are\nlearning their trade.\nThese workshops would draw to your section of country many of\nthe most skilful mechanics. They would stimulate the industrial\npursuits of that region, and assist in the development of its mineral\nresources. These are some of the advantages which such establishments carry along with them in peace, and make their presence so\ngreatly to be desired along the Atlantic borders.\nYou have assembled to plan foundations for your future commerce ; to provide the means for defending that commerce, appears\nto me to be intimately and necessarily connected with the subject\nof your deliberations. Hence the reason for calling your attention\nto a suitable naval establishment at Memphis.\nVIII. The free navigation ofthe Amazon is the greatest commercial\nboon that the people of the South and West\u2014indeed, that the people\nof the United States can crave. That river-basin is but a continuation of the Mississippi valley. The Mississippi takes its rise near\nthe parallel of 50\u00b0 north latitude, where the climates are suited to\nthe growth of barley, wheat, and the hardy cereal grains. The river\nruns south, crossing parallels of latitude, and changing with ew^ry\nmile its climate, and the character or quality of the great agricultural staples which are produced on its banks.\nHaving left behind it the regions for peltries, wheat and corn ; for\nhemp and tobacco; for pulse, apples, whiskey, oil and cotton; and\nhaving crossed the pastoral lands for hogs, horses and cattle, it\nreaches, near the latitude of 30\u00b0, the northern verge of the sugar\ncane.\nIhence expanding out into the gulf, with all these staples upon\nJts bosom, to be exchanged for the produce of other climes and latitudes, it passes on to Key West and the Tortugas; and there, at that\ncommercial gateway to the ocean, which opens out upon the Tropic of\nancer, it delivers up to the winds and the waves of the sea for the\njstant markets, the fruits of its teeming soil  and multitudinous\nrpi\n\u25a0Lnen comes in the great valley of the Amazon: taking up the\n^\"cultural  produce  and staples  which  the  Mississippi had just\nand f ^ an&lt;^  Pushmg the variety beyond the equator, it increases,\nbo t      ^0wn *nto t^ie other hemisphere diversifies the wonderful as-\nment, until sugar and coffee, rice and indigo, drugs and spices,\nCoa and cotton, cochineal and tobacco, India rubber, dye woods,","fullrs":{},"find":"2239.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2238","restrictionCode":"1","cdmfilesize":"531945","cdmfilesizeformatted":"0.51 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

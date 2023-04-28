@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>RANAWAY.; http://chroniclingamerica.loc.gov/lccn/sn86079090/1864-01-22/ed-1/seq-1/</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000099</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes">1864-01-22</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1864</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1863-12-01</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">RANAWAY. FROM the steamers Eras, at Albany, about December 1st, 1863, the negro man JESSEE, aged 25 years, about 6 feet high; yellow complexion. Said negro was seen in Shreveport on Christmas Eve, and has probably gone to Alexandria., A liberal reward will be given for his apprehension. jn22-3w</abstract>
+   <note type="content" displayLabel="Slave Name (Age)">Jessee (25)</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 3</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Semi-weekly Shreveport news. (Shreveport [La.]) 1862-1864</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86079090/1864-01-26/ed-1/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn86079090/1864-01-29/ed-1/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn86079090/1864-02-02/ed-1/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn86079090/1864-02-05/ed-1/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn86079090/1864-02-09/ed-1/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn86079090/1864-02-12/ed-1/seq-1/ </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86079090</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/531</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2014-12-12</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>531</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/531/json"
+                        timestamp="2017-02-13 13:32:40">{"title":"RSA00000099","object":"sn 86079090","publia":"The Semi-weekly Shreveport news. (Shreveport [La.]) 1862-1864","date":"1864-01-22","year":"1864","film":"page 1, column 3","altern":{},"unique":"RANAWAY.; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1864-01-22\/ed-1\/seq-1\/","person":{},"parish":{},"digita":"1863-12-01","acknow":{},"public":{},"town":{},"relati":"Jessee (25)","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"RANAWAY. FROM the steamers Eras, at Albany, about December 1st, 1863, the negro man JESSEE, aged 25 years, about 6 feet high; yellow complexion. Said negro was seen in Shreveport on Christmas Eve, and has probably gone to Alexandria., A liberal reward will be given for his apprehension. jn22-3w","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1864-01-26\/ed-1\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1864-01-29\/ed-1\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1864-02-02\/ed-1\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1864-02-05\/ed-1\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1864-02-09\/ed-1\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1864-02-12\/ed-1\/seq-1\/ ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000099.jp2","find":"595.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-12","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"531","restrictionCode":"1","cdmfilesize":"71872","cdmfilesizeformatted":"0.07 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

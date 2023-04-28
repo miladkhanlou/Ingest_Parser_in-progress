@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M37</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1277</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1277</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1277/json"
+                        timestamp="2017-01-13 13:22:48">{"title":"M37","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM 37\nOld Pine le 5 Avril 1858\nMon cher Sam,\nTu dois croire que je t\u2019ai tout \u00e0 fait\noubli\u00e9 puisque je n\u2019ai pas m\u00eame r\u00e9pondu \u00e0 ta bonne\nlettre, re\u00e7u voila d\u00e9ja plusieurs mois \u2212 non, mon cher\nSam, je ne t\u2019ai pas oubli\u00e9, mais un peu de paresse, et\nbeaucoup d\u2019occupations d\u2019un cot\u00e9, et d\u2019un autre, ont \u00e9t\u00e9\nla cause de ce [rature] retard ; puis des maladies que j\u2019ai fais\ndepuis ta lettre. il y a aujourd\u2019hui quinze jours que\nj\u2019ai \u00e9t\u00e9 encore malade, et se n\u2019est que depuis peu que\nj\u2019ai assez de force [rature] pour pouvoir marcher. mais je suis mieux,\net en me m\u00e9nagant je serais bient\u00f4t comme je l\u2019\u00e9tais avant,\nma maladie. \u2212 tu dois savoir que Laco, et faco sont \u00e0\nSpring Hill College, Et\u00e2t de l\u2019Alabama. j\u2019ai \u00e9t\u00e9 les voirs derni\u00e8-\n-rement. je les ai trouv\u00e9s en bonne sant\u00e9, et heureux d\u2019\u00e9tre\n\u00e0 un si bon Coll\u00e9ge. ils appreinent bien, et attandent\nles vacances, avec impatience, pour venir passer quelques\nsemaines avec nous. ils voulaient t\u2019\u00e9crire, mais ils connais-\n-sent pas ton adresse, et moi, qui ne la connais pas non plus,\nn\u2019a pas pus la leur donner. ta Nain\u00e9ne Phine \u00e0 chang\u00e9\nde demeure \u2212 elle demeure au chenal de la fausse-Rivi\u00e8re,\nqui est \u00e0 20 milles de chez moi. elle se plait beaucoup\nl\u00e0 bas, et le Dr Weindahl \u00e0 une grande clientelle ; qui\nle tient constamment sur pieds. ta Tante Thalie est\ndans ce moment \u00e0 la Nelle Orl\u00e9ans. Comme elle n\u2019est\npas bien depuis quelques temps, je l\u2019ai envoy\u00e9e, pour qu\u2019elle\nconsulte le Dr [rature] Stone. elle sera de retour la semaine\nprochaine. Armantine, Ad\u00e8le, C\u00e9leste, et Indiana sont [rature] 2\nM 37\njouissent d\u2019une bonne sant\u00e9, et t\u2019embrassent. tout der-\n-ni\u00e8rement Sissy, ta soeur, \u00e9tait ici. elle \u00e0 \u00e9t\u00e9[rature] avec nous\npendant plus d\u2019un mois. quand l\u2019heure est arriv\u00e9e pour\nqu\u2019elle parte elle m\u2019a demand\u00e9[rature] \u00e0 la garder encore quel-\n-que temps. mais comme ta maman me l\u2019avait fait\ndemander je n\u2019ai pas crus devoir la garder plus long temps.\nelle s\u2019est embarqu\u00e9e avec Thalie. ta maman m\u2019\u00e9crit\nqu\u2019elle se porte bien, ainsi que ton papa, tes fr\u00e9res,\net soeurs. de tous les notres il y a que ton \u201cpapa doux\u201d\nqui ne se porte pas bien, et qui est tres souvent souffrant.\nSi j\u2019avais un chien, ou deux, pour chasser le chevreuil,\nil peut se faire que cette exercice me remettrait. mais\nje n\u2019en ai pas, et il est impossible de m\u2019en procurer i\u00e7i.\nne pourrais-tu pas m\u2019en procurer ? peut \u00e9tre qu\u2019avec\nl\u2019aide de ton Oncle vous pouriez m\u2019en avoir, serait-il\nqu\u2019un, un jeune ! \u2212 parles-en \u00e0 ton Oncle, et \u00e0 d\u2019autre\nde tes connaissances \u2212 il me semble qu\u2019en Angleterre [rature]\nles Buck hounds, ou Stag hounds, ou fox hounds doivent\n\u00e9tre fa\u00e7ile \u00e0 avoir. Si tu pouvais m\u2019en envoyer, \u00e0\nton retour je te ferais un fameux Cadeaux ! je paierai\ntous les frais avec plaisir. vois si tu peux faire cela\npour ton vieux papa doux. . il y a long temps que je cherche\n\u00e0 avoir de ses[rature] beaux chiens Anglais, dont j\u2019en entends\ntant parler, en bont\u00e9s, comme en beaut\u00e9s. \u2212 dans ta\nprochaine dis moi s\u2019il y a probabilit\u00e9 d\u2019en avoir.\ndonne nous, aussi souvent que possible, de tes\nnouvelles. je vois avec satisfaction que tu fais beau-\n-coup de progres dans tes \u00e9tudes \u2212 vas toujours de l\u2019avant,\nmon cher Sam \u2212 le plut\u00f4t que tu auras fini tes \u00e9tudes le 3\nM 37\nplut\u00f4t que tu seras avec nous. Je t\u2019embrasse mille\nfois \u2212 ton cher grand papa, Ledoux\n[Fin de la deuxi\u00e8me page]","typa":{},"genera":{},"fullrs":"Volume5\/M37-3.pdf","find":"1278.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1277","restrictionCode":"1","cdmfilesize":"52924","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

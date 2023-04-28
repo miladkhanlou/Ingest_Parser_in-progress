@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>George C. Strong Photograph Album</title>
+  </titleInfo>
+  <name type="corporate"
+      authority="naf"
+      authorityURI="http://id.loc.gov/authorities/names"
+      valueURI="http://id.loc.gov/authorities/names/no2015036095"
+      displayLabel="Contributing Repository">
+   <namePart>LSU Libraries. Special Collections</namePart>
+   <role>
+      <roleTerm type="text"
+                authority="marcrelator"
+                authorityURI="http://id.loc.gov/vocabulary/relators"
+                valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+   </role>
+</name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The album contains two (2) photographs of sites around the United States Military Academy (USMA), West Point, New York, and forty two (42) photographic portraits of cadets in the classes of 1857 and 1858. The album pages contain holographic inscriptions stating: the place; the name of the sitter; whether the sitter graduated in the class of 1858 rather than the class of 1857; if the sitter did not graduate at all; an occasional personal note about the sitter, and; if they fought as a "rebel" in the American Civil War, 1861-1865. The four (4) unnamed images in the album - Edward Porter Alexander, Robert H. Anderson, Thomas J. Berry, and Aurelius F. Cone - have been authenticated by the USMA archives. There is also one (1) newspaper clipping ca. 1891 relating the death of Rear Admiral Christopher Raymond Perry Roger, United States navy, (Ret.)&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The Photographer George Crockett Strong (1832-1863), a native of Vermont, received an appointment from Massachusetts to attend the United States Military Academy, West Point, New York. Concentrating in ordnance, he graduated fifth in his 1857 class of thirty-eight cadets. Initially appointed second lieutenant, Ordnance, July 1859, Strong steadily rose through the ranks. In late 1861 he joined Benjamin F. Butler's staff as adjutant, actively took part in planning the Union expedition against New Orleans, and eventually became Butler's chief of staff. Appointed brigadier general in June 1863, Strong was reassigned to the South Carolina coast where, at the head of a brigade, he received a mortal wound at Battery Wagner. He attained the rank of major general posthumously in July 1963.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The album contains two photographs of sites around the United States Military Academy, West Point, New York, and forty-two photographic portraits of cadets in the classes of 1857 and 1858.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-gcs</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_GCS</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_GCS</identifier>
+</mods>

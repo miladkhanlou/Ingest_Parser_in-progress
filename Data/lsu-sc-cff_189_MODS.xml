@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M34</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1273</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1273</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1273/json"
+                        timestamp="2017-01-13 13:22:56">{"title":"M34","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM34\nA ceque je vois le \u222bieur Elis prete [d\u00e9chir\u00e9]\nsemoquer des ordres du Gouvernen [d\u00e9chir\u00e9]\ncherchant tous les moyens d\u00e9lude [d\u00e9chir\u00e9]\nnon seulement le salaire sacre\net legitime de ses Engag\u00e9s, mais\naussi celui des dettes q\u00fail \u00e0\ncontract\u00e9es en Ville pour les Medi\u2014\ncaments dusieur Lubier, puisque\nla Gouvernante que vous nomm\u00e9s\net dites \u00eatre celle du dit sieur Elis,\nnon seulement n\u2019a pas port\u00e9s\nlepayement de ceque Elis doit,\nmais declare encore n\u2019avoir\npas connoissence de cette affaire,\nainsi par la premiere occasion\n2\nM34\nqui se presentera, sans en faire\nune expressement vous enver\u00eaz\nle dit sr Elis, apr\u00e8s avoir saisie\nceq\u00fail pourra avoir \u00e0 lui, \u00e0 ma\ndisposition.\nDieu vous ait en sa saite garde\nNlleorl\u00e9ans Le 23 Xbre 1786\nEstevan Mir\u00f3\nMr. Declouet.","typa":{},"genera":{},"fullrs":"Volume5\/M34-1.pdf","find":"1274.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1273","restrictionCode":"1","cdmfilesize":"37398","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

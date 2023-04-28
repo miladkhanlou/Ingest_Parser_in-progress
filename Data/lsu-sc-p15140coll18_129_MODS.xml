@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 9</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Moyse, Hermann, 1891-1985</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1917-09-05</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>World War, 1914-1918</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Military training camps</topic>
+      <topic>Texas</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Camp MacArthur (Tex.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>4 pages.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <genre>correspondence</genre>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Hermann Moyse, Sr. World War I Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4671.pdf</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll18:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Mss. 4671, Box 1a: 4</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll18/id/198</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-07-19</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll18</alias>
+         <pointer>198</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll18/198/json"
+                        timestamp="2017-02-06 12:53:57">{"title":"Page 9","creato":"Moyse, Hermann, 1891-1985","date":"1917 Sept. 5","physic":"4 pages.","langua":"en","type":"correspondence","covera":"Camp MacArthur (Tex.)","subjec":"World War, 1914-1918; Military training camps--Texas","descri":{},"locati":"Mss. 4671, Box 1a: 4","source":"Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4671.pdf","contri":{},"notes":{},"publis":{},"format":{},"relati":{},"rights":{},"contac":{},"catalo":{},"imaga":{},"color":{},"extent":{},"imagb":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"199.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-07-19","dmmodified":"2010-07-19","dmoclcno":{},"dmrecord":"198","restrictionCode":"1","cdmfilesize":"5029014","cdmfilesizeformatted":"4.80 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

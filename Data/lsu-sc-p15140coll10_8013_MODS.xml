@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 45</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2683</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2683</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2683/json"
+                        timestamp="2017-02-03 08:23:53">{"title":"page 45","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"ty, to take the dying declaration of the person, or\nto give such directions in the premises as he may\nconsider necessary.\nSec. 21. In case of an alarm of fire, the police\nofficers who arrive first at the scene of conflagration, must be particular to note the exact location\nof the fire, and must examine minutely to ascertain\nif there is any appearance of the house, store or\nout-house having been set on fire by design. They\nmust note on their memorandum books the situation and place of particular kinis of goods, and\nevery thing that they may observe that could be of\nservice, in case the origin of the fire should become\na matter of legal investigation.\nSec. 22. Whenever any fire shall happen in\nthe night, the policemen shall give notice to each\nof the firemen and policemen who may be at their\nhomes within their respective beats ; and they shall\nalso give the alarm by crying \" Fire,\" and by\nspringing their rattles.\nSec. 23. The policemen will endeavor to clear\nthe streets from crowds and obstructions, so that\nthere shall be sufficient space for the firemen to\nperform their duties, and a place for the deposit\nof property saved.","fullrs":{},"find":"2684.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2683","restrictionCode":"1","cdmfilesize":"468077","cdmfilesizeformatted":"0.45 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

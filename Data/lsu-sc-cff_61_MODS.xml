@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_3</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1038</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-12</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1038</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1038/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"Page_3","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M23\npour con?erver ma famille bien portente, jais fait nourrir ma petite\nfille par une negre??e, La pauvre enfant ne connais pas tout ce qu\u2019elle\na perdus, elle a toujours \u00e9t\u00e9 bien portante, elle e?t charmante S\u2019e?t tout\nLe portrait de Sa mere, pui??ent elle avoir ces qualit\u00e9es, Si tu\navois connus cette digne et tendre \u00e9pou?e tu la pleurerois encore\navec moi ! comment ce porte La tienne, pui??e Le ciel te la con?erver,\na tu des enfants, combien jai d\u00e9?ires apres mon malheur \u00eatre aupres\nde vous autres, ta chere \u00e9pou?e, edwige, aurait \u00e9t\u00e9 des Secondes m\u00e9res\npour mes pauvres enfants, j\u2019ais \u00e9t\u00e9 bien heureux apres tous mes\nmalheur d\u2019avoir des amis, S\u2019e?t dans cette circon?tance malheureuse\nou je les ais connus : ou\u00ef, mon ami, je croyois \u00eatre homme et avoir\ndu courage, mais S\u2019il n\u2019eut \u00e9t\u00e9 Soutenus par mes amis j aurais\nSucomb\u00e9, jais \u00e9t\u00e9 pendant plus de trois mois dans un \u00e9tat que je\nne Saurais te d\u00e9peindre a La Suite du quel j ais eu Les fievres\npendant fort Longtems, depuis cette automne j ai pris Le de??sus et\nme porte bien, je pourrois encore mener une vie tranquille et\navoir quelque joui??ances, Si je pouvois vous joindre ! que cette\nguerre e?t Longue et cruelle, quant finirat elle donc que je pui??e\navec Suret\u00e9 retourner dans ma patrie ! Comment ce porte notre\nbon papa, v\u00eet il encore, je Lespere il e?t d\u2019une Si bonne con?titution\nque je me flate avoir Le plai?ir de L\u2019embra??er encore une fois, fais\nlui mille tendre care??e pour moi, et ces petis enfants, a??ure Le\nde notre tendre et re?pectueux attachement, pui??e le ciel con?erver ces\njours autant que les miens, a??ure ta femme de mon Sincere\nattachement, et de celui de mes enfants, nous L\u2019embra??ons de tout\nnotre coeur, jembra??e tendrement \u00e9dwige, ces neveux en font autant,\ndis lui que ma fille e?t La Sienne, Si je ne pouvois La lui\nconduire, je la lui envoirais, je Suis Sur qu\u2019elle L\u2019aimerat, cette","typa":{},"genera":{},"fullrs":{},"find":"1039.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-12","dmmodified":"2008-09-12","dmoclcno":{},"dmrecord":"1038","restrictionCode":"1","cdmfilesize":"2843660","cdmfilesizeformatted":"2.71 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

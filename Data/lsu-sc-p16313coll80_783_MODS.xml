@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$30 Reward!
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000603e</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">$30 Reward! RUNAWAY from the undersigned, in Pine Prairie, in this Parish, in the night of the 20th of November last, a mulatto-man named CHARLES, aged about 30 years, about 5 feet 9 or 10 inched high, having the first phalanx of the thumb on the right hand cut off. Charles speaks french and english, and is the same that the undersigned has purchased at the sale of the estate of the late Jacques Lastrapes. A reward of $30 will be given to whoever shall bring back said boy to the undersigned or to Mr. Cazeaux, in Ville Plate, or lodge him in jail. E DAREAU. Pine Prairie, January 26th, 1856.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1856-01-26/ed-2/seq-2/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1088</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-29</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1088</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1088/json"
+                        timestamp="2017-02-13 13:34:04">{"title":"RSA00000603e","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 5\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1856-01-26\/ed-2\/seq-2\/\n","unique":"$30 Reward!\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"$30 Reward! RUNAWAY from the undersigned, in Pine Prairie, in this Parish, in the night of the 20th of November last, a mulatto-man named CHARLES, aged about 30 years, about 5 feet 9 or 10 inched high, having the first phalanx of the thumb on the right hand cut off. Charles speaks french and english, and is the same that the undersigned has purchased at the sale of the estate of the late Jacques Lastrapes. A reward of $30 will be given to whoever shall bring back said boy to the undersigned or to Mr. Cazeaux, in Ville Plate, or lodge him in jail. E DAREAU. Pine Prairie, January 26th, 1856.\n","subjec":{},"type":{},"format":{},"langua":"English\n","digitb":{},"digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000603e.jp2","find":"1152.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-29","dmmodified":"2016-02-29","dmoclcno":{},"dmrecord":"1088","restrictionCode":"1","cdmfilesize":"129314","cdmfilesizeformatted":"0.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

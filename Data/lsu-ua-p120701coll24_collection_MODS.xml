@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>LSU University Archives Print Materials Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;This collection provides a glimpse into LSU's past through printed materials. Included are campus plans from 1895 to 1958, and commemoration programs of anniversaries, dedications, and other significant events from 1910 to 2001.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;One highlight of this collection includes the &lt;a href="http://www.louisianadigitallibrary.org/islandora/object/lsu-ua-p120701coll24%3A126" target="blank"&gt;Program commemorating 50 years of coeducation &lt;/a&gt; chronicling the beginnings of "this mass invasion" on the LSU campus starting from the steps of 17 women graduates of Baton Rouge High demanding admission in 1906 to their eventual inclusion by then University President, Thomas Duckett Boyd.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;This collection provides a glimpse into LSU's past through printed materials of the university. Included are early catalogs and commemoration programs of anniversaries, dedications, and other significant events.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-ua-p120701coll24</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p120701coll24</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p120701coll24</identifier>
+</mods>

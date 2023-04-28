@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 12</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1500</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1500</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1500/json"
+                        timestamp="2017-02-03 08:23:09">{"title":"Page 12","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 12 \u2014\nVII.\n\u2022ft\nLes bandits avaient tire uu parti admirable et de Papatbie des\nclasses honnetcs et des etranges facilites que la loi aineric-ise a don-\nuees a Paccuse pour c*chapper au chatiment. Aussi etaient-ils enre-\ngimeute*s et manccuvraient-ils avec un ordre, un ensemble qui au-\nraient etc* dignes d'admiration, si les forces de cette armee du crime\navaient ete employ6es a la defense de la socie\"td.\nCette association avait ses generaux, ses officiers et ses soldats.\nLes generaux etaient ceux qui avaient bdti leur fortune en faisant*\ndes razzias sur les troupeaux attakapiens, et en se faisant acquitter\npar des jures, membrcs dc leur association, lovsqu'ils etaient mis en\ncour.\nLes officiers etaient les mandataires, les intendants de ces etranges courtiers des propric*tes des autres. A eux de tendre les pieges,\nde dresser les plans des razzias, deconvoquer les soldats ne'ccssaires\na, la campagnc projetec.\nGeneraux et officiers etaient les aristocrates de [\"association, la\nfieur des pois de la haute pegre.\nLes soldats, c'etaitJa crapule la plus immonde, la plus abjecte;\ncelle qui a des haillons sur l'ame comme sur le corps: cellc qui ne\nsait pas, meme par tradition, s'il y a un Dieu et s'ii existe une morale ; celle qui fait un faux serment avec Pairsouriant qivune femme\nmettrait a respirer les parfums d'une rose; celle qui fait douter que\nDieu ait pu condamner des ames a etre emprisonneos dans des prisons aussi impures ; celle qui a Pinstinct du crime comme la bete a\nPinstinct de la faim, ii ses heures; celle qui ment devant les tribu-\nnaux parce qu'elle ne croit pas en Dieu; qui vole, pille, incendie.\nparce qu'elle ne connait meme pas de nom la probite, Phonncur,\nla morale; celle qui tuerait froideraent parce qu'elle ne sait pas ce\nque signific le mot conscience, mais qui ne tue pas, parce qu'elle est\nencore plus lache qu'elle n'est abjecte, et qu'a defaut de Dieu, elle\ncraint le bourreau.\nLes soldals, c'etait la basse pegre, les executeurs des hautes ceu-\nvres de la haute pegre.\nEt qu'on ne vienne pas nous dire que cette arnica du crime n'exis-\ntait pas; qu'elle^st sortie de notre imagination comme une contre-\nfacon plus ou moins hcureuse des conies dllofiniann.","fullrs":{},"find":"1501.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1500","restrictionCode":"1","cdmfilesize":"456922","cdmfilesizeformatted":"0.44 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

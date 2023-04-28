@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Beachrock Research Slides of Richard J. Russell Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The Louisiana Coastal Ecology Collection contains a portion of Richard J. Russell's Louisiana research; however, Dr. Russell became internationally known for his research not only in Louisiana, but also throughout the world. This collection, "Beachrock Research Slides of Richard J. Russell," contains numerous slides of photographs that Dr. Russell took while doing his beachrock research around the world.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Richard J. Russell was a renowned geographer. After his training in forestry, paleontology, structural geology, and physical geography, Russell came to LSU in 1928 from California. He remained a professor here through his entire career. His research established his reputation as a world expert on the Mississippi and other delta regions, as well as on coastal erosion, coastal ecology and beachrock.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The digitized slides that are available in the LSU Digital Library were provided by Dr. Jesse Walker, LSU Boyd Professor Emeritus. The slides are Dr. Walker's personal copies of Dr. Russell's original slides.&lt;/p&gt;</note>
+  <extension>
+      <hiddenDescription>&lt;p&gt;Dr. Russell became internationally known for his research not only in Louisiana, but also throughout the world. This collection contains numerous slides of photographs that Dr. Russell took while doing his beachrock research around the world.&lt;/p&gt;</hiddenDescription>
+   </extension>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-brs</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/BRS</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/BRS</identifier>
+</mods>

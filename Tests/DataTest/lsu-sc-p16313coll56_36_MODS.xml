@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Hanson's Canal La</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated qualifier="questionable" keyDate="yes">1920</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Canals</topic>
+      <topic>Louisiana</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <note type="content">The photograph album (unbound) contains 103 black and white prints mounted on paper. The images show scenes from several locations in Louisiana during the 1920s. Photographer unknown.</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form>photograph</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <note type="medium">Black and white photograph mounted on paper</note>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+<namePart>LSU Libraries. Special Collections</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll56:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4963.pdf</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>General Foster Joseph Tate Photograph Album</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>65:2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image 	must be requested through the Special Collections Division, Louisiana State 	University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">General Foster Joseph Tate photograph album, Louisiana Digital Library</note>
+   <identifier type="local" displayLabel="Item Number">4963090</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll56/id/89</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-03-21</recordCreationDate>
+      <recordChangeDate>2018-11-14</recordChangeDate>
+  </recordInfo>
+   <extension>
+      <digitalReproduction>Digitized using a Microtek flatbed scanner.</digitalReproduction>
+      <CONTENTdmData>
+         <alias>p16313coll56</alias>
+         <pointer>89</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/89/json"
+                        timestamp="2016-12-19 13:56:52">{"title":"Hanson's Canal La","creato":"Unknown","date":"1920?","format":"Black and white photograph mounted on paper","descri":"The photograph album (unbound) contains 103 black and white prints mounted on paper. The images show scenes from several locations in Louisiana during the 1920s.","subjec":"Canals--Louisiana--Photographs.","type":"Image","relati":"General Foster Joseph Tate Photograph Album","source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","reposi":"(http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4963.pdf)","call":"65:2","cite":"General Foster Joseph Tate photograph album, Louisiana Digital Library","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image \tmust be requested through the Special Collections Division, Louisiana State \tUniversity Libraries.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html  \tMention the \u201cItem number\u201d or \u201cItem URL\u201d in your request.","digita":"JPEG","digitb":"Digitized using a Microtek flatbed scanner.","identi":"4963090","a":"See 'reference url' on the navigation bar above.","collec":"http:\/\/www.louisianadigitallibrary.org\/cdm\/search\/collection\/p16313coll56","fullrs":{},"find":"90.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-03-21","dmmodified":"2014-03-21","dmoclcno":{},"dmrecord":"89","restrictionCode":"1","cdmfilesize":"1872685","cdmfilesizeformatted":"1.79 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

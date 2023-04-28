@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Eugène Dumez letter, 1864 March 16</title>
+  </titleInfo>
+   <note type="biographical/historical" displayLabel="Biographical Note">Henry Vignaud, born in New Orleans, La., was a newspaper editor before the Civil War. Commissioned a captain in the 6th Louisiana Regiment, he was taken prisoner when Union forces captured New Orleans in 1862 but escaped to Paris, where he assisted in John Slidell's Confederate mission. Vignaud contined to live in Paris, serving as secretary of the American legation from 1875 until his retirement in 1909. A scholar and book collector, Vignaud built an extensive library of Americana and gained an international reputation as an historian for his work on Christopher Columbus."
+Eugène Dumez, journalist, was born in St. Juste, France, and participated in the French Revolution of 1848, emigrating shortly thereafter to Louisiana, where he worked as a publisher and editor of the French-language newspapers Le Meschacb and L'Avant-coureur.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1864</dateCreated>
+      <dateCreated keyDate="yes">1864-03-16</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Vignaud, Henry, 1830-1922</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>French newspapers</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana</topic>
+      <topic>Historiography</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana</topic>
+      <topic>Politics and government</topic>
+      <topic>1861-1865</topic>
+   </subject>
+   <note type="content" displayLabel="Topics">politics and elections; writing, literature, and reading; diplomacy</note>
+   <physicalDescription>
+      <form>letter (4 p.),</form>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">fr</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Henry Vignaud Papers, Mss. 1281</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Civil War Context and Conflict at LSU Libraries</title>
+      </titleInfo>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 1</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>C:66</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Henry Vignaud Papers, Mss. 1281, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/484</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>484</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/484/json"
+                        timestamp="2017-02-03 08:23:01">{"title":"Eug\u00e8ne Dumez letter, 1864 March 16","subjec":"Vignaud, Henry, 1830-1922.; French newspapers--Louisiana.; Louisiana--Historiography.; Louisiana--Politics and government--1861-1865.","descri":"Letter from Eug\u00e8ne Dumez, St. Just, France, to Henry Vignaud thanking Vignaud for sending the Autographe and the Revue.  He reports receiving letters from Lefranc (whom the addresser views as overly optimistic) and Lematre that are encouraging for Louisiana (if not for the South) because they relate that civil government is going to replace military rule in the state.  He proposes bringing back the Meschacb and taking over the Renaissance.  Dumez envisions writing a history of Louisiana with preparatory work done in the fashion of Franois-Pierre-Guillaume Guizots and Jean-Joseph-Franois Poujoulats studies.  He spells out the ways in which Vignaud could work with Dumez in future endeavors.  Dumez mentions Gurards bibliography.  He asks Vignaud to see A. Callaud of 41 Rue St. Georges for Lieutenant Lefort of the Catinat.  He mentions Rameau and brings up the Martin affair.  In French.","creato":"Dumez, Eug\u00e8ne, 1824-1878.","publis":{},"date":"1864-03-16","year":"1864","format":"letter (4 p.),","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )).","collec":"Henry Vignaud Papers, Mss. 1281","reposa":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","digitb":"Civil War: Context &amp; Conflict","langua":"fr","topics":"politics and elections; writing, literature, and reading; diplomacy","cite":"Henry Vignaud Papers, Mss. 1281, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","notes":"Henry Vignaud, born in New Orleans, La., was a newspaper editor before the Civil War. Commissioned a captain in the 6th Louisiana Regiment, he was taken prisoner when Union forces captured New Orleans in 1862 but escaped to Paris, where he assisted in John Slidell's Confederate mission. Vignaud contined to live in Paris, serving as secretary of the American legation from 1875 until his retirement in 1909. A scholar and book collector, Vignaud built an extensive library of Americana and gained an international reputation as an historian for his work on Christopher Columbus.\"\nEug\u00e8ne Dumez, journalist, was born in St. Juste, France, and participated in the French Revolution of 1848, emigrating shortly thereafter to Louisiana, where he worked as a publisher and editor of the French-language newspapers Le Meschacb and L'Avant-coureur.","notesa":{},"source":"C:66","box":"1","folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":"unpublished","full":{},"fullrs":{},"find":"485.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-30","dmmodified":"2012-05-30","dmoclcno":{},"dmrecord":"484","restrictionCode":"1","cdmfilesize":"555","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <publicationStatus>unpublished</publicationStatus>
+  </extension>
+</mods>

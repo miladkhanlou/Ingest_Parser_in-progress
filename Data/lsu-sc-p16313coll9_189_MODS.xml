@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Kewpi doll</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes">1922</dateCreated>
+  </originInfo>
+   <subject authority="lcsh" displayLabel="Provenance">
+      <hierarchicalGeographic>
+         <continent>North America</continent>
+      </hierarchicalGeographic>
+      <hierarchicalGeographic>
+         <country>USA</country>
+      </hierarchicalGeographic>
+  </subject>
+   <subject authority="lcsh">
+      <topic>Dolls</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Time Period">
+      <temporal>1920s</temporal>
+   </subject>
+   <abstract displayLabel="Description">Baby girl, all-composition doll, molded and painted features and hair, jointed at shoulders, blue molded and painted wings at rear, red heart shaped decal, 'KEWPIE//DES. &amp; COPYRIGHT//by//ROSE O'NEILL.', white pinafore, doll is manufactured, dress is machine made, Kewpi is designed by Rose O'Neill, probably Cameo Doll Company, New York City, c.1922. Rose O'Neill wrote 'Year by year as the world gets less and less funny, the laugh got clearer in my mind, as the Kewpie smile went all around the world.' (Ref. 1)""</abstract>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>29 cm</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Edith Dabney Doll Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll9:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Box 16</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll9/id/45</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-05-28</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll9</alias>
+         <pointer>45</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll9/45/json"
+                        timestamp="2017-02-07 09:41:24">{"title":"Kewpi doll","descri":"Baby girl, all-composition doll, molded and painted features and hair, jointed at shoulders, blue molded and painted wings at rear, red heart shaped decal, 'KEWPIE\/\/DES. &amp; COPYRIGHT\/\/by\/\/ROSE O'NEILL.', white pinafore, doll is manufactured, dress is machine made, Kewpi is designed by Rose O'Neill, probably Cameo Doll Company, New York City, c.1922. Rose O'Neill wrote 'Year by year as the world gets less and less funny, the laugh got clearer in my mind, as the Kewpie smile went all around the world.' (Ref. 1)\"\"","notes":"29 cm","date":"1922","coverb":"1920s","subjec":"Dolls","covera":"North America","proven":"USA","provea":{},"associ":{},"source":"Box 16","object":{},"creato":{},"contri":{},"publis":{},"type":{},"format":{},"identi":{},"langua":{},"relati":{},"rights":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html  \tMention the \u201cItem number\u201d or \u201cItem URL\u201d in your request.","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","fullrs":{},"find":"46.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2014-05-28","dmmodified":"2014-05-28","dmoclcno":{},"dmrecord":"45","restrictionCode":"1","cdmfilesize":"540","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

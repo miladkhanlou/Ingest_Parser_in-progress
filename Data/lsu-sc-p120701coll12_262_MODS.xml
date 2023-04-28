@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 12</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/534</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>534</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/534/json"
+                        timestamp="2017-02-09 16:31:05">{"title":"Page 12","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"172\nSOUTH-WESTERN JOURNAL.\n\u25a0J * tr I .\n\u25a0w\n.\nrf\nafter this, Mr. Adams, adjunct ofthe Academy ol Petersburg,\nwas atJaku.sk, and hearing of the discovery, went to visit\nihe place. He found the animal much mutilated, for the natives had taken much of the flesh to feed their dogs. The\nWild beasts bad also eaten of it, but the skeleton was still en-\ntiro except one fore foot. The head was covered with dry\nskin. One of the ears was well preserved, and was furnished with a tuft of long coarse hair. The brain remained in\nthe cranium, but was dried up; the lower lip had been eaten\naway, and the trunk and upper lip were also wanting.\nEnough of the skin remained to load ten men j il resembled\nthat of the elephant of India, but had not the brown points\nseen on ihe skin of that animal; it was furnislmd with three\nkinds of hair; the first, twelve or fifteen inches in length, of\na brown color, and about the size of a horse hair; the second,\nnine or ten inches long, and smaller than the first, and of a\nrusset color; lastly, there was a fine kind of hair about\nfour or live inches in length, of a fawn color, which\ncurled up like wool, making a thick and warn layer about\nthe roots of the other kinds of hair. This animal was a\nmale, his tusks were ten feet in length, and his head without\nthe tusks, and with but little flesh, weighed four hundred\npounds. This elephant is now in the museum ofthe Academy of Petersburg. Others have been found in a very perfect state of preservation in the same country, together with\nthe Hippopotamus and Rhinoceros, all of which have coats\nof hair similar to the one described; and they show by the\nperfect state in which they are found, and by the thick cover\ning of hair, that they inhabited and died in the country where\nthey are found after the temperature ofthe climate was nearly as low as al present. The idea that these animals were\nwashed by currents of water from the south of Asia is thus\nshown to be without foundation ; for not only would they d.\ncompose in being carried so far, but they are all of species\ndistinct from those inhabiting the tropics.\nFrom the fossil elephant we will pass to the mastodon, an\nanimal which in size and form resembled the last; it was\nprovided like it, with a trunk and long tusks, and had feet of\nthe same structure; the only essential difference between\nthem, was in the molar teeth; the molars of the elephant, as\nwe have seen, consist of a bony substance, with lamintc of\nenamel passing in a vertical direction through the entire\ntooth; and as ihe softer bony substance wears away by chewing, more rapidly than the hard enamel, the crown of ihe\ntooili will consist of a smooth surface of bony substance, with\nelevated lines of enamel running across it. The molars of\nthe mastodon to the contrary, consist of bony substance which\nis elevated upon the crown in the form of conical ridges or\ntubercles, and tho whole crown is covered by a thick layer\nof enamel, which does not enter the bony part at all; when,\ntherefore, the enamel weai'3 away, smooth and concave surfaces of bone, of a lozenge form, are exposed, corresponding\nlo the elevations worn away.\nThe mastodon is the first of the fossil animals that convinced naturalists of the extinction ofthe species. Remains\nof these animals bad been found in Europe, with the bones\nof elephants, and were with them considered as the bones ol\ngiants; they drew forth many learned discussions and works,\nand it was established with the greatest certainty tjlat n, .\nman race was fust  retrograding.     In 1712, Dr. Mathe\na letter to Dr. Woodward, announced the discovery of m-,'\ngiant's teeth, upon the Hudson River, in the State of Nt\nYork, mid after this they were frequently found in Arnetic\nUnfortunately for these notions, endeared by so many\nfound treatises, some of the fragments fell into the hands of\nturalists, whose way of reasoning being devoid of romance\nsoon transformed our gigantic ancestors into a form wl 1\nthey considered as that  of an elephant,    The animal new\nreceived the name of Animal of Ohio, which it bore until\n1767, when William Hunter pointed out differences between\nthe molars ofthis animal, and those of the elephant, with which\nit had been confounded.    But this anatomist also fell intoa\ntwo-fold error, for he imagined that to be the same animal ai\nthe one founel fossil in Siberia, nnd in consequence he called\nit Mammouth, thus giving it the name that belongs properly\nto the fossil elephant; this name is still erroneously retained\nby the English and Americans.    The other error promulgated by Hunter was, that what he called Mammouth must be\nfrom the structure of its teeth, a carnivorous animal, and thai\nobtained for the Mastodon the name Carnivorous Elephant\u25a0 a\nname which  is still less proper than that of Mammouth.\nFrom that time compilers confounded the true Mammouth of\nSiberia, which, as we have seen, is a species of elephant, wilh\nthe mastodon, the pretended Mammouth of America.\nIn 1801, Mr. Charles Wilson Peale, after much labor and\nexpense, collected bones for a complete skeleton, and another\nnearly complete. They were found in a morass, near New-\nburgh, in the State of New York. They were carried to\nEurope, and it was from these that Cuvier determined precisely the character of the creature, correcting the erroneous\nnotions then entertained as to its form, habits and size. Ik\nshowed that its form and habits were nearly those of the elephant, from which it only differed essentially, in having molar teeth whose crowns were raised into elevated cone-lib\ntubercles, from which the name Mastodon is taken, (from\nmastos, mammilla or teat, and oe\/os, dens or teeth;) and wc\nmay assume that it had a trunk analogous to that of the elephant, for it could not otherwise have reached the ground,in\nits fore legs were long, and ils neck very short; it would also\nhave been prevented from reaching the ground by long lush\",\nwhich projected before it. Before that time il had been considered by some as an inhabitant of the sea, similar, perhaps,\nto the seals, morses, or sctacea; but this idea is refuted by\nthe character of (he feet, which resemble those of the elephant, and are not formed for an aquatic life. In height,\nthe Mastodon differed, perhaps, but little from the Indian elephant, but was proportionably longer, and its bones wert\nthicker. The largest of the skeletons restored by Peak-\nwas fifteen feet from the muzzle to the rump, and upwards\u00bb\nten feet in height. This is supposed to be an individual el\nmedium size, and is about equal to the common size of In*\nlarger Indian elephants. The locality of which most &gt;'\nknown, and which is most celebrated for the number of\"\u00bb'\nbones, is the Dig Done Lick in Kentucky; bul there are many other localities where vast numbers of their remains are\nfound.    An intelligent traveller, in a visit to tho Osage river.","fullrs":{},"find":"535.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"534","restrictionCode":"1","cdmfilesize":"1806812","cdmfilesizeformatted":"1.72 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

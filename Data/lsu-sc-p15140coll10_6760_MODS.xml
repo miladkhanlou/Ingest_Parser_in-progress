@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 5, Page 6</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2166</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2166</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2166/json"
+                        timestamp="2017-02-03 08:24:47">{"title":"Section 5, Page 6","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"Mr. Payne being- then called on, spoke briefly offl\nrecent mission to Texas, and of the addresses which ha\ndelivered there, a report of which had been published ]i\nthe city papers. He spoke enthusiastically of the kind-\nreception he had received from the Governor, Legislators\nand citizens of Texas, and passed a high eulogium on the\ncharacter and value of the lands of that noble State.\nMr, Phelps was then called on to address the meeting,\nbut he stated that his Report contained every thing in the\nshape of information which he felt prepared to give to the\nConvention'\nMr. Blanciiard also declined to address the meeting,\nfor a similar reason.\nJudge Overton then presented the following resolutions, which were adopted:\nrrrr\nResolved, That a Committee of five members of this Convention \\k\nappointed by the Chair, whose duty it shall be to prepare and publish\nappropriate address on the subject of this railroad, and its proposed and promised connection and extension by the State of Texas westwardly.\nResolved, That the same Committee be charged with preparing memorials\nto the Congress of the United States, and to the Legislature of this State,\nasking for grants of land along the proposed route, or other assistance in aw\nof this enterprizc.\nMr. Cohen then introduced the following resolution:\nResolved, That the Permanent Committee, authorized at the session of v\u00ae\nConvention in Juno last, be increased to tine number of fifteen in each Pan*\nthrough which this road is projected to pass.\nOn this resolution considerable discussion arose; soio'\nmembers contending that the number proposed was to\"\nlarge for efficiency ; and others, that it was not larg\nenough.\nEx-Gov. Mouton suggested that twelve would be t\"\nmost convenient number. He wished to do all in his poff\nto promote the great object of the Convention\u2014i10\"11 =","fullrs":{},"find":"2167.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2166","restrictionCode":"1","cdmfilesize":"623839","cdmfilesizeformatted":"0.59 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

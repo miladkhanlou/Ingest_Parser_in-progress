@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 10</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2235</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2235</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2235/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 10","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[10]\nposition in one of those respects. The watchful are never caught\nasleep twice; and it is time they were beginning to be up and don.\nin the other.\nVI. As soon as there is a commercial thoroughfare across the Istk\nmus, which will unload, handle, and transport the breadstuffs with\nthe other heavy produce of the Mississippi valley, across tho Isthmus, and put it on board ships in the Pacific for less than it costs to\nget it as far as Cape Horn, on the way, that moment is the Gulf 0f\nMexico raised to the summit level of this world's commerce.\nAll nations will then be down hill from the Gulf; and the people\nwho inhabit the great valley of the West, and who pass its produce\ndow-n through the Mississippi River into the Gulf, and deliver it\nthere to the winds of heaven, or the currents of the sea, may then\ntake their choice, and go with it by down-stream or fair-wind navi.\ngation, to any market place upon the sea-shore in the wide world.\nThen, New-Orleans, instead of New-York, should glut the markets\nof California and Peru with breadstuffs, cucuyos and merchandise.\nThen, the valley of the West, instead of the coal mines of England\nand the mines of Pennsylvania, should supply the vast demands\nwhich the Pacific Ocean has, and the far greater which it will have,\nfor coals. It will give New-Orleans the command of a better coffee\nmarket than any she now has ; and she can then send coffee, along\nwith Louisiana sugar, up to that other mouth of the Mississippi,\nwhich Illinois enterprise has discovered in Lake Michigan.\nTherefore, let the people of the South and West take time by\nthe forelock, and wake up Tennessee and Kentucky, and other parts,\nto their duty, in that great manufacturing and mining region which\nnature has fitted them .to be.\nThe people of South America and California, and the isles of the\nPacific, will depend on them for merchandise; for the ports and outlets to market of the western people ; and Southern states will then\nbe the half-way house on the great market-ways. England and\nEurope, to reach the \" grand ocean,\" as the French navigators style\nthe Pacific, will have to pass by our very doors as they go, and come\nwithin call as they return.\nA magnificent future is that which commerce, by the laws of trade,\nand the decrees of nature, holds in store for the people of the South\nand West. If we will only do our part, the prize is won, and W\nwealth and the power are ours also.\nVII. Should there ever be, and doubtless there will be, several sue\nhighways across the Isthmus; and should war ever again occur anionf\nmaritime nations, is it to be supposed that the belligerents, be tW\nwho they may, will look on and see us quietly enjoying all \"f j\nvantages of these thoroughfares, and becoming thereby a head an\nshoulders taller than all the nations in the world %    No, never.     ,\nMoreover, we are bound by that golden cord which never 'ias'*;\n\u2014as far as it depends upon the people from my part of the coun J&gt;\nwhom I now address\u2014which never can be tarnished or weakened--\nthe faith of this great nation, are we bound to maintain the neutr\nof those highways.","fullrs":{},"find":"2236.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2235","restrictionCode":"1","cdmfilesize":"595651","cdmfilesizeformatted":"0.57 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

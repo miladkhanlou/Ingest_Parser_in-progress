@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Edith Dabney Doll Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;This collection features photographs of over eighty dolls which were donated to LSU Libraries Special Collections starting in the 1960s by retired professor of speech and costume design, Edith Dabney. Each doll was photographed at several angles so the details of distinguishing materials and dress fabric could be seen. Some dolls also feature close-up shots of the face or other unique characteristics. Each doll includes a description, often with information about the doll's origin, distinctive dress, and how they were acquired.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The dolls originate from all over the world, including but not limited to: Scotland, Japan, Mexico, Turkey, and China. Most of the dolls in the collection wear clothes that reflect this cultural diversity and convey a unique story.The "Hua Moo Lan" doll represents a sixteenth century Chinese heroine who bravely disguised herself as a male soldier and lead her country into battle.The doll features an elaborate hair-dress, painted features and an intricate dress featuring feathers. The "Bali authentic doll" from the island of Bali is made in the figure of Tijili, the symbol of fertility and good fortune.The doll is made from hand-woven straw like material, a dramatic fan like head, with decorative earrings.With each meticulously designed costume, the collection offers a unique glimpse into the national dress across the globe.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The Edith Dabney Doll Collection contains approximately 80 dolls manufactured across the world, from the early 18th century to the late 20th century. A former Associate Professor of Speech at Louisiana State University, Edith Dabney's personal collection of dolls comprised over 300 dolls, 80 of which the University's Special Collections inherited after her death. From the glittering shores of Martinique to the urban streets of London, Dabney collected dolls that imitated fashion wear from across the globe. The digital collection reflects this cultural diversity while also demonstrating the evolution of doll-construction and materials.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p16313coll9</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p16313coll9</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p16313coll9</identifier>
+</mods>

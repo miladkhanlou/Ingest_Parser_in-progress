@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>DETENU a la geole de la paroisse des Avoyelles
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000676f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">DETENU a la geole de la paroisse des Avoyelles le negre marron Anderson qui se dit appartenir a Mathieu Hertzog, de la Paroisse des Natchitoches. Le dit esclave est age d'environ 21 ans et mesure 5 pieds 4 pouces. Le proprietaire est dument notifie de reclamer sa propriete conforment a la loi. Paroisse des Avoyelles 10 Janvier 1863. DORA GUILLOT. GEOLIER.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 4
+</number>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn89059000/1863-01-10/ed-1/seq-3/
+</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2320</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-05-16</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2320</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2320/json"
+                        timestamp="2017-02-13 13:34:03">{"title":"RSA00000676f","object":{},"publia":{},"date":{},"year":{},"film":"page 3, column 4\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn89059000\/1863-01-10\/ed-1\/seq-3\/\n","unique":"DETENU a la geole de la paroisse des Avoyelles\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"DETENU a la geole de la paroisse des Avoyelles le negre marron Anderson qui se dit appartenir a Mathieu Hertzog, de la Paroisse des Natchitoches. Le dit esclave est age d'environ 21 ans et mesure 5 pieds 4 pouces. Le proprietaire est dument notifie de reclamer sa propriete conforment a la loi. Paroisse des Avoyelles 10 Janvier 1863. DORA GUILLOT. GEOLIER.\n","subjec":{},"type":{},"format":{},"langua":"French;","digitb":{},"digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000676f.jp2","find":"2387.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-16","dmmodified":"2016-05-16","dmoclcno":{},"dmrecord":"2320","restrictionCode":"1","cdmfilesize":"149981","cdmfilesizeformatted":"0.14 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

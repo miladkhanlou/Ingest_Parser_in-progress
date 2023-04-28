@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_4</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1105</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-22</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1105</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1105/json"
+                        timestamp="2017-01-13 13:22:54">{"title":"Page_4","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M 63\nqui aura corepondance a limoges lorient \u2013 ?i m\u00eeeux elle mayme\nle toucher aparis par les mains de mr moulin ou quelquautre\nque vous en chargerez ; je nay point recu de nouvelles de cette\ndame par le ponchartrain, et ?uivant ce que m\u2019en a escrit, me\nde querisoret il paroit quelle ?est degout\u00e9e du ?oin qu\u2019elle m\u2019avoit\npromis davoir pour mes enfants, jay bien jug\u00e9 quelle et ?on\nmary ont craint que je ne les fis trop attandre le payement de\nleurs avances, et je vous advo\u00fce quil nont pas tout le tort que [?enuent?]\nils ?i je ?uis en ?ituation de les bien payer ou ?i je ne le ?uis pas, ils\nont \u00eat\u00e9 tromp\u00e9s par plusieurs honettes gens de notre province colonie ou\nqui croyent [illisible] mr de la chaise de lorient a un fr\u00e8re icy qui luy doit\ndepuis plus de vingt ans il a aussy un cousin germain qui ne\nle paye point nonplus, ainsy je le repette il na pas eu tout le tort\nde craindre que je ne fis [rature] comme les autres, au reste quoy quil en\n?oit il faudra les payer si je leur dois et laiser toujours le ?oin a me de\nquerusoret qui me paroit affectionn\u00e9 mes enfants de faire la\ndepense pour elles quelle jugera a propos tant pour la vie que\npour les maitres de clavessin, de musique, et de dance, je ?uis graces\na dieu en etat de ?outenir ces enfants comme il convient, mon revenu\naugmente tous les jours, et ?ans une maison que je fais batir a\nma campaigne jaurois envoy\u00e9 une dizaine de mille livres de\nplus en france cette ann\u00e9e, mais les ouvriez ?ont tr\u00e8s chers ____\net les materiaux aussy, il est vray que je tire la Brique, [rature] les\nbois, les planches, et le bardau de ches moy et malgr\u00e9 cela\nqui batit ment il en coute toujour beaucoup plus que lon ne\ncroit, Lon y travaille actuelement a cette maison, elle ?era\ntres belle et tres commode, ?i j\u2019en avois le tems j\u2019en envoyerois\nle plant et lelevalion, a mon frere labb\u00e9 pour quil men dit ?on\navis Je me flatte quil ?era de mon goust, a la premi\u00e8re occasion\nM 63\nje tireray une copie de celuy que jay fait faire et qui mest\nn\u00e9cesaire pour conduire les ouvriers, le principal qui ?ont\nles fondements ?ont faits et le pourtour, murs de reffart ?ont\nelevez d 4 Pieds au dessus du ras de chauss\u00e9e, elle aura \u00e9___\ntt\n4","typa":{},"genera":{},"fullrs":{},"find":"1106.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-22","dmmodified":"2008-09-22","dmoclcno":{},"dmrecord":"1105","restrictionCode":"1","cdmfilesize":"1445740","cdmfilesizeformatted":"1.38 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

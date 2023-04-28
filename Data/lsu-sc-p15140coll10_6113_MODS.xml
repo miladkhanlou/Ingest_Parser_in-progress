@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 182</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1667</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1667</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1667/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 182","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 182 \u2014\n'Vermilion, comme les boucaniers aux Antilles, dans les premiers\ntemps de la colonisation francaise. Son complice fut guette, s-urprls\net expulse parle major St-Julien (Voirle Comite de la Cote-Geiee);\nquaut ii lui. il avait appeie sur ses actes I'attention de Sarrazin\nBroussard et de son Comite.\nAvoir appeie I'attention de Sarrazin Broussard, c'etait etre stir\nou a, peu pres de recevoir sa visite...\nII la recut... accompagnee de I'invitation polie, mais formelle.\nd'aller honorer d'autres lieux de sa presence, si mieux il n'aimaii\nun chatiment plus severe.\nOn nous a conte cva'un jeune magistral avait voulu faire du zele\nIt propos de 1'expulsion de cet honnete chenapan.\nOu cette version est fausse, ou, si elle est vraie, il est trop intelligent pour nc pas I'avotr rangec liii-meme dans ses pages de la vingt-\ncinquieme annee. Ces pages, il doit les appeler ses Juvenilia.\nGeorges Claus s'eclipsa\\e matin meme du delai fatal qui lui avait\nete assigne par le Comite de Yigilaucc. Nous plaiguons le pays et\nla ville ou il a ete dresser sa tente.\nLUFROI APCHER\nLE   VOLEUR    DE    NEGRES\nApres le voleur de bceufs, voici venir le voleur de negres.\nComme on le voit, toutes les industries non patentees abondaient\ndans la paroisse Yermillon. Heurcuse paroisse!\nAbbeville s'etend, comme nous l'avons dit, sur la rive gauche du\nbayou Yermillon et est relio a la rive droite par un pont qui s'ouvrc,\nau besoin, pour laisser passer les rares bateaux ii vapeur qui navi-\nguent dans la paroisse, Ce pont, qui subit des mesaventures ou des\navaries chaque fois qu'on le fait tourner, ii l'aide d'une roue pri-,\nmitive comme les artistes qui Font faite,\u2014ce pout, disons-nons, est\njete sur la partie du bayou la plus pittoresque ct la plus ombreuse,\nqui baigne Abbeville.   On dirait   un   hamac   fait   pour bercer","fullrs":{},"find":"1668.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1667","restrictionCode":"1","cdmfilesize":"449573","cdmfilesizeformatted":"0.43 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

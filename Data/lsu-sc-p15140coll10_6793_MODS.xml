@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 6, Page 2</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2199</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2199</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2199/json"
+                        timestamp="2017-02-03 08:24:48">{"title":"Section 6, Page 2","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[31\nThe resolution was adopted, and a recess of half an hour was then taken u\ngive the several delegations time to prepare their lists.\nThe Convention having re-assembled, the following committees on officers\nwere announced:\nMississippi.\u2014Gen. Acee, Rev, R. L. Gladney.\nMissouri.\u2014H. Chouteau, Wm. Wade.\nFlorida.\u2014J. M. Landrum, Joseph Forsyth.\nAlabama.\u2014 J. P. Parham, T. B. Goldsby.\nTennessee.\u2014Col. Herman, Col. G. W. Peck.\nKentucky.\u2014Wm. Loery, J. N. Beadles.\nVirginia.\u2014Wm. M. Burwell, James McDowell.\nTexas\u2014John T. Mills, J. G. Wright.\nArkansas.\u2014Albert Pike, John Martin.\nLouisiana.\u2014James Robb, J. H. Overton.\nThe Convention, at half-past 1, adjourned to 6 p. m., to allow the committee!\non officers time to report.\nEVENING SESSION.\nThe Convention re-assembled punctually at 6, Hon. C. S. Tarpley in the chair. Th\u00bb\nfollowing are the lists of delegates handed in ; they do not include a very large num.\nber who were present by appointment of the Governor of Louisiana, but whose name*\nwere not handed in to the Secretary. A great many from other states were also notre-\ncorded for the same reason.\nLouisiana.\u2014Parish of St- Landry.\u2014David Martin, P. Hardy, C. S- Snagee, W.M.\nPrescott.\nCaddo.\u2014Roland Jones, M. Estes, B. L. Hodge, C. G. Young.\nNatchitoches.\u2014C, G. Campbell, A. Lecomte, L. G. De Russey, P. Prudhomme, L. 11\nHyams.\nAscension.\u2014D. F. Kenner, J Landry, A. Duffel, E. Duffel, I. H. Illsley, T. E. H. Colt-\nman, J. Thibaut, N. Landry, A.J. Powell, P- O. Ayrand, A. Maurin, A. Gingry, W.Hat\nkinson, R. McCall, R. W. Boyd, A. F. Righter, L. D. Nicbolls, W. C. Lawes, E. Pedes-\nclaus, V. Pujos, J. L. Marciacq, A. M. Templet, F. Blanchard, J. Lehman, V. Landrj,\nM- Rodriguez, V. St. Martin, H. B. Trist.\nSt. Helena.\u2014John Corken, D. W. Thompson, N. Amackcr, L. Draughan, C. B. Strickland, Jr., H.B. McKie, John Sharkey, A. Womack, Jr., J. H. Wright, W. H.Stricklani\nLivingston.\u2014G. W. Waterston, D. Wolls, J. R. Ellis, S. Backston, George Colmer,\nD. B. Cason, R. Babington, C. C. Kennedy, A. S. Parker, G. F. Rowcll, J. Watts, W.\nE. Walker, H. J. Bennett, D. Addison, James P. Ellmore, Dr. Taylor.\nCalahon\/a.\u2014U. W. Huntington, J, S. Alexander.\nConcordia.\u2014Edward Sparrow.\nEast Baton Rouge\u2014D. D. Avery, C. G- McHatten, W. 8. Pike, T. G. MorgaD.\nWest Baton Rouge\u2014 Noland Stewart, V. Dubecq, W. R. Stuart, P. Hebeil, J-X-\nLandry, J. P. Vaughan.\nDe Soto.\u2014ft. T. Williamson, H. Phillips. u\nRapides.\u2014-T. O. Moore. C. H. Flower, A. Prescott, D- C. Goodwin, T. J. Weile,\"-\nWells, James Andrews, 0. N. Ogden, M.Ryan, L. Texada, Gen. G- M. Graham, w-\nW. Whittington. Tr \u201e\nTerrebonne.\u2014John C. Potts, G. F. Connelly, J. Aycock, H. C. Thibodaux, J. V. fl*\ntelon, A. McCollom, A. Verret, C. B. Devux.\nPlaquemines.\u2014J. B. Wilkinson.\nSt. Charles.\u2014S. McCutcheon, Judge Lablanche, W. Polk, Richard Taylor.\nSt. Martin.\u2014A. De Blanc, A. Declouet, William Robertson, T. C. Nichols, I. Jl- \u00bb&lt;\"\u25a0\"\u25a0\nMorehouse,\u2014Major Brigham.\nSt. Tammany.\u2014Alfred Hennen, PKaitak\nPointe Coupee.\u20143. B. Simmes, J. R. Harris, J. L. Matthews, Charles Allen, t\/tw\nPoydras.\nSt. John the Baptist.\u2014A. Deslonde, Jr.\nJefferson.\u2014-P. Sauve, H. E. Lawrence, T. J- Ivy.\nOuachita.\u2014John Ray.\nUnicn.~Gen. Henderson, J. H. Carson.\nLafayette.\u2014A. Martin, C- H. Mouton.\nOrleans.\u2014E.La Sere, J. A. Gasquet.\nSabine.\u2014B. Phillips.\nLafourche.\u2014Bishop Polk.\nSt. Mary.\u2014F.D.Richardson, A. L. Field. .    ul-\nTown of Madisonvilte.\u2014D. Hadden, R. M. Davis, W. A. Grice, J. S- 0\u2122*'\nSmith, J. B.Behan.W. Terry, W.H.Merritt,T. B.Harper. w ^aDCtf\nTown of Carrollton\u2014Henry Milhoff, JohnHampson, C. G. Forshey, ^- \"\u25a0\nter, E. Meegel.F. Scbuber.","fullrs":{},"find":"2200.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2199","restrictionCode":"1","cdmfilesize":"606209","cdmfilesizeformatted":"0.58 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Louisiana Sea Grant Digital Images Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/n83230635"
+        displayLabel="Contributing Repository">
+     <namePart>Louisiana Sea Grant College Program</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;Since its establishment in 1968, Louisiana Sea Grant has worked to promote stewardship of the state's coastal resources through a combination of research, education and outreach programs critical to the cultural, economic and environmental health of Louisiana's coastal zone. Louisiana Sea Grant, based at LSU, is part of the National Sea Grant College Program, a network of 32 university-based programs in each of the U.S. coastal and Great Lakes states and Puerto Rico. Visit Louisiana Sea Grant online at &lt;a href="http://www.laseagrant.org"&gt;www.laseagrant.org&lt;/a&gt;.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;This collection was created by the &lt;a href="http://www.lib.lsu.edu/" target="_blank"&gt;LSU Libraries&lt;/a&gt; in partnership with Louisiana Sea Grant.&lt;/p&gt;&#xD;
+&#xD;
+&lt;h3&gt;Related Collection&lt;/h3&gt;&#xD;
+&#xD;
+&lt;p&gt;&lt;a href="http://louisianadigitallibrary.org/islandora/object/lsu-sea-p15140coll35:collection" target="_blank"&gt;Louisiana Sea Grant Digital Maps Collection&lt;/a&gt;&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The Louisiana Sea Grant Digital Images Collection, contains scanned images from a variety of government publications and other sources. This project was a collaboration between Louisiana Sea Grant and the LSU Libraries.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sea-p15140coll21</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p15140coll21</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p15140coll21</identifier>
+</mods>

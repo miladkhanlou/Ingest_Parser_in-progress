@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Negre en Prison.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000552f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">NEGRE EN PRISON. IL a été conduit à la Prison de la Paroisse St. Landry, le 13 juin courant, un nègre marron, qui se dit nommer JOE BROWN, et appartenir à la veuve Ramsey ou au Dr. Lee, demeurant sur le Bayou Bœuf, Paroisse St. Landry. Joe Brown a 5 pieds, 9 pouces de hauteur, et âgé d'environ 25 ans, il ne parle que l'anglais. Le propriétaire de cet escalve est prié de venir prouver sa propriété, payer les frais et l'emmener, autrement il en sera disposé selon la loi. CHS. THOMPSON, Geôlier. Opelousas, 18 juin 1853.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 4
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-06-18/ed-1/seq-1/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-06-25/ed-1/seq-1/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/810</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>810</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/810/json"
+                        timestamp="2017-02-13 13:34:05">{"title":"RSA00000552f","object":"sn 83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 1, column 4\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-06-18\/ed-1\/seq-1\/\n","unique":"Negre en Prison.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"NEGRE EN PRISON. IL a \u00e9t\u00e9 conduit \u00e0 la Prison de la Paroisse St. Landry, le 13 juin courant, un n\u00e8gre marron, qui se dit nommer JOE BROWN, et appartenir \u00e0 la veuve Ramsey ou au Dr. Lee, demeurant sur le Bayou B\u0153uf, Paroisse St. Landry. Joe Brown a 5 pieds, 9 pouces de hauteur, et \u00e2g\u00e9 d'environ 25 ans, il ne parle que l'anglais. Le propri\u00e9taire de cet escalve est pri\u00e9 de venir prouver sa propri\u00e9t\u00e9, payer les frais et l'emmener, autrement il en sera dispos\u00e9 selon la loi. CHS. THOMPSON, Ge\u00f4lier. Opelousas, 18 juin 1853.\n","subjec":{},"type":"text\n","format":"clipping\n","langua":"French\n","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-06-25\/ed-1\/seq-1\/\n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000552f.jp2","find":"874.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-02-24","dmoclcno":{},"dmrecord":"810","restrictionCode":"1","cdmfilesize":"143347","cdmfilesizeformatted":"0.14 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

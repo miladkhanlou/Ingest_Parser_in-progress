@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 2, Page 7</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2071</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2071</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2071/json"
+                        timestamp="2017-02-03 08:24:43">{"title":"Section 2, Page 7","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\\V T Scott.\nj\" Fortier,\nPaecalis Labarre,\nH Mithoff,\nCamille Zeringrce,\nSalamon Cohn,\nL A Kirk,\nWm Forshey,\nCharles Fortier,\nJudge Woodroof,\nGustave Leroy,\nHon I T Preston,\nMinor Kenner,\nCharles Dimond,\nCharles Dusieu,\nM Waggaman,\nEd Fortier,\nA G Thorn,\nALGIERS   DELEGATES,\nCharles Robinson,\nW F Gerard,\nArthur Fortier,\nJ G Sever,\nEdward Wilson,\nJames Baldwin,\nJohn Brunett,\nFrancois Valette.\nA N Ogden,\nC G Forshey,\nC W Muucaster,\nF Byington,\nH Gogreve,\nL A Heaton,\nZeno Tredeau,\nF Schuler,\nH R W Hill.\nA B Seger, Charles Robinson, A Bernard,\nSamuel II Torrey, W F Gerard, A Fortier,\nJames Baos, Arthur Fortier, Robert Trepanier,\nT Thayer, J G Sever, Paul Saillut,\nE A Smith, Edward Wilson, John R Cunningham,\nJohn McLean, James Baldwin, Wm Randolph,\nThomas Reee, John Brunett, Geo Beatty,\nR F Nicholls, Francois Valette. W Saraziu,\nT Aikmau,\nMECHANICSVILLE AND GRETNA DELEGATES.\nA High, J Mosnier, E Livaudais,\nM S Bennett, P Boutto, Allen Daffer,\nII Dugue, T Smith, FWitzman,\nA Boutto, II Jacquin, D W F Bisbec\nM. M. Cohen moved that a committee, composed\nof two, from each parish represented, two from each\nmunicipality, and two from Gretna and Algiers, be\nappointed by the President, to report the names of\nofficers suitable for the convention.\nA motion was made to amend, so that each delegation depute two of their number to select officers.\nEx-Governor Mouton expressed the opinion that\nsuch a course would occupy too much of the valuable time of the convention, and that the President\nmight be safely entrusted with the appointment of\nthe committee,","fullrs":{},"find":"2072.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2071","restrictionCode":"1","cdmfilesize":"547263","cdmfilesizeformatted":"0.52 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

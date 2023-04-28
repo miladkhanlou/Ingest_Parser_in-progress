@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Steamboat at Canal Street, New Orleans, 1895</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1895</dateCreated>
+      <dateCaptured encoding="w3cdtf">2016-04-06</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>River steamers</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Canal Street (New Orleans, La.)</geographic>
+   </subject>
+   <abstract displayLabel="Description">This is a copy photograph of a copy photograph of a halftone print of the riverfront at the foot of Canal Street in New Orleans. There are a number of boats moored and a great deal of material awaiting transfer to the boats.</abstract>
+   <note type="content">There are no discernable boat names in the image.</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Prints (visual works)</form>
+      <extent>1 print</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Steamboat Images, circa 1842-1962</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-steamboatimages:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 3057</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>E:70, Box 17</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/InC/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">In Copyright</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright is retained in accordance with US copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Steamboat Images, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">3057001</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/mem</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-05-12</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 11</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/355</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>355</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/355/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 11","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\n130\nicons\nface. We then each Saturday night, resumed our meet\nintra round the social board, and in convivial terms discours-\ni 0f friends and home, and after sipping ourselves into good\ntumor with the world, we, retired, after obeying the good\n0|d nautical custom of pledging a bumper to \"our sweet-\nhearts and our wives. \"\nFur the Sotilli.Weatem Journal,\nTHE CLOCK OF ETERNITY.\n- wiim yonder spheres sublime,\nfoaled their Ural notes in sound lbs tnareli n( lime.\"\nCAltPSSLL,\nThus sang, sublimely, nature's peerless bard,\nWhose harp led captive, by its thrilling strains,\nHares, philosophers, and e'en the foes of song:\nyes ami the hearts of hcaris of many nations too:\nThea laid the spoils upon the altar of his soul,\nA rich and splendid offering to the muses\nHe so fondly loved, so constantly invoked.\nAnil what they thus inspired, and he with reverence sung,\nPerchance, at last, may be divinely true.\nI'.Tiaisirv may need a mighty Clock;\nAnil if it does, that clock il hath, whose\nDial plate expands its face immense,\n(In some stupendous pinnacle of God's\nEternal palace; where, like the sun of these\nLow worlds, all eyes may mark succeeding ages roll;\nAmi note Ibc measured periods of Eternitv.\nTime nothing means but dates, dividing points, and epochs;\nAmi is eternity a pointless, undivided, dateless whirl of\u2014 whatl\nNay Heaven itself the ilight of the vast years\nThat stretch into one long eternity, observes,\nNot for itself, but man, a miniature.\nFor once the Hermit of the Universe, God\nDwelt in awful solitude upon his throne, withouta\nSun or star, lo cheer the raylcss gloom.\n\"For signs, for seasons, and for days and years,\"\nlie said, \" Lei there be lights; \" that, in their grand,\nSilent, changeless march, bis festivals may chronicle,\nAmi his wasting cares divide; meet oat to each\nallotted duty, pleasure,toil, the meed of notice due;\nAmi lead the soul from slop to Step, in worship, prayer,\nOr praise, to heaven ;\u2014and demonstrate withal, the\nTruth sublime, of Christianity.\nInwrought,as pari of man's mysterious,mental\nrowers, is a susceptibility * to trace the circling baud\n01 Time; as necessary lo his progress here, in\nKnowledge, wisdom, moral power, and peace.\nIf, then, eternity hath no chronology, no clock\nl'o lull the accomplished epoch, mark the hours,\nMan is unfitted for thai strange economy.\nTime is ihe architect, and life of song ;\nand sing they not above ?   Revolting sllonco\nWool', pervade Ihe halls and courts of God, without.\nMan is a link |n being's endless chain ; \"\nrime in eternity's: then not in every way unlike it;\nAnd\nour economy of lime, ai once, may intimate,\nAnd educate ihe mind, lo know and prize the\nIV\nise economy of heaven.\nSuccessive dispensations murk the Church below :\n'-tell shadowing forth, then merging in Ihe next;\nAsfede the stars before Cylheria's light, and both\nHeh.re the cloudless orb of Jay.    On Eden's withered hope\nae lustre of a single, star-like promise shone;\nThence on, ihe light Increased ; and now the\nPatriarchal moon, a narrow crescent, rose,\nWith cheering rays, climbing the height sublime;\nAnd paused, full-orbed, o'er Israel's highest tide\nOf hallowed pomp, renown, and pride.\nNext rose the sun, the Eternal Sire's beloved, only Son \u2022\nWhose beams refulgent chased from Ibc brow of lingering\n-Might, the spectral ghosts of scepticism's rayless hell'.\nAt each succeeding evolution, how new wonders rise I\nNew glories call the soul to silent admiration, or lo praise I\nProgressive evolution is the eternal scheme.\nAnd high in heaven projects the topless ladder\nOf Eternity,'mid splendors unapproachable\nToman; on which redemption's heirs\nShall gradually ascend, round after round, as they\nCan bear the bliss; to taste and view the\nExhauslless wealth of God still farabove.\nAs then, preceding dispensations dimly pictured\nForth our own, so Christianity may adumbrate\nThe grand economy of heaven.\nIf so, cternily may have its Sabbaths; returning\nAnniversaries; and solemn feasts, when every knee\nIn heaven shall bow before the throne supreme.\nIn one immense, unnumbered ihrong:\nAnd then Ihe duties o'er, and each fraternal, tender\nSalutation passed; inviting solitude may win\nThem to her silent, holy bowers.\nThere- knowledge is acquired, as here, by meditation ;\nHearing, and perchance by lectures from the wise.\nOrder is heaven's first law; \" nexl Michael will\nDiscourse, and with strong, deep, rich eloquence unfold Ihe\nLove of God, his circling attributes and gloiy show;\nExplain some mystery ; some providence profound expose.\nNcxiGaiiijik.l\u2014and with prodigious powers unroll\nThe chronicled achievements of the hoary past.\nHe, in his flight sublime may pass ihe mysteries that\nMantle on his path; nndsfietch away o'er retrospects\nA thousand ages each ; and on, from sleep to steep,\nSealing each summit, still ascending higher,\nRemote antiquity's dark way till be shall\nOvertake the period of his being's dawn: nor tempt\nThe fathomless unknown beyond; and ihcre begin the\nIlisioried wonders of the Eternal hand; connecting,\nLink by link, the events of ancient lime: amazing chain I\nNext Paul, greal master spirit, under Christ\nBelow, ai whose distinguished feet, dominions,\nThrones, and powers, may honored feel, lo sit:\nA sainted oralor for truth and God,\nBaptized with a tongue of ardent flame.\nAnd each expectant hearer, pupil, seraph,\nLoolrs toward the traverse-beams that circle\nRound Ibc vast chronogram, to tell Ihe appointed hour\n1 Organ of time\nThe anniversary of their illustrious birth, ihe old\nInhabitants of heaven may keep; and of Iheir\nTriumph o'er Ihe recreant rebel crew.\nMateria] nature's birth may claim a celebration\nToo, grand and Imposing as itself, to honor\nThe Great Master Builder, whose creative voice\nSmote on ihe ear of slumbering eternity,\nAnd, from her unproductive bosom, drew\nYon teeming families of unnumbered worlds.\nMessiah's birth, and crowning victory,\u2014when deep\nDamnation echoed back hisdying groans,\nWhile shuddering at the sound; and death's\nHuge, flinty heart was cloven with his\nConquering sword; and let! to writhe, linger.\n\u25a0m\nm\nm\nSi\nli-i ill\nmm,\n-^*=-*\u00abtt-J","fullrs":{},"find":"356.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"355","restrictionCode":"1","cdmfilesize":"1725533","cdmfilesizeformatted":"1.65 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

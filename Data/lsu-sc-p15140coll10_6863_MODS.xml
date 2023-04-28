@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 45</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2269</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2269</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2269/json"
+                        timestamp="2017-02-03 08:24:51">{"title":"Section 7, Page 45","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[45]\nter0  States succeed so effectually\n1',,-nun of a judicious system of rail-rot\n(Unction\nin laying a sure foundation for the con-\n, ,.f a judicious system of rail-roads, or that will have such beneficial effect\ni the whole country, as by uniting all the means and ability of the respective\nMtea through which these roads may pass, upon the construction of the lines\n[ere indicated, until they are fully completed, aud equipped for business, an undertaking fully equal to the ability of these states, estimating a large proportion\nof the '-road-bed'' to be made by the surplus labor in the country. A diversion\nfrom this recommendation might greatly retard, if not blight, for years, our pros-\nnuriiv; and I crave indulgence to press these humble sentiments upon your attention, and bespeak for tbem an attentive consideration, such as shall be commensurate witli its importance.\nIt is, perhaps, known to most of you, that tbe name of Arkansas has become\na by-word and reproach, upon which to heap every vile epithet that is degrading\nto a free and enlightened people. Why it is so, except from habit, I cannot say.\nArkansas, not unlike most of the Western States of her age, has, perhaps by unwise legislation, placed herself and her people in tbe back-ground for awhile,\nand to some extent, and by that means, oppressed the energies of many of her\nbest citizens; but the day is beginning to dawn, and a bright future is close at\nhand, when, by a change in our constitution and laws, we shall be relieved from\nonr long-existing financial embarrassments, which have borne us down to such a\ndegree, that our natural energies and immense resources cannot be made available for advancing either our manufacturing or internal improvement interests.\nStill, I am authorized to say, that we shall be able to survey, locate, and commence the work upon our portion of these proposed roads, as soon as the public\npolicy of the country will authorize it. and the South-western States shall have\ndecided upon and established a system, as a guide, if such should be their pleasure. It is with great reluctance that I state these things, or thus attempt to\nspeak for the state in which I live, lest from incompetency, or a misapprehension\nof her real interests or policy, I might unconsciously err in my efforts to place\nher ia the right position. Nor would I attempt to speak under any circumstances, except as at present advised there is no certainty that any of our distinguished citizens will be present from this portion of the state, to represent her in\nthe Convention. No man, however intelligent he may be, can be fully aware of\nthe facts that really exist in relation to the practical effects of internal improvements in a new country, unless he makes it a study; nor their means and\ntheir availability to build these roads, consisting, as they do, in a counny like\nonrs, of labor, teams, materials, provisions and money. Tbe results to be obtained from their judicious application, expended, as they would be, upon the line of\ntiie work, would constitute it a self-creating fund, making every one stockholders, and wedding them, both in feeling and interest, to its success and security,\nrepaying them back tenfold in the increased value given to their lands and\njfiovable property of every kind; nor is it easy, in reference to a \"main trunk\ntne&gt; of the extent and dimensions of tbe one under consideration, to form any\ncorrect estimate of the local traffic and travel that will concentrate upon it; nor\no  the lateral business that would afford it support; nor of tbe through business\ninch would pass over it, in consideration of its safety, certainty, economy and\nn.ViIlg of time; nor any approachable estimate of the increased value it would\n?Vj to land, and every other species of property, not only along the line of tbe\n, ' \"j11- both fur and wide ; and also the impetus it would give to all the agri-\nural, commercial, manufacturing, mechanical, and other industrial pursuits.\n:     ^\"ukl ^)e k\u00b0th l,nwise and impolitic for the states through which these pro-\nerj roads are to pass, to apply at this time for the direct aid of the general\np0|j ninieilf in their construction, a useless application, inasmuch as the public\ny of the country has settled down in opposition to it.\ngQo C(*rnn:ieneemcnt and vigorous prosecution of the proposed works, would\nin fr i Vatc our standard, as an industrious, self-relying people, and place us\namout Cre&lt;!it' And now that tlie English rail-roads are all built, and large\ntiinih i *\" surPIus capital accumulating there, to which we may add, the di-\nwou] l cllaracter in the value of their annuities as a paying investment,\nco so\u00b0n bring into the field of operation, as competitors, a new race of\nt0 Coractors&gt; \"with abundant capital, who, doubtless, would be more than willing\n\"struct at least a moiety of our roads, provided they were secured by a","fullrs":{},"find":"2270.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2269","restrictionCode":"1","cdmfilesize":"583385","cdmfilesizeformatted":"0.56 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

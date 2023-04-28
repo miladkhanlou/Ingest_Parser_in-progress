@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M70</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1311</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1311</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1311/json"
+                        timestamp="2017-01-13 13:22:50">{"title":"M70","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM 70\nSt Jean Baptiste\n9 avril 1866\nMon cher Vignaud,\nVous avez d\u00fb recevoir il y a quelque temps\nde moi une lettre contenant une centaine de\nfrancs, non comme r\u00e9tribution des services que\nje dois \u00e0 votre amiti\u00e9, mais \u00e0 titre d\u2019indemnit\u00e9\nde vos frais. Bien que je maintienne mon\nappr\u00e9ciation de votre talent, je sais qu\u2019il ne\nvous enrichit pas encore.\nVotre arri\u00e8re-pens\u00e9e de retour au pays est\ntoujours l\u00e0, et je le comprends. Les Louisianais\nsont comme les Suisses qui ont toujours tintant\n\u00e0 l\u2019oreille le Ranz des Vaches. Terribles\npatriotes ! Je crois comme vous \u00e0 la n\u00e9cessit\u00e9\net par cons\u00e9quent \u00e0 la possibilit\u00e9 de fonder\nun organe s\u00e9rieux \u00e0 la N. O., mais pas\naujourd\u2019hui. Plus tard, beaucoup plus tard,\noui, quand se seront \u00e9vanouis les popularit\u00e9s\nde clocher et aura cess\u00e9 la routine. Nous\n2\nM 70\ncourons \u00e0 ce r\u00e9sultat. Turba ruit. Il\ns\u2019op\u00e8re dans les esprits une transformation\nimmense et les id\u00e9es vont prendre un autre\ncours. Croirez-vous que le journal n\u00e8gre\nde la N. O. contribue singuli\u00e8rement \u00e0\nsaper les anciens journaux et journalistes,\nque, lu avec antipathie mais curiosit\u00e9,\nil les \u00e9clipse par l\u2019habilet\u00e9 de la\nr\u00e9daction, et devient l\u2019objet d\u2019une comparaison\ntr\u00e8s d\u00e9favorable pour eux ? Ils vont\ns\u2019user ; pour cela il leur faudra quelques\nann\u00e9es encore, puis le vide sera fait et\non pourra planter quelque chose. Mais\ncompter sur des capitaux fournis par la\npopulation serait une illusion profonde.\nCette population que vous voyez dans le\npass\u00e9, toute cr\u00e9ole, s\u2019en va ; elle est\ng\u00e9n\u00e9ralement appauvrie et \u00e9go\u00efste.\nIl faut appliquer la maxime italienne\nFara da se.\nQuant \u00e0 moi, j\u2019op\u00e8re avec mon\nbeau-fr\u00e8re sur la base du Meschac\u00e9b\u00e9\n3\nM 70\nque nous allons agrandir au commencement\nde mai et auquel nous adjoindrons\nl\u2019exploitation d\u2019une propri\u00e9t\u00e9. Les conditions\nfaites par la R\u00e9volution, si meurtri\u00e8res\npour le grand planteur, favorisent [rature] les\npetits. En peu de temps, si rien ne casse,\nnous cr\u00e9\u00e9rons un capital, et alor\u222b nous\nverrons.\nEn attendant, secondez-nous de votre\nmieux. Nous aurons besoin d\u2019une mati\u00e8re\nchoisie pour notre nouveau format ; mati\u00e8re\nl\u00e9g\u00e8re, d\u2019un comique spirituel. Je vous remercie\nde ne pas nous donner les miettes de la\ntable des confr\u00e8res qui vous coifferont par\nreconnai\u222bance d\u2019un bel et bon \u00e9teignoir.\nJe vois que le Messager franco am\u00e9ricain\npuise \u00e0 pleine plume dans le Figaro. Cherchons\nailleurs ; je sais que ces futilit\u00e9s ne vont\npas \u00e0 votre esprit m\u00e9ditatif et s\u00e9rieux ;\nmais il faut plaire \u00e0 notre maitre le\npublic et \u00eatre pl\u00e9b\u00e9ien et populaire au besoin\n4\nM 70\nen fait de cuisine \u00e9ditoriale. Le Tintamarre\nle [Hamalton ?] ont du bon, et je vous confess\u00e9rai\nbien bas que \u222bouvent leur lecture a d\u00e9tendu\nla corde chez moi. Chaque semaine un bon\nlot de plaisanteries courtes, d\u2019un caract\u00e8re\nuniversel, c\u2019est-\u00e0-dire point local ou fran\u00e7ais,\ndes po\u00e9sies \u00e9galement courtes et gaies, - rien\nde graveleux, par exemple \u2013 Nos gens sont\npuribonds bien que pas toujours aust\u00e8re\u222b\ndan\u222b leur morale pratique. - . Mais\nil vous suffira d\u2019interroger votre\nm\u00e9moire et de repasser en revue\nvos compatriotes, et vous saurez ce\nqui est ici en demande.\nEcrivez-moi plus souvent et\nplus longuement. Grondez Rollin\nde son silence.\nMa femme vous remercie de\nvotre bon souvenir et moi\nje suis bien cordialement\nMon\nP.S. Mon P. S. sera comme celui des femmes, un\npoint important de la lettre. Je vous de la rouvrir expr\u00e8s. Eug Dumez\nJe vois qu\u2019Emile Olivier a pris la r\u00e9daction de la Presse \u2013 si le\nVieux Demosth\u00e8ne vous \u00e0 fait bon accueil, c\u2019est une chance. Mon plan\ndecrit celui-ci. Entre quelque part comme correspondant \u2013 ouvre la br\u00e8che et vous y introduire\nen peu de temps comme \u222becr\u00e9taire de la r\u00e9daction, vous serez le [Malespine ?] honn\u00eate de la Presse\nou d\u2019un autre journal \u2013 Je n\u2019aime pas plus que vous les 2 bandes (branches ?) napol\u00e9oniennes, mais je\npensais\ndans le cas o\u00f9 [?] [?] remont\u00e9 sur l\u2019eau que vous n\u2019avez pas de r\u00e9pugnance, vous\netranger \u00e0 nos luttes, \u00e0 profiter de l\u2019occasion offerte par la requ\u00eate Lafon. Quant \u00e0 moi, per\u222bonnellement\n5\nje ne voudrais qu\u2019un coin de journal. Nous pouvons \u00e0 nous deux peut \u00eatre op\u00e9rer comme un boulet lanc\u00e9 !","typa":{},"genera":{},"fullrs":"Volume7\/M70.pdf","find":"1313.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1311","restrictionCode":"1","cdmfilesize":"57635","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

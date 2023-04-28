@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 2, Page 42</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2106</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2106</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2106/json"
+                        timestamp="2017-02-03 08:24:44">{"title":"Section 2, Page 42","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"42\nMr. Burke thought that this course would be iil\nvidious to other states.\nJudge Moore argued that, as the particular objed\nof this convention was to construct a road to tn\nborders of Texas, it was unexceptiohably appropriat\nthat the co-operation of Texas should be invited.-l\nHe said that it was of .the utmost importance to il\nterest Texas in the enterprise now under the consj\nderation of the convention. He concluded by prl\nposing the following resolution, in support of Ml\nPayne's views :\nResolved, That the said Committee be requested to cd]\nrespond with the authorities of Texas, for the purpose I\ninviting that state to direct her public works, so as lo niel\nthe extension of the New Orleans, Opelousas and Attakapl\nRailroad.\nThe resolution was then unanimously adopted. |\nDr. J. T. Hawkins, of St. Mary, presented tlj\nfollowing resolution, which was adopted :\nResolved, That this convention do earnestly recoinmeu\nthe legislature of the State of Louisiana to enact such lasj\nat its next session, as will submit the question of taxatil\nfor the building of railroads, to the people of the differffl\nparishes interested.in their construction.\nOn motion of E. H. Martin, of St. Landry, it wj\nresolved that the proceedings of this convention \u00ab\nprinted in pamphlet form, for distribution.\nJudge Preston and Mr. Martin were then calll\nupon to speak, but both gentlemen excused theii\nselves.\nA call was then made for Mr. Joel G, Sever, wl","fullrs":{},"find":"2107.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2106","restrictionCode":"1","cdmfilesize":"535440","cdmfilesizeformatted":"0.51 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

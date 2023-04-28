@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M48</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1290</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1290</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1290/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"M48","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM48\nBayou, St Jean Le 20 avril\n1822\nMon cher Edmond\nvoila bien des lettres que je t\u2019\u00e9cris sans\navoir aucune R\u00e9ponse, la maladie de ta\nSoeur continuant toujours de plus en plus\nnous avons pris le parti de venir chercher\ndes secours qui \u00e9toient audessus de nos\nlumi\u00e9res. il y a huit jours que nous Somes\nici au bayou Chez Jarreau qui nous a-\nforces d\u2019accepter Sa maison, nous avons\npris un Medecin, mais il ya si peu de tems\nque nous avons commenc\u00e9 des remedes\nque nous ne pouvons encore Rien dire\ndu c\u00f4t\u00e9 de la Sant\u00e9. Nous pourrions en\ndire plus long du c\u00f4t\u00e9 dela d\u00e9pense\nTa Soeur \u00e0 toujours Le plus grand d\u00e9sir\n2\nM48\nde te voir, &amp; tu peux aujourd\u2019hui lui\nRendre Ce Service beaucoup plus facilement\nn\u2019ayant plus le Lac a traverser. le medecin\nqui la voit lui donne bon espoir\nmais il faudra de la patience elle\nne peut Revenir d\u2019une si grande foiblesse\nqu\u2019avec beaucoup de tems. S\u2019il y a\nquelqu\u2019un dela famille qui des Cende\nnous aurons bien du plaisir \u00e0 les voir.\nmonsieur jarreau doit aller pour l\u2019encan\nde n\u00f4tre oncle \u00e0 la pointe Coup\u00e9e il\ndit qu\u2019il ne reviendra pas de deux mois\nSi mes forces me le permettroient j\u2019y aurois\n\u00e9t\u00e9 aussi, mais non pas pour l\u2019en can j\u2019ai\nautre chose envue. mais j\u2019en suis bien\n\u00e9loign\u00e9 je suis si foible que je ne puis\npas voir \u00e0 mes travaux\n3\nM48\nnous avons besoin de quelque argent\nnous en d\u00e9pensons Sans en gagner\nnous Sommes obliges [effac\u00e9] de faire des Sacrifices\npour vivre ainsi nous Esperons que tu\nviendras \u00e0 n\u00f4tre Secours Sur Cequi\nnous Revient. depuis que je Suis malade\n&amp; qu\u2019il faut payer un patron pour\nla go\u00eblette nous ne fesons Rien pas [tache]\nm\u00eame pour joindre les deux bouts &amp; [rature, tache]\ntu S\u00e7ais que les medecins entous pays [tache]\ncomme les avocats ne travaillent pas\npour des chansons. adieu mon cher\nEdmond ma femme &amp; ma fille Se joignent\n\u00e0 moi pour vous souhaiter \u00e0 tous une\nparfaite Sant\u00e9 &amp; vous prient toi &amp; Ursin\nde faire nos amities \u00e0 toute la famille\nadieu je t\u2019embrasse de tout mon Coeur\n&amp; Suis ton frere Delisle","typa":{},"genera":{},"fullrs":"Volume5\/M48-1.pdf","find":"1291.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1290","restrictionCode":"1","cdmfilesize":"47778","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

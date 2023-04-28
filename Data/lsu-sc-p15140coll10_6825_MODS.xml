@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 6</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2231</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2231</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2231/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 6","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[6]\ntrade on one hand, and to decrease it on the other. These cottr,\nships are not good provision and assorted-cargo carriers. The din.\npers are for that. The new models beat steam. One of them (it\nFlying Cloud) has been known to sail 430 statute miles in one dav\nand upwards of 1100 miles in three consecutive days. These shr\u00a3\ncannot come to New-Orleans. The bar will not admit them; J3\none of them can go to California and return while a \" cotton droger\"\nis getting around Cape Horn.\nBesides, the winds are such, that a vessel, bound from New-Orleau\nto Brazil or California, has to go out of the gulf into the Gulf Stream\nand then steer northwardly, till she reaches the parallel of 35\u00b0 or 40\u00b0\nso that it is not greatly out of her way to touch at New-York. Henri\nmost of the trade with California in produce of the Mississippi vallej\nis carried on by the way of New-York, on account of the bar at the\nmouth of the Mississippi.\nIn all these circumstances are to be found lamps for our feet, and\nlights for our eyes, as we attempt to devise the ways by which enterprise and energy may restore to New-Orleans all the advantages\nwhich their absence from her high places has suffered to be taken\naway from her, or to be withheld, because never enjoyed.\nThe objects ofthe Convention, as set forth in the committee's circular of November 4th, 1851, \" are, as far as possible, to bring about\na concentration and unity of effort in all these states, in the extension\nof their rail-road systems, and in bringing into more active connection their population and their industry.\"\nBut it seems to be the wish of the committee that I should confine\nmy attention to \" the extension of southern and western commerce,\nthe home and foreign trade, &amp;o.\" Therefore, being invited ont te\nsea, I shall let the rail-roads, which it is the special object of the Convention to encourage, alone. I take my departure from the premise-'\nabove stated, and treat of extending the commerce of the Mississippi\nvalley, &amp;c, by sea.\nThe apparent decline in the business of New-Orleans is, as I ha\u00ab\nalready intimated, due to the effects of the telegraph and rail-road,\nand to the improvements in steam, ship-building, and naviga'i*\nThis is the root of the matter. What, then, are the steps which *\nSouth and West ought to take\u2014what are the measures which t\u00bb\nought to adopt, in order to insure to them that degree of ooromeJ7\nwealth and prosperity, which their resources and their geograp\"\nposition entitle them to expect ?\nThe answer to this question lies under several heads, and the p\u00ab\ncipal of them are these : .    ^\n1st\u2014A liberal policy on the part of New-Orleans, touching v\u00bb\nvarious kinds, to which the produce that comes there shall be\njected. el\n2d\u2014Embankments, to confine the Mississippi River in its ^\"\"f^\n3d\u2014To deepen the water on one of the bars in the passes o\nriver.\n4th\u2014The establishment of lines of sea-steamers. \u201e.,\n5th\u2014Attention to the mineral resources of our region of c\u00b0u\nand a free use of its manufacturing facilities.","fullrs":{},"find":"2232.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2231","restrictionCode":"1","cdmfilesize":"558981","cdmfilesizeformatted":"0.53 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Fifty Dollars Reward.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001180</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>George M. Pinckard</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1853-04-13</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>No. 110 Camp Street, New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>No. 110 Camp Street, New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1853</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1853-03-09, 1853-03-16</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">FIFTY DOLLARS REWARD. -- Ran away from the plantation of George M. Pinckard, fifteen miles below this city, on the 9th and 16th March, two boys, GEORGE and BEVERLY. GEORGE, a black, aged about 16 years, 5 feet 5 or 6 inches high, thick lips with a scar on the right side, and the teeth uneven. Said boy was formerly owneed by Richard Murphy, on St. Charles street. He speaks French and English fluently. BEVERLY, a griffe, aged about 23 years, 5 feet 9 or 10 inches high, straight and likely, and very intelligent. He is calculated to deceive almost anyone, as he can read or write. He was formerly owned by T. R. Price on Camp street. He is, no doubt, passing himself as free. There is all probability that they are at this time lurking about the city, as they have been seen several times. The above reward will be paid for the apprehension and delivery to me, at No. 110 Camp street, or J. W. BOAZMAN, 163 Gravier street, or in some jail that I may get them  -- or $25 for either one. ap13 tf</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black; griff</note>
+   <note type="content" displayLabel="Slave Owner">George M. Pinckard</note>
+   <note type="content" displayLabel="Slave Name (Age)">George (16); Beverly (23)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$50 together or $25 each</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">2</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent. ([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-13/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-14/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-15/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-16/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-18/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-19/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-20/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-21/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-22/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-23/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-25/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-26/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-27/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-28/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-29/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-04-30/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-02/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-03/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-04/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-05/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-06/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-07/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-09/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-10/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-13/ed-1/seq-3/;  http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-12/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-14/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-16/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-18/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-19/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-20/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-23/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-24/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-05-25/ed-1/seq-3/; </note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1212</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1212</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1212/json"
+                        timestamp="2017-02-13 13:33:12">{"title":"RSA00001180","object":"sn82015753","publia":"New Orleans daily crescent. ([New Orleans, La.]) 1851-1866","date":"1853-04-13","year":"1853","film":"page 2, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-13\/ed-1\/seq-2\/","unique":"Fifty Dollars Reward.","person":"George M. Pinckard","parish":"No. 110 Camp Street, New Orleans, La.","digita":"1853-03-09, 1853-03-16","acknow":{},"public":"George M. Pinckard","town":"No. 110 Camp Street, New Orleans, La.","relati":"George (16); Beverly (23)","slave":"M","slavea":"black; griff","slaveb":"N","slavec":{},"reward":"$50 together or $25 each","multip":"2","physic":"Y","persoa":"Y","transc":"FIFTY DOLLARS REWARD. -- Ran away from the plantation of George M. Pinckard, fifteen miles below this city, on the 9th and 16th March, two boys, GEORGE and BEVERLY. GEORGE, a black, aged about 16 years, 5 feet 5 or 6 inches high, thick lips with a scar on the right side, and the teeth uneven. Said boy was formerly owneed by Richard Murphy, on St. Charles street. He speaks French and English fluently. BEVERLY, a griffe, aged about 23 years, 5 feet 9 or 10 inches high, straight and likely, and very intelligent. He is calculated to deceive almost anyone, as he can read or write. He was formerly owned by T. R. Price on Camp street. He is, no doubt, passing himself as free. There is all probability that they are at this time lurking about the city, as they have been seen several times. The above reward will be paid for the apprehension and delivery to me, at No. 110 Camp street, or J. W. BOAZMAN, 163 Gravier street, or in some jail that I may get them  -- or $25 for either one. ap13 tf","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-14\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-15\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-16\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-18\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-19\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-20\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-21\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-22\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-23\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-25\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-26\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-27\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-28\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-29\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-04-30\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-02\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-03\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-04\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-05\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-06\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-07\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-09\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-10\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-13\/ed-1\/seq-3\/;  http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-12\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-14\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-16\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-18\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-19\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-20\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-23\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-24\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-05-25\/ed-1\/seq-3\/; ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001180.jpg","find":"1276.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1212","restrictionCode":"1","cdmfilesize":"81090","cdmfilesizeformatted":"0.08 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

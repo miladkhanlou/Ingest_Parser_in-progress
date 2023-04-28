@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Seminole Indian doll, Florida</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Dolls</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Provenance">
+      <geographic>Florida</geographic>
+   </subject>
+   <abstract displayLabel="Description">Female adult, Hoke-tee Seminole Indian, palm tree fiber head and all body, stitched features, long skirt is made of several different colors of fabric, horizontally patched together, semi-fitted strapless under-bodice, another short skirt-like outer cape patched with different fabrics, bead necklace, body, hand-made, costume, machine-made. Accompanying information describes that a totally different Indian people live in the Southeastern part of this country. In Florida, these are the Seminoles, a tribe that separated from the Greek nation in the late 18th century. The name Seminole means 'seceder'. Bands of various colored materials are sewed together to make the dress and often the cape. Many strings of beads are worn. The doll is made from palm tree fiber.""</abstract>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>27 cm</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Edith Dabney Doll Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll9:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Box 11</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll9/id/159</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-05-28</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll9</alias>
+         <pointer>159</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll9/159/json"
+                        timestamp="2017-02-07 09:41:26">{"title":"Seminole Indian doll, Florida","descri":"Female adult, Hoke-tee Seminole Indian, palm tree fiber head and all body, stitched features, long skirt is made of several different colors of fabric, horizontally patched together, semi-fitted strapless under-bodice, another short skirt-like outer cape patched with different fabrics, bead necklace, body, hand-made, costume, machine-made. Accompanying information describes that a totally different Indian people live in the Southeastern part of this country. In Florida, these are the Seminoles, a tribe that separated from the Greek nation in the late 18th century. The name Seminole means 'seceder'. Bands of various colored materials are sewed together to make the dress and often the cape. Many strings of beads are worn. The doll is made from palm tree fiber.\"\"","notes":"27 cm","date":{},"coverb":{},"subjec":"Dolls","covera":"North America","proven":"USA","provea":"Florida","associ":{},"source":"Box 11","object":{},"creato":{},"contri":{},"publis":{},"type":{},"format":{},"identi":{},"langua":{},"relati":{},"rights":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html  \tMention the \u201cItem number\u201d or \u201cItem URL\u201d in your request.","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","fullrs":{},"find":"160.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2014-05-28","dmmodified":"2014-05-28","dmoclcno":{},"dmrecord":"159","restrictionCode":"1","cdmfilesize":"549","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 385</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1866</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1866</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1866/json"
+                        timestamp="2017-02-03 08:23:22">{"title":"Page 385","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 385 \u2014\nmais qu'y faire ? L'homme est unrapin qui mutile depuis six mille\nans les toiles du  Grand Peintre. Si M. Rouquette etait venu au\nmonde cinquante ans plus tard, les modcles lui auraient manque et\nil n'aurait point ecrit se3 cheres Savanes.\nCette prairie, une des dernieres qui nous restent, est un de ces\nimmenses theatres de verdure que Wgeneraux choisissaient pour\nces immenses chocs d'hommes qu'on vit tant de fois sous Napoleon.\nD'une largeur de plusieurs lieues, s'etendant en longueur jusqu'a\nla mer, on dirait une page du Far-West jetee dans un coin die cette\nparoisse. Point d'arbres ; point de bayous; rien que la mer de\nverdure flottantc. Si elle avait les debris de quelque tribu indienne,\non repasserait, en la voyant, la Prairie et le Trapper de Cooper.\nQuelques petites coulees, quelques modestesplatins, raient de leurs\niignes uoirdtres cet ocean de verdure aux lignes infinice.\nQuelques rares maisons\u2014rari nantes\u2014jettent timidement leurs\nsilhouettes k l'ombre de quelque arbre isol6 venu ii la grace de\nDieu dans un coin de cette prairie immense.\nC'est Ik que les Comites s'etaient engages.\nA ueuf heures du matin eut lieu une halte generale.\nLes hommes sc desaltererent.\nLe soleil etait brulant.\n.La marche reprise, la colonne de gauche rencontra les cavaliers\ndu Comite Foremanqui, leur capitaine en tete, s'etaient faits, depuis le matin, batteurs d'estrade, et n'avaient cesse d'observer Fen-\nnenii en deerivaut autour de la maison Lagrange de nombreuscs ellipses.\nCes cavaliers, presque tous vaqueros, etaient tous des hommes\nd'action et de veritables centaurea. Arrives les premiers sur le terrain, ils se seraient engages sang attendre leurs camarades... Heu-\nreusement, Fennemi n'avait pas fait de sorti_e.\nLe Comite de Vermilion, capitaine Sarrazin Broussard, avait\naussi rallie les cavaliers de Foreman et s'etait fondu avec eux.\nCette corapagnie de cavalerio forma une quatrieme colonne ii\nI'extreme gauche.\nLa marche en avant continua dans la direction du nord-ouest, ou\nFon devait rencontrer les comites de St-Landry et Calcassieu.\nDana quelques maisons qu'on trouvait, comme des sentinelles per-\n'hte*. dana cette prairie immense, les femmes et les enfants, moute's\n25","fullrs":{},"find":"1867.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1866","restrictionCode":"1","cdmfilesize":"393862","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

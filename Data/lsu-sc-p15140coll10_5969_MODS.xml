@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 34</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1521</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1521</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1521/json"
+                        timestamp="2017-02-03 08:23:10">{"title":"Page 34","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 34 \u2014\nUn jour ceux-ci par un parjure Les ministreBdelajusticc\nOut souniete sur la figure De leurs crimes etaient complice;\nJe\" bus , lo martyr immortel ; lis pardonnaiont a ces damola j\nDans l'exiljtrop elemental! police, Maisle peuple estjuge supremo :\nIls vont maudits par lajustice II les a frapptis d'anutheme\nEt par le ciel. Et coudamnes.\nCcux-la, la nuit, phalange sombre,    Ilsvoiit,eux,leur8nisetleursfemmesy\nOnt pris une ton-he dans l'ombre     Abjects entre les plus infam.es.\nEt l'ont jetee a nos maisous; Cbercher l'ombre et l'exil lointaina ;\nIls ont brfllti dans leur stable,        Qu'ils aillont oiile vent les pousse,\nNos boeufsaujoug en bois durable, Eoulant lapoussiorect la mousse\nEt nos moissona. Des grands chemins.\nTous ces noirs demonsde nos plaines Et dans les champs et dans les villea\nOnt vole\", vole par centaines, Que chaque main de ces mainsviles\nNos troupeaux, notre Beul tremor;     liepousse le contact bonteux!\nIls ont fait, avides harpies, Errants, proscrits et sans patrie,\nDe nos pare3 et de nos prairies       Qu'en les voyant chacun leur eric :\nDeB mines d'or. Leprcux! Upreux 1\nCornmo Cain l'lsraelite,\nQu'ils s'en aillent, foule mauditc,.\nManquant d'eau, d'abris et de feu !\nEt que toujours dans la uuee\nIU voicnt Hamboyer une opee,\nCelle dc Dieu!\nVoila deux chansons, deux imprecations de la poesie attakapienuc\ncontre les hommes qui ont, pendant vingt ans, tenu audacieusement\nen echec et la Justice et les honnetes gens. II y a dans ces chants\nplus dc nie\"pris, d'indignation, de colere, plus d'echo des griefs po-\npulaires que de poesie reelle, nousle reconnaissons. Qu'on pardonne\na ces poesies, si mauvaises qu'elles soient, de s'etre faites si ar-\ndeutes. Elles n'ont fait que traduire, ouplutotnoter l'exaltation populaire. On ne peut me\"diter des eglogues et des champs bucoliqucs\nlorsqu'on est assis sur le cratere d'un volcan.\nOPPOSITION AUX COMITES\nI.\nDependant k peine les Comit&amp;s eurent-ils montre\" le bout de leur\ntkapeau, qu'on vit se former un parti d'opposition.\nSi cette opposition n'eut 6t6 faite que par les bandits ou leura","fullrs":{},"find":"1522.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1521","restrictionCode":"1","cdmfilesize":"418433","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

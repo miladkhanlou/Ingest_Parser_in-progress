@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 17</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/448</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>448</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/448/json"
+                        timestamp="2017-02-09 16:30:58">{"title":"Page 17","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN  JOURNAL.\n79\nsomeof the wanner strata may be thrown off from the surcharged equatorial latitudes to the colder ones, retaining, for\na while, their aggregation before they arc used in the great\nchemical process of combining and tempering the atmospheric\naffinities. He states that when they are sensibly felt on any\ngiven evening, a thunder storm, on the next day, is almost sure\nto supervene. This would seem to connect them with the\npositive and negative states of the electric, fluid in the atmosphere.  |\nFOLLOWING A GOOD EXAMPLE.\nThe \"Richmond Lyceum,\" in Virginia, has resolved to\nestablish a monthly publication, to be styled \" The Journal of\nthe Richmond Lycc nm,\" We shall take the privilege of an\nelder sister, and introduce our younger, and, perhaps, more\ninteresting relative, to \" good society\" in the South on her\nfirst appearance.\nMORAL GREATNESS.\nWe can conceive of no nobler attitude of moral greatness,\nthan that assumed by a generous, noble-minded spirit, in the\nmidst of personal danger, surrounded by scenes of death and\nsuffering, tenderly sensible of all, nnd yet, seemingly, only\nactuated by the motives of an unconquerable benevolence\ntowards others. Such was the attitude of the late Alfred\nCochran during the recent epidemic in the city of Natchez.\nWe shall enter upon no eulogy of the departed. His own\nwords will best explajn his position, as we quote them from a\nletter, addressed to his father, only a day or two previous tu\nhis sickness, which proved fatal.    He writes:\u2014\n\" With regard lo our own town, I can say, I am sick at\nheart, when 1 see and hear of SO much suffering.\n\"The fever docs not abate: it is worse. The number of\ndeaths, the last week, is greater than before; our fair little\ncity, formerly the seat of health, life, and profitable business\nat this season, seems now but the abode of sorrow and death.\nMy position as Chairman of the Committee of Health, prevents my going wholly from town, and makes me acquainted\nwith the progress of the disease, which is very fatal among\nstrangers.\n\"God, in his great mercy, has spared me and mine thus\nthee, and that those comforts we have in each other may be\ndaily increased, as far as they may be pleasing to God. I will\nuse that speech to thee, that Abigail did to David :\u2014' I will be\na servant to wash the feet of my lord.' I will do any service\nwherein I may please my good husband. I confess I cannot\ndo enough for thee ; but thou art pleased to accept the will for\nthe deed, and rest contented.\n\" I have many reasons to make me love thee, whereof I\nwill name two :\u2014first, because thou lovest God; and,secondly, because thou lovest me. If these two were wanting, all\nthe rest would be eclipsed. But I must leave this discourse,\nand go about my household affairs. I am a bad housewife,\nto be so long from them; but I must needs borrow a little\ntime to talk wilh thee, my sweet heart. I hope thy business\ndraws to an end. It will be but two or three weeks before I\nsee thee, though they be long ones. God will bring us together in his good lime; for which time I shall pray. Farewell, my good husband ; the Lord keep thee.\nYour obedient wife,\nMargaret Winthrop.\nSKETCH.\nThe Character of Joseph WolIT, Iho Missionary, as sketched hy the Krr. Lt'via\nWay,of Hlalisted I'ark, Sussex, England.\nfar.\n\"If any thing could teach the preenriousness of life, the\nimpotence of all human effort, and folly of pride, it would\nbe such scenes as are around us.\"\nA  MATRIMONIAL LOVE LETTER OF 1028.\n[The liillowing letter was written to the first governor of\nthe colony of Massachusetts Bay, by his wife, about the year\nli3~8; and is a lino specimen of the expressed feelings of\nmarried love.]\n\"My jiost sweet husband:\u2014How dearly welcom\nthy kind letter was to me, I am not able to express. The\nsweetness of it did much refresh inc. What can be more\npleasing to a wife, than tu hear of the welfare of her best beloved, and how he is pleased with her poor endeavors I I\nblush to hear myself commended, knowing my own wanls.\nHut it is your love that conceivesthc best, and makes all things\nseem better than they are.    I wish that I may always please\nHe appears to me to be a comet without a perihelion, and\ncapable of setting a whole system on fire. When I should\nhave addressed him in Syria, I heard of him at Malta, and\nwhen I supposed he was gone to England, he was riding, like\na ruling angel on the whirlwinds of Antioch, or standing\nunappalled among the crumbling towers of Aleppo. A man\nwho at Rome calls the Pope \"the dust of the earth,\" and\ntells the Jews at Jerusalem, that \"the Gemara is a lie\"\u2014\nwho passes his days in disputation, and his nights in digging\nthe Talmud\u2014lo whom a floor of brick is a feather-bed, and\na box a bolster\u2014who makes or finds a friend in the persecutor of his present or former faith\u2014who can conciliate a Pacha\nor confute a Patriarch\u2014who travels without a guide, speaks\nwithout an interpreter, can live without fuud, and pay without money\u2014forgiving all the insults he meets with, and forgetting all the flattering he receives\u2014who knows little of\nworldly conduct, and yet accommodates himself to all men,\nwithout giving offence to any. Such a man (and such and\nmore is Wolff) must excite no ordinary attention in a country nnd among a people (the Jews) whose monotony of manners and habits has remained undisturbed for centuries. As\na pioneer, I deem him matchless. \"Ant inveniel viarn, ant\nfaciei.\"\u2014but if order is to be established, or arrangements\nmade,\u2014trouble not Wolff\u2014he is devoid of enmity to man,\nand full of the Love of God.\nErrata.\u2014In the last number of the Journal, (No.4,) in consequence of the illegibility of the manuscript, and of the author's not\nhaving seen the proof, there were a few material errors in Professor Wyche's essay.\nPage 56, 13th line from the top of second column, for \"sound,\"\nread clause.\nPage OS,8th line from ton, 2d column,for \" highest,\" read bright.\n\"    \" 14th\"     \"     \" \" for\" even,\" read tooe.\nBesides the above, there are minor literal errors, which it would\nbe as unjust to the reader to suppose he could not coirect, as to the\nauthor lo suppose that he could make them.\n- ' %\nIf\nmm\n\u25a0' '  \u00a3\u00ab\u25a0\n11   . \u00bbvl\nml\nS \u25a0\u25a0\u25a0\u2022]\nill\n\u25a0\u00ab .\ntj .\n11 '.'.\n\u2022W","fullrs":{},"find":"449.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"448","restrictionCode":"1","cdmfilesize":"1823416","cdmfilesizeformatted":"1.74 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

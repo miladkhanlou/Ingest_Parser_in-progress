@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 19</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/608</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>608</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/608/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 19","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOU T II - W E S T E R N J O U R N A L.\n243\ntravellers, we plunge into labyrinths of antiquity that baffle\nall investigation.\nTho fragments of sculptures anil paintings lately presented\nthe British Museum by several enterprising travellers, wdio\naiipcar to have made Egypt their particular study, have greatly extended our acquaintance with that country. The researches of M. Champollion and Professor Roselini, but\nespecially those of Mr. Wilkinson, have thrown a flood of\nlight upon tho sculptures and paintings of Beni Hussai\n(grottoes on the eastern bank of the Nile, near the Speos\nArtemidos,) and Thebes. In his recent work on the \"Manners and Customs of the Ancient Egyptians,\" the latter gentleman has introduced a great number of lithographic copies\nnf those valuable memorials. Ilo has accompanied them by\ndescriptions and details of the most interesting character, A\nfew visits lo the Museum, and a perusal of Mr. Wilkinson's\nsplendid volumes\u2014for splendid they are in every sense of the\nword\u2014will fill any mind, previously uninformed upon this\nsubject, with astonishment. Mr. Wilkinson's dates appear\nnot to have been given, without tho most ample consideration\nof all the authorities and monuments which afford any clue\nto that intricate question.\nFrom all these sources wc find that eighteen hundred years\nii. c. a slate of civilization existed, in which men wero cm-\nployed very much as they are at present. The rich had their\nvillas, to which were attached gardens and parterres, and enclosed parks for deer, vineyards, and orchards. During their\nexcursions in pursuit of wild animals they had huntsmen to\nassist them, who conducted tho dogs to the field, managed\nthem in the chase, and secured and brought home the game.\nThe grandees had also their private boats and their establishments of watermen. There were in those days, just as now,\nshop-keepers,  musicians, builders, masons, public weighers,\nnotaries, carvers and gilders, curriers, cabinet-makers, cooks\nami, in short, almost every description of artisan, with the exception of thoso lately created amongst us by the introduction\nof gas-light and steam\nSome few years ago, when public companies wero got up\nin London for every possible purpose, serving the town with\nunadulterated milk, bringing sea-water for baths to every\nhouse, washing linen without tearing it, baking bread without\npoison, and shaving beards without the application either of\nsoap or razor, an association astonished the good citizens by\nissuing proposals for hatching eggs without the assistance of\nhens. If any modern device seemed entitled to the honor ol\nbeing considered novel, one would think that this might have\nbeen set down nt the head of the catalogue of new inventions.\nThe whole process was known to tho ancient Egyptians, and\neven at tho present day tho markets of Alexandria unci Cairo\nare supplied with poultry warmed into life by artificial means.\nThe eggs are placed in ovens heated to the requisite temperature, and carefully tended until tho desired result is produced.    The operation requires about twenty-one days.\nWhen lately going over tho baths of Titus, at Rome, I remember the long pause 1 made before the beautiful arabesques\nwith which those remains of imperial luxury are ornamented.\nThe paintings are much faded, but they are so replete with\nthe graces of refined laste, that to gaze upon them is to hear\nthe whispers of some divine music. The guide tells everybody that the similar decorations spread over the ceilings of\nthe stairs and galleries of the Vatican, painted poetry in truth\nworthy of that paradise of tho arts, and which even seems to\nimpart new lustre to the countless memorials of Greek and\nRoman genius preserved in those glorious chambers, were\nstolen by Raphael from the frescoes of the baths in question.\nUntil those frescoes were brought more in'.o light by the removal of the rubbish with which they were incumbered, the.\nartist had the credit of being the inventor of that species of\nornament. The merit of the application and of the matchless execution is all his own. But even if the baths of Titus\nhad not been cleared out, the houses of Pompeii, several of\nwhich I have seen similarly adorned, would have disturbed\nhis claims as the inventor of the most beautiful architectural\nembellishments with which art has yet captivated the human\neye-\nJudge then, of my surprise when, on opening the second\nvolume of Mr. Wilkinson's work, I beheld a whole page of\nthe same species of decoration, copied and colored from a\ntomb at E' Sioot, where they must have been painted at least\nsixteen hundred years before the Christian era! Tho favorite forms appear to be the lotus, the square, the circle, the\ndiamond, and tho succession of scrolls and square within\nsquare, usually styled the Tuscan border I It appears further\nthat, from the most remote times, the ceilings and walls of\nEgyptian houses were similarly painted in compartments,\nwith borders of an appropriate description.\nConnoisseurs have been hitherto puzzled to find out tho   a\noriginal inventors of the scarab and the harpy, and those\nother beautiful emblems which abound on the Greek and\nEtrurian vases.    Tho very epithet seems to have settled the\nquestion that the Etrurians were the designers of those won-_\nderful creations, in which all that is elegant in thought and\nbewitching in imagination seems to bo combined with a felicity and a variety truly to be envied.  They were all familial\nto Egyptian genius three thousand five hundred years ago r\nI  know of few enjoyments more  delightful  than those\nwhich I experienced, when, the sun shining intensely in tlfT\nheavens,  I  have  lounged through the narrow streets -j\nSeville, the lofty houses shading me from the gh  in\nand the fountains, and evergreens, and fresh flowers ol\nPalios soothing at once the ear and the eye.    A Pan., i \u25a0 tl\ninternal scjuare round which most of the respectable dwellii\nhouses in the Andalusian capital are constructed.    The entrance to it from tho street is through an iron gate of moderate\nsize, the bars sometimes plainly intersecting each other, some \u2022\ntimes fancifully intcrtwining.butso as to allow the square within to bo visible to the passenger.    This favorite spot is floored\nwith bricks kept cool by being frequently sprinkled wilh the\nspray of the fountain, which throws up its never failing\nolumn of the refreshing element in the centre.    All round\nre vases of porcelain filled with shrubs, and roses, and geraniums, and lillies ofthe valley, and tulips of every hue.   An\nawning is spread over this charming retreat in the day-time.\nIn tho evening its balmy fragrance and coolness invite tho\n'amily and their guests to sit there, and to dream ol happiness until the stars go down.","fullrs":{},"find":"609.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"608","restrictionCode":"1","cdmfilesize":"1723457","cdmfilesizeformatted":"1.64 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

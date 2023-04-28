@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 8, Page 8</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2327</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2327</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2327/json"
+                        timestamp="2017-02-03 08:24:54">{"title":"Section 8, Page 8","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"8 ADDRESS,\nthe temporary   terminus on  the  river.    The Q\nwill thus be at once deriving more than TOffitfcU?\nie to defray current expenses, while the other\n' section.\n\u25a0ompleted.    It  is  determined  to ni\nPlace the\nwhole route under contract, and construct\ns of the road will be on the other side of\nthe river, opposite the centre of the Third District, but\neach district of New Orleans, will be accommodated\nwith a depot at such places as may be found most ad-\nvantageous to its wants.\nThe Board of Directors of the New Orleans, Opelousas\nand Great Western Pvailroad Company, in recapitulating\nsome few ofthe great advantages which the property holders of this city may derive from this undertaking, conn,\ndently rely on th-eir good judgment in sustaining this truly\nLouisiana Road, the remote results of which are almost\nincalculable to all classes of our population. New Orleans is pre-eminently a commercial city, and so long as\nour commerce thrives, so long will the owners of real\nestate derive an income from the capital invested in this\nspecies of property, which must increase or decrease with\nthe growth or decline of the city. Population will always follow the laws of trade, and go where it derives\nthe most profit from its labor; not so with your houses\nand lots; their fate is fixed, and here they must remain,\nbe our prospects good or bad. Look for a moment a\nthe benefits  railroads hay\" \"o-if' ivc* on other cities","fullrs":{},"find":"2328.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2327","restrictionCode":"1","cdmfilesize":"548286","cdmfilesizeformatted":"0.52 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

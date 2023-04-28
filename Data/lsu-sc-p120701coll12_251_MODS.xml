@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/523</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>523</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/523/json"
+                        timestamp="2017-02-09 16:31:04">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"jjali\nSOOTH-WESTERN JOURNAL.\nK-tYtl aemt\u00abmontI)l|&gt;, nt Jftbe Bullars iliar, lij. tlie .TJrCferson Ctollcge Rntt'ttrif ftrnston ajtt\nIN-TSn SYLVAH ACADEMI Q U ,E R E a E VERUM.\nVOI,.  I.\nNATCHEZ, MAY 18, 1838.\nNO.  11.\n. EXTRACT OF A LECTURE,\nDnelboforathe Ladles' Inatltute and Lyceum or the, City of Natchez, April 7tli,\n1833, by J. A, Van Hoesen, Esq.\nLadies op the Lyceum:\nIt is with mingled feelings of pleasure and regret that I\nappear before you, at this time, in the character of a public\nakcr.\nipea\nhim pleased and delighted to see so many of the ladies of\nNatchez assembled to give countenance and support to so\ngood a cause. And I regret exceedingly that you are not\nfavored with a more able and agreeable speaker. But as a\nyoung man I should have been ungallant and modest in the\nextreme, if I had refused the polite invitation extended to me\nto address you on this occasion. I shall not, however, attempt to win my way by flattery. I shall merely state those\nthings which I believe to be truths, plainly and honestly.\nI have ever believed that woman occupied the highest and\nmost responsible station in human society. And to discharge\nthe duties of her exalted station with fidelity and lionor, some\nprevious mental discipline or training is requisite. And I\nbelieve, too, that her influence depends much on this previous\ndiscipline or education. There seems to be a kind of omnipotence enthroned in the cultivated mind of woman, before\nwhich vice, in all ils horrid forms, stands appalled, or vanishes like dew before the rays of the morning sun. But I\ndo not appear here lo attempt to show you the importance of\nfemale education; nor as an advocate for female influence,\nThese subjects have already been presented to you by those\nolder and moro experienced than myself, and in a style which\nI cannot expect to surpass, nor even equal. \"Thefounda\ntion* (of a course of Lectures) has been laid,\" and the first\npolished stone placed upon it;t and you doubtless expect to\n\u00abcc the edifice, so nobly begun, continued with the same symmetry of proportion, and the same polish of style, until the\ntopmost stone shall be laid, and its spire shall pierce the very\nheavens, and beckon the wanderer to its portals. Though I\nshall endeavor to continue the work, I shall leave the polishing part to a more skilful and accomplished artist. The pen-\nfillings and painting I will leave to a gentler hand, lest you\n'nay accuse me of daubing with untempered mortar.\nfirst, then, we will consider woman's proper sphere. Wo\nman, from the delicacy of her constitution, the gentleness of\n\"er manners, and the timidity of her nature, was never calculated for Athletic or Olympic Exercises; was never destined for the battle field or the legislative hall; was never\nwiled to guide tho tossing ship through the pathless deep;\nnor \"-as sho ever ordained as the minister of God, only as\n\"he administered at the domestic altar. From thence her\nsacrifice may be offered, and the incense ascend pure and ho-\nyi and, ascending from angel lips, may be borno on angels'\nlin fust Lecture was read before Ihe Lyceum liy the Kev. Mr. Winchester.\n'.\u00ab \"Kernel by G. V. II. Forbes, Esq.\nwings to the great Author of all good, and call down blessings on ils devoted subjects. It is for woman to purify,\ncheer, and gladden the social circle, from which and through\nwhich flows the spirit and feeling which is to give tone and\ncharacter to every department of life. The social or domes-\ntic circle is the centre and fountain from which all the\nstreams of life take their rise; and in proportion as the fountain is pure and unadulterated, the streams and all tho branch,\nes flowing therefrom will be pure and fertilizing. I do not\nsay that woman's sphere is confined to her own household.\nIt extends directly through the town and village in which\nshe lives; and indirectly as far and wide as her kindred, ties,\nand connexions. It extends immediately amongst all her\nfriends and neighbors. The sphere of woman, however\nseemingly circumscribed by physical lines, nevertheless extends in influence almost to infinity. Yes, her influence is\nwithout bounds and without limits. But I am treading on\nbeaten ground. We have already been told, that we might\nas well undertake to define the rays of the sun as to attempt\nlo define female influence.\nWe will next consider how you may be the best prepared\nto exert the most salutary influence in the sphere in which\nnature has destined you to walk. One of the best female\naccomplishments, and I may say one of the most valuable\nacquirements, is to bo able to converse well. Conversation\nis to the business of the world, what commerce and the arts\nare to civilization and refinement. It is to society what eloquence and oratory are to the bar, to the pulpit, and to the\nforum. How important, then, that the grace and elegance of\nconversation should characterize and adorn the social circle.\nThe tone, the music, in short the poetry of society, is conversation. But I am aware, that, as as a people, we are rather utilitarian than ornamental. We prefer the cotton field to\nthe hanging garden ; the rich fruit, to the beautiful flower;\nand the noble Doric architecture to the slender and beautiful\nIonic. We are surrounded on all sides by the useful. Our\ncountry, on every hand, is intersected by canals, turnpikes,\nand railroads; and our navigable rivers are constantly teeming with steamboats, floats, and sloops; and every breeze\nbrings to our commercial ports ships laden with the rich\ncargoes of other climes. But conversation may be ornamen-\ntal, interesting, instructing, and useful. To make it so, study,\nreading and thinking are necessary. The treasury must be\nprepared, before we can make drafts for the gold and silver\ncoin. Ladies, you have the casket; and how long shall it\nbe that we shall admire the casket rather than its contents?\nIt is high time that your mental armory should be polished,\nand kept bright by use. There are many moral battles to bo\nfought; and you must be champions in the field. You do\nnow, as you ever must, occupy the first rank; and if you give\nway before we gain the vantage ground, all is lost: liberty,\nhappiness, and all, is gone.    But I am persuaded that you\nml\n1 sia\nI efVJ.i\n''\u25a0\u2022\u25a0'\",\n\u25a0\u25a0'\u25a0-.\nmk\nf :","fullrs":{},"find":"524.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"523","restrictionCode":"1","cdmfilesize":"1840795","cdmfilesizeformatted":"1.76 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

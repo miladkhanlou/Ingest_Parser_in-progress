@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/487</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>487</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/487/json"
+                        timestamp="2017-02-09 16:30:53">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"I    jjiiliIfsJicT ScmfMiioiiUili., at jMbc gpllntu iil'tav, (,i&gt; tljc flcffcvsoii \u00a9oil cat aim 8\u00bb\u00ab*fifnnton a\u00bbcm\nVOL.\nSOUTH -WESTERN JOURNAL.\nINTKIl   SVLVAS   JCiDEMI   Q U JE II E H E   VE*HUM.\nNATCHEZ, MARCH 30, 1838.\nNO. 8.\nA LECTURE UPON MILITARY EDUCATION.\nRead beforo Ilis Jelforton Collsj\nProfe\nLyceum, at Natchoz, September 2d, 1837, by\nIgor 0. (I. 1'llICSIIKY.\nNational independence and stability derive their existence\nfrom ihe possession and cjccrcise of iho means of self-defence.\nRepublics, like monarchies, are ever liable to foreign insult\nand civil commotion j and therefore should cultivate the maxim, \"In the midst of peace, bo prepared for war.\" Experience,\nihnt venerable instructor, gray with service, has taught our\ncountry, that the exercise of every pacific duly, and the observance of every law in the national code, are no safeguard\nto our citizens or our commerce; but an appeal to arms-lias\nst il J been necessary to demonstrate, thrt the dove of peace\ncan transform herself into the eagle of hostility. And as the\nman whose principles arc above the brutality of duelling or\nbailie, is bound to protect his person and family from ihe\nabuse of the unprincipled,\u2014so the nation, whose motlo is\npeace, is bound for the security of her property and citizens.\nWith this view of the importance of the subject, wc sh\noffer no apology for devoting a few pages lo the consideration\nof Military Education.\n1st. AVe shall consider the nature and objects of Military\nEducation.\nAlly. How far thoso objects arc effected in Europe and\nthe United States.\nodly. The effect it has upon individual mind and natural\ncharacter.\n\u25a0lib, and lastly. How far military discipline might be beneficially introduced into civil institutions of learning.\nFirst, then\u2014the nature and objects. Proficiency in any\nmechanical vocation presupposes an apprenticeship or course\nof training, and reputabilily in any of the learned professions,\na thorough course of professional study. The profession of\narms, is tho union of mechanical and intellectual culture: tho\nformer nearly equivalent to a mechanical trade, and tho latter\nwholly equal to cither of the learned professions. It will\ntherefore be granted, that thoso who destine themselves for the\narmy, in the capacity of commander, should serve in the one,\nand be thoroughly instructed in the other.\nIn the mechanical department, every commissioned officer\nof course, should be familiar with tho manual and detail of\n\"'cry duty which even casualty might render essential to\nforces in actual service. Accordingly, when a cadet enters a\nmilitary academy, ho commences with performing the simpler commands in tactics. For a few months, he is exclusively occupied, singly and in the ranks, in learning to perform, when commanded, the elementary duties of drill. This\nis followed by the more complicated manoeuvres, devoting\nabout a fifth of each of his four or five years exclusively to\nexercise in drill, and the manual of heavy and light infantry\nand artillery. Besides, a portion of every day, otherwise\ndevoted to study, is similarly spent, until each in his order,\nand at due advancement, has pel formed the functions of every\ngrade, from tho ranks to the commandancy of a battalion,\nThe theory of manoeuvres, like every thing in a military\n(or any rational,) education, is, with geometric precision, derived from the practice, nor is it till after the cadet has mastered nearly all the evolutions from actual experience, that a\nvolume of taclics is placed in his hands. In the mechanical\ndepartment of artillery exercise, a vast deal is learned; such\nas the manoeuvres of field artillery with cannon, gun-carriages,\ncaissons, and all their implements; the exercise of siege artillery, with mortar and howitzer; target practice, with gun,\nhowitzer, and mortar, with the thousand duties of the laboratory, in making powder, rockets, shells, portfire, and fuzes.\nIn this catalogue of mechanical duties, we do not include\nmasonry, carpentry, architecture nnd civil and military engineering, as they arc taught in tho United States from diagram\nand theory, though in France from practice. 13ut an estimate\nmade from a knowledge of tho rigid economy of moments\npractised in military schools, it would be found, that the time\ndevoted to military exorcise, falls little short of the usual apprenticeship.\nThe intellectual duties of this profession, particularly in\nthe mathematics and exact sciences, are so arduous, extensive\nand thorough, and llieir performance enforced wilh such unchanging rigor, that tho whole term of cadetship not occupied\nns already noticed, is barely sufficient. Every possible stimulant to enterprise and excellence, which the honors ofthe\nclasses can furnish, nnd every inducement which the fear of\ndegradation or dishonor can offer, contribute lo render ihe intellectual, as well as the mechanical acquisitions of military\nducalion, accurate and profound. And tho judicious alternation of exercise\u2014bold, vigorous, manly exercise, is admirably calculated to give energy and efficiency to intellectual\nexertion; whilst, reciprocally, the sedentary habits of cloister\nduty, the writhing of the menial powors in knotty investigation, and their importunate call for quarter, add a relish and\navidity to physical action. These habits, and these only, can\naccount (and al best with difficulty,) for the catalogue of volumes and subjects cadets masler in the brief term of a usual\ncollegiate course. And a comparison of the volumes, the\nquantity and quality of their contents, would sustain the position, that the graduated officers of the French or United\nStates army, rank higher in menial acquisition than tlie ordinary graduate of either of the learned professions.\nHaving said thus much of the nature, we proceed to show\nthe objects of a military education. These are manifold and\nof vital value to an army, and the country it is educated to\nfend. The brief space allotted to this lecture, will permit\nthe notice of but a few of the more obvious. And taking\nthe first that occurs,\u2014a soldier must learn obedience, implicit\nand immediate. Without implicit obedience in each officer\nto his superior in rank, all that promplness so essential in\ni.TS\n-   -in\n;. \u25a0 'tC( it\n'^M\n\u25a0 \u25a0 iw tl\ni. i\"t.i\n1Kb\nu\n\u25a0m\nr","fullrs":{},"find":"488.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"487","restrictionCode":"1","cdmfilesize":"1918452","cdmfilesizeformatted":"1.83 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

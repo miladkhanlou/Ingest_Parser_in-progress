@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 323</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1804</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1804</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1804/json"
+                        timestamp="2017-02-03 08:23:20">{"title":"Page 323","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 323 \u2014\nsa f6rce,\u2014ou il avait pu dire, en faisant jouer tous les ressorts de\nSa puissante poitrine :\nO printemps, ieiinesBo de i'aun^e!\nO jeunesse, printemps de la vie!\nPuis il venait s'eusevelir de nouveau sur son habitation, bon et\nsimple comme tous ceux qui abdiquentunroleeclatant,\u2014conseillant\nles uns, rendant service aux autres,\u2014rendant enfin a ses concitoyens,\navec usure, la mormaie du mandat qu'ils lui avaient donne.\nPlus tard, quand pour reprimer des crimes de tous les jours, les\nAttakapas, repondant a la voix du chevaleresque major St-Julien,\nse couvrirent de Comites de Vigilance, le gouverneur Mouton se\njeta dans le mouvement et sanctionna ainsi, aux yeux de tout le\npays, la legitimite de cette insurrection momentanee contre la loi.\nA la Queue-Tortue, ii cette journee tant calonmiee ct ou la societe ue fit que sedefeiidre.il alla,accompagne du major St-Julien\net d'un autre chef, M. Yalmont Richard, de St-Martin,\u2014il alia,\nsans armes, sommer John Jones, le chef des insurges, de deposer les\narmes,\u2014vit, sans sourciller, sans , alir, le fusil d'un bandit trois fois\nleve sursa poitrine.\nMais le grand et l'hisigiie honneur reserve k cette noble existence\net qui en est le magnifique couronnement, est le titre de president\nde la convention d'Etat de la Louisiane, en 18G1,\u2014de cette convention qui n'a pas hesitel a se jeter dans la feconde revolution oh nous\nsommes entres. Dans cette assembiee, elite des patrlotes du pays,\nc'est le gouverneur Mouton que ses concitoyens, les deieguds des\ndiverscs paroisses, ont eieve au fauteuil presidentiel. C'est lui qui\na dirige les debats qui out produit Pharmonie de volonte et d'action dont nous sommes maintenant temoins. En cette circonstanca\ngrave et supreme, c'est lui qui a ete juge le plus digue entre tant\nde geimreux citoyens. Et il a ete a la hauteur de sa mission, ct on\na pu'admirer reunies en lui toutes les qualites dc sou grand role,\nl'energie ct Pardeur qui pouvaicnt bouillonner dans les cceurs les\nplus jeunes et la prudence et la sagesse qui devaient etre le fruit\nd'une longue ct laborieusc carriere.\nNous retrouverons cet homme, quand la population attakapienne\nle rappellera sur la breche.\nEu attendant, abordons notre histoire.","fullrs":{},"find":"1805.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1804","restrictionCode":"1","cdmfilesize":"379031","cdmfilesizeformatted":"0.36 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

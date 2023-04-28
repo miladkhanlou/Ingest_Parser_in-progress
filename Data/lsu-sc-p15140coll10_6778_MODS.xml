@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 5, Page 25</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2184</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2184</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2184/json"
+                        timestamp="2017-02-03 08:24:47">{"title":"Section 5, Page 25","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"25\nconstitute one-fourth of the gross slave population, the allotment to each laborer\nJ^nld amount to 630 acres nearly.\n1 T, present the proposition in a more practical form. The area of the State of Texas\ni.) 720 000. This, alone, would assign to the gross slave population an average area\n, fortv.five acres, or to the supposed proportions of agricultural operatives about 176\neach. If, then, ~we suppose it important to employ the whole slave population in\n, ...iturc 0f cotton, estimating the arable at half the actual surface of the State of\nT xas it would give an arable area of eighty-eight acres to each slave operative.\nThis labor would produce, at an average of five bales per hand, not less than 4,000,000\nbales- whilst with labor for the full cultivation of the supposed arable area, at a half\nbale per acre, the enormons production of thirty-five millions of bales might be\nanticipated! It is then plain, that with no natural rate of increase can the slave population be so condensed as to be unprofitable, and that the soil suitable to the production\nof the great Southern staple is adequate to meet any conceivable demand, since the\nwhole slave labor of tho United States can be absorbed in the cultivation of a single\nstaple in a single State ! Besides, the South has the whole area capable of producing\nthe world staples of tobacco, rice, sugar and cotton.\nThe position, then, of the South, is one of perfect safety. She has nothing to fear\nfrom what are called the \" eyia-oaehmcntsP I am aware that much of the southern area\nis not arable\u2014that much of it is cultivated by white labor, and that immigration will\noccupy much more. But if we deduct from the gross slave population that portion\ncongregated in the cities, those employed as menials, those engaged in manufacturing\ntobacco,salt, iron, or cotton; those employed in the coal mines, those engaged as mariners tin the coasting or canal trade, those employed as operatives in constructing or\nworking railroads\u2014we will be satisfied that with the increasing intelligence of the\nslave, the diversion of his labour into other pursuits will diminish the number of agricultural operatives ; whilst emancipation by the master, escape and hybridism, will\ndecennially limit the rates ot increase.*\nFrom these causes, the value of the slave will increase, as the title to the slave will become permanent\u2014because the whole civilized world has become convinced that the\nsmp and the spindle are as deeply interested in its responsibilities as the planter who\nconducts the cultivation of the staple ; whilst the mercantile interest, or those living\non the dividends of any funded investment, derive much of their support mediately\n\u00b0r immediately from the products of slave labor.\n\u25a0he scheme of interna! improvements presented for the patronage of the South West.\ninsbts ot the South Western National Railroad, and of such improvements within the\nMates as the delegations respectively have  agreed upon and  recommended-\nuth Western National Railroad commences at Washington city, and passes by a\nmmty of sections\u2014described in the Resolutions reported from the Committee on\n, to the city of New Orleans.    This route has been adopted for especial recom-\na ,on) because, as it presents the most direct line of communication with New\nStat? prae*lcabte' tlie Convention may anticipate for it the patronage of the United\n^ s mail, the vast travel intercourse between the South West and Northern cities,\n*crn    k   \u00b0^^G merchandise transportation which is now carried coastwise, or carried\nc 7 northern lines, and supplied down the Mississippi and its tributaries from\n\"\"^i or St. Louis.\n* Rates of slave increase; 1810\u201433-4\n\" \" 1820\u201428-9\n\" \u00bb 1830\u201450-7\n:&lt; \" 1840\u201423S\n, \" \u2022&lt; 1850\u201429-4","fullrs":{},"find":"2185.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2184","restrictionCode":"1","cdmfilesize":"550352","cdmfilesizeformatted":"0.52 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Wright-Boyd Family Papers at LSU Libraries</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+<language>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<abstract displayLabel="Collection Description">&lt;p&gt;The Wright family owned plantations in Rapides Parish, La. Esther Gertrude Wright (1844-1915) married David French Boyd (1834-99), President of Louisiana State Seminary, later Louisiana State University. The digital collection consists of daguerreotypes and photographic prints belonging to the Wright family.&lt;/p&gt;</abstract>
+<abstract displayLabel="Collection Summary">The digital collection consists of daguerreotypes and photographic prints belonging to the Wright family</abstract>
+<identifier type="local" displayLabel="Collection ID">lsu-wri-boy</identifier>
+<identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/wri-boy</identifier>
+<identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/wri-boy</identifier>
+</mods>

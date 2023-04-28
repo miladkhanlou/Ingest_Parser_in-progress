@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>P.D. Montgomery Letters, 1857-1864</title>
+  </titleInfo>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-montgomery</identifier>
+  <name type="corporate" displayLabel="Contributing Repository">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes">text</typeOfResource>
+  <note type="content" displayLabel="Collection Description">Captain Peter D. Montgomery served in Company H, 6th Michigan Infantry during the Civil War. He was stationed first at Ft. McKim in Baltimore, then served in Louisiana. He was wounded at Port Hudson and resigned his commission in August 1864 as a result of his wounds. Letters to his cousin Ellen True of Chatauqua County, New York, relate his religious beliefs, health, weather, opinion of southerners, and family matters. He describes his part in the fighting at Port Hudson.</note>
+  <abstract displayLabel="Collection Summary">Captain Peter D. Montgomery served in Company H, 6th Michigan Infantry during the Civil War. He served in Louisiana, was wounded at Port Hudson, and resigned his commission in August 1864 as a result of his wounds. Letters to his cousin Ellen True of Chatauqua County, New York, relate his religious beliefs, health, weather, opinion of southerners, and family matters. He describes his part in the fighting at Port Hudson.</abstract>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordCreationDate>2020-05-26</recordCreationDate>
+    <recordChangeDate>lsu/mfc</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

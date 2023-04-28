@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 169</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1654</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1654</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1654/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 169","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 1G9 \u2014\n\u2022; Out! we voila, cnlin au sommet, nous dit-il en nous tcnuaut Ia\nmain, car nou3 gravissions encore peftiblcmeut Tescarpemeut de\nI'Score,\u2014ouf 1 nous voila enfin arrives ; causous.\n\"Je sais, ajouta-t-il, que vous allez ecrirc l'histoire des divers\nComite*. Je sais d'un autre cote que vous ecrire^ cette histoire,\ntelle que vous la comprendrez ; e'est-a-dire avec un devouement ab-\nsolu au principe qui nous a fait sauter sur nos armes, mais aussi\nnvee une independance complete a Tendroit de vos jugements.\nQuant a moi, devant la gravite du mal ct Tinfamie du juri, tel qu'on\nle compose daus notre paroisse et ailleurs, je jure Dieu que tous les\nexils que j'ordonnerai, que toutes les executions que mon Comite\ntera, exils et executions, je cenfesserai tout hautement, a. la face do\nDieu et des hommes 1 Prencz acte de ce que je vous dis-lii.\"\nNous lui tendimes la main. Cette parole nette, franche, loyale,\nnous avait subjugue.\n11 contiuna:\n-Jene suis qu'un acadien ; je nc suis pas lettre ; mais j'ai un\neceur qui bat et celui-la, a chacune de ses pulsations, me dit: il\ny a de3 chefs qui ontdeja accorde des graces; moi, je n'en accorde-\nrai pas 1 ITy a des chefs qui ont jete un voile sur des ineTaits commis par des hommes qu'ils avaient a meuager : moi, je ue jettcrai de\nvoile sur aucun acte, ni. aucun nom 1II y a des chefs qui nc punis-\nscut que le vol, comme si le vol etait, heias 1 la seule lepre de la societe : moi, j'ai puni et je puuirai le guet-a-pens, le parjure, le viol,\nle meurtre, lc faux, tout ce qui seia impute crime par le code,\u2014le\ncode sur lequcl les Comites ont jete momentanement un crepe,\u2014\net je le puuirai sommairomont.\n\u2014Bravo 1 lui dimes-nous. Nous voyonsqu'avec vous nous n'aiirons\npas a conqnerir le droit d'avoir carte blanche.\n\u2014Aliens diner, lit-il, nous causerons affaires entre la poire et lc\nfrom age.'*\nUne minute apres, nous etions assis a une table dressee a notre\nintention.\nAvant de toucher aux mets qui nous etaient destines, Sarrazin se '\nleva.\n\" Avant de diner, je vais appeler les quelques personnes qui sont\ndaus la  maison et les prier de boire a un toast que je vais porter.\"\nUn cercle d'une vingtaine de personnes fut bientot forme\" autour\nde nous. ,","fullrs":{},"find":"1655.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1654","restrictionCode":"1","cdmfilesize":"402137","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

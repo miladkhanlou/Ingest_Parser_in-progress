@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 298</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1781</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1781</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1781/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 298","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 298 \u2014\nLa nuit se faisait et la voya.gcu.se, epuisee par les fatigues de la\njournee et le jeune qu'elle avait probablement subi, s'affaissa sur le\ngazon de- la route.\nIA, elle e\"voqua sans doute dans le miroir de son passe toutes ses\npages heureuses ; son enfance pauvre, mais insouciante ; ses courses, pieds nus, sur les banquettes de Saint-Martin ; ses petites robes\nsouillees de boue. mais couvrant encore un corps virginal comme\nson ante. Elle revit tout ce qui avait dore son enfance et son adolescence... et elle se prit a pleurcr.\nLa mcmoire est parfois une fee bienfaisante qui deroule les plus\nmagiques pages de la vie... Parfois aussi les souvenirs tuent.... ou\nraenent ;t la folic Etrange scene oil toute medaille a son revers, on\nee qui est poison pour les uns est miel pour les autres... ou la vie et\nla mort marchent cote a, cote, ayant des robes pareilles et portant\nles monies gants!\nLa voyageuse s'etait done prise it pleurer... songeant peut-etre.\ncomme le Christ, qu'elle ne savait on. poser sa tete.\nA  cc  moment, un homme sortit de la maison qu'elle avait aper-\ncue  et  qui  n'existe plus aujourd'hui, car dans ce pays les maisons\nsont  ephemeres  comme   les roses, et ye dirigea vers cello qui etait\ntoinbee, epuisee de fatigue et de faim. sur la route.\n\u25a0\" Becueillez-moi pour la nuit, dit-elle en voyant veuir cet homme.\n\u2014Venez 1\" dit nne voix chevrotante.\nEt I'homme ct la jeune femme s'acheminerent vers la maison\nqu'une lumiere, brillant comme une etoile, designait a travers son\nvoile de laurinrs-roscs et de lilas.\nSUITE DU REVERS DE LA MEDAILLE\n(let nous sommes oblige de faire une digression\u2014non pour les\nAttakapas, qui connaisseut le vieillard que nous allons mettre en\nscene\u2014mais pour nos lecteurs cioignes, si nous en avons. qui pour-\nraient crier a 1'invraisemblance. A l'invraisemblance du recit nous\ntie pouvons opposer .qu'une chose : le r^cit est vrai, quoiq'ne de-","fullrs":{},"find":"1782.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1781","restrictionCode":"1","cdmfilesize":"415108","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

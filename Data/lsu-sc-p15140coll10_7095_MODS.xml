@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 13</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2417</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2417</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2417/json"
+                        timestamp="2017-02-03 08:25:19">{"title":"page 13","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"channe\n\u25a0water\u2014that  they v\nfitnessed the soundings made\nunder\nthe  direction   of the\nCommittee  and  Capt.   J.   K\nDunea\n1,   Chief Engineer, an\ningsw\nre made with all possible accuracy.     Hi\nat 71\nd  being from W. S. W. and\nhighly\nfavorable  fer high w\nater.    We furthermore certify\nthat   t\nie  greatest  depth of\nwater found  on the bar was\nfeet,  the   distance  oi\ner  which   the shoal  water ol\nfeet extends is from\none-half to three-quarters of a\nlate of soundings abov\n;\\;\nd the   time of finishi\n-     \u25a0  ilm     wis at 51 o'clock\nflood tide or high water.     On\nthe 111,\nrning of the 3d, furthe\ntide, a\nnd  we certify that th\ngreatest depth of water then\nfound\nn the shoals, or bar, w\nas thirteen feet.    When these\nSeUlldi\ngs were taken there was a fresh breeze from the N.\nW. Proceeding from thence round to Pass-a-1'Outre by sea,\nstill accompanied by the said Committee and their Engineer,\nfurther observations were made and soundings taken, both\ninward from sea and outward to sea, and that the greatest\ndepth of water found ; .he spar buoy\nand the lighthouse, was thirteen feet. This shoal water\nextends about half a mile, and the soundings referred to\nwere finished at dark. High water being at 8i o'clock r. m.,\nsoundings were resumed on the morning of the 4th, at 7\na. m., at ebb tide, and we certify that the greatest depth of\nwater then found on this Pass was twelve feet. Throughout\nall these souni\nAMOS  TOWNE, for Pilots' I\nGEO. CHISM, for Opposition","fullrs":{},"find":"2418.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2417","restrictionCode":"1","cdmfilesize":"447331","cdmfilesizeformatted":"0.43 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

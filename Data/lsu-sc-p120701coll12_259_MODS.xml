@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 09</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/531</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>531</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/531/json"
+                        timestamp="2017-02-09 16:31:05">{"title":"Page 09","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"hi nself against the rattle and the venom, hut if he unneces\n\u2022irily leaves the mind of his offspring a prey to ignorance\nml the vil*('! l'1;lt '00 \u00b0'\"tc\" f\"\"ow \"i its train, he may find,\nIoj late lor remedy.\n\" \u00a3Jow sharper tlian a serpent's toolb it Is,\nTu haven thankless child.\"\nI wi\nSOUTH-WESTERN   JOURNAL.\nthankless child I     No,\nnot wrong even him.    Hi\nExperience should have taught us, that southern institutions, and southern manners and customs, are more congenial\nto the dispositions and habits of southern sons.- Is it not time\nor Mississippians to arouse their latent energies, and no\nlonger keep their light under a bushel, but let it shine forth\nupon the world? We have established our Journal as tho\npioneer of southern rights, southern interests, and southern\nmly be any thing else that's bad, but he cannot be a thankless\\]'temhnQ nnii sc&gt;ence.    Friends, will you sustain us?\nchild.   What has he to be thankful for?    No.    The man\nwho unnecessarily deprives his son of education, and thus\nknowingly trains him up in the way he should not go, may\nhave a perverse, an intractable, a prodigal child, one who wi\nfcrin? down, aye. drag down his grey hairs with sorrow to\nthe grave, but a thankless child he cannot have\n\u25a0SOUTH-WESTERN  JOURNAL.\nNATCHEZ,  MAY  15,   1838.\nOUR JOURNAL.\nWe owe an apology to the friends and patrons of the South\nWestern Journal, for the late appearance of the present number; which has been occasioned by the absence ofthe Editor\nfor the last two weeks, on business.    In making our apology,\nhowever, we feel that our friends and the friends of litem-\nlure and science in the south-west, rather owe us an apology\nlor nol giving us more support in our good undertaking.\nWith the exception of lectures read before the Lyceum, the\nEditor has had lo depend almost entirely upon his own re-\nlources for reading matter for the Journal; while northern\nliterary periodicals have numerous patrons and contributors.\nWhy is this?    Is it because we have not got the talenl?    Is\nit because we have no resources?    No, it is because we have\nnot enough of Southern and State pride.    The State of Mis-\n(issippi can boast as much talent, in proportion to her population, as any other State in the Union.    She is as rich in\nphysical resources.    There are many ancient mounds within\nHie borders of the Stale, different kinds of mines, and many\nnatural curiosities, all of which would afford ample themes\nfar the antiquarian, the naturalist, and the geologist, and be\ninteresting and instructive to the reader.    May we not, then\nappeal to the friends of literature in the South, in behalf of\ntheir southern pride-, lo contribute theii talents, as well as\ntheir money, to support a literary and miscellaneous periodical,   While we are building up our own importing and exporting commercial ports or cities; while we are establishing\n&gt; character and a name in the commercial world; let us not\ntarget the mental and moral world,    It is in vain that we\nwish our thousands in building up the institutions of our\nWtintry, unless we lay their foundation upon the proper basis\n'\" hgbt and knowledge. The perpetuity of all governments,\n'swell as ibc peace and happiness of the governed, depends\n\"Pontile knowledge and wisdom of the people.    And while\n*6 are endeavoring to become independent, as far as may be,\n111 trade und commerce,\u2014which we believe to be the true\nNicy of every State,\u2014let us endeavor to make ourselves independent in literature and science, and no longer be slaves\na\"J vassals to the North.\nLYCEUM.\nThe next regular meeting of the Lyceum will be held in\nthe Methodist Church, in this city, on tho first Saturday in\nJune, at night.\nGrafton Baker, Esq., of Natchez, has been appointed as\necturcr, and the Rev. Mr. Steel, of Washington, and the Rev.\nMr. Brunorof Natchez, have been appointed as essayists.\nThe last meeting of the Lyceum was very well attended \u2022\nand we were glad to see the audience so highly edified with\nthe lecture, and the happy experiments made by Dr. Mcrwin.\nOur meetings are always public, and ladies and gentlemen\nare always invited lo attend.\nWe learn that an ancient mound ha3 been discovered in\nLouisiana, on the river Bceuf, about eighty miles from\nNatchez, said to be hollow. This mound wc think will be\nworth examining. We would like further information on\nthis subject.\nFor 'lie Small-Western Jciurn.il.\nTHE INDIAN'S SERENADE.\nBY J.   V. SHANNON, ESa.\nThe moonlight sleeps on Ihe whisp'ring wave,\nAnd the breeze comes bland from the shore,\nWhile Ihe murmuring deep, in his glassy cave,\nResounds to the dip of my oar.\nThe bulbul wakes in bis rustling bow'r,\nTo his love and his lay so true,\nHe sings to sleep, from bis spray, the flow'r.\nWhich, beneath him, opes to the dew.\nFor 'mid the deep there's an isle of palm,\nAnd tbcie, in the cinnamon grove,\nThefire-lly wheels through the bow'rs of balm,\nAnd Ihe wood pigeon loves lo rove.\nThy father's balls arc merry and bright.\nAnd amongst them gay forms now roam;\nBut what are they to the clear moonlighl\nOf my sea-girl island home.\nAnd pearls 'mid [by raven locks shine too,\nGay flowers 'mid thy ringlets stray.\nBut what are they lo the midnight dew,\nThat glislens on the orange spray!\nAnd murmurs of song are in thine car,\nAnd around thee mellowly float.\nBut come with me, and we'll sit and bear,\nThe fond strain of the bulbul'snole,\nThy father's arms round thee fondly Iwine,\nAnd he murmurs he loves but thee\u2014\nBut what is his love compared lo mine?\nMy matchless, my own lov'd Haideel\nThen come, Haidee! for the waning moon\nHas sunk in the shade of the grove,\nAnd grant my pray'r for tho wish'd for boon,\nHaidee, thy eternal love.\n' vol. 1\u2014XI,\n&gt;' - 4\nI\nm\nffcVdd","fullrs":{},"find":"532.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"531","restrictionCode":"1","cdmfilesize":"1807633","cdmfilesizeformatted":"1.72 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

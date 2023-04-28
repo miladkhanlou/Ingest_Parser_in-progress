@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>WAS brought to the City Police Jail.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001582</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>T.J. Hitselberger</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1859-09-16</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Two miles above Natchez</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1859</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1859-09-11</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">WAS brought to the City Police Jail on the 11th of September, the griff boy WASHINGTON. Says he belongs to Mr. Jackson Motley, living two miles above Natchez; he is 5 feet 7 1/2 inches high, has a scar under his left eye. The owner will call and claim his property according to law. E. PLANCHARD, Keeper of City Police Jail. Registered September 14, 1859. T.J. HITSELBERGER, Deputy Comptroller. s16 15t</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">griff</note>
+   <note type="content" displayLabel="Slave Owner">Mr. Jackson Motley</note>
+   <note type="content" displayLabel="Slave Name (Age)">Washington</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 4, column 4</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent. ([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-16/ed-1/seq-4/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-19/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-20/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-21/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-22/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-23/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-24/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-26/ed-1/seq-8/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-27/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-28/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-29/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-09-30/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-10-01/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-10-03/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-10-04/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-10-05/ed-1/seq-4/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1626</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1626</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1626/json"
+                        timestamp="2017-02-13 13:32:59">{"title":"RSA00001582","object":"sn82015753","publia":"New Orleans daily crescent. ([New Orleans, La.]) 1851-1866","date":"1859-09-16","year":"1859","film":"page 4, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-16\/ed-1\/seq-4\/","unique":"WAS brought to the City Police Jail.","person":"T.J. Hitselberger","parish":{},"digita":{},"acknow":"1859-09-11","public":"Mr. Jackson Motley","town":"two miles above Natchez","relati":"Washington","slave":"M","slavea":"griff","slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"WAS brought to the City Police Jail on the 11th of September, the griff boy WASHINGTON. Says he belongs to Mr. Jackson Motley, living two miles above Natchez; he is 5 feet 7 1\/2 inches high, has a scar under his left eye. The owner will call and claim his property according to law. E. PLANCHARD, Keeper of City Police Jail. Registered September 14, 1859. T.J. HITSELBERGER, Deputy Comptroller. s16 15t","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-19\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-20\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-21\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-22\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-23\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-24\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-26\/ed-1\/seq-8\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-27\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-28\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-29\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-09-30\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-10-01\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-10-03\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-10-04\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-10-05\/ed-1\/seq-4\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001582.jpg","find":"1678.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1626","restrictionCode":"1","cdmfilesize":"59417","cdmfilesizeformatted":"0.06 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

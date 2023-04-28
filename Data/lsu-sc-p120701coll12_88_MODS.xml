@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 16</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/377</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>377</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/377/json"
+                        timestamp="2017-02-09 16:31:03">{"title":"Page 16","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"lo\n\u2022 U T H - W ESTER N  J 0 U R N A L.\nlife she leaned: and alone and unsympathising in this univer-   ever, in contrast with the death-struck glory of their compan-\nsal decay, out-laws from nature, stood the fir and the hemlock,   ions.\ntheir frowning and sombre heads dark) r and less lovely than X. P. Willis,\nM E '1' K v R 0 I. O).; I C A L   REGIS T E R.   F u R   NOVEMBER,   1837.\nAt Washins, lo i, Miss\u2014Lot. 31\u00b0 30' 42 '.   Long. 91o 20 .\nTBI  -V. &gt;M\u00a3TEA.\n1       19       3       5       :\u2022\nOl    M.   P M. r M  P.M M\nI\nw\nI\n49\n1 63\n67\na'.i\nT.\n\u2022:\n44\n\u25a0 65\n67\n61\nF\n3\n51\n7n\n7-j\n68\nS.\n4\nGel\n77\n-1\n75\nS.\n5\n52\n- 62\n1\n63\n5-\nM.\ntl\n43\n' 68\n71\n65\nT.\n7\n4\"\n71\n71\nOft\nW\n8\n47\n7-:\n70\n68\nT.\n9\n50\n71\nB0\n71\nF\n10\nCO\n7,\n79\n71\nS\n11\n6\"\n-1\n~3\n77\nS\n1-:\n70\n80\nS3\n76\nM.\n13\n6S\n7-\n77\n7,.\nT.\n11\n1~\n,,7\n65\nW.\n15\n39\n7-:\n73\nT.\n111\n12\n\u2022':\u2022\n7::\n63\nF.\n17\na\n--,\n75\n,,-\nM\nT.\nW\nT.\nF.\n54    16\nM. -.'7\nT    3s\nW \u25a0-,\u2022\nT :.,\nM- ,-.\" '\nM     . -V\nI.\n\u2022:\nOvercast.\n\\. w.\nStratu\nve.\nClear\nCalm.\ns, r.\n\"\nS. Vf,\n'   -      - \\   M  :\n\\ \u25a0-...-\n\u25a0: '. 1' M   . \u25a0 .\nN. 41 \\V., i        ..-&gt;.'.   -\nr    .'-!' 1\"~B -    \u2022 '\nFogey.\nII\nS rr.tu*.\ni         ,,\n;\nStratus.\nCirro-s;rat\nCiun-slrat.\nCum-siral.\n' Curmilous\nClear.\nCirro-cuni.\nClear.\nClear.\n\"\nCirro-strat.\nCirrus.\n\"\nCirrus.\nCirrus and\ncum.\nCloudy.\nCloudy.\nStrat-curn.\nSirat-cum.\nStratus.\nClear.\nS:rat. overcast.\nit\nBreak-in?.\n;:rai. brok'n.\nClear.\nClear.\nClear.\nstratus.\nClear.\nRain.\nStrato cam.\nCirrus.\nCirro-strat\nCirrus.\nClear.\nCloudy.\nOvercast.\nSua:.\nCum.\nCirro-cum.\nStrato-cnm.\nAU kinds but\n:.:::.:-,\nClrnu\n\/\u2022v\nDark- stratus.\n1\nDark clouds.\nCli :.:.\nOver.:--..\n.-'\nCirrus.\nC .   is and\nClear,\nClear.\nItainli -\nStmt.\nNimbus,\nSti .\u2022\u25a0\u2022- and\nRain.\nRain.\n.-.'\nStmt.\nSual.\ncum.\nClear.\n1,1X1\n'\u25a0-'\u25a0     2   -Br        ; \/        :\n\u25a0...\u25a0..-:,\ni \u25a0 \u25a0     rent W N. \\V. miiid\n.* . i1 two\"mi\n\u25a0      -    r - venlnx:    1] MN.N.R] ::.-\nM                 -'    15\u2014 N . \u25a0 .. -     s fl\nN \u2022 -       :\u25a0-.--    ..- T. .\n'   v-             \u2022-   -    \u25a0    v    , p    ...\nSUMMARY*\u2014Thin\n\u25a0V       ' \" gftfi \u25a0 .\n\u25a0    'rK        \/ I' Uu.sea ensin \u25a0 i:, -\n;   ' - \u25a0-....   .--\n\u25a0 -      \u25a0'-..\nJ si R iln .; - p\n\u2022 -. warm cum\n: upperc\nu&gt;u.-.l\nsh iwernmro\n: U \u25a0   ..' -\u25a0 :\n\u25a0 |  -.\u25a0;.-\u25a0 \u25a0\u25a0\nrls. v.-ry larf&lt;\nU  1!..\nHUM-\n.*\" ...,-\u25a0\n:;\u25a0;,-        \u25a0\u25a0'\u25a0   . \u25a0   \u25a0\nlate ,1 near T.i\ncled ln-.ir thii\n'\u25a0\u25a0 '\u25a0\u2022\u25a0 mi : thirteen evenings clear\n\u25a0 I lli, il 3 ,'. M : lovreit p irk27 lei\nrs wen clear\u2014unusual. Seven exS\n,f large :..- li  r-1 roaji rity of\n'.'.   rhai s\u00b0a lil'lfe N. K-\nNOTE\u2014Ul\nt upper [ndj   teslli\nB   \u25a0 T- two :; \u25a0..-.-. ar     ,.    \u2022,...-\u25a0    ..-\u25a0'-.     ;\u25a0 .\n  I\u00ab,an I -:.   :. v. r lhal   fthe winds.  I'm-\n!    '    ' - '.       ,.   \u25a0 \u25a0\u25a0       --\u25a0 wa\"\u00bb\\ -. ier6meaniiiiw5l\n'cloud. I, run tattti origin   f',i\u201e      ...    .,,;-.., \u201eir. a.-ti.\n\u25a0 \u25a0\u25a0\u25a0'\u25a0      .-\u25a0\u25a0-.     IliighpU, aral rut, and 10 a bun:..,:-.\na","fullrs":{},"find":"378.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"377","restrictionCode":"1","cdmfilesize":"1702573","cdmfilesizeformatted":"1.62 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

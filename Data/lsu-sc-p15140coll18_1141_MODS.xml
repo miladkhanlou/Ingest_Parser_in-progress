@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Folder 1a-20, Hermann Moyse, Sr. Letters, 1919 July 4-July 15</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Moyse, Hermann, 1891-1985</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1919</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Louisiana</topic>
+      <topic>Social life and customs</topic>
+      <topic>20th century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1914-1918</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Baton Rouge (La.)</geographic>
+   </subject>
+   <abstract displayLabel="Description">This folder contains four letters from July 4 through July 15, 1919, all written by Hermann Moyse to Rosalie Gottlieb.  In a letter dated July 4, Moyse reminisces about the previous year's Fourth of July celebration in a French town named Massevaux during which the "Alsatian girls, ranging from tots to young mademoiselles in their teens, all dressed in the national costume, sang a verse of the Star Spangled Banner in English, [which] was so clearly an effort to please 'les Amricains,' to symbolize the unity that existed between the nations that I doubt whether there was an auditor who did not leave feeling more closely our friendly relations."  Moyse also writes about attending various luncheons and dinners at which he was asked to give a speech or which he attended as the guest of honor and describes his participation in an event at the Louisiana state penitentiary (July 4, July 7).  In a letter from July 11, Moyse mentions receiving a letter from Mrs. Abbott, one of his hosts at the château in France where he was convalescing after having been wounded.  In the final letter in the folder, Moyse describes the dinner he attended in honor of Bastille Day at which he gave a speech in French, jokingly noting "All I can say is that I lived through it last night and that none of my auditors threw any rotten eggs or cabbages" (July 15).</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>4 letters.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <genre>correspondence</genre>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Hermann Moyse, Sr. World War I Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4671.pdf</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll18:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Mss. 4671, Box 1a: 20</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll18/id/1550</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-11-24</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll18</alias>
+         <pointer>1550</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll18/1550/json"
+                        timestamp="2017-02-06 12:53:17">{"title":"Folder 1a-20, Hermann Moyse, Sr. Letters, 1919 July 4-July 15","creato":"Moyse, Hermann, 1891-1985","date":"1919","physic":"4 letters.","langua":"en","type":"correspondence","covera":"Baton Rouge (La.)","subjec":"Louisiana--Social life and customs--20th century; World War, 1914-1918","descri":"This folder contains four letters from July 4 through July 15, 1919, all written by Hermann Moyse to Rosalie Gottlieb.  In a letter dated July 4, Moyse reminisces about the previous year's Fourth of July celebration in a French town named Massevaux during which the \"Alsatian girls, ranging from tots to young mademoiselles in their teens, all dressed in the national costume, sang a verse of the Star Spangled Banner in English, [which] was so clearly an effort to please 'les Amricains,' to symbolize the unity that existed between the nations that I doubt whether there was an auditor who did not leave feeling more closely our friendly relations.\" &lt;br&gt;&lt;br&gt; Moyse also writes about attending various luncheons and dinners at which he was asked to give a speech or which he attended as the guest of honor and describes his participation in an event at the Louisiana state penitentiary (July 4, July 7).  In a letter from July 11, Moyse mentions receiving a letter from Mrs. Abbott, one of his hosts at the ch\u00e2teau in France where he was convalescing after having been wounded.  In the final letter in the folder, Moyse describes the dinner he attended in honor of Bastille Day at which he gave a speech in French, jokingly noting \"All I can say is that I lived through it last night and that none of my auditors threw any rotten eggs or cabbages\" (July 15).","locati":"Mss. 4671, Box 1a: 20","source":"Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4671.pdf","contri":{},"notes":{},"publis":{},"format":{},"relati":{},"rights":{},"contac":{},"catalo":{},"imaga":{},"color":{},"extent":{},"imagb":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"1551.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2010-11-24","dmmodified":"2010-11-24","dmoclcno":{},"dmrecord":"1550","restrictionCode":"1","cdmfilesize":"6495","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

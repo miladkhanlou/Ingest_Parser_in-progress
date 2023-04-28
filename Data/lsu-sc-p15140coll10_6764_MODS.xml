@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 5, Page 10</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2170</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2170</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2170/json"
+                        timestamp="2017-02-03 08:24:47">{"title":"Section 5, Page 10","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"10\nstated that the transportation of produce from St. Landry alone to }***-\nOrleans last year cost $590,000. The railroad would diminish this c^\none-half. But it was not in this respect alone that the project was to Ik\nviewed. Experience shows that when the terminus of a railroad is hi am\u2122\ncommercial city, the road not only enhances the value of property in the cib\nitself, but also along the whole line. This fact has boon established iu }ta\nYork, in Massachusetts, and wherever else railroads have been built. In cver.\ninstance the forest was converted into cultivated fields ; the roadside was ]inaj\nwith farm houses ; and the wilderness gave way to a thrifty and mclustrioa\npopulation. So that the mere matter of cost of transportation, or the iwat\ndiate benefits to be derived from railroads, was but a part of the advantage\npresented. The railroad system is almost assimilated to tho creative power of\nGod; and he who contemplates only the present efi'ect of a railroad has bit\na narrow vision. He should sec the new fields open, the new houses going up,\nthe accumulating population, and the increase of wealth and prosperity frcm\ntheir labors. The general wealth and prosperity of a State was advanced tj\nrailroads beyond computation. The city grew on them, and the wilderness\nblossomed as a rose.\nCommerce is the interchange of products; and before this interchange en\ntake place, there must be the conveniences for interchange.     As Bacon saii\nthe elements of a prosperous commerce are an abundant soil and easy mean*\nof   communication.       The   sugar   grown   on   the    prolific   soil   in the\nwestern part of our State is of no value, unless it can he exchanged fin\nother articles.     Therefore it is that transportation is as great a need for the\nagriculturist as for the  merchant.    Many things have no value until  tbej\n(Jan be deported.     Thus it is with ice at the North\u2014thus with the pcrishabk\narticles of the animal and vegetable kingdoms; the barnyard products\u2014**\neggs and the poulty.    These things are in superabundance throughout w\ncountry, and are of scarcely any value there.     Here meats are scarce; eg\u00a3\nare worth seventy cents to a dollar a dozen; while in St. Landry they &lt;&amp;\nalmost be had for the ashing.     Here, again, the necessity of means for transportation is apparent.     Nor are these slight matters.      On the contrary W\nare important and concern the people of the city largely, as well as those\nthe country.    If this railroad were built, we should have from St. Land1?*\nabundance and cheap, beef and mutton, game, and the products of the b*\nyard and dairy.     Thus would the living of the citizen be cheapened, *\u25a0*\nnew outlet opened for the industry of the agriculturist.     \"When the raiir^\nsystem was first brought before the British Parliament, much important\ndence on the subject was elicited.     Among other things, it was stated\nwould be better to have railroads, though the cost of transportation shot\"11,\ndoubled, than to be without them.     For instance, that means of convey*\nsaved cattle from long and attenuating journeys.    On the railroad they\nflesh on the way to market; and now beef is sold in the city of howon","fullrs":{},"find":"2171.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2170","restrictionCode":"1","cdmfilesize":"586866","cdmfilesizeformatted":"0.56 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

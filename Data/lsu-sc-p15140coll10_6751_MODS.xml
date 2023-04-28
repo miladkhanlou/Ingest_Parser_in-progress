@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 4, Page 10</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2157</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2157</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2157/json"
+                        timestamp="2017-02-03 08:24:46">{"title":"Section 4, Page 10","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"10\npublished for that purpose in the city and country papj\ngenerally.\nThe importance of a full attendance of the members of tfl\nconvention at the extra session, cannot be overrated.\nThe Texas delegates to the Burkeville Convention, liaviil\nby a resolution, invited Louisiana to send delegates to'\nconvention, appointed to be held at Austin, on the 22d\nof November, the committee have thought it expedient tj\nsend Mr. Payne as a delegate to represent the friends of Nel\nOrleans and Opelousas Railroad, in that Conventio]\nand also as agent to communicate with the authorities'}\nTexas, (its Legislature being now in session there), in rej\nto the extension of this railroad through that State.\nFinally this Committee has established an \" Office of tht\nNew Orleans and Opelousas Railroad,\" where the maps,bobj\nand papers, relative to this road, and railroad document\ngenerally are collected;\u2014where the friends of this enfej\nprise may repair for information, and where the meeting\"!\ncommittees in regard to it, regularly assemble. Tm\nmeasure and the appointment ol a person to keep the offiffl\nand to act as corresponding secretary to the committee, ha|\nbecome necessary by the increasing interest in the projes\nand by the accumulation of the labors of the committe inM\nrecting the preliminary surveys, and in preparing for 9\nassembling of the Convention.\nTo ensure the completion, before the 2nd of Jan., of M\npreliminary survey, from New Orleans to Berwick's Ba\nand the branch to Houma, two surveying parties have bea\nset to work on different sections of the route. It was tl\nopinion ofthe committee, and concurred in by Judge Mo\u00bbSI\nthat the only portion of the contemplated line to Opelousffl\nof which there was any uncertainty as to feasibility or co*j\nwas that between the Mississippi river and Berwick's Bw","fullrs":{},"find":"2158.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2157","restrictionCode":"1","cdmfilesize":"572417","cdmfilesizeformatted":"0.55 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

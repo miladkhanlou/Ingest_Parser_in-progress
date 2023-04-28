@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 349</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1830</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1830</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1830/json"
+                        timestamp="2017-02-03 08:23:21">{"title":"Page 349","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 349 .\u2014\ndiaires ot d'egorgeurs. Ses rues et sos banquettes ne sevoient plus fpu-\nIjes dm dc.s gontiUhommes de la haute et basse pegre. Hasardez-y vos\nbottinea, mesdamos -, leur satin n'en sera plus terni.\nAniourd'hui.bt sec-urite est lentree danslcs esprits. Les tocsins des\nccnites do vigilance s'egitent parfois encore, mais c'est lorsqu'on a a.\nBurveiller quelque pcrsonne suspootee d'apparteuir a cette infamo association de bandit* dont on a decapite les tetes les plus tristcment cele-\nbrea, ou, comme il nous est art-ive.il y uquclquesjoursa peine, lorsqu'il\ns'agit de traqner aualque banni en rupturo.de ban, comme certain\nbanni qui a eehappe miraeuleuaement, pourrait-on dire, a vingtlanieres\nde fouet preparers specialement pour lui.\nAujourd'hui, une reaction aussi complete que formidable s'est faite\ndaps lea eosurfl ot lea consciences.\nAiijourd'liui, on a vu que ce que l'ou a appeie si longtemps le chapitrc\ndes considerations, tout innocent qu'il sembluit etre, n'etait qu'une mau-\nvaise rosso de fiacre qui conduisaic doueement la societe a des abimctf\niucoun us.\nAujourd'hui, le mot: sGuerre aux bandits !\u00bb est dans toutes les bou-\ncbes, et nous doutons qu'aucun juri (meme choisi dans la plebe la plus\ninfamo) ait a 1'avenir rnudace sacrilege dc souffletor le saint visage du\nCiu'ist cu aequittant des criminels.\nAujourd'hui, les bons citoyens, ceux qui, pendant de longues aunee*.\nnvaient fenne les yeux sur les pluies de notre societe, pour ne pas\netre obliges d'en avouer les crimes et les misercs ; aujourd'hui, ccux-la:\nles plus purs', les moiilcurs, ceux-la sont tous soldats des comites de vigilance, ct prets a donner leur or et leur sang, s'il le faut, au triomphe de\nlacausc ou'ils ont ombrassee.\nAujourd'hui, la moralite s'eet reveillee. Elle qu'on croyait morte\nn'etait qu'endotraw), et elle rachete par son activite les annees qu'elle a\npordues a dormir son long sommeil.\nAujourd'hui, on commence a reconuaitre la competence d'un tribunal\nj peu pres inconiiti ici jusqu'a pniscnt. Co tribunal, qui jugeait les rois\nd'fc^ypto apres leur mort, et probablumeut aussi un peu de leur vivaut,\n\u2014ce tribunal quiju\u00abo rois, presidents, juges, citoyens, et qui les met\ndans le ciel ou au \"pilori de l'histoire, ec tribunal s'appelle 1'Opinion\nruiti.iq.UK, et il commence a sieger. Chacun tremble do oomparuitre a\nsos torribles assises. Keuis soient les comites de vigilance qui se BOut\npouches *ur lc cercueil ou dormait 1'Opinion Publique tjt l'ont thee du\ntomheau comme Lazare.\nAujourd'hui, lo programme des hommes qui se sont jetes dans les\nOpmite'B eat rcconuu-par I'opinion publique comme devant obtenir cer-\ntuinoe niformes sociales.\nLa pruuiero dc toutes, la plus sacree, est eclle-ci:\n1. Si lc juri acquitte un homme que les temoignages et l'cvideoce\nproclameront coupable, qu'on puisse poursuivre ce juri comme parjure.","fullrs":{},"find":"1831.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1830","restrictionCode":"1","cdmfilesize":"399033","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 4</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2229</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2229</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2229/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 4","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[4]\ncrease in the direct importations of foreign merchandise into ft.\nMississippi valley by way of New-Orleans.    The duties upon it \\*\nincreased during the five years ending with the 30th June W \u2022'\nround numbers, from $1,715,000 to $2,722,000, or at the aver,!!\nrate of nearly 12 per cent, per annum.\nNow, the reason that the export sea-trade of New-Orleans has ck\ncreased, and its foreign trade increased, if traced back to first prijj\npies, will be found depending for an explanation upon steam and\nlightning, upon the improvements of navigation and shipbuilding\nand upon the obstructions to navigation at the mouth of the Miss*\nsippi River.\nIn consequence of the first of these, a punctuality and a certainty\nhave been given to commercial transactions, which, as before stated\nhave broken up almost entirely those transactions w-hich were for.\nmerly known as \" commercial speculations.\" Punctuality in filling\norders and delivering goods where they are required, is now a vital\nprinciple to wholesome commerce. Dealers and factors are brought\ndown to the smallest margin for commissions and profits. Merchants will tell you that profits now consist in parings made by close\ncutting: a little here, and a little there. Therefore, to save thehani\nling of the produce of the Mississippi valley, once on its way to mar.\nket, is profits.\nHence, all that produce which used to be shipped from New-\nOrleans to New-York, and then re-shipped thence for European markets, and all that foreign merchandise which used to be imported into\nNew-York, and sent thence to New-Orleans, is beginning to go and\ncome direct to New-Orleans, in order to save the transhipment\nMany of the agencies that used to be employed between the produoer\nand consumer, have been stricken down by the lightning; and tbe\ntendency of steam and the telegraph is to bring the producer and\nconsumer more and more into direct intercourse.\nIn evidence of this, we may point to the importing houses that art\nspringing up in the cities of the valley. In St. Louis, for example'-\nthere the wholesale merchants do not, as formerly, buy of the East\nern importer, aud of course pay him his fees, commissions and profits,\nbut they are beginning now to go direct to the foreign producer,.\"*\nthe eastern importer does, and order direct; thus saving the *\npenses of an agency, or the part of one at least. ,,\nThe enterprise of Illinois has created another mouth to the Juj\nsippi, and placed it in Lake Michigan. Much of the produce ifto\nformerly touched at New-Orleans on its way to market, now g\u00b0*\nthrough that canal; and for certain articles, its influence is fe\" e\non the plantations in the state of Louisiana; for some articles e\nfrom there, are turning about and flowing up stream : sugar is\nmolasses another. (0\nBefore this canal was opened, the sugar of Louisiana, in \u00b0&gt; '*\nreach tho consumer in the lake country, had to go down to      j\nOrleans, then round by sea to New-York, then up to the l3'\"^*\nso across by water, boxing the compass to get to Chicago.","fullrs":{},"find":"2230.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2229","restrictionCode":"1","cdmfilesize":"566261","cdmfilesizeformatted":"0.54 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

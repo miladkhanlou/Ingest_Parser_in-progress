@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 327</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1808</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1808</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1808/json"
+                        timestamp="2017-02-03 08:23:20">{"title":"Page 327","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 327 \u2014\nMme C. M., qui, depuis des aimees, porte tousles matins du jardi-\nnage au marche de Vermillonville,\u2014cet esclave, disons-nous, passant\na six heures du matin devant la maison, theatre de Patten tat, entendit des cris etouffes qui partaient de cette m\u00a3me maison ; ct comme\nil passait, il vit un jeune mulatre, le meme qui a ete a detui pendu\ndans une scene qua nous venous de.decrire, jouant sur la galerie.\n\" D'ou vienneut ces cris ? demanda le jardinier.\n-\u2014Ce n'est rien, dit le muldtre, c'est ma maitresse qui fouette Modeste.\"\nLe jeune drolc commettait la un mensonge qui devait lui valoir\nla potence. C'etait Modeste qui, au contraire, assassinait sa maitresse en ce moment.\nII fut mis en prison et fit des revelations. L'enfance est loquace';\nc'est la son moindrc defaut; seulement le jeune prisonnier y jouait\nsa tete.'\n11 reveia tout\u2014et Pheure du crime, qui etait bien celle ou lema-\nraicher 1'avait vu, et Pattcntat commence par des coups de hache\net fini au fond d'un puits; il reveia que, pendant l'assassinat, il avait\nfait le guet, afin de donner le change sur les cris ou ie3 plaintes qui\npourraient s'ediapper de la maison pendant la lugubre scene ; il fit\nsi bien quele pauvre diable sc fit condamner a mort.\n31 ne devait pas etre le seul condamne.\nNon-seulement le jeune mulatre avait denonce le role qu'il avait\njoue pendant le crime, mais 11 avait dit aussi quel avait ete le role\ndes autres acteurs. Deux negresses (Modeste et Hyacinthe) avaient\nentoure leur maitresse ; Modeste lui avait porte un premier coup\nde hache ; puis elle avait frappe, frappe, frappe taut que la victime\navait donne signe de vie ; puis on avait ramasse* ce corps dont le\nsang et la vie s'epanchaient par mille blessures, et on t'avait jete\ndans le puits d'ou l'on venait de le retirer encore tiede...\nAjoutous, comme dernier trait au tableau, que ce cadavre, jete\nvivant dans ce trou a six heures du matin, en avait ete retire encore tiede, k dix heures du soir.\nAjoutons encore que les deux jeunes filles, qui avaient trouve, le\nmatin. Modeste fourbissant, Pavaicnt vu, sans s'en douter, laver le\nsang de leur mere, et avaient marche dessus.\n0 etait, comme on voit, un crime a depasser toutes lee plus son*-\nbres cornbiliaisons de Shakspeare.","fullrs":{},"find":"1809.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1808","restrictionCode":"1","cdmfilesize":"390299","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

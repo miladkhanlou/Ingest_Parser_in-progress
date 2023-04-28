@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Slattery Building, Shreveport, La., 17 Stories</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes" qualifier="approximate">1940</dateIssued>
+      <place>
+         <placeTerm type="text">Shreveport (La.)</placeTerm>
+      </place>
+      <publisher>Shreveport News Agency</publisher>
+      <dateCaptured encoding="w3cdtf">2012-10-05</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Postcards</topic>
+      <topic>Louisiana</topic>
+      <topic>Shreveport</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Tall buildings</topic>
+      <topic>Louisiana</topic>
+      <topic>Shreveport</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Gothic revival (Architecture)</topic>
+      <topic>Louisiana</topic>
+      <topic>Shreveport</topic>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>Slattery Building (Shreveport, La.)</namePart>
+      </name>
+   </subject>
+   <abstract displayLabel="Description">Color picture postcard of the Slattery Building on Texas St., Shreveport, La.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Picture postcards</form>
+      <extent>1 postcard</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Karl D. Reyer Postcard Collection, 1945-1959</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-reyerpostcards:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 3118</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>E:65, Box 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/InC/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">In Copyright</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright is retained in accordance with US copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Karl D. Reyer Postcard Collection, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">3118Shreveport002</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/cgz</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-04-15</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

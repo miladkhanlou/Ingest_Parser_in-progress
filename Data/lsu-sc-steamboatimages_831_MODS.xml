@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>U.S. Revenue Cutter "Wynona," 1895</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1898</dateCreated>
+      <dateCaptured encoding="w3cdtf">2016-04-11</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>River steamers</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Revenue cutters</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Fort Saint Stephens (Ala.)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Tombigbee River (Miss. and Ala.)</geographic>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>Jas. A. Carney (Steamboat)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>Wynona (Revenue cutter)</namePart>
+      </name>
+   </subject>
+   <abstract displayLabel="Description">This is a copy photograph of a copy photograph of a photograph of the Revenue cutter "Wynona" and the steamboat "Jas. A. Carney" moored on the Tombigbee River at the site of Fort St. Stephens.</abstract>
+   <note type="content">Image caption: This picture was taken on the day of the Centennial Celebration at old St. Stephens, Ala. During 1895  commemorating the 100th anniversary of the building of Fort St. Stephens by the Spaniards in 1795. The settlement was originally a possession of France, England, Spain and America. The boats laying at old St. Stephens Landing are U. S. Revenue Cutter, "WYNONA," which represented the U. S. government. The boat laying above the "WYNONA" is the Bay boat "JAS. A. CARNEY," that brought the Spanish Consul and a delegation from Mobile to the celebration. The U. S. Revenue Cutter flew all the flags for such occasions. "CAPT. ED G. JACKSON" piloted the "WYNONA" up the Tombigbee. Note on verso: I consider this one of the most interesting pictures I have ever seen as this old Lovers Leap [?] etc has since been cut back by a cement co for cement content. Correct date should be 1898.</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Prints (visual works)</form>
+      <extent>1 print</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Steamboat Images, circa 1842-1962</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-steamboatimages:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 1510</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>E:70, Box 17</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/InC/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">In Copyright</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright is retained in accordance with US copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Steamboat Images, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">1516009</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/mem</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-05-08</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

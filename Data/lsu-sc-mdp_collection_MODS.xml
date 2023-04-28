@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Marshall Dunham Photograph Album</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;Marshall Dunham photograph album, ca. 1861-1865&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;This photograph album was compiled by Sgt. Marshall Dunham of the New York 159th regiment and consists of photographs taken in Louisiana during the Civil War. They are categorized according to cities, with the largest group being New Orleans. The album includes photos of buildings and street scenes.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The Marshall Dunham photograph album is housed in Hill Memorial Library, LSU Libraries Special Collections division. The Louisiana and Lower Mississippi Valley collections (LLMVC) is comprised of more than 5000 manuscript groups encompassing over 10 million items. Recognized as one of the nation's premier repositories for materials relating to the antebellum plantation, Civil War, and Reconstruction South, LLMVC includes the papers of individuals and families, records of plantations, merchants and financial institutions, and the records of political, social, and labor organizations. The most important of these collections relate specifically to the families and enterprises in the Lower Mississippi Valley, from Memphis to New Orleans, and are especially strong in the Natchez, St. Francisville, and Baton Rouge areas. The French and Spanish colonial periods in the region are also documented. LLMVC continues to acquire 18th- and 19th century manuscripts, as well as substantial collections of 20th century materials that relate to the region's social, economic, political, cultural, literary, and military history.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Please visit the LSU Special Collections website for more information: &lt;a href="http://www.lib.lsu.edu/special" target="_blank"&gt;www.lib.lsu.edu/special&lt;/a&gt;&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Photograph album compiled by Sgt. Marshall Dunham of the New York 159th regiment consists of photographs taken in Louisiana during the Civil War.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-mdp</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_MDP</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_MDP</identifier>
+</mods>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>View No. 28. Chickamauga. Red House Crossing. Scott's First Louisiana Cavalry and Robinson's Louisiana Artillery.</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1894</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Chickamauga (Ga.), Battle of, 1863</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Chickamauga-Chattanooga National Military Park (Ga. and Tenn.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">This view is taken looking west from the hills on the East side of Chickamauga bottom, on which traces of Scott's Cavalry Camps are still to be found.Lookout Mountain is shown in the distance and Walden's Ridge beyond the Tennessee River.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Gelatin silver prints</note>
+      <extent>8.50" x 5.20"</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Chickamauga-Chattanooga National Military Park (Ga. and Tenn.) Louisiana Committee. Photographs</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Chickamauga and Chattanooga National Military Park Photographs</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cnp:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4504.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Chickamauga and Chattanooga National Military Park (Ga. and Tenn.) Commission: Louisiana Committee Photographs (Mss. 4504), Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana, USA.</note>
+   <identifier type="local" displayLabel="Item Number">45040028v</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CNP/id/1042</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2005-10-25</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <collectionSource>IRP</collectionSource>
+      <CONTENTdmData>
+         <alias>LSU_CNP</alias>
+         <pointer>1042</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CNP/1042/json"
+                        timestamp="2017-01-13 15:01:20">{"title":"View No. 28. Chickamauga. Red House Crossing. Scott's First Louisiana Cavalry and Robinson's Louisiana Artillery.","compao":"Yes","creato":"unknown","date":"ca. 1894","dates":{},"subjec":"Chickamauga (Ga.), Battle of, 1863;&lt;br&gt;Chickamauga-Chattanooga National Military Park (Ga. and Tenn.)--Photographs","descri":"This view is taken looking west from the hills on the East side of Chickamauga bottom, on which traces of Scott's Cavalry Camps are still to be found.&lt;br&gt;Lookout Mountain is shown in the distance and Walden's Ridge beyond the Tennessee River.","typa":"Image","audien":"Gelatin silver prints;8.50\" x 5.20\"","type":"jpeg","relati":"Chickamauga-Chattanooga National Military Park (Ga. and Tenn.) Louisiana Committee. Photographs","covera":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","source":"IRP","reposi":"Finding aid for the original photographs: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4504.pdf ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","cite":"Chickamauga and Chattanooga National Military Park (Ga. and Tenn.) Commission: Louisiana Committee Photographs (Mss. 4504), Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana, USA.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"45040028v","identa":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CNP.php?CISOROOT=\/LSU_CNP","fullrs":{},"find":"1043.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2005-10-25","dmmodified":"2005-10-25","dmoclcno":{},"dmrecord":"1042","restrictionCode":"1","cdmfilesize":"62186","cdmfilesizeformatted":"0.06 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

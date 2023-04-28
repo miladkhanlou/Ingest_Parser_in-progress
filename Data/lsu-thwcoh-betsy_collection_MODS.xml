@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Hurricane Betsy Survivors Oral History Project</title>
+  </titleInfo>
+  <identifier type="local" displayLabel="Collection ID">lsu-thwoh-betsy</identifier>
+  <name type="corporate" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <note type="content" displayLabel="Collection Description">Nilima Mwendo conducted these interviews in 2003 with residents of New Orleans' Lower Ninth Ward who survived Hurricane Betsy when it made landfall on September 9, 1965. Interviews focus on the Lower Ninth Ward neighborhood from the 1930s and 40s, when the area was only partially developed and rural, to the early 2000s. Interviewees discuss their experiences during the hurricane, the evacuation of the neighborhood, disaster relief from the state and federal government and Red Cross, and the hardships they and other residents encountered in the months and years they spent rebuilding their homes and lives after they returned to the neighborhood. Interviewees describe the neighborhood before Betsy and discuss changes in the community after the storm. Several interviewees also discuss social activism and advocacy for the neighborhood in the 1960s and 70s.</note>
+  <abstract displayLabel="Collection Summary">Residents of New Orleans' Lower Ninth Ward recall how they survived Hurricane Betsy in 1965 and the aftermath of the storm.</abstract>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordCreationDate>2021-04-27</recordCreationDate>
+    <recordContentSource authority="local">lsu/jg</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

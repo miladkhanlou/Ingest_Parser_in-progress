@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 260</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1744</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1744</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1744/json"
+                        timestamp="2017-02-03 08:23:18">{"title":"Page 260","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 250 \u2014\nnan moins raide. non moins inffexible que Ia premiere : nos prejuffes,\nnos justes prejuges ! Ceux-lii vons fiefcriniient comme un reprisde justice .' Ceux-lii vous inarquerah'nt a la joue et it 1'ejiaule ! Ceux-hl vous\ncbasaeraient de la societe de vos pareils! Ceux-la vous prodame-\nraient abject ct hifanie.' Ceux-la, vOus sentez-vous assez de courage\npour ies braver !\n\u2014J'epouserai Anita, repetn John.\n\u2014Et si vous braviez nos prejuges, si je vous laiss.nis commettre\ncette fautc. on plutot ce suicide do votre jeunesse et de votre avenir.\npour qui ferioz-vous tons ces sacrifices, toutes ces immolations ? Pour\nuue femme que vingt bras ont petrie. quo vingt individus out conmie\net enfeuite repoossee comme on hailhui, et dont la couronne virginale\na ete balayeo par tons les vents du ciel, avant que vous eussiez vous-\nmeme love les yeux ear ancune femme. Epouser une creature qui\ncstdevonuela chose, la propriete de tout le monde, tine espece d* voft\npublique sur laquelle la foule passait hier et passera detnain! epouser\nune pareille creature .' Mais, John, vons n'y pensez pas .' \u00bb\nEt, prenniit un accent paternel qui parut aller un moment au cosar\ndu jeune homme-:\na John, lui dit-il, quand les passions out commence a s'eveiller en\nvous; quand la plus noble, la plus divine, J'amour, a commence it\nchanter dans votre 'Sine : John, la premiere fois que vous avez fris-\nKHine au Irolonient d'une robe de soie ou a hi melodie (Tune parole\nde femme, vous avez (lu faire.un reve que nous faisons'tons. N'avez-\nvous pas reve que vousaimiez une jeune fille.une viergc, belle comme\nces creations idealps qultombont du pinccau des artistes do l'Angle-\ntei're? N'avez-vous pas revo que hi jeune fille vous aimait, que vos\nparents approuvaient votre union, que. blanche comme uue fee et\ncouroiinee comme une reine, elle mettait sa main dans votre main or\nque vous alliez tons deux triomphalement it une eglise dont la cloche\nsemblait vous appeler par ses joyeuses volees 1 A votre arrivee,\ni'eglise sc remplissnit d'eneens, 1'orgue s'oveillait et laneait au del\nses cantileiies sonore*.: le pretievons benissait et vous vous letiriez.\nheureux conmie un roi. eu regardant avec adoration la viergo dont le\npretre venait de faire *~otro Apotme. Vous avez fait ce reve. n'est-ee\npas? Eh bien! si vous t'pousiez Anita, ou seraient le pretre, l'encens. la\npriere ? ct surionr. maAetireux enfant, oil serait la couronne, la couronne virgi'-ile ile votre fiancee?\n\u2014J'epousi ;;:i Anita I JYpouserai^Anita ! *\nEn eiitendant cea Biota qui prouvaient que John etait. plus que jamais, retnuiclie dans son idee, la figure de l'habitant prit une pro-\nfonde expression de tristesse.\n\u00ab John, liti dit-il. Dieu est temoin que j'ai fait tout mon possible\npojr vous dissuader d'un projet aussi odieux qu'insense: maiotejiam,\n1) me reste nn autre role ii remplir. Poisque mesconscils n'ont pu al-\nler jusquVi votre cceur; puisque deeideuient la fille de la nuit a plu\nau tils do la lumiere. moi qui veux vous empecher de jouer votre\nboiiueur sur ce sfupide coup de de : moi. quiveux vons epargner, s'il\n\u25a0est possible, le bagne et peut-etre pis encore, je vous interdis racoes","fullrs":{},"find":"1745.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1744","restrictionCode":"1","cdmfilesize":"417260","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

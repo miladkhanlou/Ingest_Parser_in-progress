@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 84</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2613</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2613</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2613/json"
+                        timestamp="2017-02-03 08:23:45">{"title":"page 84","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"quested, of the fever of both lob:] ami lSol.    The first case that\never was seen in this place was It. L., art. 20, a native ol' this State.\ntaking the fever, which was on the 1 th   I \u25a0-    ,     1       f.       11\nblack vomit and turned yellow, and dierl on the seventh day of\nCASE 2. A negro, \"aged 30, taken Scut. 20th, discharged 27th;\neyes very yellow.    Three, others were sleeping in tho same room,\nCase 4. J. S., aged 17, taken Oct. 3d ; came here tw\nviously from Jackson ; died on the 8th. He bad blacl\nhad large black discharges from the bowels; eyes .\nif the others.    A negro boy was sick\nCase 5. Dr. J. H. B, aged 29, taken Oct. 20th, died on the 2(\nHe had vomit of reddish flakes and turned yellow.\nCase 6. G. Me., aged 31, taken 23d, well on 31st.    In sa\nCase 7. C. V, aged\n21, taken 26th, well in twelve\nsame house with two la\nt cases; had nursed both; hemorr\ngums and lips.    Seve.\n1 whites and negroes nursed th\nCase 8. E. M., taken\nOct. 24th, died on seventh day;\nyellow, and had black v\nhere twelve months; h\nCase 9. E. S., aged\n50; taken Nov. 2d; turned yello\nday ; had hemorrhage :\nomgums; died the 7th; had bla\nThis man, a blacksmith\ndid not work within half a mile\n. lie visited one ; he slept out of\nCase 10. H G., take\nNov. 4th; worked in the same 1","fullrs":{},"find":"2614.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2613","restrictionCode":"1","cdmfilesize":"504761","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

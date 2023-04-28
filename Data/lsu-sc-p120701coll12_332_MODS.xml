@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/604</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>604</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/604/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTIl.WESTERN JOURNAL\n841\npropriate objects, of infinite development. The development\nand exercise of these powers and faculties constitute knowledge.\nIn tho further illustration of this subject, we shall glance\nal some of the impediments in the way to the acquisition of\nknowledge, propose our plan for its natural and easy acquisition, and conclude with an exhibition of some of its advantages.\nFirst, then, in the very threshold, the prejudices and lire-\nconceptions of society around us, interpose a mountain barrier.    Mankind in all ages have received slowly and reluctantly, innovations or improvements upon long established\nusages.    We are strongly wedded to tho ways in which our\nfathers walked, and to the things our fathers loved.    As a\nconsequence, tho innovator most usually receives cursing,\ninstead of blessing, from tbe community he designs to benefit.    His motives are impugned, nnd his positions assailed\nand condemned without examination.    The shafts of ridicule\nand withering satire, dipped in the very dregs of Acheron,\narc hurled al him by every plodding drone ofthe community.\nThis, friends, is but the usual penance, which bold and fearless genius, talents and enterprise, must ever pay to ignorance\nand stupidity.    Think it not strange, then, if even our unostentatious Association, for the acquisition and diffusion of useful knowledge, should encounter these difficulties.    No enterprise, nor improvement, however glorious or useful in its results to mankind, has shared a better fate.    All history is replete with evidences of this truth.    That portion of society\nwhose mushroom reputation or sordid interests are involved\nin the perpetuity of established usages always raise the cuckoo note of speculation against every improvement.    When\nHarvey gave his illustration of the beautiful mechanism of\nthe heart, arteries nnd veins, in the circulation of the blood,\nthe wise, doctors of the day pronounced it a pretty specula-\nlion.    When Columbus proposed his theory of the earth,\nand his plan  for the discovery of this western hemisphere,\nlhc petty philosophersletttxed it an absurd speculation.  When\nthe immortal Fulton launched his first steamboat on the waters of tho Hudson, the gaping, scoffing multitude cried out,\nwhat a foolish speculation.    When the bold and adventurous\nbird of Jove mounts on untiring wing, to gaze on the sun in\nhis midday splendor, the gabbling goslings, lomtils, and dodoes, unable to follow him in his daring flight, cry out with\nastonishment, what a splendid speculation !\nThe second impediment, we shall notice, to tho acquisition\nof knowledge, is, ignorance of the specific faculties and powers to bo employed in this matter.\nMuch of the difficulty we encounter from this source, has\narisen from tho discussant and unsatisfactory systems of mental philosophy given us by tho metaphysicians. Scarcely\nany two of them agree as to what are the primitive faculties\nand capabilities of man. \" System after system has flourish-\neel, fallen and been forgotten, in rapid and melancholy succession.\" By all of them, mind and its manifestations, have\nbeen studied with too little reference to the body. They have\nlooked upon itasan indefinable something, separate mid apart\nfrom organized matter.   With these discordant and unnatural\nviews of mind and its faculties, their cultivation could not of\ncourse be otherwise than irregular, cmpyrical, and imperfect.\nThe third impediment to the acquisition of knowledge,\nwhich wo would name, is tho improper direction of the faculties. We have all experienced the force of this difficulty.\nThe diudgcry, toil and disgust we have felt in conning over\nby rote our school-boy lessons, can never be forgotten. We\ncan never forget thesovereign contempt and hatred with which\nwe looked upon our first preceptors, with their brandished\nrods and menacing ferule. Now why was this? Have children actually no relish for, nor wish to acquire knowledge;\nnor love for thoso who impart it? Most assuredly they have.\nTheir little hands, and eyes, and ears, and all their powers of\nobservation, arc constantly on lhc stretch for new discoveries\n\u2014for new objects in the world of wonders around them.\nEvery new idea acquired from acquaintance with these now\nobjects, their qualities, properties, and uses, brings with it inexpressible delight.\nHow, then, can it bo otherwise than irksome and disgusting\nto call them off from this pleasing pursuit, and confine them,\nunder penally of the lash, to words, and names, and signs,\nthe meaning of which they do not as yet, and cannot comprehend. All they need, is the guidance of a kind heart, and\nan intelligent head, who has studied nature and mind well\nhimself, lo repress the sallies of exuberant faculties, and to\nead out and quicken the sluggish in the paths which nature\ntakes. This done, and we shall love both the precept and\nand the preceptor.\nWc might multiply a host of other impediments in tho or- A\ndinary way of the acquisition of knowledge.    But let these\nsuffice; and we hasten to our plan for its ready, easy, and\npleasant acquisition.    This is all contained in the simple\nmaxim, follow nature.   If you wished to train a horse or any\nother animal for a specific purpose, you would examine well\nbis strength, his epialitics, and fitness for that purpose.   Then\nknow thyself\u2014not as the fragment of a man; but as a beautiful, symmetrical whole\u2014moral, intellectual and physical.\nAll these powers and faculties Clod has given you: and they\nmust all be cultivated; not by piecemeal, not disjointcdly,\nbut in harmonious concert.    The mind and the body mutually act and react one upon the other; the powers or faculties of\nboth must therefore bo cultivated, in order to give to each the\nfull play and compass of its energies.    Tho manner, or the\nplan for the cultivation of these faculties, is simple, easy, and\nnatural.    Tho physical, intellectual nnd moral faculties of\nman bear a certain and definite relationship to external nature.    This relationship must bo seen, and the laws which\ngovern it known, in order that you may cultivate each faculty, by addressing to it its appropriate related object.    For\nexample\u2014If you wish to cultivate the physical powers of a\nmuscle, you must apply to it its related mechanical laws of\nforce, resistance, &amp;c.    If you wish to cultivate the moral\nfaculty of benevolence, address it with its related object of\nhuman misery and wretchedness.    If you would cultivate\nthe intellectual faculties\u2014address to them their related objects of things and events.    This simple method of the education of lhc faculties, is termed the demonstrative\u2014or edu-\nVOL. I.\u2014XVI.\n1 \u25a0:\u25a0\u2022:\n;\"fHi\nHi","fullrs":{},"find":"605.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"604","restrictionCode":"1","cdmfilesize":"1850847","cdmfilesizeformatted":"1.77 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

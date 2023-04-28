@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Runaways in Jail.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001054e</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">RUNAWAYS IN JAIL. WAS committed into  the Jail of the Parish of St. Landry, on the 11th instant a negro-woman named LUCINDA, with her boy named Harrison, aged about 10 years and her daughter, named Sylvie, aged about 8 years. Lucinda is about 30 years old, four feet nine inches high, speaking french and english, she says she belongs to Mr. Thomas McCrory, who resides on Bayou Bœuf, in this Parish, from whom she ranaway since the 10th instant. The owner of these slaves is requested to come forward, prove property, pay charges and take them away, otherwise they will be disposed of according to law. LOUIS L. BOUTTE, Jailor. Opelousas, 13th January 1855.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-01-13/ed-2/seq-2/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1040</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-02-29</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1040</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1040/json"
+                        timestamp="2017-02-13 13:34:08">{"title":"RSA00001054e","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 5\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-01-13\/ed-2\/seq-2\/\n","unique":"Runaways in Jail.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"RUNAWAYS IN JAIL. WAS committed into  the Jail of the Parish of St. Landry, on the 11th instant a negro-woman named LUCINDA, with her boy named Harrison, aged about 10 years and her daughter, named Sylvie, aged about 8 years. Lucinda is about 30 years old, four feet nine inches high, speaking french and english, she says she belongs to Mr. Thomas McCrory, who resides on Bayou B\u0153uf, in this Parish, from whom she ranaway since the 10th instant. The owner of these slaves is requested to come forward, prove property, pay charges and take them away, otherwise they will be disposed of according to law. LOUIS L. BOUTTE, Jailor. Opelousas, 13th January 1855.\n","subjec":{},"type":{},"format":{},"langua":"English\n","digitb":{},"digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00001054e.jp2","find":"1104.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-29","dmmodified":"2016-02-29","dmoclcno":{},"dmrecord":"1040","restrictionCode":"1","cdmfilesize":"140152","cdmfilesizeformatted":"0.13 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

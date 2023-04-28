@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 352</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1833</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1833</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1833/json"
+                        timestamp="2017-02-03 08:23:21">{"title":"Page 352","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 352 \u2014\ngeur aurait pu lever la main et designer hardiment du doigtcea\nmaisons basses, a peine percees de fonetres, comme des tapis-francs\nou des cavernes qui avaient. cliacune,'plus d'un mystere a raconter.\nOu plutot, s'il avait connu le pays, il aurait pue'voquer et changer\nen une action palpitante tout ce que ces bouges semblaieiit cacher,\nII aurait pu ecrire, non comme un roumu, mais comme nne bonne\net solide realite, des courses de tmit a travers la prairie, des razzias\nd'animaux, des tueries de bceufs tt la elarte douteuse de lalune, et\nil aurait pu mettre au bas : Scenes des prairies attalmpiennes.\nLe jour, cette population dormait ou se chauffait, le ventre au soleil, comme des Ie*zards. Le mot travail etait inconnu dans ces bouges oiigrouillaient parfois une demi-douzaiue d'enf ant shaves et ma-\niadifs. La main qui fournissait le pain ejuotidieu, et meme quelque\nchose de mieux a ces maisons, n'etait point mystericuse: leur pour-\nvoyeur, tout le monde le nommait : c'etait le vol.\nLes classes dangereuses de ces prairies n'etaient pas que dana\nces cabanes borgnes qui appclaient involontairement I'attention du\nvoyageur. Klle3 etaient aussi semees dans des maisons aisees ou le\nvol etait un moyen certain de marcher a la fortune.\nLes premiers tuatentdes animaux, d'abord pour manger, ensuite\npour faire, pour le compte des autres, l'appoint de quelque troupeau\nqu'on expediait ensuite pour la Konvelle-Orleans ou Galveston. II*.\netaient des condottieri.\nLes capitalistes dirigeaient les sorties, les expeditions, les coups\nde filet.\nProletariat, aristocratic,\u2014ces deux mots se coudoient fatale-\ninent partout, meme au fond des prairies attafcapiennes...\nVoila. les homines chez qui .les Canada s'etaient refugies apres\nleur expulsion.\nQUE FAISAIENT LES CANADA?     .\nCe champ etait, comme on voit, d'une exploitation facile, et les\nCanada etaient de rades, mais intelligents'defricheurs,\nS'ils avaient dit ii ces bob&amp;nieus : faites cause commune avec","fullrs":{},"find":"1834.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1833","restrictionCode":"1","cdmfilesize":"409501","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

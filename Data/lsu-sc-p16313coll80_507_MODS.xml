@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Fifty Dollars Reward.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001741</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>John W. Cannon</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1861-01-02</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1861</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1860-12-24</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">FIFTY DOLLARS REWARD--RAN-away from steamer Gen. John A. Quitman, the boy JOSHUA, aged about 30 or 32 years. He is about 6 feet 2 inches in hight, light complexion; has an impediment in his speech. Left said boat at Baton Rouge on the 24th of De-cember. Any person delivering said slave in any jail in this State, or to the undersigned in New Orleans, will receive the above reward. JOHN W. CANNON. ja2 12t</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">light</note>
+   <note type="content" displayLabel="Slave Owner">Gen. John A. Quitman steamer</note>
+   <note type="content" displayLabel="Slave Name (Age)">Joshua (30 or 32)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$50 </note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 5, column 1</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent. ([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-02/ed-1/seq-5/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-03/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-04/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-05/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-07/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-08/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-09/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-10/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-11/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-12/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-14/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-15/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-16/ed-1/seq-5/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1861-01-17/ed-1/seq-5/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1785</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1785</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1785/json"
+                        timestamp="2017-02-13 13:33:29">{"title":"RSA00001741","object":"sn82015753","publia":"New Orleans daily crescent. ([New Orleans, La.]) 1851-1866","date":"1861-01-02","year":"1861","film":"page 5, column 1","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-02\/ed-1\/seq-5\/","unique":"Fifty Dollars Reward.","person":"John W. Cannon","parish":"New Orleans, La.","digita":"1860-12-24","acknow":{},"public":"Gen. John A. Quitman steamer","town":{},"relati":"Joshua (30 or 32)","slave":"M","slavea":"light","slaveb":"N","slavec":{},"reward":"$50 ","multip":{},"physic":"Y","persoa":"Y","transc":"FIFTY DOLLARS REWARD--RAN-away from steamer Gen. John A. Quitman, the boy JOSHUA, aged about 30 or 32 years. He is about 6 feet 2 inches in hight, light complexion; has an impediment in his speech. Left said boat at Baton Rouge on the 24th of De-cember. Any person delivering said slave in any jail in this State, or to the undersigned in New Orleans, will receive the above reward. JOHN W. CANNON. ja2 12t","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-03\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-04\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-05\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-07\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-08\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-09\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-10\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-11\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-12\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-14\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-15\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-16\/ed-1\/seq-5\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1861-01-17\/ed-1\/seq-5\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001741.jpg","find":"1837.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1785","restrictionCode":"1","cdmfilesize":"50385","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

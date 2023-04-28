@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3"> 
+
+<titleInfo>
+        <title>Back</title>
+</titleInfo>
+
+
+<identifier type="local" displayLabel="Item Number">A5000B017F002P007_002</identifier>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<originInfo>
+
+
+
+
+
+
+
+
+    <dateCaptured encoding="w3cdtf">7/25/18</dateCaptured>
+</originInfo>
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+ 
+
+<physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+</physicalDescription>
+ 
+
+<name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+        <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+</name>
+
+
+
+
+<relatedItem type="host">
+    <titleInfo displayLabel="Parent Item Title">
+        <title>Parade Ground </title>
+    </titleInfo>
+    <titleInfo displayLabel="Digital Collection">
+        <title>LSU Photograph Collection</title>
+    </titleInfo>
+    <location>
+            <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+    </location>
+</relatedItem>
+ 
+
+
+ 
+
+
+
+
+
+    <name type="personal" displayLabel="Digitized by">
+        <namePart>EC</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/fac">Facsimilist</roleTerm>
+        </role>
+    </name>
+    <extension>
+        <hardwareSoftware displayLabel="Digital Reproduction Information">Scanned with Digibook 1000 at 300 ppi; saved as a TIFF and converted to JPEG2000</hardwareSoftware>
+    </extension>
+
+    <recordInfo>
+        <recordContentSource authority="local">lsu/en</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2/14/19</recordCreationDate>
+    </recordInfo>
+</mods>

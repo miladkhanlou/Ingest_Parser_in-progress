@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Ralph Sims oral history interview</title>
+  </titleInfo>
+   <name displayLabel="Interviewee">
+      <namePart>Sims, Ralph, 1916-2009</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Interviewer">
+      <namePart>Foster, Adele</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+      </role>
+  </name>
+   <note type="biographical/historical" displayLabel="Biographical Note">Ralph Sims was born in Donaldsonville, La. in 1916. He joined the Army Air Corps during World War II and was a tailgunner in a B-17 "Flying Fortress." Sims's wife, Eliza, worked as a secretary at Ethyl Corporation in Baton Rouge during the war. Returning home after his first tour, he continued to work at WJBO radio in Baton Rouge. Leaving radio, he worked for Crawford Corporation and Fidelity National Bank. He retired from the bank in 1982 and remained active in Louisiana Rotary Club. Ralph Sims passed away on Feb 13, 2009.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1997</dateCreated>
+  </originInfo>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Manship, Charles S.,</namePart>
+         <namePart>Sr</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Rotary Club (Baton Rouge, La.)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Army</namePart>
+         <namePart>Air Corps</namePart>
+         <namePart>Aerial gunners</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Rotary International</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>WJBO (Radio Station : Baton Rouge, La.)</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Flight crews</topic>
+      <topic>United States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1939-1945</topic>
+      <topic>Aerial operations, American</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>B-17 bomber</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bombing, Aerial</topic>
+      <topic>Germany</topic>
+      <topic>History</topic>
+      <topic>20th century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1939-1945</topic>
+      <topic>Journalism, Military</topic>
+      <topic>United States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bank marketing</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Civic leaders</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Donaldsonville (La.)</geographic>
+      <geographic>History</geographic>
+      <geographic>20th century</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Baton Rouge (La.)</geographic>
+      <geographic>History</geographic>
+      <geographic>20th century</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject">
+      <occupation>Bank directors</occupation>
+      <occupation>Louisiana</occupation>
+      <occupation>Baton Rouge</occupation>
+      
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject">
+      <occupation>Radio producers and directors</occupation>
+      <occupation>Louisiana</occupation>
+      <occupation>Baton Rouge</occupation>
+      
+   </subject>
+   <abstract displayLabel="Description">Sims describes his family background and his hometown, Donaldsonville, his work at WJBO radio before and after the war and his association with station owner Charles Manship, Sr., and his training and experiences as a member of a B-17 flight crew during World War II, including his participation in D-Day. He offers details about debriefings after his missions and the "official" news in the STARS AND STRIPES. He also relates his career after the war and radio and his involvement in the Rotary Club.</abstract>
+   <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/military/Sims_Ralph.abs.pdf</abstract>
+   <note type="content">A digital version of the transcript (pdf) exists for duplication purposes.; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room.; Interview conducted by Adele Foster.</note>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 sound cassettes (2 hours, 35 minutes); Transcript (96 p.)</extent>
+  </physicalDescription>
+   <genre authority="aat">Oral histories</genre>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no94017348"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisianans in the Military Oral History Project</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series">
+         <title>T. Harry Williams Center for Oral History military series</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-military:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Library: Oral History</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Ralph Sims Oral History Interview, Mss. 4700.0827, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

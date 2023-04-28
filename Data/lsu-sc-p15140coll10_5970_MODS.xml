@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 35</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1522</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1522</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1522/json"
+                        timestamp="2017-02-03 08:23:10">{"title":"Page 35","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 35 \u2014\natfilies connu3 ou secrets, elle n'aurait etonue* personne et, comme\ndans les cours de justice du moyen-age, on leur aurait laisse vingt-\nquatre heures pour maudire leurs juges. C'etait en eflet un sinistra\njour qui se levait sur eux : leurs revenue supprime\"s par un de ces\narrets du peuple souverain qu'on ne casse devant aucunc cour supreme, leur carriere brisee, leurs habitudes de parcsse rompues,\nleur industrie coupc\"edan3 sa racine,\u2014tels etaient leur3 griefs contre les comites, griefs que ceux-ci pouvaieut entendre eclater en sou-\nriant.\nMais 1'opposition de quelques hommes honorables, i'oncieremeut\nhonnetes, aurait e\"te aussi in intelligible que tous les hieroglyphes\nde 1'obelisquede Luxor, si cette opposition, mysterieuse de prime-\nabord, n'avait pris sa source dans une cause qu'on n'avouait pas,\nmais qui neanmoius etait suffisamment transparente pour quelques\nyeux. C'etait, puisqu'il faut le dire, une opposition d'opiniou et un\ninstinct {inne\" du reste chez ces hommes) de conservation.\nC'etait une opposition rd'opinion, cur ces hommes, la plupart\nknow-nothings et qui avaient tant declame en 1855 contre la canaille\nt&lt;trang'ere, ces homines e\"nfouvaient un depit dc vertueux america-\n\u25a0lisme en voyant que des homines du pays s'e\"taie\u00bbt arme\"spour faire\nle denombrcment de la canaille indigene ; la bannir du pays natal\nqu'elle souillait de sa presence et, en cas dc resistance, lui de\"chirer\nles reins et les epaules a coups de louet. Ce qui les faisait mouvoir,\nc'etait la douleur, honorable mais etroite, de voir uicttre a nu les\nplaies ct les miseresd'une societe que, par esprit de parti, on e'etait\nplu a peindre si souvent comme composee de rosieres des deux sexes.\nHelas 1 grace a 1'iudiscretion des comites, les voiles allaient se declarer, les bas-ibnds de nos niarais mettre au grand jour tous leurs\nmysteres et cette societe' si vertueuse, iburnir, comme la vieille Europe, dea myriades de voleurs, d'assassins, de bandits de toute sorte,\nque la main de i'er des Vigilants allait faire monter :au pilori et mar-\nquer a 1'epaule d'un fer chaud. Nous ne pouvous decrire la pudeur\npatriotique de ces braves gens qui auraientvoulueacher aux regards\netraugers Jeur canaille, qui pourtant prClevait sa dime sur eux\ncomme sur les autres; car cette pudeur ressemblait beaucoup a la\n.oiaiserie sentimentale d'un chirurgien, frereou parent de Jocrisse, qui\nayant a, soigner un malade dont hi jambe s'e\"tait gangrenee h la\nsuite  d'une fracture, aima mieux le laisser mourn: que de lui d-ir*","fullrs":{},"find":"1523.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1522","restrictionCode":"1","cdmfilesize":"415442","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 2, Page 30</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2094</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2094</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2094/json"
+                        timestamp="2017-02-03 08:24:44">{"title":"Section 2, Page 30","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"30\nposition, when we say to them that the success of the contel\nplated railroad, depends upon the aid they are willing to lerl\nIf, as we expect, New Orleans meets the country half wl\nthe great object of this convention is accomplished, and t|\nfirst resolution adopted to-night, is pregnant with meanifl\nwhen it says the railroad \" shall be built.\"\nI have said that we are about to embark in a great sua\nenterprise, not only as it effects our patriotism, but in its rl\nsuits upon our public revenue and our State Treasury, whia\nneeds replenishing. The amount of taxes assessed in lire\nyear 1848, in six parishes along the line, appears from fa\nAuditor's report to be as follows :\nSt. Landry  $22,317 21\nLafayette       5,910 43\nSt. Martin  ....     11,201  00\nSt. Mary     24,552 07\nTerrebonne      11,790 77\nLafourche Interior      15.813 58\n\u00ab91,645 CG\nWhen we take into consideration the almost incredible iiJ\ncrease  given to the value of property, by  the railroads of\nMassachusetts and Georgia, it is not unreasonable to suppose,'\nthat even before the road is entirely completed, the aggregate value of property in these six parishes will have becoini\ndouble.    At the present rate of taxation, there would be al\nadditional sum of nearly a hundred thousand dollars poured!\ninto the State Treasury, from only six parishes on the line;]\nto say nothing of Ihe contiguous parishes of Avoyelles, KaT\npides, Calcasieu and Vermillion, all of which will be directly]\nbenefitted :\u2014and excluding from the estimate, the rich couii-\ntry south of Lafourche, and the enhanced wealth of Net*]\nOrleans itself.    You must concede, gentlemen, that it will b&lt;\nthe eminent characteristic of this road, that, without impo\nverishing the individual, it will add to the wealth of the state","fullrs":{},"find":"2095.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2094","restrictionCode":"1","cdmfilesize":"572801","cdmfilesizeformatted":"0.55 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

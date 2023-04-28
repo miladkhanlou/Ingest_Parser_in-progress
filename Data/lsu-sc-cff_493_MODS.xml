@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M44</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1343</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1343</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1343/json"
+                        timestamp="2017-01-13 13:22:47">{"title":"M44","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM44\nParoisse St Jean Baptiste 10 Juin 1834\nA Mr Ursin Jacob\nMonsieur\nJe suis charg\u00e9 par son excellence A\nB Roman gouverneur de cet Etat d\u2019informer\nle secretaire d\u2019Etat quels sont les juges de\npaix en activit\u00e9 dans cette paroisse: vous\navez \u00e9t\u00e9 nomm\u00e9 juge de paix le 3 Fevrier 1826\net quoique vous ayez cess\u00e9 depuis long-temps\nde remplir les devoirs de cette place, vous\n\u00eates toujours consider\u00e9 comme \u00e9tant en activit\u00e9,\npuisque vous n\u2019avez pas fait tenir au\ngouverneur, \u00e0 ce qu\u2019il parait, votre\nd\u00e9mi\u222bsion, ce qui le mettrait dans\nl\u2019impossibilit\u00e9 de pourvoir \u00e0 votre\nremplacement, s\u2019il se pr\u00e9sentait quelque\npr\u00e9tendant \u00e0 cette place. Si, comme il y\na lieu de le croire, vous vous consideriez\ncomme d\u00e9mi\u222bsionnaire depuis long-\n-temps ; veuiller je vous prie m\u2019envoyer\nun mot pour le gouverneur qui puisse\n2\nM44\nle convaincre de la chose\nAgr\u00e9ez Monsieur l\u2019assurance\nde la haute consid\u00e9ration\navec laquelle j\u2019ai l\u2019honneur\nd\u2019etre\nvotre ob\u00e9issant serviteur\n[ ?] Le Blanc","typa":{},"genera":{},"fullrs":"Volume7\/M44.pdf","find":"1345.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1343","restrictionCode":"1","cdmfilesize":"48082","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

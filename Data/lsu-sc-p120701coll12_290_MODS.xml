@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 06</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/562</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>562</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/562/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 06","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"108\nSOUTH-WESTERN   J O tl R NAL\nI'-' i\\\\   '''\nW\ni;,',\nI.\"\n'\u25a0\n:j|\nHeaven, atone for the past, by assuring the world that it shall\nbe my pride the remainder of my days, to soothe you in sorrow, comfort you in illness, and drain from your cup ol life\nits bitterest dregs! \"\n\"I desire you to abandon that poslure, Herbert,, if you in\ntend it as nn'obeisanco to myself, and listen to the cnly rejoin\ndjr I have to make. Go lo my father; tell him you love mo;\nthat you have made me an acknowledgment for past grievances, and if he assents, I will accompany youlo the attar.\"\n\"Then I must give up all hope of ever reaching the goal\nof happiness I so fondly seek, for he never will overlook my\ndisgraceful conduct towards his daughter! \"\n\"Vo.t know not that, Mr. Herbert, for I will back your\nsuit.\"\n\"Say you so? then indeed I am blessed, and if you will\nteach me how I can\u2014\"\n\" Listen I\u2014'tis tho boats' bell for departure\u2014we must re\nturn.\"\nWe hurried on board, and once more in my state-room, 1\nturned the bey on myself, resolved lo ponder well cu the line\nof conduct I should adopt for the future. Melmoth, at this\njuncture of aftuiis I wavered in my purpose, and imagining\nthat Herbert deemed himself really justifiable in addressing\nme; that cruel note at the Lodge, on the ground that 1 was\ntho first aggressor, I thought his humility, his awful protestation to Heaven, and his impassioned desire once more to\nhold a place in my affections, were the stiongest evidences\nho could oifer, that he had repented, and being willing at the j\naltar to pay me the highest respect man can to woman, I\ndeemed it a crime in tho sight of my Maker further to pursue my revenge. Indeed, when I left my room, it was with\nthe determination, if he should continue worthy of my love,\nto share with him the ills of this life. But alas! ibis gleam\nof hope, cherished more for his icdemplion than my own\nhappiness, was soon to be dissipated by the knowledge of a\nfact which rendered his asseverations an hour previous, the\nfi.u of ids own soul's condemnation, When I returned to\ntho ladies' cibin, my father was waiting for me, and wished\nme to join him in a walk upon the after-guard. No sooner\nthan alone, \"My dear Clara,\" said he, \"how is it that you\nare again the associate of that unprincipled wretch Herbert,\niii'ier what has transpired between you? Ry way of a reply\nI recapitulated our interview in the wilds of Arkansas, just\nas it happened, and even went so far as to extenuate his conduct, when my fuller interrupted me, unablu longer to restrain\nhis indignation,\u2014\n\"Great God!\" exclaimed he, \" am I yet to witness my\ndear child sacrificed to the deep villainy of a plotting scoundrel, who would poison the very fount in Heaven, whence\nflows eternal peace to man, did the act but serve his sordid\np irpose. Look you, Clara! \" he continued, \" here is a memorandum book I picked up from the floor this morning in the\ngentlemen's cabin, before any of them had left their'rooms.\nAnxious that the owner should get it, I hunted through it\nfir a n i ns, b il there being none, I opened what appeared lo\nbe a le tor without an endorsement, and found the initials G,\nH, at the bottom of it.   Still unceitain as to the owner, I be\ngan to read, and found from the contents that it was the co\nof a letter written by Herbert to a confidant in Baltimore'\n\u2014take it lo your room,\" said he, handing it t0 me, \" rea(i \u2022!\nunobserved, and bring it to me as soon as you have done so\nfor I wish to send it to the bar by a servant, to be returned to\nthe owner.\"\nI left my fother for my room, and to my great astonish,\nment, found myself] in part, the subject ofthis rareetiisi].\nfrom which I took the following extract,\u2014\n\" You seem to think, my dear Tom, that I can vet regain\nClara Perryan, and, by marrying her, may replenish my al.\nmostempty pockets. If I had not written that infernal note\nof dissolution, I should have no difficulty of conquest in that\nquarter; as il is, I will have to US3 every artifice I am master\nof, to play the repentant lover. However 'nil desperandam'\nis my motto, and whilst it shall urge me on, ' modest Gcoidb,'\nas she once termed me, will 'stoop to conquer.'\n\" In haste, yours truly,\n\"G. H.\"\nShocked at the great moral depravity revealed, and the\nbase perjury established against the writer, I felt more\nlike sinking into my grave than returning to my father. I\nat length summoned strength of mind enough to do so, and\nfound him still upon the after-guard, alone, bul in tears. All\nmy father's kindness from infancy rushed upon my recollection, and regardless of tho place, I clung aboul his neck,\nkissed the tears from his aged cheeks, and wept upon Ilia\nbosom lii.e a child. Some lime elapsed ore he loos.d himself from me, when he enquired, what reply ho should\nmake to Herbert's suit?\nWithout answering immediately, I asked him if he would\nplace every confidence in a pledge I would make, never to\nmarry the apostate.\n\"Tis all I ask of you, my dear child! \"\n\" You will not prevent me from adopting my own measures of riddance, though you may sometimes think I intend\nto break my pledge?\"\n\"I will not!\"\n\" Then tell Herbert, when he calls on you, that you leave)\nthe whole affair to my judgment; that I ought to know what\nis right, anel that you will acquiesce in any course I may think\nproper to puisne. Treat him as kindly as your wounded\nfeelings will allow, and before a fortnight, if I do not teach\nhim the penalty of striking at the peace of our family, 'twill\nbe because tho Omnipotent interposes! \"\n\"As you please, Clara, butO remember, my dear girl, that\nyour fond mother and sisters hive a stake of happiness in\nyou, and if I were to return without\u2014\"\n\"No more as you love me, my more than Father! Wo\nwill return together to our family, where I hope to devote ihe\nrest of my life, in administering comfort to you and my dear\nmother, nnd in striving to assuage the pains that attend the decline of life.\" We then parted; I thirsting for the accomplishment of my revenge, like the wolf after the blood of the\nlamb, a.id he much happier than when he deemed me \"\"\"P1\nup in my own destruction.\nThat evening Herbert saw my father, and being referred","fullrs":{},"find":"563.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"562","restrictionCode":"1","cdmfilesize":"1846526","cdmfilesizeformatted":"1.76 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

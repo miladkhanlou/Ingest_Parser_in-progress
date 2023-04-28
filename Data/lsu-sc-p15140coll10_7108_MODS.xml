@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 26</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2430</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2430</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2430/json"
+                        timestamp="2017-02-03 08:25:19">{"title":"page 26","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"e against\ntwereTaTe*'\nander\nwhich\ntables th.\n\u25a0 sounding-:-:   m\nrule a\nt flood\nthe ben.\n3h mark of  o\nrylow\nfound  IV,\njm a multiplic\nity o\nnade upoi\n\u25a0rly,or\nide ii\ni calm\nlaid down\nf the\ner can  In\ntoy to and alor\nrg tin\n- Meig\n1. That the average depth of the tidal bar of the Southwest Pass is 13.U feet; and that the average depth of the\nbar at Pass-a-IOutre is 12.8 feet.    The length of the former.\n2. That in deepening these channels to twenty feet, it will\ncompressed Mature sand, soft mud and sand mixed.\nNow to open a straight channel of 300 feet wide through\nthis bar, by the ordinary dredging machines, would require\nthe removal at the Southwest Pass of 546,000 cubic yards\nof the above material, and the removal of 352,000 cubic\nrate of 4000 cubic yards per week, would require the ser-","fullrs":{},"find":"2431.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2430","restrictionCode":"1","cdmfilesize":"489970","cdmfilesizeformatted":"0.47 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

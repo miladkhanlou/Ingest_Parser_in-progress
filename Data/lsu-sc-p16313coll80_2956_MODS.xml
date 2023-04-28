@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>http://chroniclingamerica.loc.gov/lccn/sn83016483/1854-11-29/ed-1/seq-3/</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000397</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Elizabeth A. Buckner</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Person Placing Ad">
+      <namePart>John A. Tooke</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1854-11-29</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Arkansas</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Arkansas</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Arkansas</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Mount Holly, Ar</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Ringgold, Bienville parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Mount Holly, Ar</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Ringgold, Bienville parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1854</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1854-10-29</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$125 Reward. THE undersigned has good reasons to believe that a man by the name of Elijah Horn has decoyed away or stolen her negro boy Monore. Said negro left my residence, in Columbia county, Ark., on Sunday, 29th October last, and I will pay a reward of $25 for his apprehension and delivery to me, or on his being safely lodged in jail so that I can get him; and I will give $100 for the arrest of Horn and sufficient evidence to convict him of the theft. The negro boy, Monroe, is a dark mulatto, about 5 feet 5 inches high, heavy set, square shoulders, and a down look when spoken to; is about 20 years of age, was born in Kentucky, and brought to Arkansas 8 years ago. Horn is of fair complexion, sandy hair a little inclined to redish color, about 5 feet 9 or 10 inches high, inclined to corpulency, is of frank and open countenance. He reports himself as belonging to Kentucky; but this is uncertain, as from circumstances recently developed, it is believed that he is connected with a clan of thieves. The direction he has taken is unknown. Address, ELIZABETH A. BUCKNER, Mount Holly, Arkansas, or JOHN A. TOOKE, Ringgold, Bienville parish, La. nov 22-4t*</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">dark</note>
+   <note type="content" displayLabel="Slave Owner">Elizabeth A. Buckner; John A. Tooke</note>
+   <note type="content" displayLabel="Slave Name (Age)">Monroe (20)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$125 or $100 or $25</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 2</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The south-western. : (Shreveport, La.) 1852-1870</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">$125 Reward.</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83016483/1854-12-06/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1854-12-13/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1854-12-20/ed-1/seq-3/; </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86053683</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/588</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-22</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>588</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/588/json"
+                        timestamp="2017-02-13 13:33:22">{"title":"RSA00000397","object":"sn 86053683","publia":"The south-western. : (Shreveport, La.) 1852-1870","date":"1854-11-29","year":"1854","film":"page 3, column 2","altern":"$125 Reward.","unique":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1854-11-29\/ed-1\/seq-3\/","person":"Elizabeth A. Buckner; John A. Tooke","parish":"Mount Holly, Ar.; Ringgold, Bienville parish, La.","digita":"1854-10-29","acknow":{},"public":"Elizabeth A. Buckner; John A. Tooke","town":"Mount Holly, Ar.; Ringgold, Bienville parish, La.","relati":"Monroe (20)","slave":"M","slavea":"dark","slaveb":"N","slavec":{},"reward":"$125 or $100 or $25","multip":{},"physic":"Y","persoa":"Y","transc":"$125 Reward. THE undersigned has good reasons to believe that a man by the name of Elijah Horn has decoyed away or stolen her negro boy Monore. Said negro left my residence, in Columbia county, Ark., on Sunday, 29th October last, and I will pay a reward of $25 for his apprehension and delivery to me, or on his being safely lodged in jail so that I can get him; and I will give $100 for the arrest of Horn and sufficient evidence to convict him of the theft. The negro boy, Monroe, is a dark mulatto, about 5 feet 5 inches high, heavy set, square shoulders, and a down look when spoken to; is about 20 years of age, was born in Kentucky, and brought to Arkansas 8 years ago. Horn is of fair complexion, sandy hair a little inclined to redish color, about 5 feet 9 or 10 inches high, inclined to corpulency, is of frank and open countenance. He reports himself as belonging to Kentucky; but this is uncertain, as from circumstances recently developed, it is believed that he is connected with a clan of thieves. The direction he has taken is unknown. Address, ELIZABETH A. BUCKNER, Mount Holly, Arkansas, or JOHN A. TOOKE, Ringgold, Bienville parish, La. nov 22-4t*","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Fugitive slaves--Arkansas.; Slavery--Arkansas.; Slaves--Arkansas. ","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1854-12-06\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1854-12-13\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1854-12-20\/ed-1\/seq-3\/; ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000397.jp2","find":"652.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-22","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"588","restrictionCode":"1","cdmfilesize":"261139","cdmfilesizeformatted":"0.25 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative">
+      <title>My Life</title>
+  </titleInfo>
+   <titleInfo>
+      <title>Mi Vida</title>
+  </titleInfo>
+   <name displayLabel="Composer">
+      <namePart>Barrejon, Eduardo.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cmp</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Composer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <publisher>Junius Hart</publisher>
+      <place>
+         <placeTerm type="text">New Orleans</placeTerm>
+      </place>
+      <dateIssued keyDate="yes">1890</dateIssued>
+  </originInfo>
+   <note type="content" displayLabel="Performance Medium">piano</note>
+   <typeOfResource>notated music</typeOfResource>
+   <physicalDescription>
+      <note type="medium">piano score (7 p.)</note>
+      <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll56:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Sobre las Olas- Mexican Music from Nineteenth-Century New Orleans</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>LLMVC M1 .M86 Box , No. 31</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">This item is in the public domain. Acknowledgement of the Louisiana State University Libraries as a source is requested.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll56/id/65</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2011-10-18</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll56</alias>
+         <pointer>65</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll56/65/json"
+                        timestamp="2016-12-19 14:57:29">{"title":"Mi Vida","altern":"My Life","creato":"Barrejon, Eduardo.","arrang":{},"lyrici":{},"place":"New Orleans","publis":"Junius Hart","date":"1890","descri":"piano score (7 p.)","perfor":"piano","dedica":{},"genre":{},"series":{},"reposi":"Louisiana State University, Special Collections, (http:\/\/www.lib.lsu.edu\/special\/)","call":"LLMVC M1 .M86 Box , No. 31","rights":"This item is in the public domain. Acknowledgement of the Louisiana State University Libraries as a source is requested.","type":{},"object":{},"subjec":{},"notes":{},"identi":{},"source":{},"langua":{},"covera":{},"coverb":{},"catlog":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"fullrs":{},"find":"66.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2011-10-18","dmmodified":"2011-10-24","dmoclcno":{},"dmrecord":"65","restrictionCode":"1","cdmfilesize":"6262056","cdmfilesizeformatted":"5.97 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

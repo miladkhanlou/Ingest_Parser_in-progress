@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Report on the epidemics of Louisiana, Mississippi, Arkansas and Texas, for the years 1854 and 1855</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes">1856</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Yellow fever</topic>
+      <topic>Southern States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Epidemics</topic>
+      <topic>Southern States</topic>
+   </subject>
+   <note type="content">General Note: 'Extracted from the Transactions of the American Medical Association.'</note>
+   <note type="content" displayLabel="Topics">yellow fever; medicine; social conditions</note>
+   <physicalDescription>
+      <form>pamphlets</form>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana &amp; Lower Mississippi Valley Collections</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Civil War Context and Conflict at LSU Libraries</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>RC211 .A13 F4 1856 LARA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Erasmus Darwin Fenner, Report on the epidemics of Louisiana, Mississippi, Arkansas and Texas, for the years 1854 and 1855 (Philadelphia: T.K. and P.G. Collins, 1856)</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2635</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <publicationStatus>published</publicationStatus>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2635</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2635/json"
+                        timestamp="2017-02-03 08:22:57">{"title":"Report on the epidemics of Louisiana, Mississippi, Arkansas and Texas, for the years 1854 and 1855","subjec":"Yellow fever--Southern States.; Epidemics--Southern States.","descri":"104 p. ; 23 cm.","creato":"Fenner, Erasmus Darwin, 1807-1866.","publis":"Philadelphia: T.K. and P.G. Collins, 1856.","date":{},"year":"1856","format":"pamphlets","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )).","collec":"Louisiana &amp; Lower Mississippi Valley Collections","reposa":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","digitb":"Civil War: Context &amp; Conflict","langua":"en","topics":"yellow fever; medicine; social conditions","cite":"Erasmus Darwin Fenner, Report on the epidemics of Louisiana, Mississippi, Arkansas and Texas, for the years 1854 and 1855 (Philadelphia: T.K. and P.G. Collins, 1856)","notes":{},"notesa":"General Note: 'Extracted from the Transactions of the American Medical Association.'","source":"RC211 .A13 F4 1856 LARA","box":{},"folder":{},"identi":{},"relati":"18-May-10","findin":"104","catalo":{},"type":"published","full":{},"fullrs":{},"find":"2636.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-30","dmmodified":"2012-05-30","dmoclcno":{},"dmrecord":"2635","restrictionCode":"1","cdmfilesize":"12561","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <findingAidURL>104</findingAidURL>
+  </extension>
+</mods>

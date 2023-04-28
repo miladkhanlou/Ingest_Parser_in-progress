@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 241</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1725</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1725</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1725/json"
+                        timestamp="2017-02-03 08:23:17">{"title":"Page 241","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 241 \u2014\nCecilia avait jjris son parti... car elle etait rentr'de en sautlllani;\ndans sa hutte... Ah! si elle avait su ce qui allait se passer 1!!\n\u25a0 ' Coco le savait bien. lui, car, depuis l'exil de Gudbeer, on 1'avait\n- vu chaque jour chevaucher sur un des chevaux de la tribu, frapper\naux portes des puissants pour lour demander sans doute I'ajourne-\nment de I'echeance de sa dette, edieauce que sa perspieacile Jui avait\ndit etre ties prochaine.\nII s'etait multiplie, le beau Coco ! tin peu fletri par l'ttge, mais\nrayonnant d'une bcaute patriarcalc qui lui aurait attird un salut du\nblanc le plus fier qui l'aurail rencontrd sans le connaitre. Helas !\ndpines des grandeurs ! inconvdnients de la gloire.l... tout le monde,le\neonnalssait.\nIt combien de courbettes et de genuflexions il avait essaydes\npour endormir le tribunal populaire qui abattait, it coups de de-\ncrets, les tetes de ses pratiques les phis illustres! et comme il avait\nmis le mot pardon en plus de variations que Paganini n'en a jamais\ntrouvd pour son Camaval de Venise !\nTous ses frais allaient lui etre inutiles.\nPovero.'\nVn jour les gens des huttes virent poindre ii 1'horizon comme un\nnuage. Apres quelques minutes de reflexiou\u2014et comme le image\ns'dtait rapproche, ils decouvrirent que ce qui venait it eux, c'dtait\ntout isimpleinent un piquet de cavalerie.\nLos jeunes femmes battirent des mains.\n\" Ce sont nos amis qui viennent. La chasse (On sait ce que ce\nmot pouvait signifiec la-bas.) a etd sans doute heureuse. Nous au-\nrons un bal, un beau bal ce soir 1\u25a0'\nCoco, lc beau Coco, avait vu, lui aussi, ce nuage.\n\" Mon Dieu 1 s'etait-il derie, cst-ce que c'est aujourd'hui que je\nvais etre somme de payer toutc-s mes dettes, passees. prescntes et\na, venir ? \"\n61. ee disant, il s'etait jete dans les bras de sa femme (nous disons\nde sa femme, parce que 1'une d'elles etait inorte avant cette epoque,\net. que so mort,'disait-il avec onctiou, etait le sev.l chagrin qu'cllelui\ncut jamais cause).     , \"\nCependant les cavalier* avaneaient toujours.\n\" Ce ne sont pas les notres! s'ecriercnt les femmes.","fullrs":{},"find":"1726.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1725","restrictionCode":"1","cdmfilesize":"392994","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

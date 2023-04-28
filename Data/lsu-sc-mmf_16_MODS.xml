@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Atlas de Historia Natural</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Alternative Title">
+      <nonSort>The</nonSort>
+      <title>Pomar Codex</title>
+  </titleInfo>
+   <name displayLabel="Scribe/Artist">
+      <namePart>Unknown Italian artists at the court of Phillip II</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1590</dateCreated>
+      <place>
+         <placeTerm>Spain</placeTerm>
+      </place>
+      <publisher>[Valencia, Spain]: Vicent García, [1990]</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">Also known as the Pomar Codex, this manuscript was given to Jaime Honorato Pomar, professor of botany at the University of Valencia, by King Philip II of Spain.  The work incorporates many of the discoveries of the physician and naturalist Francisco Hernández (1517-1587), leader of a scientific expedition to Mexico in the 1570s.  Some of the illustrations appear to have been copied from Hernández’s drawings; others may have been drawn from life at the royal botanical gardens at Aranjuez.
+
+The codex contains illustrations of seven animals and twenty-five plants of American origin, including the armadillo, tobacco, bananas, tomatoes, the Indian coconut, and the bird of paradise.  Most of the European plants are medicinal in nature, although there are a few images of decorative plants, including the tulip and narcissus.
+</abstract>
+   <abstract displayLabel="Contents">Illustrations of European and American flora and fauna</abstract>
+   <note type="content" displayLabel="Illustration">218 pages of illustrations of plants and animals</note>
+   <note type="content" displayLabel="Details">V. 1, facsimile; V. 2, commentary</note>
+   <note type="content" displayLabel="Century">16th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Italic</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Latin; Spanish; Nahuatl</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">Valencia University Library, Valencia, Spain (http://www.uv.es/uvweb/libraries-documentation-service/en/libraries-documentation-service-1285867215074.html )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Rare QH41 .A85 1990 v. 1-2 OVER</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">mm00033</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/522</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>522</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/522/json"
+                        timestamp="2017-02-03 14:39:14">{"title":"Atlas de Historia Natural","creato":{},"centur":"16th century","date":"ca. 1590","origin":"Spain","conten":"Illustrations of European and American flora and fauna","illust":"218 pages of illustrations of plants and animals","script":"Italic","scribe":"Unknown Italian artists at the court of Phillip II","curren":"Valencia University Library, Valencia, Spain (http:\/\/www.uv.es\/uvweb\/libraries-documentation-service\/en\/libraries-documentation-service-1285867215074.html )","descri":"Also known as the Pomar Codex, this manuscript was given to Jaime Honorato Pomar, professor of botany at the University of Valencia, by King Philip II of Spain.  The work incorporates many of the discoveries of the physician and naturalist Francisco Hern\u00e1ndez (1517-1587), leader of a scientific expedition to Mexico in the 1570s.  Some of the illustrations appear to have been copied from Hern\u00e1ndez\u2019s drawings; others may have been drawn from life at the royal botanical gardens at Aranjuez.\n\nThe codex contains illustrations of seven animals and twenty-five plants of American origin, including the armadillo, tobacco, bananas, tomatoes, the Indian coconut, and the bird of paradise.  Most of the European plants are medicinal in nature, although there are a few images of decorative plants, including the tulip and narcissus.\n","biblio":{},"public":{},"associ":{},"altern":"The Pomar Codex","langua":"Latin; Spanish; Nahuatl","genres":{},"facsim":"[Valencia, Spain]: Vicent Garc\u00eda, [1990]","extena":"V. 1, facsimile; V. 2, commentary","call":"Rare QH41 .A85 1990 v. 1-2 OVER","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00033","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"1585, 1586, 1587, 1588, 1589, 1590, 1591, 1592, 1593, 1594, 1595","fullrs":{},"find":"523.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"522","restrictionCode":"1","cdmfilesize":"563","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

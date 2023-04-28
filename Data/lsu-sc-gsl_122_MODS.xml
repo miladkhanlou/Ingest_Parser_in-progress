@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>An Open Letter to People of Louisiana</title>
+   </titleInfo>
+   <name type="corporate" displayLabel="Creator">
+      <namePart>Bogalusa enterprise and American</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Bogalusa (La.)</placeTerm>
+      </place>
+      <publisher> Clyde S. Moss</publisher>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1919-12-18</dateIssued>
+      <dateCaptured encoding="w3cdtf">2013-2015</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>White supremacy movements</topic>
+      <topic>Louisiana</topic>
+      <topic>Bogalusa</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Political manifestos</topic>
+      <topic>Louisiana</topic>
+      <topic>Bogalusa</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Bogalusa (La.)</geographic>
+      <geographic>Newspapers</geographic>
+   </subject>
+   <abstract displayLabel="Description">This is an open letter to the people of Louisiana from the Self Preservation and Loyalty League of Bogalusa, a self-described white supremacy group, following the strike and subsequent events of 1919 November.</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Newspaper clippings</form>
+      <extent>1 page</extent>
+      <internetMediaType>application/pdf</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Great Southern Lumber Company Collection, 1924-1938</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-gsl:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://chroniclingamerica.loc.gov/lccn/sn88064055/1919-12-18/ed-1/seq-9/</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Bogalusa enterprise and American., December 18, 1919, Second Section, Image 9</note>
+   <identifier type="local" displayLabel="Item Number">sn88064055_1919-12-18 01</identifier>
+   <extension>
+      <hardwareSoftware displayLabel="Digital Reproduction Information">Unknown/Photoshop</hardwareSoftware>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="local">Rachel Tillay</recordContentSource>
+      <recordContentSource authority="local">Cara Key</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">null</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

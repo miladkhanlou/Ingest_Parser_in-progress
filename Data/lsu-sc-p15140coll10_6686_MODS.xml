@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 2, Page 28</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2092</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2092</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2092/json"
+                        timestamp="2017-02-03 08:24:44">{"title":"Section 2, Page 28","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"28\nand the pure, fresh sea-breezes that sweep, at morning and\nat evening, over its broad and beautiful savannas. Butfl\ntrust at no distant day, when our immense solitudes sirs]\nhave been startled with the whistle of the locomotive, yjj\nwill derive pleasure in visiting that terra incognita, of whicli\nthe stranger now forms so inadequate a conception. Yoiu\neyes may then rest with delight on the evergreen oaks thru\ncast their shadows on the lovely margins of the Teche. Y\nmay then feel the inspiring influences of nature, as she displays herself in the primeval forest, or on those - breezy\nlawns,\" carpeted with verdure, and redolent Of the breath 9\nflowers. You may then see crowning the background of sfl\nunbroken perspective, the Cotes Gelees hills of Attaknpns,\nas they rise up in picturesque splendor, to catch the first raw\nof the rising sun, and reflect hack the last gleams of departing day. You may then find yourselves in the midst of that\nmagnificent plateau of woodland and prairie, beautifully\nintermixed at Opelousas, rising high above the level of the:\nMississippi river ; and feei yourselves invigorated with new\nlife, as you sojourn amidst its charming scenes, and inhale its'\nsalubrious airs. But I leave your imaginations to fill up lire\ndetails of the picture, the faint outline of which I have pre-l\nseuled you.\nThese allusions, gentlemen, to the health, beauty and feia\ntility of Southwestern Louisiana, are not without a direct!\napplication to the subject before us. Strangers travelling'\ninto the interior on the new road, in quest of health, adverJ\nture, or new locations west of the Mississippi, will be aH\ntraded by the natural advantages and the delightful appeal!\nnnee of the country ; and many of them will make it their\npermanent place of abode. The actual statistics exhibit an\nimmense emigration westward through the limits of our slate.\nIt is said that over sixty thousand persons, during the last\nyear, crosed the Red River at different points, on their way\nto Eastern Texas.    When our road shall have been comple-","fullrs":{},"find":"2093.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2092","restrictionCode":"1","cdmfilesize":"504658","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

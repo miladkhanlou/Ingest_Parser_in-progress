@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 137</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1621</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1621</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1621/json"
+                        timestamp="2017-02-03 08:23:14">{"title":"Page 137","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 137 \u2014\neon des hdros d'Homere, seal contre une armee d'opposants. Rd-\ndigd par deux jeunes gens, douds de la seve, de 1'ardeur de sang, de\n['imagination que la nature donne a tons ses enfants des climats\nchauds, il s'dtait vu entourd d'ennemis et n'en avait dtd que plus\nbrave, plus ardent au feu.\nEd.gard Voorhies avait engage les hostilitds eu tirailleur. Embus-\nque dans les co!o.nnes du Democrate, comme un tirailleur derriere un\nroc ou un bouquet dc ronces do I'Algdrie, il faisait feu, par ici, par la,\nsur tout ennemi chevauchant a sa portde et mal assis sur sa\nselle.\nAlcde Judice ne s'amusait pas, lui, a la guerre de tirailleur.\nII n'dcrivait pas, il chargeait avec une vigueur et une^exn-\nbdrance dc seve incroyables. Ses articles n'dtaient pas des\nmots, e'etaient des projectiles. II y avait dans sa polcmique quelque\nchose de la chaleur du soleil a son midi. lutrdpide soldat d'ailleurs,\nallaut toujours au combat tete et poitrine decouvertes, et s'inquie-\ntant peu des dangers de la lutte, pourvu qu'il y put frapper et trapper fort.\nh'Echo plaidait la cause des Comites, par la plume d'un jenne\navocat, qui a depuis longtemps conquis son titre a la pointe de son\neloquence, M. 'William Mouton.\nLe Courrier des Opelousas faisait aussi counaltrc les Comitds a\nses nombreux lecteurs par lentrcmise de la plume la l his humble\nde toutes cclles que nous venous de nommer. C'est celle'iui ecrit\nces lignes.\nLa bataille* dtait engagee et chacun combattait selon ses aones\nou ses moyens d'action.\nOn sait qu'AdoIphe Olivier, avocat dc district, avait de:ioncc les\nComites au Gouverneur, et que eclui-ci avait li son tour lance une\nproclamation, sommant tous les bons citoyens dc disperser toutes\nces reunions contraircs a la loi. On sait aussi que la presse attaka-\npienne avait tres sdverement commente la lettre d'Adolphe Olivier au Gouverneur. Force de s'expliqucr, l'avocat de district pu-\nblia la lettre snivante dans VAttakapas Register de EraaHin et quelques autres journaux :","fullrs":{},"find":"1622.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1621","restrictionCode":"1","cdmfilesize":"387917","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

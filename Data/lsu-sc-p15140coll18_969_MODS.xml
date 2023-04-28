@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Folder 1a-16, Hermann Moyse, Sr. Letters, 1919 Feb.</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Moyse, Hermann, 1891-1985</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Author">
+      <namePart>Stovall, Hubert B.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Author">
+      <namePart>Requichot, Henry L. M. J.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Author">
+      <namePart>Mitchell, H. D.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Author">
+      <namePart>Connor, W. D.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Author">
+      <namePart>S. [last name unknown], Archie</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1918</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>World War, 1914-1918</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Tours (France)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>France</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Paris (France)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Germany</geographic>
+   </subject>
+   <abstract displayLabel="Description">This folder contains thirteen letters from February 1 through February 28, 1919, eight of which were written by Hermann Moyse to Rosalie Gottlieb.  On February 6, Moyse writes to Gottlieb with the news that he was awarded the French Croix de Guerre with palm, which is the 'highest award that can be given to an officer before the grade of general by the French, the Legion of Honor excepted.'  The folder also contains letters from fellow soldiers Hubert B. Stovall and Archie S. [last name unknown], as well as a letter from a French Major General named Henry L. M. J. Requichot in which he "agrees to attend Moyse's decoration ceremony" (February 18).  Stovall writes to congratulate Moyse on being awarded the prestigious Croix de Guerre with palm (February 17).  The folder contains another congratulatory letter to Moyse dated February 19 and signed 'H. D. Mitchell for L. H. Bash,' declaring "the Commanding General desires me to express his pleasure at this recognition by the French Army."  Archie S. writes Moyse with news of fellow soldiers who were wounded (February 28).  Additionally, the folder contains Special Orders No. 52 from W. D. Connor granting a three-day leave of absence 'with permission to visit Paris' (February 21).  In his letters, Moyse also mentions various news items from Baton Rouge about which Gottlieb had written, including engagements, marriages, and deaths of mutual acquaintances.  In a letter dated February 21, Moyse describes the decoration ceremony during which he received the Croix de Guerre with palm.  The French general [Requichot] "pinned on the cross, struck me on each shoulder with his sword, passed each of his cheeks against each of mine, respectively or reversely.  Then came an American handshake, a few well-chosen words of congratulations and I was the official wearer of the cross."  In the same letter, he tells Gottlieb he is going to visit Paris the following day and hopes to see Napoleon's tomb and the Louvre Museum.  He also writes that he has two wishes: to visit the cemetery "where [Captain Bill] Weine is buried and to get back to the 125th [Division]."  The other letters to Gottlieb include a postcard from Paris (February 24) and a letter describing his quick trip there, declaring that "By day and by night, in rain or in fair weather, it just naturally stands out as the most beautiful large city I've seen" (February 27).</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>13 letters.</extent>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <genre>correspondence</genre>
+   <language>
+      <languageTerm type="code">en; fr</languageTerm>
+  </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Hermann Moyse, Sr. World War I Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4671.pdf</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p15140coll18%3Acollection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location">Louisiana State University: LSU Libraries</physicalLocation>
+      <url displayLabel="Institution Web Site">http://lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Mss. 4671, Box 1a: 16</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication.html</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll18/id/1132</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-06</recordChangeDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-11-24</recordCreationDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll18</alias>
+         <pointer>1132</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll18/1132/json"
+                        timestamp="2017-02-06 12:53:17">{"title":"Folder 1a-16, Hermann Moyse, Sr. Letters, 1919 Feb.","creato":"Moyse, Hermann, 1891-1985; Stovall, Hubert B.; Requichot, Henry L. M. J.; Mitchell, H. D.; Connor, W. D.; S. [last name unknown], Archie","date":"1918","physic":"13 letters.","langua":"en; fr","type":"correspondence","covera":"Tours (France); France; Paris (France); Germany","subjec":"World War, 1914-1918","descri":"This folder contains thirteen letters from February 1 through February 28, 1919, eight of which were written by Hermann Moyse to Rosalie Gottlieb.  On February 6, Moyse writes to Gottlieb with the news that he was awarded the French Croix de Guerre with palm, which is the 'highest award that can be given to an officer before the grade of general by the French, the Legion of Honor excepted.'  &lt;br&gt;&lt;br&gt;The folder also contains letters from fellow soldiers Hubert B. Stovall and Archie S. [last name unknown], as well as a letter from a French Major General named Henry L. M. J. Requichot in which he \"agrees to attend Moyse's decoration ceremony\" (February 18).  Stovall writes to congratulate Moyse on being awarded the prestigious Croix de Guerre with palm (February 17).  &lt;br&gt;&lt;br&gt;The folder contains another congratulatory letter to Moyse dated February 19 and signed 'H. D. Mitchell for L. H. Bash,' declaring \"the Commanding General desires me to express his pleasure at this recognition by the French Army.\"  Archie S. writes Moyse with news of fellow soldiers who were wounded (February 28).  &lt;br&gt;&lt;br&gt;Additionally, the folder contains Special Orders No. 52 from W. D. Connor granting a three-day leave of absence 'with permission to visit Paris' (February 21).  In his letters, Moyse also mentions various news items from Baton Rouge about which Gottlieb had written, including engagements, marriages, and deaths of mutual acquaintances.  In a letter dated February 21, Moyse describes the decoration ceremony during which he received the Croix de Guerre with palm.  The French general [Requichot] \"pinned on the cross, struck me on each shoulder with his sword, passed each of his cheeks against each of mine, respectively or reversely.  Then came an American handshake, a few well-chosen words of congratulations and I was the official wearer of the cross.\"  &lt;br&gt;&lt;br&gt;In the same letter, he tells Gottlieb he is going to visit Paris the following day and hopes to see Napoleon's tomb and the Louvre Museum.  He also writes that he has two wishes: to visit the cemetery \"where [Captain Bill] Weine is buried and to get back to the 125th [Division].\"  The other letters to Gottlieb include a postcard from Paris (February 24) and a letter describing his quick trip there, declaring that \"By day and by night, in rain or in fair weather, it just naturally stands out as the most beautiful large city I've seen\" (February 27).","locati":"Mss. 4671, Box 1a: 16","source":"Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4671.pdf","contri":{},"notes":{},"publis":{},"format":{},"relati":{},"rights":{},"contac":{},"catalo":{},"imaga":{},"color":{},"extent":{},"imagb":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"1133.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2010-11-24","dmmodified":"2010-11-24","dmoclcno":{},"dmrecord":"1132","restrictionCode":"1","cdmfilesize":"13616","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

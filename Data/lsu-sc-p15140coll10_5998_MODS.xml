@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 65</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1550</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1550</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1550/json"
+                        timestamp="2017-02-03 08:23:11">{"title":"Page 65","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 65 \u2014\ncause.... Une voiture parut tout-u-coup dans une manclte, le phaetou\ndc cette voiture.... c'dtait gudbeer.\n\u2014C'est lui, s'dcria le capitaine.\nGudbeer fut bieutot saisi et garrotte.\n\u2014Qu'on le conduise dans les limites de la paroisse Lafayette.\najoutale capitaine, en jouant avec un pistolet-revolver a cinq coups,\nchargd jusqu'a la gueule et qu'on venait d'arracher a Gudbeer.\nEt le Comitd se remit eu marche. Un des cavaliers.de cette armee dc l'ordre a-vait donne au prisonnier l'hospitalitd sur la croupe\nde son cheval.\nLe Comite avait pris un chcmin different du premier et qui devait condaire plus promptemeut au but. II etait entrd dans une de\nces prairies attalcapiennes, magnifiques a voir, mais coupees de ravins, de coulees parfois bourbeuses aengloutir uu cavalier et sou\neheval.\nLe Comite dtait arrive sur les bords d'une dc ces coidees perfidee,\ndout 1'eau limpide cache des abinies de boue.\nOr, comme tous etaient attakapiens, et qu'ils conuais3aient les\ndangers de ces ruisseaux dc leurs.prairies, ils se mirent a chercher\nun gud et virent, en le cherchant, de l'autre cote de la coulee, un\nbomme de haute stature, a la barbe blanche, qui semblait couvrir\nd'uu long regard de pitie le jeune prisonnier.\n\u2014Indiqucz-nous un gud, lui cria-t-ou.\nJe n'en conoais pas.; quant a moi, je passe ou jepeux, quacd\nj'ai besoin deLpasser.\nLe grand vieillard qui venait de faire cette reponse, etait un in-\ndividu qui, lorsque nous .ecrirons l'histoire d'un comite voisin, trou-\nvera une large hospitalite dans ces pages. C'dtait Bernard Romero.\nLe Comitd franchit cette coulee dangereuse, et amena le prisonnier aur les mamelons sourceux qui herisscnt la magnifique prairie\neonuue sous le nom de Prairie Sauve.\nOn s'arreta sous un grand arbre.\n\u2014Messieurs, dit le Major, cet homme porte encore sur sa chair\nvive les stigmate3 des blessures que nous lui avons faites. Le nieur-\ntrir encore, ce serait le tuer. Plutot que de le torturer, il vaudrait\nniieux le pendre. Pouettons-le pour la forme,\u2014et qu'il parte.\nOn fouetta lc bandit pour ia forme ; puis, comme il disait n'avoir\npas d'argent pour partir, chaque membre mit la main a la poche, eu","fullrs":{},"find":"1551.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1550","restrictionCode":"1","cdmfilesize":"423871","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

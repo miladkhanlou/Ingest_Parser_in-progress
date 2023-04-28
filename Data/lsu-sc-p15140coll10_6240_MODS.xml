@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 315</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1797</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1797</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1797/json"
+                        timestamp="2017-02-03 08:23:20">{"title":"Page 315","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 315 \u2014\n\u2014J'ignore s'il a ete chasse, mais le Major, qui est a bord, sera\npeut-etre mieux informe que moi.\"\nNous altames a bord ; le Major ne savait rien.\nLe bateau reprit sa route et nous dimes adieu a Prevost, apres\nlui avoir promis des renseignements aussi prompts que certains.\nTrois jours apres, il reeut de nous une lettre contenant une\ncourte biographic de son voisin et son expulsion de la paroisse\nCalcassieu par le comite preside par Hiriam Andrews.\nNous lui disions en fiuissant:\n\" Chassez ce drole, mon eher Prevost, et dormer tranquille;\u2014cette\nexpulsion ne vous sera pas comptee au jour du jugement dernier.\"\nLe 22 juin, I'hotel Prevost reunissait une quarantaine d'habi-\ntants des plus honorables. Ces messieurs etaient graves comme le\nsont les hommes de cceur et d'honneur qui ont un grand devoir ii\nremplir. lis allaient en effet s'organiser en Comite de Vigilance et\njuger un homme.\nM. Paul C... fut nomme president. Dans cette assemblee d'hon-\nnStes gens, choisir un honnete homme etait chose facile, ou, pour\nmieux dire, il n'y avait que PemLarras du choix.\nSanta-Maria fut amene.\n\" Vous etes condamne, lui dit le president, a partir de notre\nquartier dans les vingt-quatre heures.\"\nSanta-Maria remercia ses juges et partit dix-huit heures apres\nen menacant PAmerique en general et les habitants de Jenneret en\nparticnlier de la colore du roi d'Espague.\nFaut-il pour cela que PAmerique arme ses cotes et ses miliciens\ncomme PAngleterre ? Nous ne le pensons pas.","fullrs":{},"find":"1798.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1797","restrictionCode":"1","cdmfilesize":"372584","cdmfilesizeformatted":"0.36 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

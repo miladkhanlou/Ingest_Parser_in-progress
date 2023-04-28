@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Special report of the state engineer on the system of internal improvements</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes">1857</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Rivers</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Public works</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Flood control</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Levees</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <note type="content">Full title: "Special report of the state engineer on the system of internal improvements, to the legislature of the state of Louisiana"</note>
+   <note type="content" displayLabel="Topics">flood control; levees; Louisiana; public works</note>
+   <physicalDescription>
+      <form>pamphlet</form>
+      <extent>24 pages</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana &amp; Lower Mississippi Valley Collections</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Civil War Context and Conflict at LSU Libraries</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>TC424 .L8 A4 1857 LARA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana. Special report of the state engineer on the system of internal improvements, to the legislature of the state of Louisiana (Baton Rouge: Printed at the office of the Daily Advocate, 1857)</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/4647</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <publicationStatus>published</publicationStatus>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>4647</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/4647/json"
+                        timestamp="2017-02-03 08:22:57">{"title":"Special report of the state engineer on the system of internal improvements","subjec":"Rivers--Louisiana.;Public works--Louisiana.; Flood control--Louisiana.; Levees--Louisiana.","descri":"24 p. ; 24 cm.","creato":"Louisiana. State Engineer.","publis":"Baton Rouge: Printed at the office of the Daily Advocate, 1857.","date":{},"year":"1857","format":"pamphlet","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )","collec":"Louisiana &amp; Lower Mississippi Valley Collections","reposa":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","digitb":"Civil War: Context &amp; Conflict","langua":"en","topics":"flood control; levees; Louisiana; public works","cite":"Louisiana. Special report of the state engineer on the system of internal improvements, to the legislature of the state of Louisiana (Baton Rouge: Printed at the office of the Daily Advocate, 1857)","notes":{},"notesa":"Full title: \"Special report of the state engineer on the system of internal improvements, to the legislature of the state of Louisiana\"","source":"TC424 .L8 A4 1857 LARA","box":{},"folder":{},"identi":"24","relati":{},"findin":{},"catalo":"5\/18\/2010","type":"published","full":{},"fullrs":{},"find":"5018.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-30","dmmodified":"2012-05-30","dmoclcno":{},"dmrecord":"4647","restrictionCode":"1","cdmfilesize":"3483","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <ASERLsubmission>5/18/2010</ASERLsubmission>
+  </extension>
+</mods>

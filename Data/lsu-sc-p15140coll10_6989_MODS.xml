@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 11, Page 23</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2395</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2395</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2395/json"
+                        timestamp="2017-02-03 08:24:56">{"title":"Section 11, Page 23","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"may be found under that, but as we had no means of boring to a\ngreater depth than 36 or 38 feet, we have been unable to reach it.\nThe Des Allemands is a stream having but little current, but with a\ndepth of water from 15 to 26 feet, and 6 or 8 feet mud, with a\nof 408 feet. A pile bridge can be put across this, though a\nof 20 or 25 feet will be necessary. After crossing the Des\nlands, and running through  about three-fourths of a mile of\ns a low prairie of two and a half miles in extent; this is almost\ndry in the summer, and is covered by a growth of rank grass from 6\nfeet in height. In the winter and spring it is covered from 3\nitches with water. Much of this might be embanked in a dry\nler, but it will be necessary for us to drive piles over it and fill\ntfterwards\u2014tbe grade of the road will only be about four and a\nacross, as well as about 1 mile of prairie beyond the swamp, the\n2 of the soil in both, being the same, as that in the first prairie,\nwill be necessary to guard against the danger of fires in the\ne. The high grass when killed by the frost, is very combusti-\nnd when fired, burns with great rapidity. It will be necessary\nI and remove the grass early in tbe fall, immediately on each\nif the road, and then burn it off before the usual prairie fires in\nmber and January. After leaving the prairie, the line strikes\ngb lands in the plantation belonging to the estate of Robinson\n\u2014from thence a straight line of 11 miles, strikes the Bayou La-\nsurche about 4 miles below the town of Thibodeaux and at a dis-\nince from New Orleans of 51 miles. The Lafourche is an out-\nit of the Mississippi, it lias a width of 260 feet, and a depth in low\n|ter of 9 feet at our crossing, and 27 in high water. Large class\noats run in this Bayou, and a draw bridge of 60 or 65 feetopening\nf Thibadeaux, and crossing the Bayous, Blue, Terre Bonne, Mar-\non, Tiger and Cliuehohula, (passing within one-fourth of a mile\nf Tigerville ) then crossing the L'Ourse strikes the Bayou Bceuf at\nvery favorable point immediately over a high bank of shells. The\nSceuf has  a width of 640 feet, with   a   depth  of 22 or 23 feet.","fullrs":{},"find":"2396.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2395","restrictionCode":"1","cdmfilesize":"526677","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

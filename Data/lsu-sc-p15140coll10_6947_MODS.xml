@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 10, Page 7</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2353</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2353</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2353/json"
+                        timestamp="2017-02-03 08:24:55">{"title":"Section 10, Page 7","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"p^^   AND OPELOUSAS   RAILROAD.                              7      j\n,,.,,. John\n\u201e\u201e,m\nGriff, A. D. &amp; Co.,\n20\nGum-iiig-er, P. D. &amp; Co.,\n\u25a0Cites, do George\n'\n\u25a0pes, de Elyma\nX2\nGosselin, Peter\n-   In,   Paul\n10\nfcwVk\nGiraud, A.\n5   :\nGiraud, P. A.\n20\n1 Faivre 7:cs\n10\n,   ' A: Co ,\n20\n\u25a0 lost J. II. A.\n10\n1      1, ee  (   n\n1 Ferret, E.\n10\nGarcia, Joseph\nKb, John il.\n. V,.m, el.\nb, Chin\n15\nGothiel', Edwd.\n2     |\nFlvim, 'Patvic-1;\n10\nGarcia, E. F.\n! Fasot, Godfrey\n2\nGaisar, Adam\n6\n[' Hamuli,Mrs. islbznbeth\n8\n(bilesirie, Theodore\n1 teuson, Charles\nGreen, Caleb\n2\nKnning, J. G.\nGilmore, Jesse\n1 forshey, C. G.\n10\nGervais, J. B.\n\u25a0tienstein, John\nGriffin, Henry\nFerpison &amp; O'Dowd\n20\nFaistins, P.\nGeiger, P.\n10\n10\nGaudin, P.\nEer, Tb\u2122\n100\nGorsuch, C. A.\n20  ;\ntm, Edward\nGould, John M.\n16\nGoldman, H\nio    ;\nl    j\nfar W W\nGodwin, D.\n10\nGreen &amp; Brother,\n\u25a0tno, J. G.\nGourdain &amp; Kerr,\n20     |\nI\u2122\", Harding &amp; Co.\n10\nGardere &amp; Son,\nM^er.EH.\n4\nH\nfaS'\"W!Iliam\nHeatun, Geo.\nH^on, William Alex\n4\nHelfor, F. 0.\ntailor, J.\n8\nHyde, Ellen A.\nfto\"^' SD-\n10\nHome, S.\nHagan, John\n**\u2122tte, J. A.\nHear, Jonas C.\n50\nT**, Mich'l\nHyde, William C\n1\u00b0w*s,J.&amp;E\nHuches, P A\nBS\"801\"*, E.Jr.\nHerriok, H D\n\u25a0^\"\u25a0eester&amp;Co.,\n25\nHeald, J H\n20     5\nn\u00b0*\"en, Geo.\nHadden, David\n(*\"**\u25a0&gt;\u00bb, E. M.\niiolr. William A\nC5j^7he&lt;&gt;&lt;iore\n \\_\nHall, John","fullrs":{},"find":"2354.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2353","restrictionCode":"1","cdmfilesize":"514364","cdmfilesizeformatted":"0.49 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

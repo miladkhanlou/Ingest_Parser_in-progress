@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 14</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/570</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>570</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/570/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 14","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"206\nSOUTH-WESTERN   JOURNAL.\nM\nIf-\njje it'-.\nI;\ne:  \u25a0\u25a0'\n:'-'(\u2022\u25a0'\u25a0\nWW'\nm\nmatter, took an opportunity lo converse with the traveller\nBefore disclosing his object, he said to him :    ' You are pro\nlike admiration upon all things; earth seems n paradise if\nbeauty.    The poem  we have before read now glows w;.i\nJjelore disclosing nis ouice.1, ne-cum .\u00ab           .      .    ,      \u2022 mi    i .1     r ,  ,   \u00b0 '\"\u00b0 ,v\"n\nbablv familiar with lhc national school system of instruction fresher interest,     1 he heart is on (he lip, and the visions that\n* ,..,       i .i \u2022   1.     r :. o '     i u'l,,r nn' iuiw  liMimt nut*   fnir.v nro   fla  fiilvorv ns flio n,\u201e,...i:_ i.\nhT-'thiscountry.   What do you think of it?'   \u2022 Why no\nanswered the traveller.    ' I really am not acquainted with it.\nnow haunt our   fancy are   ns silvery as the moonlighton\nbright waters.    'The  horizon of our heart is lighted up bv\nlUSlVCTCll me ion' \"' '\u25a0       *\u2022 e   ' , . ....   ,      -,, .,        ...     ,\n'But you doubtless know there is such a system, and have hope; and now, filled with ono thought and one only, mind\nprobably seen its establishment and heard much of ils useful- lingers at theshnno oi her idol I Lofty ideality goesobroaj\nncss.' 'Why no, I have never happened to do so, though I in tho earliest dews of morning to gather flowers to dress\nhave' nn indistinct idea of the existence of such a .system.'!ihe temple of her god, whilst witching poi try, with cunning\n'Well,'said the clergyman, ' I will tell you. The national hand, entwines tho votive wreath to, crown tho head of the\nschool'system has been established for several years in En- adored,\ngland\u2014Its schools are all over tho country; its pupils arc\nmany hundreds of thousands; its influence is universally\nfelt. It maintains more than one school in your immediate\nneighborhood    Almost nil your life has been spent in En\nid yet you\nof tl\ngland, a small country\ninteresting facts. You have been a short time in the immense region of fnelia, over which a few missionary stations\nare scattered as drops on a desert; and because in visiting a\nfew prominent places, you heard or saw nothing ol their influence upon tho millions of heathen, you would persuade us\nthat all we have read is untrue. How much more should\nwe believe that the national school system is n fable, The\ntraveller was silenced; the people were satisfied.\"\nJustice.\nFor Iho Southwestern Journal.\nORIGINAL SCRAPS,\nnv St. A, J. n.\nTim Voice of Despair..\u2014Where the fond dreams of\nfancy are disturbed and broken by the light of truth\u2014where\nthe colors of the imagination fade\u2014where the rainbow hues\nof hope depart\u2014where all we love, or dream, or wish is to\nus as nothing\u2014is it not vain to woo conu nt ?    Heaven help\nthe heart that thus fools its utter wretchedness I    Suddenly,\nthe sweetest and deepest feelings of existence have become\nas the autumnal leaves sere nnd yellow.    'The winter of disappointment has sel in, and  now no sweet blossom of hope\nsheds ils delicious aroma around our path, and life has become a desert wilderness, unwntered by a single stream.\nSecoxn Thoughts are, like the man of the world, cold,\ncalculating and selfish. Whereas our first impulses arc generous and natural. 'That author was right who said that\n\"motive came from men, and impulse from the Clods. \"\nVirtue, Modesty and Thotii arc tho guardian angels\nof woman. Protected by these, she may overcome obstacles\nand pass unharmed through dangers that would seem fraught\nwith her ruin.\nThe Voice of Friendship.\u2014There is something far\nsweeter in the voice of friendship lhan in the blandest tones\nof impassioned song. It speaks lo the soul ns softly as the\nlow breathing sighs of tho zephyrs, and cheers the heart\nmore than the glad rush of waters upon the delighted ear ol\nthe traveller in the desert.\nLove.\u2014When the soul is filled with this passion, how\ngenerous is every emotion of the heart 1    We gaze in child-\nFor tho South WcslcrnJourml.\nCREATION'S WORSHIP.\nWhen Wisdom spoke ibe bright world rose\nTo music from an angel band.\nSeife os an evening fountain flows,\nYet bind as Deity's command.\nThe skies were curtained o'er with blue,\nAnd planted Ihlckwllh starry eyes,\nFor seraphim to wonder through,\nTo see the young creation rise.\nThe sun on heaven's tallest tower,\nTho luooii a maiden of Ihe night,\u2014\nOne rolls his orb of flame in power,\nThe other borrows from his light.\nThe silver streams in shady groves,\nTunc mellow voices of repose,\nThe birds of song rehearse llieir loves,\nWhile every flower with beauty glows.\nTheorem], wilh ils sounding floods,\nTiie thunder trumpet deep and strong,\nThe whirlwind twisting up Ihe woods,\u2014\nAll roar Ihe villained praise along.\nCreation bright\u2014creation fair,\nFrom man to what no eye can see,\nTheir Maker's boundless love declare,\nWide as his own infinity,\nPincy Woods, June, 1838,\nM. A. J. II.\nEXTRACT OF A LETTER FROM A LADV.\n\u25a0 \u25a0 \" 1  have rend so  many pleasant articles\ncomplimentary to the ladies in the South-Western Journal,\nihat I am becoming proud of my sex, Surely the gentle-\ni'ii of your city and vicinity are very generous knights awl\ndeserve well of your ladies. If this be not the age of chivvy, it is one in which the worth of woman is better understood and more highly appreciated than it was in that age.\n\" 1 am indeed delighted to see the importance of female\neducation advocated by so many able pens. The hour of our\nmental emancipation must bo at hand. Would to God it had\nalready arrived ! 'Too long has woman been wedded to ignorance ; too long have the energies of her aspiring rohM\nbeen dissipated in the enervating pursuits of folly and fashion ; loo long havo the guardians of our education though'\nus capable only of tho acquirement of tho polite accomplishments! Heretofore the range of studies for females embraced only a limited knowledge of grammar, geography, music,\npainting, and perhaps a smattering of natural and moral phi.","fullrs":{},"find":"571.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"570","restrictionCode":"1","cdmfilesize":"1667790","cdmfilesizeformatted":"1.59 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

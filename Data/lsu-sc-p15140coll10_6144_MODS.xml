@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 215</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1699</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1699</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1699/json"
+                        timestamp="2017-02-03 08:23:16">{"title":"Page 215","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 215 \u2014\n\u2014Keleve-toi; ton supplice est fini,\" lui dit le Capitaine.\nGudbeer se releva brise, sanglaut, et paraissant tenir beaucoup\nplus compte de la douleur physique que de la degradation morale\nque le fouet vensit de lui infliger.\nAu moment ou il se relevait, le Major alia de nouveau a lui.\n\u25a0'Gudbeer, tu viens de subir un supplice infamant, parce que tu\nas pris part a tousles crimes qui desolent le pays depuis bien des an-\ncees. N'ayar.t plus foi danii notre juri, tel qu'il est tripote par les\navocats qui ecartent les lionnetes gens, grace au droitde recusation,\npour laisser monter aux bancs des jures des droles de ton espece.\nnous nous sommes formes nous-metne-3 en juri. Tu as recu le fouet,\nchatiment bien doux, si tu le compares it la grandeur des crimes\nque tu as commis. Va chercher ailleurs une rehabilitation par le\niravail et la moralite\". Maintenant, je vais te lire ta sentence.\"\nEt le capitaine deploya uue feuille de papier sur laquelle se deta-\nchaient en noir quelques lignes.\n\u25a0' Dans la seance du Comite de la Cote-Geiee, tenue le 2 f\u00a3-\nvrier 1859, le nomme Gudbeer a ete trouve coupable de vol et d'in-\neendie. II a &amp;\\6 condamne a emitter 1'fitat sous huit jours. S'il\nrompt son ban, il sera peudu.\"\nGudbeer s'inelina pour dire qu'il avait parfaitement entendu la\n'condamnation qui venait de lui rctrancher l'air et le sol de la patrte.\n(Pour la suiteetledenouement des aventures de Gudbeer, voir l'histoire du Comite de la Cote-Geiee.)\nComme il reprenait ses vetements, il fouilla avec empressement\ndang nne des poches dc son paletot.\n\". II me manque quelque chose, s'iScria-t-il avec rage et, en parcou-\nrunt des yeux le cercle de lumiere trace par la torche de pin.,\n\u2014Ce drole a des insultcs dc mauvais gout, murmura un des\nmembres du Comite, dont les.rangs resterent jmpassibles.\n\u2014J'ai trouve\u2014-Eureka.'\"\u2014cria un autre membre, qui avait sen .j\nce quelque chose craquer sous son pied.\nLe cercle se! res3erra autour de lui.\n\"Pardieu! s^cria 1'auteur de la trouvaille, un de nos jeunes et\nvaillants amis, Raphael Lachaussp, approchez la torche. Ce que je\nviens de trouver merite d'etre vu.\"\nIl tenait ce quelque chose k la main : c'etait un daguerreotype\nrenferme dans un cadre de peau de chagrin.\nRaphael ouvrit le cadre avec empressement.","fullrs":{},"find":"1700.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1699","restrictionCode":"1","cdmfilesize":"399347","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

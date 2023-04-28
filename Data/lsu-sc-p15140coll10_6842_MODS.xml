@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 23</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2248</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2248</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2248/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 23","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[23]\n, . tjje whole appropriations on these accounts are not more than\nabout seventeen millions of dollars.\nA second table, on the same page ofthe same report, exhibits the\n\u2022ears through which this amount has been distributed. The first\nLble on the same page names the states in which the expenditures\nwere made; and previous pages of the same report name the particular work which was the object of expenditure. The facts of this\nreport will remove all that class of objections to the system, which\ndepend upon the supposition, that the system has been for the exclusive benefit of a few localities, and of that class of objections in which\nso much imagination has been indulged, in reference to the amount\nex[\nGOVERNMENT APPROPRIATIONS\nS'ates and Territories. Amount.\nMaine .'.  $276,574 72\nNew-Hampshire         10,000 00\nMassachusetts     526,148 22\nVermont      101.000 00\nRhode Island       32,000 00\nConnecticut      160,407 26\nNew-York.,\nNew-Jersey,\t\nPennsylvania\t\njdvauia   and\nDela-\nFOR INTERNAL IMPROVEMENTS,\nStates and Territories.\nMississippi\t\nLouisiana\t\nTennessee\t\nKentucky aud Tennessee\nArkansas \t\nMissouri and Arkansas..\nMissouri\t\nStates through which the\nwestern   rivers  pass,\n(the Ohio, Mississippi,\nMissouri, and Arkan-\n)\nAmount.\n$46,500 00\n717,200 00\n11,920 00\n155,000 00\n486,065 00\n100,000 00\n75,000 00\n1,698,000 00\nIndiana      1,270 733 59\nlllh\n993,001 00\nOhio     2,617,661 37\nMichig\nWisconsin Territory..\nIowa Territory\t\n645,724 I\n167,500 00\n75,000 00\n17,199,223 21\n1,632,115 80\n28,963 00\n207,981 23\n38,413 00\nDelaware   2,038,356 00\nMaryland,   Pennsylvania,\nand Virginia    1,901,227 81\nMaryland        55,000 00\nVirginia        25,000 00\nNorth Carolina      370,377 00\nGeorgia      243,043 06\nFlorida       287,712 72\nAlabama      204,997 60\nAMOUNTS APPROPRIATED IN EACH TEAR.\nAmount.   Year. Amount.\n806 $48,400 00 1831 $926,311 84\n1832 1,225,008 43\n1833 1,159,451 82\n1834 1,641,621 52\n1835 1,352,243 61\n1836 1,837,520 31\n1837 1,768,218 63\n1838* 2,087,044 16\n1839     60,500 00\n1841     75,000 00\n1842   100,000 00\n1843 230,000 00\n1844  696,500 00\n1845      50.000 00\nj'10 \"\".    60^000 00\nI''1    50,000 00\n1815\n1816\n1817\n1818\n1823\n1824\n1825\n1826\n1827\n1829\n1830\n     30.800 00\n 100,000 00\n     10,000 00\n      4,000 00\n 317,989 60\n     33,920 00\n  175,000 00\n 176,712 00\n 284,253 00\n  398,541 45\n 1,020,120 56\n 608,560 25\n 672,506 03\nTREAU CoRPB OF TOPOGRAPHICAL ENGINEERS,\nDecember 26, 1846.\n17,199,223 21\nJ. J. ABERT,\nCol. Corps of Topographical Engineers.\nhunts'5 apProPriation law of 1838 directed that but a portion (not exceeding one-half) of\nw appropriated should be expended in that year;","fullrs":{},"find":"2249.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2248","restrictionCode":"1","cdmfilesize":"526680","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

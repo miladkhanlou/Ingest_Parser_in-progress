@@ -1,0 +1,77 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The</nonSort>
+    <title>Daily Reveille, Vol. 64 No. 44</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Reveille</title>
+  </titleInfo>
+  <part>
+    <detail type="volume">
+      <caption>Vol.</caption>
+      <number>64</number>
+    </detail>
+    <detail type="issue">
+      <caption>No.</caption>
+      <number>44</number>
+    </detail>
+  </part>
+  <identifier displayLabel="Volume ID" type="local">1959-1960</identifier>
+  <identifier displayLabel="Item Number" type="local">reveillecentennial_19591208/MODS.xml</identifier>
+  <name authority="naf" authorityURI="http://id.loc.gov/authorities/names" displayLabel="Contributing Repository" type="corporate" valueURI="http://id.loc.gov/authorities/names/no2015036095">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" type="text" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <name displayLabel="Digitized By" type="corporate">
+    <namePart>CCS Content Conversion Specialists GmbH</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" type="text" valueURI="http://id.loc.gov/vocabulary/relators/fac">Facsimilist</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateIssued keyDate="yes">1959-12-08</dateIssued>
+    <dateCaptured>2018-09-10</dateCaptured>
+  </originInfo>
+  <subject authority="lcsh">
+    <topic>Louisiana State University (Baton Rouge, La.)</topic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">newspapers</genre>
+  <physicalDescription>
+    <form authority="aat">texts (documents)</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="rfc3066" type="code">en</languageTerm>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>The Daily Reveille</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-reveille:collection</url>
+    </location>
+    <titleInfo displayLabel="Periodical Title" type="alternative">
+      <title>The Daily Reveille</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+  </location>
+  <accessCondition displayLabel="Rights Statement" type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-NC/1.0/">In Copyright - Non-Commercial Use Permitted</accessCondition>
+  <accessCondition displayLabel="Contact Information" type="use and reproduction">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>METS from Backstage Library Works; MODS extracted and transformed using custom XSLT.</recordOrigin>
+    <recordContentSource>lsu/cmk</recordContentSource>
+    <recordCreationDate>2018-12-04-06:00</recordCreationDate>
+  </recordInfo>
+</mods>

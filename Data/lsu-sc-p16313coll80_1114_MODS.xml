@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Negre Marron en Prison.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000754f</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Marcelin Aguillard</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1858-11-20</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Pointe Coupée, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1858</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">NEGRE MARRON EN PRISON. A été arrêté conduit à la geôle de notre paroisse, un nègre nommé HENRI, le quel dit appartenir a un nommé James Allgood, de la Nlle-Orléans. Cet esclave siest êchappé de chez son maire en descendant le fleuve, venant de l'Etat du Missouri; ledit esclave porte des moustaches a près de six pieds de haut, et est âgé d'environ 30 ans. Le propriétaire est invité a le venir réclamer en se conformant à la loi. M. AGUILLARD, Geôlier. 20 nov, 1858--3 f.
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black;</note>
+   <note type="content" displayLabel="Slave Owner">Dr. James Allgood
+</note>
+   <note type="content" displayLabel="Slave Name (Age)">Henri or Henry (30)
+</note>
+   <note type="content" displayLabel="Slave Age Under 12">N
+</note>
+   <note type="content" displayLabel="Physical Description Provided">Y
+</note>
+   <note type="content" displayLabel="Slave Sex">M;</note>
+   <note type="content" displayLabel="Personality Description Provided">N
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 3
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Pointe Coupee Democrat. : (False River [i.e. New Roads], Parish of Pointe Coupee [La.]) 1858-1864
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-11-20/ed-2/seq-1/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-11-27/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-12-04/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-12-11/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-12-18/ed-2/seq-2/;
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86053686
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2551</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-05-11</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2551</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2551/json"
+                        timestamp="2017-02-13 13:34:11">{"title":"RSA00000754f","object":"sn 86053686\n","publia":"Pointe Coupee Democrat. : (False River [i.e. New Roads], Parish of Pointe Coupee [La.]) 1858-1864\n","date":"1858-11-20","year":"1858","film":"page 1, column 3\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-11-20\/ed-2\/seq-1\/\n","unique":"Negre Marron en Prison.\n","person":"Marcelin Aguillard\n","parish":"Pointe Coup\u00e9e, La.\n","digita":{},"acknow":{},"public":"Dr. James Allgood\n","town":"New Orleans, La.\n","relati":"Henri or Henry (30)\n","slave":"M;","slavea":"black;","slaveb":"N\n","slavec":{},"reward":{},"multip":{},"physic":"Y\n","persoa":"N\n","transc":"NEGRE MARRON EN PRISON. A \u00e9t\u00e9 arr\u00eat\u00e9 conduit \u00e0 la ge\u00f4le de notre paroisse, un n\u00e8gre nomm\u00e9 HENRI, le quel dit appartenir a un nomm\u00e9 James Allgood, de la Nlle-Orl\u00e9ans. Cet esclave siest \u00eachapp\u00e9 de chez son maire en descendant le fleuve, venant de l'Etat du Missouri; ledit esclave porte des moustaches a pr\u00e8s de six pieds de haut, et est \u00e2g\u00e9 d'environ 30 ans. Le propri\u00e9taire est invit\u00e9 a le venir r\u00e9clamer en se conformant \u00e0 la loi. M. AGUILLARD, Ge\u00f4lier. 20 nov, 1858--3 f.\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.\n","type":"text\n","format":"clipping\n","langua":"French;","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-11-27\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-12-04\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-12-11\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-12-18\/ed-2\/seq-2\/;\n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000754f-0.jp2","find":"2621.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-11","dmmodified":"2016-05-11","dmoclcno":{},"dmrecord":"2551","restrictionCode":"1","cdmfilesize":"104452","cdmfilesizeformatted":"0.10 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

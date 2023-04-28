@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Emma Tarlton Stafford broadside</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes">1940</dateCreated>
+      <dateCreated point="end">1955</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>La Houssaye, Sidonie de</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women authors, American</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1940, 1941, 1942, 1943, 1944, 1945, 1946, 1947, 1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955</temporal>
+   </subject>
+   <abstract displayLabel="Description">The broadside reads "Mrs. Emma Tarlton Stafford Will Address 'Le Circle Francaise'" on the life and writings of Sidonie de la Houssaye.</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>1 leaf.</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll19:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Emma T. Stafford Sidonie de la Houssaye Collection (Mss. 1445)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/1445.pdf</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Sidonie de la Houssaye Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>U:104, Folder 1:1; MF:S, Reel 1.</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Emma T. Stafford Sidonie de la Houssaye Collection, Mss. 1445, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">m1445f1.1s06</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll19/id/8568</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-05-13</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll19</alias>
+         <pointer>8568</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll19/8568/json"
+                        timestamp="2017-02-09 16:47:08">{"title":"Emma Tarlton Stafford broadside","creato":{},"contri":{},"date":"circa 1940-1955","dates":"1940, 1941, 1942, 1943, 1944, 1945, 1946, 1947, 1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955","descri":"1 leaf.","langua":"en","type":"text","geogra":"Louisiana","subjec":"La Houssaye, Sidonie de.; Women authors, American--Louisiana.","notes":"The broadside reads \"Mrs. Emma Tarlton Stafford Will Address 'Le Circle Francaise'\" on the life and writings of Sidonie de la Houssaye.","source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","reposa":"Emma T. Stafford Sidonie de la Houssaye Collection (Mss. 1445)","locati":"U:104, Folder 1:1; MF:S, Reel 1.","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/1445.pdf","cite":"Emma T. Stafford Sidonie de la Houssaye Collection, Mss. 1445, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","item":"m1445f1.1s06","itema":"See 'reference url' on the navigation bars.","relati":"http:\/\/cdm120701.cdmhost.com\/cdm4\/index_p120701coll19.php?CISOROOT=\/p120701coll19","catlog":{},"publis":{},"format":{},"identi":{},"covera":{},"coverb":{},"catalo":{},"object":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"fullrs":{},"find":"8883.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2009-05-13","dmmodified":"2009-08-24","dmoclcno":{},"dmrecord":"8568","restrictionCode":"1","cdmfilesize":"544810","cdmfilesizeformatted":"0.52 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

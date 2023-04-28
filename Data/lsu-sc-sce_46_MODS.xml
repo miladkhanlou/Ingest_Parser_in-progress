@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Duplantier Letter</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/257</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2007-02-16</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>257</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/257/json"
+                        timestamp="2017-02-02 09:47:14">{"title":"Duplantier Letter","creato":{},"date":{},"dates":{},"publis":{},"contri":{},"subjec":{},"descri":{},"notes":{},"langua":{},"transc":{},"digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":{},"collec":{},"sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":{},"format":{},"imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":{},"find":"258.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2007-02-16","dmmodified":"2007-02-16","dmoclcno":{},"dmrecord":"257","restrictionCode":"1","cdmfilesize":"9998866","cdmfilesizeformatted":"9.54 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

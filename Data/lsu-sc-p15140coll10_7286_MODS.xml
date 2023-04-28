@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 68</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2597</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2597</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2597/json"
+                        timestamp="2017-02-03 08:23:44">{"title":"page 68","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"he went about a mile in the\ncountry (at Judge Guion's), to dine.   After dinner it rained, and\nof which, he was taken with yellow fever, and remained there until\nhe was convalescent. A few days after this, the family where this\nman was staying, were taken with the fever, and one, a very interesting daughter, died. A son-in-law of Judge Guion, Dr. Young,\nwho resided in Houma, sixteen miles from this place, where there\nand while there, they were both taken with the fever, and the Doctor died.\nThere are other instances here where the disease appeared to\niwn, where he died, and his clothes wer.\nir fifteen days after this the smallpox\nthe town, the cases within a few days o\nspread of one, as the other\n.   I do not pre\ntend to say that th\nvirulent as thai\nt of smallpox une\ncircumstances, yet, it may I\niw fever as ar\nr imported diseas,\nlates in temperatu\nit will spread\nfrom person to r\nuntil we have a change in t\nemperature to (\nheck it.\nThe fever continued to\nhad a\nkilling frost, which occurre.\n1 on the 15th ol\n'October; and eve\na after\nthis we had a good many c.\n.ohad\nbeen exposed to the disease\nprevious to th.\nOne recovered after blact\n: vomit in my p\nractice.   Now, in:\nas been said, thr\nit I deem it unnec\nto speak of that in detail.\nBut I look up\n.on it, that remedi,\nmight be found efficacious i\nnone locality,.\nro well\nin another, as the yellow f\never, I think, i\ns apt to partake\nof the\nnature of the prevailing did\nhere it","fullrs":{},"find":"2598.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2597","restrictionCode":"1","cdmfilesize":"485820","cdmfilesizeformatted":"0.46 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 8, Page 11</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2330</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2330</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2330/json"
+                        timestamp="2017-02-03 08:24:54">{"title":"Section 8, Page 11","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"resent Constitution of the  State,  which has  so\nllv and unfortunately tied us down, will soon be\nd by a new one,  no  doubt more in  accordance\n\\ the spirit of the age, in which all fatal restrictions\nremoved.    Capital will then flow to us for safe\nI j rofitahle investment,  and with the projected rail.\nimprovements, will be placed beyond the reach  of\nI (jtingency, a career of real prosperity, founded on\nsolid ucatmula\/io\/i of wealth, which will soon teach\nsceptical that we have not miscalcuted the ben-\njis of these grot works of internal improvement.\ni, then, fellow-citizens, in forwarding this under-\niling\u2014your prosperity is now at stake, and the decision\n. nyour o\nn hands\u2014second, the efforts of those e\n[rising friends in the city and country who have so lib-\nmllyTontributed by subscription, and who will devote\nat time to the completion of this noble enterprise. If\narefuse the desired aid, such adverse action must tend\niepress still further the value of your property, and by\nlowing the world :hat e.'r . \u25a0 c o uisi'OfCtl to \\vtri\n: condition, will sink us still lower in credit and\n\u00ab\u00bbtion. M. O. II. NORTON,\nJbne 18, 1852. President, pro. tern.","fullrs":{},"find":"2331.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2330","restrictionCode":"1","cdmfilesize":"471599","cdmfilesizeformatted":"0.45 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

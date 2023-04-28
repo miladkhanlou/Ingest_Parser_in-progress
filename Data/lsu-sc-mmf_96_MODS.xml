@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Libro del caballero Zifar</title>
+  </titleInfo>
+   <name displayLabel="Scribe/Artist">
+      <namePart>Juan de Carrion (?), illustrator</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1464</dateCreated>
+      <place>
+         <placeTerm>Spain</placeTerm>
+      </place>
+      <publisher>Barcelona: Moleiro, [1996]</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">The Libro del caballero Zifar is the first extensive adventure story to have been written in Spanish and was composed around 1300. It retains traces of the chivalric romances of the Middle Ages and was probably written by Ferrand Martinez, cleric of Toledo, who appears in the prologue. 
+
+Two manuscripts of the story have survived, one from the 14th century (MS 11,309, National Library of Madrid) and one dated 1464 (MS Espagnol 36, Bibliothèque Nationale).  There are also two copies of an edition printed in Seville in 1512. 
+
+The story is divided into three parts.  The first recounts the experiences of the knight Zifar and his family after they are forced to abandon their home.  In the second part, Zifar instructs his sons in the art of kingship.  The third section tells the story of Roboán, Zifar’s son, who has set out on his own quest.</abstract>
+   <abstract displayLabel="Contents">A Spanish medieval romance</abstract>
+   <note type="content" displayLabel="Illustration">242 illuminated miniatures</note>
+   <note type="content" displayLabel="Details">V. 1, facsimile; V. 2, commentary (in Spanish)</note>
+   <note type="content" displayLabel="Century">15th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Gothic</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Spanish</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">Bibliothèque Nationale, Paris, France (Espagnol 36) (http://www.bnf.fr/en/tools/a.welcome_to_the_bnf.html )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>PQ6388 .C2 1996 FLAT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">mm00028</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/405</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>405</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/405/json"
+                        timestamp="2017-02-03 14:39:14">{"title":"Libro del caballero Zifar","creato":"Unknown","centur":"15th century","date":"1464","origin":"Spain","conten":"A Spanish medieval romance","illust":"242 illuminated miniatures","script":"Gothic","scribe":"Juan de Carrion (?), illustrator","curren":"Biblioth\u00e8que Nationale, Paris, France (Espagnol 36) (http:\/\/www.bnf.fr\/en\/tools\/a.welcome_to_the_bnf.html )","descri":"The Libro del caballero Zifar is the first extensive adventure story to have been written in Spanish and was composed around 1300. It retains traces of the chivalric romances of the Middle Ages and was probably written by Ferrand Martinez, cleric of Toledo, who appears in the prologue. \n\nTwo manuscripts of the story have survived, one from the 14th century (MS 11,309, National Library of Madrid) and one dated 1464 (MS Espagnol 36, Biblioth\u00e8que Nationale).  There are also two copies of an edition printed in Seville in 1512. \n\nThe story is divided into three parts.  The first recounts the experiences of the knight Zifar and his family after they are forced to abandon their home.  In the second part, Zifar instructs his sons in the art of kingship.  The third section tells the story of Robo\u00e1n, Zifar\u2019s son, who has set out on his own quest.","biblio":{},"public":{},"associ":{},"altern":{},"langua":"Spanish","genres":{},"facsim":"Barcelona: Moleiro, [1996]","extena":"V. 1, facsimile; V. 2, commentary (in Spanish)","call":"PQ6388 .C2 1996 FLAT","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00028","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"1464","fullrs":{},"find":"406.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"405","restrictionCode":"1","cdmfilesize":"567","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

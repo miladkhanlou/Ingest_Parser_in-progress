@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 30</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2137</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2137</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2137/json"
+                        timestamp="2017-02-03 08:24:46">{"title":"Section 3, Page 30","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"30 ADDRESS.\nFellow-citizens, had New-Orleans been true to herself, she could I\nnot now be occupying a position of so much hazard ; and the hurnil^M\ntion of such appeals as we rire making to yon would never haveb3M\nnecessary. In the day of her pride and her power, she deemed tldH\ntho deity had lent her armour, and that, the child of foil une and of I\ndestiny, she must be forever invulnerable. Already the evil tiijH\nhas come, and her enemies mock at her, and at the doom which W^H\napathy is threatening to bring upon her. With a position the mffl^B\nfavored in the world, New-Orleans should have been the Queen of I\n(lie South and the West, elected by Hie unanimous voices ofsubjecaH\nwhom she had conciliated and attached to herself by the liberality of I\nher spirit, and the extent of her r nterprise. Instead of this, shehj^l\npreferred to sit in her isolation, without sympathy or eo-operation^M\ntho works of her neighbors. It is thus that these neighbors, on their I\nway to the sea-board, leave us without one parting symptom of re. I\ngret.\nWc have1, been   deceived,  fellow-citizens, by Ihe voices of thoj^fl\narrvjng us. who, without any permanent interest in lire city, or only I\ninterested to abstract tho most out of it to  be expended abroad, or I\nto build up mammoth estates by rapacious exactions, have continually, and upon all occasions, been crying out that \" all is Weill* \\\n\" Let us eat, drink, and be merry, tho old father' of waters is gamer- |\ning for us wealth unbounded, and is altogether lire greatest arid cheap- I\nest, and most magnificent rail-road in tho world.\"     Hre have been de. I\nceived.    Had all been well, New-Orleans would have grown with the\ngrowth of the West, as St. Louis, and Cincinnati, am! Boston, have j\ngrown ; and wc should have had a population of \"200,000 or 250,000,\nand received in produce already  $300,000,000 per annum.*   Ask\nyourselves, however, what are the facts ^    How  many buildings are\nnow untenanted in New-Orleans'!!    Within a few days we havesejH\n^tributary region slip away, which gave us 100,000 bales of cottou,\nand 100,000 to 200,000 bales promised to go iu the same direction!\nThus our receipts will be diminished at least one-half, and what will\nbe the value of the rent-rolls of New-Orleans ?    Let properly look to\nils position of peril !    Real estate cannot survive the broken sceptre\nof trade.    It cannot escape to other places like personal property.\nWith trade it lives, and without trade it perishes.    To the giipin8i\npenurious, and usurious holder of bonds and mortgages, and lots, ana\ntenements, and enormous rent-rolls, dreading a little public expend'-\n* RELATIVE  GROWTH  OF  NEW ORLEANS  AND THE  WEST.\nIn the last ten years the West has more than doubled its  population, whilst New-O^\nleans has not increased more lhan 95 or 30 per cent.    The average increase of Pr0ll\u00b03\nat New-Orleans has not doubled in  ten years, though  the producta'Sf die West, as *\" .\nreceipts al Buslon, New-York, &amp;c, show, have quintupled.\nt NO. VACANT HOUSES IN 2ND  MUNICIPALITY,  MARCH, 1851.\n1st Ward 39 6th Ward \u00ab\u00bb     I\n2nd    \u2022\u2022      15 7lb     \"      \u00ab\n3rd    \"      6S \t\n4th     \"      17 Total 239\n5tb     \"      34","fullrs":{},"find":"2138.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2137","restrictionCode":"1","cdmfilesize":"555744","cdmfilesizeformatted":"0.53 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

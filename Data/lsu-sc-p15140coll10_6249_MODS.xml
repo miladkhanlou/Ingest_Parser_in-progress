@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 325</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1806</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1806</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1806/json"
+                        timestamp="2017-02-03 08:23:20">{"title":"Page 325","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 325 \u2014\nLeur mere n'avait ete vue nulle part: done des mains mysteneu-\nses l'avaient fait disparaitre; done un crime avait ete commie.\nCependant la nuit etait arrivee et la mere n'avait pas reparu.\nII y avait quelque part dans ce village un cadavre etl'on ne sa-\nvait pas ou. etait ce cadavre.\nLe frisson etait daus toutes les chairs.\nLe soleil\u2014qui a vu tant de crimes et qui a ce litre doit etre\nblase sur tous les crimes possibles\u2014le soleil avait disparu dans les\nbancs de nuages du golfe du Mexique, ct lc3 recherches duraient encore. ,\nLa maison etait cutouree d'un immense cordon de spectateurs :\nune inspiration passa dans le cceur de Pun d'entre eux, qui voyait\nun jeune mulatre de 13 ans, esclavc dc la maison, jouer sur la ga-\nlerie de la maison sinistra.\n\" Si nous pendions un peu ce petit mulatre? cria Henri Livran.\n(II est bien enteudu que cette menace avait pour but d'arracher\ndes revelations au jeune esclave.)\n\u2014Pendons-le 1\" cria la foule.\nOn saisit l'adolescent, qui jusqu'alors avait joue sur ia galerie\navec une insouciance de lazzarone ; on roula une cordc autour de\nson cou et l'on fit le simulacra de le hisser au bant d'un arbre.\n\" Grace!\" cria-t-il, au moment oii il allait se trouver suspendu\ndans le vide.\nLa corde retoniba et l'adolescent se retrouva debout sur le sol\nqu'il avait eru quitter a tout jamais.\n\" Ou est ta maltresse? lui demanda Henri.\n\u2014Je Piguore.\n\u2014Je te pends de nouveau, ajouta lc tortiohnaire.\n\u2014Maitre, dit l'esclave, en le regardant avec de3 yeux dilates par\nla terrcur, comme ceux des tigres par la colore, ma maitresse est...\nla...la-bas... dans le putts... dans une excavation...\" et sa main se\nleva sans trahir aucune emotion nerveuse et designa le puits de la\ncour.\nLa foule se rua dans la cour comme une avalanche,\nUn homme etait deja, descendu daus le puits, et y etait descendu,\nlaissant a Porifice du puits une foule de tetes anxieuses. Ajoutons\nque les jeuues femmes y etaient en majorite.\nR J eut uu moment d'angoisse a defier les combinaisons les plus","fullrs":{},"find":"1807.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1806","restrictionCode":"1","cdmfilesize":"402952","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

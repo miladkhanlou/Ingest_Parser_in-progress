@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 404</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1885</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1885</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1885/json"
+                        timestamp="2017-02-03 08:23:23">{"title":"Page 404","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 401 \u2014\nCependant te journal preeite commit le mal dont ii repoi\nremede, ainsi que Fatteste la description suivante de Fancien regime,\ndatee du mots d'oetobre 1859 :\nLorsqu'un voleur de bceuf*. un voleur de pores, un voleur de\nnegres ou un miserable assassin,\u2014quelque noir que soir son caiaetere\net odieux que soit son crime,\u2014est arrete et traduit devant nne Cour\ntie. justice, pour y etre juge et puni, que fait le eoquin pour ecliappcr\nau chatiment 1 S'il n'a ni argent ni amis, le ciel hit vienne en aide!\nH'il a de l'argent on une propriete quelconqtte, il emploie immediate--\nnient un avocat qu'il paie de $25 a f&amp;.OOO, selon que sa bourne est\nplus ou moins bien garnie et quo BOn crime est plus o1! moins atroce.\nL'avocat se charge de s\u00bb cause, non par pr'mcipe, par amour de\nsa paroisse, de son Etat, de sa race, du bim ordre, mais pour l'argent\net souvent pour une bagatelle. Pour une somme bien moindre que\ncelle qui induislt jsdis certain gentleman a truhir sod maitre, il g'ef-\nforce de blanchir le enminet et de le lticher sur la societe, oil il ira\nencore voler, piller etassassiner.\nLe Moniteur des Attakapas,\u2014Attakapas Register,\u2014egalenwmt public a Franklin, ne menugcait pas non plus les VigUaots. Jiou*\nHsons dans son mimero dn ler octobre 1859 :\nL'ex-gouvecneur Monton prete aux Vigilants Fintluencede son nom\net de sa position, et les soutient dans les outrages ir.iminaine qu'ils\ncommettent. Deja nous- avions appris que le gouvenieur Houton etail\nmembre du Comite, et qu'i! en avait inspire et dirige tous lea mouve-\nments, bien qu'il ne se tot pas mis en campanile avec lui: mais. son-\ngeant \u00ab la situation honorable et eminente qui lui avait ete faite parle\npeuple, comme couservateur de la paix dans lea annees passees, nous\nn'avions pas eru a cette runieur et nous avions doutfi qu'il put, ea\nauciine ei icon stance, permettre qu'on fit usage de sou nom et de sou\nnee dans une entreprise illegale et rebelle. Mais il ne nous eat\nphis permis de conserver ce doute.\nNous pourrions supposer qu'un nomine comme le gouverneur\nMouton. poasedant dans la communauteuneliaute position conquise pai\nsi;s qu;il'ites morales ct son eminente eapacite, se joigne. d&amp;ns un cae\nparticulier, a une bande de cette sorte, pour cu ileveiiir le eonseiller\net le directcur ; pimrtenir ('gales les balances de la justice ; arreter la\nlicence ; prevonir Ja confusion de Fimioeent etdu coupable : tempewr\nta justifceparla roisericorde ; empficher de conn ettr .;.\u25a0.&lt; aetes &lt;le\nviolence et de barbaric et veiller a ce que les sentiments de Iaeoinmu\nnaute ne soient point outrages. Mais nous avons lc regret do dire que\ntelle n'a point eta Fintention de Fex-Gouver::i.'ur . 11 a faitpartie du\nOmite et a. apporte son influence dans Faccompiissemeut dos plus\nifa   outrages; il etait la, quand les fbyei do is ; quand\neeux qui osident parler et bluruer les Comites etaient expatriea.;\nquand les peres, les epoux et les 1'reres etant arracliesa leave demcu-\nles, tortures avec inkumauite et violemmeut  expulses de leur pays,","fullrs":{},"find":"1886.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1885","restrictionCode":"1","cdmfilesize":"439056","cdmfilesizeformatted":"0.42 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

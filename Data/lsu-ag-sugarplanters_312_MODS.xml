@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 3</title>
+   </titleInfo>
+   <note type="content">Reginald Dykers was secretary of the Louisiana Sugar Planters' Association.</note>
+   <note type="biographical/historical" displayLabel="Biographical Note">The Louisiana Sugar Planters' Association was founded in 1877 by a group of prominent planters.  Based in New Orleans, the group was largely responsible for setting in motion the modernization of Louisiana's sugar industry.  It merged with the American Sugar Cane League.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>1 letter</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Sugar Planters' Association Papers, 1877-1917</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-ag-sugarplanters:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Parent Item Title">
+         <title>Letter from Max Hermann to Reginald Dykers, 1911 February 18</title>
+      </titleInfo>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 266, 1492</identifier>
+   </relatedItem>
+   <identifier type="local" displayLabel="Item Number">1492b03f20029c</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/mem</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-06-19</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

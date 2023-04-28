@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 75</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1998</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1998</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1998/json"
+                        timestamp="2017-02-03 08:23:57">{"title":"page 75","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"nistry to which they have devoted their lives, it\nceptable, must derive  grace and authority from\nwith dignity from the spheres of superiority;\ntheir elevation, are beyond its reach. No shrine\nis to be approached without an offering worthy\nof its sanctity, and the presentation of scentless\nflowers loses half of its merit. I shall therefore content myself with expressing to you and\nto your professors my thanks, for the gratification\nwhich you and they have afforded me, and for\nthe joyful pride which 1 have felt since my coming to these classic grounds. With joyful pride\nindeed I see, that n.v native State is no longer\njustly exposed to the reproach of not being able\nto educate her youthful generations. That education is properly appreciated in Louisiana and\nin the South, witness this immense assembly, in\nwhich are so fully represented all the elements\nof talent, beauty, labor, industry and wealth,\nfor which our commonwealth and our sister State\nof Mississippi are so eminently distinguished.\nThat a scholastic education may be obtained in\nthese Southern climes, as completely as in lands\nof more classic renown, witness the academic\nusiiorial Library\nitate University","fullrs":{},"find":"1999.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1998","restrictionCode":"1","cdmfilesize":"464496","cdmfilesizeformatted":"0.44 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

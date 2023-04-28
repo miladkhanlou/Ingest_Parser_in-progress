@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Shrimp investigations in Georgia</title>
+  </titleInfo>
+   <originInfo>
+      <publisher>Louisiana. Dept. of Wildlife and Fisheries</publisher>
+      <dateIssued keyDate="yes">1931</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Shrimp fisheries</topic>
+      <topic>Georgia</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Trawls and trawling</topic>
+      <topic>Georgia</topic>
+   </subject>
+   <abstract displayLabel="Description">Shrimp investigations in Georgia.  After an experimental haul of a 60-foot trawl the catch is carefully sorted according to species.</abstract>
+   <note type="content" displayLabel="Sub-category">Shrimp</note>
+   <note type="content" displayLabel="Category">Fishing-commercial</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <genre>photograph</genre>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/n83230635"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana Sea Grant College Program</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <note type="ownership" displayLabel="Source Note">Louisiana State University Libraries</note>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Sea Grant Digital Images Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sea-p15140coll21:collection</url>
+      </location>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Copyright of federal and state documents is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Conservation Review 2 (1931): 2</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll21/id/308</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-05-28</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll21</alias>
+         <pointer>308</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll21/308/json"
+                        timestamp="2017-05-16 08:51:04">{"title":"Shrimp investigations in Georgia","date":"1931","descri":"Shrimp investigations in Georgia.  After an experimental haul of a 60-foot trawl the catch is carefully sorted according to species.","notes":{},"format":"photograph","source":"Louisiana Conservation Review 2 (1931): 2","creato":{},"subjec":"Shrimp fisheries--Georgia; Trawls and trawling--Georgia","catego":"Fishing-commercial","subcat":"Shrimp","publis":"Louisiana. Dept. of Wildlife and Fisheries","rights":"Copyright of federal and state documents is in the public domain.","reposi":"Louisiana State University Libraries","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the Title or File Name in your request.","contri":{},"type":{},"identi":{},"langua":{},"relati":{},"covera":{},"coverb":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"309.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-05-28","dmmodified":"2010-05-28","dmoclcno":{},"dmrecord":"308","restrictionCode":"1","cdmfilesize":"1004827","cdmfilesizeformatted":"0.96 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

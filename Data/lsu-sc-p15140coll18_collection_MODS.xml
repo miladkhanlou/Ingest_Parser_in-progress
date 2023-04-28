@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Hermann Moyse, Sr. World War I Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The Hermann Moyse, Sr., Letters contain letters written by Hermann Moyse, Sr. (1891-1985), a native of St. Gabriel, LA, during his time as a soldier in World War I. The letters are primarily addressed to Rosalie Gottlieb, Moyse's future wife. The collection also contains letters from Moyse to his parents, Simon and Flora Moyse, and siblings, as well as letters from various friends and fellow soldiers. Moyse earned a Bachelor of Arts degree from Louisiana State University in 1910 and a Bachelor of Law degree in 1912, after which he worked for the law firm of Cross and Moyse in Baton Rouge. Gottlieb, a Baton Rouge native, and daughter of Joseph and Rebecca (Hahn) Gottlieb, received a Bachelor of Arts degree from LSU in 1918.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Moyse was one of the first volunteers from Louisiana to join the World War I effort, enlisting in the Army's First Officers Training Camp in 1917. Commissioned as a first lieutenant, Moyse was deployed to the Alsace sector, where he was severely wounded in trench warfare during the Aisne-Marne offensive on July 31, 1918. After months of convalescence, he returned to active duty as the assistant to the adjutant general of the Service of Supply at Tours, France. Moyse was honorably discharged in 1919 and was awarded the Distinguished Service Cross, the Purple Heart, and the French Croix de Guerre with Palm. Upon returning to Louisiana he was promoted to captain in the Reserve Corps of the United States Army. Moyse was active in local patriotic groups and during World War II served as state commander of the Louisiana Department of the American Legion.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Moyse and Gottlieb married on September 30, 1920. The couple had two children, Hermann, Jr., and Betty. From 1921 to 1924, Moyse represented East Baton Rouge Parish in the state legislature. He worked as an attorney for the City National Bank in Baton Rouge from its inception in 1933 and became its vice-president and trust officer in 1946. He also served in various capacities with the Chamber of Commerce, the Red Cross, and other civic groups.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The letters cover the period Moyse spent at Citizens Training Camp at Fort Logan H. Roots in Arkansas, Camp MacArthur in Waco, TX, as well as his brief stay in New York before he left for France. The majority of the letters are from his time in France, during which he writes to Gottlieb about his experiences with his fellow soldiers as well as his interaction with French people he encountered during his deployment. Moyse writes fondly of the French, for whom he has a great admiration of their stoic nature in a time of grave crisis and hardship.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The Hermann Moyse Sr. World War I digital collection is comprised of over 150 letters from February 1917 to November 1919. The majority of the correspondence is between Hermann Moyse and Rosalie Gottlieb, and details his military training in Arkansas and Texas, eventual deployment to France, and subsequent wounding. Moyse and Gottlieb married in 1920. This digital collection has 20 folders, which each contain multiple letters from a specific time period.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p15140coll18</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p15140coll18</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p15140coll18</identifier>
+</mods>

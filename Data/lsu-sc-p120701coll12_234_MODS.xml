@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/506</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>506</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/506/json"
+                        timestamp="2017-02-09 16:30:52">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\njjijbKBljeH ScmUmonW?,at jffibc BolUri a Stnr, bS tit Scfftraon ffloIU\nflc mi* BSliiBMnnton EjltCUt\n10 A 0 E M I   (( 11 JE li u II r.   VtiltlH,\nNATCHEZ, Al'lili, no, 1H.18.\nTHE EPIDEMIC YELLOW FEVERS OP NATCHEZ.\n\"IN MEDIO VERITAS.\"\nAn E\u00ab\u00aby read before the Jefferson College and Washington Lyceum, Dec. S,\n1837, by J. W.MONKTTti, M, D.\nCONCLUDED.\nThe Epidemic of  1S23.\u2014This was probably the most\nextensive and terrific epidemic yellow fever which has visited\nthis or any other city of its population.    It commenced in\nscattering cases in the south-western part of tho city on both\nsides of a largo gully or ravine, which heads on Ihe northwest side of the town, and also in the vicinity of other bayoux of the same hind, which extend up'to the block of the\ncity at several points on the south side.    During the prevalence of the epidemic,  those sites, near thoso bayoux and in\nthe declivity towards them,  from  the adjacent  bills, were\nihe chief seats of  the disease; although it finally extended over a large portion  of the   city.     It was about two\nweeks niter tho epidemic appeared, \" on the hill,\" before it ex-\ntended to that portion \" under the hill,   at the landing.  |Med.\nRecord, vol. 4, p. 0-8.)    The first cases which excited alarm,\noccurred between the 9th and   12th of August.    About th\n20ib, it become so alarming, that the Board of Health, after\nreceiving the reports of the medical faculty, declared the ex\nistehce of yellow fever in tho city as an epidemic.   The mass\nof citizens immediately fled, with their necessary moveables,\nas before an invading army.    They crowded into Washing-\nIon, and dispersed by hundreds through the country; many\nof them remaining in temporary shelters and camps.   Many\nfled across the Mississippi, into the alluvial lands of Loilisia-\nNO. It).\nclosed, and in tho beds, which had nol been ej\nfrosts.\nosrd to ths\nOn the 10th of September, after the epidemic had prevailed about three weeks, the equinoctial gales .sprung up, and\ncontinued for two days, with such violence as to cause much\ndamage among the shipping at New Orleans, as well as\nalong the coast, and in the Gulf of Mexico. In the region\nof Natchez, it was so severe, that tho standing corn and the\ncotton crops were leveled and much injured. This wind\nippeared to have swept off all the out-door infection; und, for\nseveral days, tho disease appeared to have been aircsted.\nBut, after a week ol warm weather, it broke forth with renewed violence; and was finally checked only by the cold weather and frosts in the last of October and in the first week of\nNovember.\nThe state of the weather immediately preceding this epidemic was excessively oppressive. The month of July had\nbeen agreeably diversified with sunshine anil showers of rain.\nAugust was hot and sultry, with occasional showers, followed,\nus Dr. Curtwright observes, \"several hours at a time, by a\nbreathless state of the atmosphere.\"\nNew Orleans, this summer, was not unusually sickly, until the first of August, although some cases of yellow fever\nbad previously occurred. About the middle of August,\ncases multiplied rapidly, and that city suffered severely for\ntwo months.\nAt Mardez's, one mile from Washington, on the Natchez\nroad, several houses and several temporary bills and sheds,\nThe disease continued to prevail in the city, from t\n20th of August, until  it was checked by tho cold weather of about sixty persons of the common people, w\nnear the last of October,    During this time', few who visited thither.    Their apartments were small, close, nr.\n\u2022&gt;\u25a0 were crowded with families and  individuals, to the number\no had fled\nill venti-\nllie infected district from the country escaped the discs:\nNotwithstanding the number of persons and families, as well\nus the large quantities of goods, &amp;c, carried to Washington,\nthere was no case of yellow fever contracted in Washington,\nalthough there were about ten deaths in the town, besides recoveries, of persons who had contracted the disease in Natchez.\nOn the 15th of September, a census ol the city was taken,\nby which it was ascertained that there were within the limits\nol the city, seven hundred and eighty-four souls. On the\nWtb of September,  the official report gave the number of\nluted. Several persons died at this place within u week after\nthey arrived from Natchez. About two weeks after their arrival, tho yellow fever broke out most malignantly among\nthem, and about twenty of the whole number died. An infected air was generated, and several persons from Iho vicinity contrac.cd the disease by visiting thnt place. Nearly all\nthe persons from the country who contracted tho disease, by\nvisiting Coonville, as the place is culled, died of the most malignant symptoms. Among these were Messrs. Glasscock,\nThompson, Norman, and others. The infection in these\nsheds and houses was doubtless as coiicenlrrted as that in tho\ndeaths at two hundred and six, from August 21st to Septem-lcily.\noer 19th, inclusive.    From the commencement to the closel    Several cases occurred, in like manner, nt Haughton's tav\n01 the pestilence, the whole number ol deaths within the city,\nWas about three hundred and twenty. Nearly twenty person;\n'lied in iho city late in October, and during the first two\nweeks of November, by returning to their houses and beds,\ntiter they had supposed the infection destroyed by frost.\u2014\nSome of these deaths occurred as late as the 15th of Novem-\nW. Although the frosts had destroyed the out-door infec-\n'\u25a0on, still it was virulent in  the houses, which had   been\nem, ono mile from Natchez, and situated near the margin of\nthe main trunk of all the bayoux or ravines which head\naround the city. Many of the cases at Haughton's were supposed to have had no intercourse with the infected district.\nAs to the causes of this epidemic, there are various opinions. Dr. Cartwright, in a very able and lengthy essay,\nascribes it lo the combined operation of a lot of putrid bacori\nin the Southwest part of the city, putrid oysters, and  putrid\n =^i\n\u25a0 \u2022\u25a0 %.\u00bb!\n\u25a0''4?\nm\n:.;:; :!:j\n\u2022 If.\" *\ni i- ill\nTV,\n\u2022 if.'\nA\nV\nil\n\u25a0  f","fullrs":{},"find":"507.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"506","restrictionCode":"1","cdmfilesize":"1832815","cdmfilesizeformatted":"1.75 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

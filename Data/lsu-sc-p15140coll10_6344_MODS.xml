@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 421</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1902</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1902</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1902/json"
+                        timestamp="2017-02-03 08:23:24">{"title":"Page 421","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 421 \u2014\n.. vieillard pour cinquante piastres\u2014et les bandits de Ia Queu6-\nTortue\u2014e* tan* d'autres affreux vauriens dont, a, notre grand reef nous n'avons pu tracer que d'imparfaits croquis ou des silhouettes prises a vol d'oiseau. Devant cette sombre galerie de portraits, on a dfi se dire qu'une societe battue en breehe par de pa-\nreilo bandits devait etre bien malade et avait, par consequent, le\ndroit de recourir, pour se sauver, a. des remedes herotqties.\nVII.\nVint la journee de ia Queue-Tor tue. Les pieces justificatives jet-\ntent un jour bien sinistre sur ce drame mis en scene avec fracas\npar se3 acteurs et qui devait se deuouer si mtserablement... pour eux.\nLa proclamation du Gouverneur fut, non le drapeau, mais le\nmasque de ceux qui pr-eparerent cette journee. D^guises en man-\ndataires de la loi, affubies d'dpaulettes, la poitrine converte de decorations en rubans, ils parcoururent les prairies, frapperent a tou-\nles les portes, recrute-rent, au nom de la loi,- menace rent de mort-\npar les fusillades, ceux qui n'ouvraient pas assez vile leurs oreilles\nu leurs paroles et reunirent enfin sur le terrain deux ou trois cents\nindividus qui se disperserent, la plupart en jetant leurs armes, devant la bouche d'un canon qui n'avait pas encore fait feu. La proclamation du Gouverneur eonvrit leurs enrolments ; mais de la defaite 3e degagea Ia lumiere, comme F^clair des nuages. Des affidavits, ifaits et affirmes, par serment, devant divers juges de paix,\nprouverent que ces patriotes, sur lesquels certaine presse a tant\npleure, revaient egorgements, pillage de coffres-forts... apres leur\nvictoire qu'ils cvoyaient certaine. Leurs projets devoletd'assassinat\nsont affirmes dans les pi-edeux affidavits, publies dans les notes justificatives. Ces affidavits, qu'on les Use ; et nous sommes sur, qu'apres\ncette lecture, nos adversaires honnetes regretteront d'avoir fait aux\nVaincus de la Queue-Tor tue Faumone de leur pitie*... et qui sait ?\npeut-etre trouveront-ils que les Comites furent trop indulgents...\nVIII.\nQuelques voix nous disetit qu'il aurait peut-etre mieux valu laisser duns l'ombre les rmaidits de la population attakapienne ; qu'il\nn etait pas bon de Cairo du reali&amp;me, a propos des maladies sociales,\ncomme M. Courbet et les pemtres de Feeoleespagnole ; que lesro-\n&lt;es etaient plus douees a la vue que les plaies saignautes ; que le\ndomaine des bandits, c'etait l'ombre et non le soleil; qu'un pilort","fullrs":{},"find":"1903.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1902","restrictionCode":"1","cdmfilesize":"421579","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

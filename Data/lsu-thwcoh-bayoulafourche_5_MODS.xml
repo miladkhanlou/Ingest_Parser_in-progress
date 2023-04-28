@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Brenda Dardar Robichaux oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Robichaux, Brenda Dardar, 1958-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Hayward, David</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">2010</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Houma Indians</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Indian healers</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Petroleum industry and trade</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Whites</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+    <topic>Relations with Indians</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>Catholic Church</geographic>
+    <geographic>Louisiana</geographic>
+    <geographic>Lafourche Parish</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Robichaux, Brenda Dardar, 1958</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Dardar, Ernest</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Robichaux discusses her upbringing in a Houma community just outside of Golden Meadow, Louisiana, and the history of the contentious relationship between the Houma and the white communities of south Louisiana.  The family grew much of its own food, and her father always made sure the family was well fed, even during economically challenging times.  Robichaux discusses the changes in Bayou Lafourche, including the saltwater erosion and the rise in industry in formerly residential communities.  She discusses her grandfather's (Ernest Dardar, a traiteur) role in the community, and recounts the gathering spaces for the family and community, which included the Catholic chapel, her father's boat, and her parents' house.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/bayoulafourche/Robichaux_Brenda_T3946.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.2100. A digital version of the index (pdf) exists for duplication purposes. A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room. Interview conducted by David Hayward.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Brenda Dardar Robichaux was born and raised in a Houma Indian community just south of the corporation limits of Golden Meadow, Louisiana.  Her grandfather, Ernest Dardar, was a traiteur, or healer, and her father was a fisherman.  The youngest child in her family, she was among the first Indian students to integrate Bayou Lafourche public schools, and she worked for the parish school district early in her career.  She served as the Principal Chief of the United Houma Nation (1997-2010), and is an outspoken advocate for minority rights.  She has also served on numerous boards (Second Harvest, Inter-Tribal Council of Louisiana, National Indian Education Association, Rockefeller Philanthropy Gulf Coast Ecological Health and Community Renewal Fund Advisory Group, New Orleans Jazz &amp; Heritage) and has won many awards for her service from local and national organizations (Times Picayune, Ms. Foundation, National Coalition on Black Civic Participation, United Houma Nation).  She is married to former state senator Michael Robichaux and has three children: Josh, Jason, and Felicite.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>1 digital audio file (29 minutes); Abstract (3 leaves); Index (4 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017363" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Bayou Lafourche oral history project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>Bayou Lafourche oral history series</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-bayoulafourche:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Brenda Dardar Robichaux Oral History Interview, Mss. 4700.2100, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">Robichaux_Brenda_T3946</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-03-31T18:10:39.757-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

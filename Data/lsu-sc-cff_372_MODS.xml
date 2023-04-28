@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>F11</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1173</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1173</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1173/json"
+                        timestamp="2017-01-13 13:22:52">{"title":"F11","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nF11\nEst Baton Rouge, 30th Decembre\n1857.\nMon cher fr\u00e8re,\nJ\u2019ai re\u00e7u, il y a quelque temps,\nta lettre, elle m\u2019a fait beaucoup de plaisir.\nPapa a re\u00e7u en meme temps ta longue lettre, il\n\u00e9tait tres content car il trouvait tes lettres\ntrop courtes. Grand Papa Doux \u00e9tait i\u00e7i, il\n\u00e9tait tres bien et devait partir deux jours\napres, avec Ledoux et Lucien, pour le college\nde spring Hill. Nous sommes tous tres bien.\nTout va comme de coutume, nous faisons l\u2019\u00e9-\ncole tout les jours, nous faisons beaucoup de\nprogr\u00e9s. Maman parle de nous envoyer,\n2\nF11\nEmma et moi, au couvent le printemps\nprochain. Cher fr\u00e8re, le 3 Decembre \u00e9tait le\njour de ta f\u00eate, Maman a invit\u00e9 quelques\namis a din\u00e9, et nous avons bus a ta sant\u00e9,\nMadame Linton a dit qu\u2019elle allait t\u2019e-\ncrire une longue lettre. Cher fr\u00e8re quelle\ndiff\u00e9rance depuis que tu n\u2019es plus l\u00e0, il\nsemble que tout est triste, nous nous amusons\nmais ce n\u2019est plus la meme chose. Tu te\nrappelle des jolies Tea parties, que nous fai-\nsions, comme c\u2019\u00e9tait bon d\u2019\u00eatre touts ensem-\nble, et les promenades [ rature] que tu nous faisais\nfaire dans la petite voiture de Bouboux,\n3\nF11\nsont fini \u00e0 present. Maman a r\u00e9uni\ntout ce que tu avais en fait de joujoux,\nelle les a mis soigneusement de Cot\u00e9, ta petite\nbrouette a \u00e9t\u00e9 aussi bien serr\u00e9. Robert veut\nabsolument prendre ta chaise, il dit que\ntout ce qui est pour son parrain est pour\nlui, mais Maman ne permet de rien toucher\nde ce qui t\u2019appartiens. Je prends toujours\nsoins de ton petit jardin, les ananas sont\nmagnifiques. Tu me dis que tu as trouv\u00e9\nmes gants dans ta poche, j\u2019en suis contente, cela\nte fera penser \u00e0 moi. A present c\u2019est le temps\nde no\u00ebl et la nouvelle ann\u00e9e, cher fr\u00e8re, je te\n4\nF11\nsouhaite beaucoup de bonheur \u00e0 cette\noccasion. Papa, mam\u00e1, Emma, Lawrence,\nOtis, Robert &amp; Boubous, nous t\u2019embrassons de\ncoeur. N\u2019oublie pas ton fran\u00e7ais, je t\u2019en prie,\ncar tu sais tout le monde i\u00e7i parlent fran-\n- \u00e7ais comme l\u2019anglais. Adieu cher fr\u00e8re,\nje t\u2019embrasse encore. Ta soeur qui t\u2019aime.\nMathilde Hall.\nTu excusera cette ecriture, car ma plume est mauva-\n- ise. La prochaine fois je tacherai de faire mieux. Mary &amp;\ntous les domestiques te souhaitent un merry christmas &amp;\nla bonne ann\u00e9e. Nous avons fini la roulaison.\nEcris nous bien souvent, cher frere, et dis nous\ntout ce que tu fais, et tout ce que tu apprends\nau college. N\u2019oublie pas de lire tous les jours le\nfran\u00e7ais, comme toi et moi faisions autre fois, et\naussi de copier. Je pense \u00e0 toi tous les jours en le\nfaisant. Le petit Boubous t\u2019embrasse. Adieu cher\nfrere. Ta soeur affectionn\u00e9e Mathilde.","typa":{},"genera":{},"fullrs":"Volume5\/F11.pdf","find":"1174.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1173","restrictionCode":"1","cdmfilesize":"53666","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

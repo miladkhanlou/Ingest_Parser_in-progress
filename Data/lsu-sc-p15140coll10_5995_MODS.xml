@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 62</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1547</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1547</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1547/json"
+                        timestamp="2017-02-03 08:23:11">{"title":"Page 62","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 62 \u2014\nruble ont tant do fois inaultee, frappe\"e au visage, et nous disons a oeus qui\njusqu'a present, out souffert, sans so piaindre, les ir.emes mans quo\nnous:\nCitoyens, lesmalftiiteurs pilient,brulent, ravagent tous les jours notre\nparoisse. Les agressions alapropritite sont des faits de tous les jours, de\ntoutes les heures, nous pourrions ajouter de tous les instants. Lc crime\na ici une armee quicompte ses ge\"neraux, ses officiers ct ses soldats.\nComment cette nouvellcarmc'ea-t-ellepKs'organiserdanscetto paroisse\nou les gens d'honneur sont en si grand nombre ? None alluns le dire bru-\ntalemeut:\nSondons done les plaie? qui rongent uotro paroisse: au point oil nous\non  sommes, e'e-st faire aetc de bons citoyens.\nLejuri\u2014eetfe institution conquise par la philosophic moderns , CO\ntribunal cr66 pour prot-eger rinnocent eomme pour ecraser le. coupable\n\u2014lejuri a uiilli cent fois a sa mission.\nOui, il a oommis cent fois, a la face do Dieu et du pays, un des crimes\nles plus abominables contre la socie\"te\"\u2014le Parjure !\nOui, lo parjure! car, eu acquittaut ceux quo les temoignages etl'eVi-\ndence declareut coupables, le juri commet le crime nomine\" plus hnut,\n\u2014crime qui lc fait descendre au niveau de eeux-la memo qu'il vieut de\nrendre a la liberty 1\nN'est-co pas, citoyens, que vous avcz de ces acquirements rendus\nmalgre\" les Umoignages et Yividence?\nSi cette indulgence criminelle de certains lure's n'avait fait que sohs-\ntraire queiques hommes an bagne, el-la cut e\"te\" un scandale\u2014mais elle\nn'eflt pas etc\" un crime contre la societe'. Mais ccsvcrdicts, contraires\naux t6moignages et a I'Evidence, avaient du retentissement dans les\neceurs pervcrsde notre communaute\". L'acqaittcraent d'un bandit elait\nune prime d'encouragement aux autres, l'lmpunite\" d'un coupable pro-\ndaisait aussitot cent criminels.\nCeux qui sdment le vent rdcoltent la tempStc, dit l'Ecriture\u2014notre\nparoisse en offrc un cxemplc bien eloquent.\nAussitoL que la justice eommciiija a se troiiver d^sarmec devant los\ncoupables, que vlmcs-nous 1\nLe vol, le jour, la nuit, partout, toujours! Le vol avec effraction, a\nmain arme'e, ou bien commis par ruse et sous les eirconstances aggra-\nvantcs cities plus haut! Le vol par des esclaves pousses par des blancs,\nou par des Wanes sans le eoncours des esclaves! Le vol d'autant plug\naudacicux qu'il dtait plus impuni!\nChargeons-nous le tableau, concitoyens ?\nCependant los bandits formerent bientotuue armee nombreuse, intel-\nligcnte, ayant des chefs rcstant dans l'ombre ct des soldats prets a faire\nmain basso sur tout ce qui sc trouvcrait A leur porte\"e. Races, couleurs,\nnoirs, blancs, tout se fondit et se groupa dans cetto annexe du pillage,\n\u25a0'u vol, dc I'incendie. Les uns furent rccole-urs ; les autres, de\"trou3seurs ;","fullrs":{},"find":"1548.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1547","restrictionCode":"1","cdmfilesize":"447612","cdmfilesizeformatted":"0.43 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 354</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1835</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1835</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1835/json"
+                        timestamp="2017-02-03 08:23:21">{"title":"Page 354","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 354 \u2014\nC'etait la parodie, l'atroce parodie de la magnifique parabole de\nLazare et du mauvais riche.\nLe Christ, tant de fois soufflete par ces gens-la devant les tribu-\nnanx et ailleurs, avait encore la douleur de voir leur bave tomber\nsur son evangile. Les plaies de sa passion ont pourtant assez saign\u00a3\ndepuis dix-huit cents ans.\nA ce que semaient les Canada, il etait facile de voir ce qu'ils al-\nlaient moissonner. Menaces d'etre frappes dans leur pauvrete, frap-\npes d'un autre cote dans leur vie de rapines, de depredations,\u2014ra-\nmeau impur que le fer des Comites coupait impitoyablement par-\ntout ou il semblait Jeter ses feuilles,~les bohemiens des Attakapas\ndecreterent une prise d'armes.\nLa Jacquerie allait prendre le fusil et ecrire sur sa banniere ces\nmots: Droit an Vol! Droit au Pillage 1\u2014 Seulement, les Jacques\nanciens avaient des griefs legitimes contre leurs maitres ; ceux des\nAttakapas n'avaient que les griefs d'une paresse inveteree qu'on\nvoulait detruire a tout prix.\nDecidement, notre Jacquerie n'avait rien de coramun avec celle\nqui, au Hoyen-Age, labourasi profondement le sol de l'Europe.\nPREMIER ACTE\nCependant il commencait a courir, dans la paroisse Lafayette, de\nces bruits, venus on ne sait d'ou, mais qui passent toujours dans le\nciel, portes par nous ne savons quelles ailes mysterieuses dans les\ntemps de crise. La police des Comites recueillait chaque jour des\nrenseignements, et parfois meme des denonciations auonymes, di-\nsant que le3 populations de la riviere Mermento, de Vermilion, de\nla prairie Itobert et de File des Cypres (paroisse Saint-Martin)\netaient travaillees par des agents, prechant de maison en maison la\nguerre du pauvre contre le riche ; et que ces agents faisaient de\nnombreux proselytes qui etaient enre*gimente*s aussitot sur les litres d'une association dont personne n'avait la cle.\nD'abord accueillis avec de'dain par les chefs des Comites, ces","fullrs":{},"find":"1836.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1835","restrictionCode":"1","cdmfilesize":"458985","cdmfilesizeformatted":"0.44 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

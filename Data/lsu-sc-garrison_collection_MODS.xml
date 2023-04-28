@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Abraham Garrison Letters, 1862-1863</title>
+  </titleInfo>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-garrison</identifier>
+  <name type="corporate" displayLabel="Contributing Repository">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes">text</typeOfResource>
+  <note type="content" displayLabel="Collection Description">Abraham Garrison was a private in the 161st New York Infantry Regiment, which was organized in October 1862. He spent the duration of his service in Louisiana and died of typhoid fever and dysentery on September 17, 1863.  The collection consists of nineteen letters from Garrison to his wife, Lydia, and one document from the US Army Hospital in Baton Rouge, La.</note>
+  <abstract displayLabel="Collection Summary">Abraham Garrison was a private in the 161st New York Infantry Regiment, which was organized in October 1862. He spent the duration of his service in Louisiana and died of typhoid fever and dysentery on September 17, 1863.  The collection consists of nineteen letters from Garrison to his wife, Lydia, and one document from the US Army Hospital in Baton Rouge, La.</abstract>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordCreationDate>2020-05-22</recordCreationDate>
+    <recordContentSource authority="local">lsu/mrj</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

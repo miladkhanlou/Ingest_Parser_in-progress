@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Biblia de San Luis</title>
+  </titleInfo>
+   <name displayLabel="Scribe/Artist">
+      <namePart>Unidentified</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes">1226</dateCreated>
+      <dateCreated point="end">1234</dateCreated>
+      <place>
+         <placeTerm>Paris, France</placeTerm>
+      </place>
+      <publisher>Barcelona: M. Moleiro Editor, S. A., 2000-2003</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">A richly illustrated “Moralized Bible,” in Latin. The earliest references to this work are the codicil and testament of Alfonso X the Wise, king of Castile, describing it as a "historiated Bible in three books given to us by the king of France" and "one of the most noble items belonging to the king."  Created between 1226 and 1234, this codex is famous for its almost 5000 medallions, depicting scenes from the Bible.  
+
+The three-volume manuscript was probably commissioned by Blanche of Castile, regent of France, and given to her son Louis IX to commemorate his marriage to Marguerite of Provence in 1234. Louis in turn gave it to Alfonso of Castile, either on the occasion of the contract of marriage in 1255 between Louis’s eldest son, Louis, and Alfonso’s daughter Berenguela or in connection with the marriage, negotiated in 1266 and celebrated in 1269, of Louis’s daughter Blanche to Alfonso’s son Fernando.</abstract>
+   <abstract displayLabel="Contents">The Bible</abstract>
+   <note type="content" displayLabel="Illustration">4887 roundels</note>
+   <note type="content" displayLabel="Details">V. 1-3, facsimile; v. 4, transcription; v. 5, commentary</note>
+   <note type="content" displayLabel="Century">13th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Gothic</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Latin</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">Toledo Cathedral, Spain (http://www.catedralprimada.es/biblioteca_capitular_toledo/ )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Rare BS70 .L68 B53 2000 FLAT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">mm00003</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/483</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>483</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/483/json"
+                        timestamp="2017-02-03 14:39:15">{"title":"Biblia de San Luis","creato":{},"centur":"13th century","date":"1226-1234","origin":"Paris, France","conten":"The Bible","illust":"4887 roundels","script":"Gothic","scribe":"Unidentified","curren":"Toledo Cathedral, Spain (http:\/\/www.catedralprimada.es\/biblioteca_capitular_toledo\/ )","descri":"A richly illustrated \u201cMoralized Bible,\u201d in Latin. The earliest references to this work are the codicil and testament of Alfonso X the Wise, king of Castile, describing it as a \"historiated Bible in three books given to us by the king of France\" and \"one of the most noble items belonging to the king.\"  Created between 1226 and 1234, this codex is famous for its almost 5000 medallions, depicting scenes from the Bible.  \n\nThe three-volume manuscript was probably commissioned by Blanche of Castile, regent of France, and given to her son Louis IX to commemorate his marriage to Marguerite of Provence in 1234. Louis in turn gave it to Alfonso of Castile, either on the occasion of the contract of marriage in 1255 between Louis\u2019s eldest son, Louis, and Alfonso\u2019s daughter Berenguela or in connection with the marriage, negotiated in 1266 and celebrated in 1269, of Louis\u2019s daughter Blanche to Alfonso\u2019s son Fernando.","biblio":{},"public":{},"associ":{},"altern":{},"langua":"Latin","genres":{},"facsim":"Barcelona: M. Moleiro Editor, S. A., 2000-2003","extena":"V. 1-3, facsimile; v. 4, transcription; v. 5, commentary","call":"Rare BS70 .L68 B53 2000 FLAT","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00003","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"1221, 1222, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239","fullrs":{},"find":"484.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"483","restrictionCode":"1","cdmfilesize":"591","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

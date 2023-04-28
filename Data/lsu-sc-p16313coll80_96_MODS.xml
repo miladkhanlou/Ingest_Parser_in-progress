@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00000301e</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">$50 REWARD. RUNAWAY from the subscriber's since the month of july 1854, the red negro HENRY, aged about 16 years, having 5 feet 3 inch high, forehead prominent, two [illegible] Said reward will be given to the person who will put him in the hands of the undersigned, or lodged him in on eof the State jails. J. M. LAPEZE St John the Baptist, june 9 1854. 2m</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <location/>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/851</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>851</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/851/json"
+                        timestamp="2017-02-13 13:34:00">{"title":"RSA00000301e","object":{},"publia":{},"date":{},"year":{},"film":{},"altern":{},"unique":{},"person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"$50 REWARD. RUNAWAY from the subscriber's since the month of july 1854, the red negro HENRY, aged about 16 years, having 5 feet 3 inch high, forehead prominent, two [illegible] Said reward will be given to the person who will put him in the hands of the undersigned, or lodged him in on eof the State jails. J. M. LAPEZE St John the Baptist, june 9 1854. 2m","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume4\/RSA00000301e-0.jp2","find":"915.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-02-24","dmoclcno":{},"dmrecord":"851","restrictionCode":"1","cdmfilesize":"53184","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

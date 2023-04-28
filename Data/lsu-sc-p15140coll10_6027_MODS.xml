@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 96</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1580</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1580</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1580/json"
+                        timestamp="2017-02-03 08:23:12">{"title":"Page 96","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"- 96 \u2014\nHI.\nSaint-Martinville est une jolie petite ville jetde sur les bords da\nbayou Teche, comme un village toscan sur les bords de l'Arno.\nFondd dans les premiers temps de la colonisation par les populations aeadiennes qui dmigi&amp;rent aux Attakapas, il s'dtait traind\nbien longtemps daus ses lauges, pareil a une jeune femme atteinte\nd'une de cesdouloureusesetpoetiques maladies depoitrine qui tuent\ninfailliblement a un jour donud, mais qui jusqu'il ce jour conser-\nveut a cette meme female la beautd et la grace des lis souffrants.\nSdpard de la Nouvelle-Orlcaus par un ruban interminable de bayous\ncoupes de lacs, il n'avait avec la capitale de l'Etat que des rapports\nlenta, difficiles, et qui auraient meme dte impossibles, si ces rapports n'avaient pas -dtd une necessitd.\nII languissait done en attendant un miracle qui effacat la distance qui existait entre la Nouvelle-Orleans et lui. Ce miracle devait venir dans ce siecle des decouvertes merveiIleuses. La vapeur\nallait jaillir du cerveau de Fulton.\nIV.\nLe jour ou la vapeur sillonna nos cours d'eau, lea Attakapas\ncommence rent a &lt;Hre comme un livrc longtemps fermd et qui serait enfin ouvert. Les colons y affiuerent comme vers uue terre promise. On en dtudia l'interieur. On en reconuut les lacs, les bayous,\nles foreUs, les plateaux dlevds, toutes les bizarreries gdologiques, si\nl'on peut employer cette expression, qui font dece pays plat et peu\n6lev6 au-dessus du niveau de la mer, un des pays les plus accidentds\ndu Sud. Chacun planta sa tente sur les terres les plus dleydes et lea\nplus fcrtiles, et a l'ombre de ces grands et beaux arbres que Dieu a\ndounds, comme une couronne, a la Louisiane, toutes lea bouchea\nchautercnt l'hymnc au travail, et la charruc ddchira de3 terres\nviergea comme les forets qui les entouraieut.\nV.\nSaint-Martinville avait profitd de cette inundation d'dmigrants.\nOeux-ci y avaient apportd, qui lear Industrie, qui un mdtier, qui","fullrs":{},"find":"1581.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1580","restrictionCode":"1","cdmfilesize":"413697","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

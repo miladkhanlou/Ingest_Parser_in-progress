@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 174</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1659</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1659</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1659/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 174","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"resteat Impunis,  nous, eoassign-es, nous nous organisotis, deB ce jottf. \u25a0\nen Comite de Vigilance, et nommone:\nMM. Sarrazin Broissard, president.\nSeven Boldreau, vice-president.\nSfcvERiN Lerlanc, greffier.\nJoseph Leiilanc, depute-greuiei-.\nLes resolutions.adoptees furent aussi laconiques que le pream-\nbule. Toujours de la concision antique :\nArticle premier.\u2014Tout inaividu qui sera traduit devant le Comite\nde Vermilion et trouve coupable, sera sujet a Tune des trois pimitions\nsuivatites : V Exil, lc Fouet, la Mort.\nArt. 2.\u2014L'exil sera applique pour le vol, ou tout autre crime ordinaire ;\nLe fouet sera applique a ceux qui resisteraient a la signification\nd'une condamnation a l'exil;\nLa peine de mort sera appiupue A lout auleur d'un crime punt de\nmort par te Code, tors meme qu'il aurait 6t6 acquitte par un juri\nparjure.\nArt. 3.\u2014Tout individu trouve coupable par le Comite et qui aurait\nreussi a gagner uue paroisse voisine, y sera arrete et conduit dans la\nparoisse oil il aura etc condamne, afin d'y subir son chatiment.\nA uue autre seance (2 avril}, resolu que :\nTout meiubre qui aura connaissance d'un debt ou crime sera oblige\nu'en faire un rapport imiuediat au president;\nQue, dans le cus oil un ay plusieurs membres seraicnt poursuivis\npour actes se rattachant aux interets de la Vigilance et ordonnes par\nle capitaine, nous nous engageorjs muUiellcment et solidairemr.nt a lui\ndonner secours et assistance, soit en argent, soit autrement, sur la\nrequisition du capitaine.\nOn orga'nisa ensuite un juri de quinze membres.\nPlus tard, enfin, a la suite d'une nouvelle organisation du Comite\nqui devait rendre tant de services, on adopta le programme suivant,\nsorte do Declaration des Droits de I'Homme que nous reprodnisons.\nautant pour le fonds que pour la forme, qui nous a paru e*minem-\nment litteraire.\nComite be OigUaucc he lit paroisse wnuiUoit.\nCapitaine, Sarrazin Broussard.\nStance du 5 mai I860.\nParmi les element's deinoralisateurs d'une societe, il n'en est pas dont\nl'influence soit plus a redouter pour les masses que 1'irapunitu tissurec\ni.ux erlminels.   Trop longtemps.  inallieureii semen t. nous en avci? v\"","fullrs":{},"find":"1660.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1659","restrictionCode":"1","cdmfilesize":"399470","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

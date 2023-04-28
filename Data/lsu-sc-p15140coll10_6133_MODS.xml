@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 202</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1687</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1687</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1687/json"
+                        timestamp="2017-02-03 08:23:16">{"title":"Page 202","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 202 \u2014\ntitre, noble depuis les Croisades et... inaitre d'ecole dans un des districts de la paroisse Vermilion. Ce baron, ce noble du temps des\nCroisades (noble dore par le procede liuolz) vint certifier que, le\nsoir de 1'assassinat, Aladin avait ete vu a, vingt-ciuq milles du lieu\nou cet assassiuat avait ete commis.\n11 vint certifier cela d'une voix assuree et le front ceint d'une cou-\nronuc de cheveux hativement blauchis sans doute par la debauche.\nII vint certifier cela, lui vieillard, malgre les temoignages nombreux qui constataieut qu'Aladin avait ete vu la veille daus le voi-\nsinage du theatre du crime.\nLe baron de Juge'fut aussi banni.\nNous 1'avons vu dernierement it Salute-Marie, en voiture, devant\nle magnifique cafe de notre ami Prevost.\nOn nous dit qull avait trouve, en arrivant a Salntc-Marie, une\nplace de maitre d'ecole (quel professeur de morale 1) et que, renvoye,\nil s'etait mis a faire des filets, des seines et autres engius de peche,\nqu'il tressait du reste fort adroitement.\nLe bagne a perdu la un bon ouvrier.\nQu'on dise apres cela que les Comites de Vigilance ne sont pas\nelements 1\nL'EXHATION\nPlusieurs moi3 se sont ecoule3 depuis l'acquittement d'Aladin\nCorner.\nOn croit qu'il est au Texas, au Mexique, ailleurs peut-&lt;Hre, fuyant\nson crime... et le retrouvant partout... car avant que Shakspeare eut\nevoquS le spectre de Bauco, la voix qui epouvanta, Cai'n etait la,,\ncriant dans la Bible.\nOn lc croit loin ; on le laisse h, ses remords, les rcmords, ces vau-\ntours de Promethee 1\n\"Qu'il vive loin avec son vautour 1 se disent les temoins ou voisius\ndc son crime. Mais surtout qu'on n'entende plus parler de lui 1! 1 \"\n.]LTn jour, onentend parler de lui.","fullrs":{},"find":"1688.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1687","restrictionCode":"1","cdmfilesize":"416716","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

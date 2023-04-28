@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 07</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/596</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>596</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/596/json"
+                        timestamp="2017-02-09 16:30:56">{"title":"Page 07","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN   JOURNAL.\n231\ndiscovered in a circular cavity, about twelve inches in diameter, and not more than fifteen inches below the surface, the\nashes and remains of a funeral pyre; being the remains of\nburnt bones and other animal matters, calcined and enclosed\nin a strong cloth of round coarse texture, entirely unlike\nmodern manufacture. Similar remains wero recently discovered by John Routh, Esq., in opening the surface of a mound\nupon his plantation on Lake St. Joseph. These relics prove\nclearly that those who built these monuments, sometimes at\nleast, adopted tho custom which has so long prevailed in the\neastern parts of Europe and in Asia, of consuming by fire\nthe remains of their friends and entombing their ashes.\nAnother work of the same nature is to be found in the angle formed by tho junction of Little river with the Washita\nor Black river of Louisiana. The land on which this work\nis situated, like that for many miles on every side, is firm alluvion, above ordinary inundation. The plan of the work,\nas well us the position selected for it, show that it has been a\nfortified place. Major Stoddarl, who visited it about the year\n1810, gives the following description of these works, as they\nappeared twenty-eight years ago. He says there were five\nmounds enclosed by a wall or embankment of earth, at that\ntime ten feet high and ten feet thick. Tho earthen wall enclosed about two hundred acres of ground. Four of tho\nmounds were of nearly equal dimensions, being about three\nhundred feet long, one hundred feet broad, anel twenty feet\nhigh, of a square or parallelogram form at the base, and diminishing towards the top in tho pyramid shape. Tho fifth\nappeared to have been designed as a tower or turret, the base\nof which covered an acre of ground. It rose by two steps or\nstories, each gradually diminishing from its base upwards.\nThe summit of the upper story was crowned with a flattened\ncone about eighty feet above the base. These works, in all\nprobability, were designed also as a place of deposite for the\ndead.    See Sketches of Louisiana, p. 350.\nBut who were the people that built these monuments, nnd\ndwelt in these lands which wo now inhabit? Their name\nand origin is unknown; but they were semi-civilized, numerous and laborious. Possibly they were the parent stock\nfrom which the Peruvians and Mexicans originally separated\nabout two thousand years ago; the parent stock also from\nwhich tho Toltecs afterwards separated about the middle of\nthe seventh century; and from which also came ihe Aztecs\nin tho thirteenth century. It would be tedious to trace all the\nreasons for such a conjecture. Where are they now ? Forgotten and unknown, they lie'buried in these monuments of\nearth, where they were deposited probably, long, long before\nthe European first set foot upon America. The blastin\nbreath of time has swept over them, as it did over the lands\nof Chaldea and Assyria; and a new race have sprung up,\nwhich, posssibly by the same influence, in ten or fifteen centuries, may have likewise passed away; when the remains of\nour monuments may be mere themes of conjecture.\nThis continent has been called the \"New World;\" but is\nit not old? How many physical revolutions may have passed over it before its discovery by Europeans, for forty centuries, none can toll. Who can unroll the scroll of its history,\nor mark the eras of its existence since the creation?    Who\ncan read the tablet upon which the records of unnumbered\ncenturies are written, and tell us of all the mighty deeds ol\nconquest and empire, which have diversified its political existence, while it remained unknown to Europeans? Read\nthe tablets that lie buried under the surface of the earth, and\nthose that rear their heads above, and they will tell you ol\ncities, nations, and mighty empires, which were coeval with\nBabylon and Tyre,\nINAUGURAL ADDRESS\nor j. w. Monette, M. U\u201e before the Jefferson Collego and Washington Lyceum.\nGentlemen on the Lyceum :\nAfter tho short notice I have received, and the continued\nengagements of a different nature, it can hardly be expected\nthat I should have prepared a fin mat address upon this occasion : yet, belore entering upon the duties assigned me by the\nconstitution of our society, I may be pennitled lo express my\nacknowledgements for the honor conferred, and the confidence implied, by electing me to preside over the meetings\nand deliberations of this learned association. The best evidence, however, which I can give you of my gralitudc for\nthis expression of your confidence, will be in the faithful performance of tho duties incumbent upon mc; and in the continued zeal 1 may evince to promote the interests, and advance\nthe reputation of our association. This shall be ilone to the\nextent of my feeble abilities: but I must beg your favorable\npredilections, and your indulgence ; and so much the more,\nas I have been preceded m the office by one who is so well\nqualified, and has so ably discharged the duties which are A\nnow committed to my hands.\nOur institution has now existed for nearly three years, with\na gradual advance of character, and an accession of useful and\nlearned members. The small band which founded this association under difficulties mid discouragements, has in some\ndegree surmounted them, and has now become a literary and\nscientific corps, which may bo an honor to the state, and may\nin some small degree, advance the interests of science. It is'\nnot chimerical to suppose, that our association, now comparatively small, may be the nucleus, around which may be gathered, in less than a quarter of a century, a host of worthies,\nwhoso names shall bo registered as distinguished collabora-\nteurs in the field of knowledge.\nThe kind feelings and the liberality with which we have\nbeen sustained by the generous public in our efforts to establish the first literary periodical in the state, the \" South-Western Journal,\" give a pleasing assurance that wc shall still\nhave their aid and approbation ; and that ultimately we shall\nnot fail to receive the highest reward of virtuous enterprise,\nthe smiles of Divine Providence, and the approbation of the\ngood and wise.\nThe object of our association is not unknown. We make\nno pretensions to extraordinary talent or learning: we do\nnot set ourselves up as models of virtue or knowledge: but\nwe are what we profess to be, an association of men of respectable attainments in literature, science, and general knowledge, for the purpose of cultivating a taste for literary pursuits, and intellectual exercises; for cultivating our minds,\nand storing them with useful knowedge; while at tho same\nto\n4\n.'u\n\"I\n-\/'","fullrs":{},"find":"597.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"596","restrictionCode":"1","cdmfilesize":"1700767","cdmfilesizeformatted":"1.62 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

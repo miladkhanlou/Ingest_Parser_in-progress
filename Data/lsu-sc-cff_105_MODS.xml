@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M20</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1192</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1192</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1192/json"
+                        timestamp="2017-01-13 13:22:54">{"title":"M20","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM 20\nsign\u00e9 Charles Grand-Pr\u00e9 d\u00e9clare avoir fait et\nu\u00e9 le Sr George Mather pour mon procureur\n[d\u00e9chir\u00e9] . lui donnant plein &amp; entier pouvoir d\u2019administrer\ns ; toucher &amp; recevoir ce qui peut m\u2019\u00eatre d\u00fb en\ndonner valable quittance &amp; d\u00e9charge ; accepter ou\nrenoncer [? trou] \u00e0 toutes succe\u222bsions \u00e9chues ou \u00e0 \u00e9choir, les\nrecueillir pour moi &amp; et en mon nom ; Agir en jus-\ntice soit en demandant soit en d\u00e9fendant plaider,\ncontester si besoin est, et m\u00eame substituer une\nou plusieurs autres personnes \u00e0 sa place en cas\nde maladie absence ou autre empechement de\nla part de Sr Mather pour executer tous &amp;\nchacun des actes sus mentionn\u00e9s.\nPromettant de ratifier tout ce que le dit\nSr Mather ou ses substitu\u00e9s feront en vertu des\npr\u00e9sentes.\nB\u00e2ton-Rouge dix huit Decembre\nmil huit cent douze\nCharles de Grand-Pr\u00e9","typa":{},"genera":{},"fullrs":"Volume5\/M20-0.pdf","find":"1193.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1192","restrictionCode":"1","cdmfilesize":"36812","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

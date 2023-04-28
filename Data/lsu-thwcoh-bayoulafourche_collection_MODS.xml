@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bayou Lafourche Oral History Series</title>
+  </titleInfo>
+  <identifier type="local" displayLabel="Collection ID">lsu-thwcoh-bayoulafourche</identifier>
+  <name type="corporate" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <note type="content" displayLabel="Collection Description">Dr. Mike Pasquier partnered with the Williams Center on this project, and also with LSU's Coastal Sustainability Studio, and Communication across the Curriculum (CxC) program. Pasquier's goal is to use these interviews to garner a better understanding of how the culture of south Louisiana is being affected by wetland loss. Interviewees from Lockport, Thibodaux, Cut Off, and other towns discuss growing up in Golden Meadow, the role of religion and local churches, careers in sugar cane farming, paper milling, and the oil and gas business, fishing and hunting, the changing landscape of the bayou, local plantations, and many other topics.</note>
+  <abstract displayLabel="Collection Summary">Religious Studies conducted these interviews to better understand the role of religion in the life of residents along Louisiana's Bayou Lafourche.</abstract>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordCreationDate>2021-04-07</recordCreationDate>
+    <recordContentSource authority="local">lsu/jg</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

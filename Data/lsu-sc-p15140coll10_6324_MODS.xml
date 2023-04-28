@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 401</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1882</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1882</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1882/json"
+                        timestamp="2017-02-03 08:23:23">{"title":"Page 401","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 401 \u2014\n'hire phvsique. Les coups furent comptSs par enx, non comme\nrietriss'TC a, 1'honneur, mais comme une amende de guerre im-\n-c*e a leurs corps... Nous nous trompons : un seul demanda la\nrt\u2014et nons soumettons  ce fait k ceux qui aiment k etudier les\nteres ^Q Q(\u00a3ur humain : ce cri fnt ponsse par un des bandits les\niplus comproaiis.\n11 etait six heures do soir.\nLa tache des Comites etait finie.\nLes 500 soldats de 1'ordre remonterer^t a cheral et s'eloignerent,\napres avoir runis en liberte leurs prisonniers.\nils venaient d'etoulfer une insurrection, sans avoir repandu une\no-outte dc sang et do dclivrcr leurs paroisses de bandits que la loi\nn'avait jamais en la puissance de reprimer.\nLa prairie etait dc^crte ; il n'y avait plus qu'un cadavre : celui de\nGeneus Canada, qui. te matin, se voyant poursuivi, s'etait fait sau-\nter 'la cervelle. (La veridique Banniere des Planteurs Fa fait mou-\nriv par la main des Comites ; nous lui repondons que les thugs, que\nson parti soudoyait, ily a quatre ans, en ville, n'ont jamais fait ecole\n-aux Attakapas.)\nLes Comites s'empiTSsu-eut de regaguer leurs foyers ou veillaient\ndes meres, des sceurs, des femmes inquietes, et de relever eu meme\ntemps les patronillcs armees que la prudence des chefs avait places sur tous les chemins. Ces patrouilles avaient re^.u la consigne\nd'arreter tout incoiuiu qui serait rencontre, durant la nuit du 3\nseptembre, sur le3 chemins attakapieus. La crainte d'une diversion\nprobable, sinon certaine, des bandits, diversion qui se serait tra-\nduite au moins par des iucendies, avait dicte cette consigne severe,\nqui du reste ne fut appliquee qu'a deux fuyards de Farmee de\nJohn Jones qui, nc voulant pas s'arreter, furent sallies de deux\nballes. qui ne leur firent aucun mal.\nLe lendemain, tontetait rentre dans Fordre. A la tempe'e de la\nveille avaient succcde le calnte, la serenite des cpoques les plus heu-\nreuses\u2014 et des bandits armes de John Jones, il ne restaikplus que\nes vaiueus qui, tout saignants encore des blessures recues Ia\n'\u25a0\u25a0 Blue, allaient conmiericer tristeiwent le dur voyage de l'exil.\n^ un court episode vint seulement clore la periode militante des\nll---   Dans les derniers jours  de septembre, un des bandits,\nnnai'L Lacouture, banni pour vol commis en complicite avec ses","fullrs":{},"find":"1883.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1882","restrictionCode":"1","cdmfilesize":"416686","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

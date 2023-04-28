@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Letter from W.G. Raoul to his father, circa 1862-1864</title>
+   </titleInfo>
+   <name type="personal" displayLabel="Creator">
+      <namePart>Raoul, W. G. (W. Greene), b. 1843</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="approximate">1862</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1864</dateCreated>
+      <dateCaptured encoding="w3cdtf">2008-06-12</dateCaptured>
+   </originInfo>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>Confederate States of America. Army. Washington Artillery Battalion (New Orleans, La.)</namePart>
+      </name>
+   </subject>
+   <note type="biographical/historical" displayLabel="Biographical Note">A resident of Independence, Louisiana, W.G. Raoul enlisted as a private in the Confederate States Army at age nineteen. He served with the Washington Artillery between 1862 and 1864, when he was promoted to the rank of captain and assigned to the construction and distribution of railroad cars.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Letters (correspondence)</form>
+      <extent>1 page</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>W.G. Raoul Letters, 1862-1864</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-raoul:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 2949</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>MISC:R, Folder 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No Copyright - United States</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright of the original materials in this collection has expired and they are therefore in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">W.G. Raoul Letters, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">2949F1001_001</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/hcr</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-04-03</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

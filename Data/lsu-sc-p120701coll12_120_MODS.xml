@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 12</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/409</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>409</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/409/json"
+                        timestamp="2017-02-09 16:30:59">{"title":"Page 12","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH- W E S T E R N J 0 U R N A L\nI  '' 4\nr-9\ni\nM\n\u2022:'\ninstruct and amuse. On a proper application, admission was speakers generally complimented their brethren, in the out-\nobtained to the collections of various noblemen in the vicini- set, in strong language: but afterwards proceeded to cut each\nty. Expeditions were made to the coal and salt mini s, to the- other's opinions lo pieces without mercy. No one so high\nsubmarine forest, to the various manufactories: so thai noth .but he was sharply criticised. Whenever any one deviated\ning was omitted, which could odd to the gratification and im.ifrom the main subject, he was brought up by the presidenf,\nprovement of the distinguished visiters. and compelled lo keep to ihe question, or sit down.    The\nIt would be impossible for me to comprise in this letter same practice was pursued with regard lo the papers. I\nany satisfactory account of the papers, tho discussions and the have heard tho aide and eloquent Professor Sedgwick inter-\nimprovements which occupied the attention of the Associa- rupt a venerable savan in the following manner:\u2014Mr. B.'i\ntion. The latter were numerous, and some of them important. They were produced partly by committees which the\nAssociation had appointed for the purpose, nnd partly by the\nlabors of individuals. Among the improvements, I may\nmention modes of increasing the facility of working iron;\u2014\nthe comparative influence on it by the hot and cold blast.\nImprovements in the telegraph, the safety lamp, in oplical\nlenses, and in ihe mode of adapting spectacles to the eyes. *\nIi has been ascertained to the satisfaction of the learned,\nthat the diamond, on bi ing cut for lenses, often becomes\nopaque, whence it is inferred that it must be removed from\nthe mineral to the vegetable kingdom. Great advance-shave\nbeen made in electricity and in geology. As for chemistry,\nihe old foundations are being removed, and I hope we shall\nfind new ones substituted; but whether they will last longer\nlhan those displnci d. is matter of great uncertainty.\nAmong tbi discoverii s of chemistry, there is one of great\nimportance to our country. Mr. Crane stated that ho had\nsucceeded in sun him.' iron by anthracite coal. By means of\na cupola furnace, he urged a stream of hot air on the anthracite, which was all that was necessary to produce that com-\nbustion of the coal requisite for the reduction of the ore.\nThis is called the hot blast, and is much used in Great Britain. Another important discovery is, the ready and exten.\nsive production of oxygen gas from water, by galvanism or\nelectricity. Such is ihe facility of doing this, that it isconfi-\ndently and seriously expected that water will, ore long, be\nused Ibr fui 1. This will very much aid the steam navigation.\nns sea water will answer for decomposition as well as fresh,\n'i'h \u2022 quantity of oxygen sr:is which may be generated in a\nve cubic inches,\ntw ' animal substances by artificial\nntoine\u2014and the formation of saline\nopen, as it were, new regions to the\nist; for these discoveries make it op-\nvarious parts of animals, and to form\niht electric fluid,\nver, that it is\nIII\nTh.\npaper is extremely interesting, and worthy of his great character ns a geologist, and it gives me personally great pleasure\nto hear his remarks. They are, however, not to the purpose.\nThey do not belong to the subject which he has announced;\nand it is my duty lo interrupt him, and to inform him that he\ncannot proceed, unless he adheres strictly to the subject\u2014and\nI will not bear another word from him. My authority is\ndespotic, and I must exercise it.\" Tin's he pronounced in a\nmost agreeable tone and manner; and the poor author was\nobliged to submit, with as good a grace as he could, lo give\nway to some other speaker,\nThe spectacle presented by this collection of learned men,\nwas highly imposing. The view of so many intellectual\nheads, and tho recollection of their achievements, compared\nwith Ihe simplicity of their maimers, chess, and conversation,\nwas deeply interesting. The animation displayed in their\ncountenances and movements passed from one to the other,\nand caused a degree of excitement through the whole, which\nwas communicated lo the inhabitants, nnd kept the city in a\nstate of extraordinary and agreeable commotion. The results\ncannot fail to be most useful; and I hope the obvious benefits,\narising from tin's meeting will be known in our country, and\nopen the way lo the organization of similar meetings there,\nwhere the distance which men of science arc removed from\neach other renders such assemblies even more necessary than\nin Great Britain or Germany.\nHERSCHEL'S DISCOVERIES,\nHerschel himsolf! intent on fin- discovery, seldom looked\niccause their blaze injured his eye,\n11 inin-\nmetals by ihe i\n1 must repi at, b\na, lite larger starj\nhe rather avoided the transit, lint lie tells us ihat at on\nlime', after a considerable sweep wilh his instrument, \"the\nappearance of the Hog Star announced itself at n great\ndistance, like the dawn of tho morning, nnd came on by decrees, till tin's brilliant star at lasl entered ihe field ofthe\ntelescope with all the spli udor of the rising sun, and forced\ns vain for me lo attempt to mc to take oil' my eye from the beautiful sight. \" Blest pow-\nnumerate the beautiful novelties which were constantly aris-jer of man, thus to approach a remote idi a of the splendor of\nng lo vi.w. Heaven's architecture!    The forty lid telescope which Hers-\nThe maimer in which the discussions were conducted, was chel made use of. could descry a cluster of stars consisting of\nThe 5,000 individuals, were it 300,000 times deeper in space than\n\u2014\u2014- Sirius probably if; to lake a more distinct standard of com-\n, C0ln'. parison, wero ii at the remoteness of 11,765,475,948,678,-\neiflvr. 679 miles; or. in words, eleven million seven hundred and\n; , ; 'sixty five thousand four hundred and seventy-five billions\nnine hundred and forty eight thousand six hundred and sev-\nnmii enty'e,S'lt thousand six hundred and seventy nine miles.\u2014\niFreemasonS Quarterly Journal,\n::i --uiie respects different from thai practised anion\n.\/\u2014.     ..* a.","fullrs":{},"find":"410.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"409","restrictionCode":"1","cdmfilesize":"1851587","cdmfilesizeformatted":"1.77 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 403</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1884</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1884</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1884/json"
+                        timestamp="2017-02-03 08:23:23">{"title":"Page 403","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"i- 403 \u2014\n\u25a0ciient niille intrigues impuissantes,\u2014s'exprime ainsi au sujet du\nvov*t&amp; du gouverntur Wickliffe, a la fin de septembre 1859 :\nLeffoi'verncur Wickliffe. isceompagne deFadjudant-general Grivot,\na passe ici, (l bord du steamer T. D. Mine, reVenant d'ane tournee\ni'obaerv*tion sur la scene des operations du fan-mux Comite de Vigilance des paroissesattakapiennesd'en limit.On dit que le Gmiverneur\nest profonuementimpresslonue par les details *jui sontarrivesiisa con-\no&amp;issance sur lee outrages commis par les Vigilante. II est d'avis que\noes nro.'rdmt'B arbitral res touehenfc a leur fin et que leurs auteurs se\naouinettront; tninqiulleinent aux lois : mais il exprimela ferine volonte\nuu'ils w debmi^eiit et obeissent immediiitement aux lois de FEtat, et\nil est r6soiu a recourir it la force, s'ils tie cedent pas. Le Gouverneur\na appria &lt;1IU' tro'B ('es v'ctimes des Vigilants avaient suceombo aux\nMeasures fiiitee par te fouet qui leur avait ete si brutalement infli^e ;\nini'im individu avuir. ete fusil le; epic plusieurs cadavres avaient ete\ntrouves dans les prairies; que, dans oes memes prairies, on voyaifc\nmourants des femmes et des enfants dont lee perea, lea Spouse et les\nfrerea avaient ete chasses de leurs foyers par les Vigilants! Triste nomenclature de crimes que celle-lil, dans une comtmmaiite civillsee 1\nPour cmnble d'audace, le j-jge Simon a, dit-on, recu 1'ordre de ne pas\nessayor de tenir den sessions de Cour dans la paroisse Vermilion. II\nnous est difficile d'ajouter foi a ce dernier bruit, ear il nous semble\niueroyable que des homines possedaut le moiiulre degre d'intelligence\nsoient assez insenses puur so eroire cnpables de fouler aux pieds less\nCours de l'Etat, a moins qu'ils ne soient-prets it courouner leurs actes\nillegaux par le crime detrahison, le plus grand crime prevu paries\nlois d'un Etat queleonque, et k tenter une revolution coutre le gouvernement.\nNous espt'rons, au nom de Dien, que ces hommes egares revien-\nilront &amp; eux et rentreront dans le devoir, sans qu'il soit besoin dee\nforces de l'Etat pour les broyer, retribution qui leur est destinee aussi\naureiuent qu'il y auneepeeue justice dans la main du Gouverneur, s'ils\npersistent dans leur voie coupable. Nous esperons que la violence est\n;i son terme ; que 1'ordre et la loi serout promptement retablis; que\nla justice, honoree dans les Cours, repremint sa soleunelle dignite,\nmesurora un chatiment merite aux coupables, sans aceeption do rang\n\u25a0ni &lt;le fortune. II faut que la lui suit maiiitenue, que Fexistence et les\ndroits dea citoyens soient proteges, que 1'ordre public soit garanti,\n\u25a0\u25a0\u25a0\u25a0\u25a0&lt; cr'uuinels soient traduits devant la justice et puuis, sans quoi\nla vieet la propriete des citoyens ne sont plus en surete.\nCe seiait une honte pour l'Etat que le Gouverneur fut contraint de\nrecourir a_ une force inilitaire pour abattre Finsurrection coutre leu\nautonteB legales ; mais ce serait uue honte infininient plus grande encore qu'une foule, si nombreuse qu'elle hit, put se jouer do Fexistence\ndes cttoyeus et braver les Cours de justice. SaiiB esprit de parti a cet\n^\u25a0ra, qouh esperons que le gouverneur Wicklifl'e preudni, e'H \u00ab'st\ndes mesures promptes et efficaces pour abattre ces pt'oce-\nuuies despotiques et pour veitler a Fexecutiou des lois.","fullrs":{},"find":"1885.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1884","restrictionCode":"1","cdmfilesize":"404364","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

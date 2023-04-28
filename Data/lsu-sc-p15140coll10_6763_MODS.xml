@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 5, Page 9</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2169</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2169</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2169/json"
+                        timestamp="2017-02-03 08:24:47">{"title":"Section 5, Page 9","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"t, appeal\"'t0 a\" t0 S've :l cordial support to measures for the general good,\n, ,0 _ut aside all impracticable schemes.     Thus they would overcome the\niTffi   lties 0f tueir situation.    Let them do so.    Let the resolution be adopted\nnth unanimity by this large and intelligent Convention, and it would convey\nimpressive lesson to their liepresentatives that they would not disregard or\nsoon faget-\nMr. Bobb was often and warmly applauded in the\ncourse of his speech, of which the above sketch is but an\noutline.\nThe resolution was put to vote, and adopted.\nNext there was a unanimous call for Randall Hunt,\nwho, in compliance, appeared upon the stand, and was most\ncordially greeted :\nHe deprecated the supposition which might exist, that he was about to\ninake au elaborate speech. It was but the day before he was apprised that an\naddress would be expected from him. He was then in the midst of a law\ncase, which engaged all his attention, and up to the present moment, when he\nwas speaking, his time had been devoted to the performance of urgent pro-\nfessional duties. Nevertheless, he had thought sufficiently on tho matter under\nconsideration to express his conviction of the advantages of this road, and his\nbelief of the certain success of the project. That success was foreshadowed\nm the energy, spirit and intelligence, from all parts of tho State, assembled\nore him. The great work was needful for the interests of Louisiana, and\n\u00bbf the whole Union.   '\n0 referred to the reports of tho surveys of tho Opelousas route,     The\n*nce of poetry is truth; and these   reports,   entertaining   in   descriptions\nBcemay, as well as fertility of soil and salubrity of climate, presented\nsamo attractive quality as the inspirations of the muse.    From one of these\nforts, he learned that the road would run through twenty-three thousand\n- miles, or fourteen millions of acres, but three millions of which were\n\u2122ed and swamp.     The vastness of territory to be developed would b&gt;\nWI'   C       \"ne-fifth of that territory only was under improvement.     r -a\nW   ' ' remained to be opened to cultivation.     This was only as far as\n'lie h\u00bb     \"' an^ ^PP0* tne roalJ should go further, how immense would be\n(\u25a0\u00ab\/'    UNT' referring to the statistics of Col. Payne, remarked that the\nSndd -       tyand eloquence of that gentleman, were creditable to himself,\nl'v\u00abl the thanks of every true-hearted Louisianan     The Colonel had","fullrs":{},"find":"2170.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2169","restrictionCode":"1","cdmfilesize":"623740","cdmfilesizeformatted":"0.59 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

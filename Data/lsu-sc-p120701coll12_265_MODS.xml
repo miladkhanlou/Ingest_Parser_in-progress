@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/537</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>537</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/537/json"
+                        timestamp="2017-02-09 16:31:05">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\nac(er of its practisers: ns it has been applied to more and\nmore intellectual occasions, this has been done by more and\nmore ttnintellectual persons: so that, in general, the most violent and boisterous in their bodily manifestations of delight\nat any passage in a speech, are those who least understand\nIts meaning. They are either ill-taught boys, or men of no\nbetter minds or manners: men, who, like Tony Lumpkin,\n; are never likely to attain years of discretion, or habits of decency, though they live lo the age of Methuselah.\nft is with deep uneasiness, that tho friends to good order\nand lo free government havo marked the progress ofthis bad\npractice,    It is decidedly mobbish, in its nature and tendon\ncies,   Even in the theatre, it often drowns a fine sentence, so\nihat an attentive listener cannot catch its import; and wilh its\nadjunct, hissing, leads to many a theatrical disturbance.    Bul\nwhen it appears in a court of justice, or a hall of legislation,\nthere is cause of serious alarm at the danger to our institutions.   Dignity and order arc essential characteristics, and\nindispensable supports, of popular government; and when\nthey arc driven  from its  very sanctuaries\u2014we may well\niremblo for tho result.    The  process is obvious, by which\nthe practice of applauding may lead to a tumultuary obstruction of public justice, or of regular and necessary legislation.   Applauso at what is pleasing, naturally suggests, and\nprovokes hisses at what is displeasing.    Hissed lead to high\nwords: and these, amongst us, are but a prelude to blows.\nWhen blows begin, either among tho spectators, or between\nspectators and officers or members of the house\u2014there is but\no.io stop more to a violent  interference of a mob, with the\nproceedings of a legislature.    Surely, no one can hear of\napplauses or hisses in the lobby of such an assembly, without remembering, and shuddering while ho remembers, the\n17 5\nacting a high and difficult part on the stage. But they had\nthe prejudices, and the vicious taste, acquired by long familiarity with ihat bad theatrical usage; and their suffrage, in\ndetermining the present question, is no more to be regarded,\nthan that of a tippler is, about tho relative merits of alcohol\nanel cold water, when his thirst has become morbid from the\nexcessive use of strong drink. Admitting, however, that the\nphysical exhaustion attending the utterance of a long tragic\npart, requires the breathing-times which applauses afford\u2014\nshall this justify them in the case of an ORATOR\u2014in whom\na ranting or theatrical delivery is proverbially reproachful? '\nRanish the usage then, from all grave occasions of public\nspeaking; and, for fear of the precedent, from light occasions\nalso. It were wise, if practicable\u2014and I believe it practicable\u2014to banish it too, from tho theatre, and from every scene\nof intellectual recreation or instruction. Its only appropriate places arc the circus, the puppet-show, and the bear-garden.\u2014Southern, Literary Messenger.\nSigners of the Declaration of Independence.\t\nOf the fifty-six signers of the Declaration of Independence,\nit is stated thai nine were born in Massachusetts; eight in Virginia ; five, in Maryland; four in Connecticut; four in New\nJersey; four in Pennsylvania; four in South Carolina; three\nin New York; three in Delaware; two in Rhode Island;\none in Maine; three in Ireland; two in England; two in\nScotland; and one in Wales. Twenty-one were attorneys;\nten merchants; four physicians j three farmers; one clergyman ; one printer; sixteen were men of fortune. Eight were\ngraduates of Harvard College; four of Yale; three of New\nJersey; two of Philadelphia J two of William and Mary:\nml bloody   Parisian mobs, who, stationed in   the three  of  Cambridge,  .England;   two  of Edinburgh; and\njallcry, swayed at will the National Assembly of revolutionary Fran\nIt is trilling with the subject, to urge that a speaker is encouraged und inspired by applause.    As well might he be\ninspired by brandy; nay, better\u2014for it would make him\nmoro reckless, and bo a less fatal example.    Whoever needs\n'\u25a0ilher the one or the other kind of inspiration, had better not\nset up for an orator.    The best  inspiration will ever  be, a\nthorough knowledge of his subject, and deep feeling of the\ntruths be utters: his best encouragement\u2014glistening tears in\nevery eye, or smiles on every cheek before him, and the profound, attentive  silence that will reign of ho deserves applause; a silenco interrupted only, if interrupted nt all, by a\nsuppressed chuckle of delight; and succeeded, when he has\ndone, by a low murmur of praise and assent, pervading his\naudience,    These are the most expressive tributes which an\nenlightened auditory can give: the most inestimable, which\nenlightened eloquence can desire.    These were the tributes\nwhich Fenelon describes ns paid by an assembly of sages\nand warriors, to the goddess of wisdom herself; and to Tel-\neinacluis, inspired by her influence.    It was an incense wor-\nl,1y of the divinity who received, and of the wise and brave\nmLu who offered it,\nMrs. Siddons, and hi\none of St. Omers. At the time of their deaths, five were\nover ninety years of age; seven between eighty and ninety ;\neleven between seventy and eighty; twelve between sixty\nand seventy ; eleven between fifty and sixty; seven between\nforty and fifty: one died at the age of seventy-seven, and the\nago of two uncertain. At the time of signing tho Declaration, the average of the members was forty-four years. They\nlived to the average age of more than sixty-five years and\nten months. The youngest member was Edward Rutlege,\nof South Carolina, who was in his twenty-seventh year.   He\nived to the age of fifty-one. The next youngest member was Thomas Lynch, of the same slate, who was also in\nhis twenty-seventh year. Ho was cast away at sea in the fall\nof 1770. Benjamin Franklin was the oldest member. He\nwas in his seventy-first year when lie signed the Declaration.\nHo died in 1790, and survived sixteen of his younger brethren. Stephen Hopkins, of Rhode Island, the next oldest\nmember, was born in 1 e 07, and died in 1785. Charles Car-\nroll attained the greatest age, dying in his ninety-sixth year.\nWilliam Ellory, of Rhode Island, died in his ninety-first\nyear.\u2014American.\nSteele says,\u2014\" The greatest pleasures  with which the\nnave spoken of the necessity of applause, to sustain\nftcd relative Mrs. Butler, both, imagination can be entertained, are to be found in Sacred\nthem inl Writ, and even the style of Scripture is more than human.\nmi\n, M\n\u25a0 .\"\u2022\"ill\n' i\n\u202211\nY:i '-\n31\n'IS\nt-'hli\n,i'!i i.\n&lt;.","fullrs":{},"find":"538.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"537","restrictionCode":"1","cdmfilesize":"1667253","cdmfilesizeformatted":"1.59 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

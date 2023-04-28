@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Medieval Manuscript Facsimiles Inventory</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The LSU Libraries Special Collections owns high-quality facsimile reproductions of more than 100 manuscripts dating from the Middle Ages and Renaissance. Sample page images from a small selection of the facsimiles are made available here as an auxiliary to the library catalog. Previews of additional volumes will eventually be added.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Many of the original manuscripts from which facsimiles have been made have now been digitized by the libraries that own them. Some, however, can be hard to find via a web search or in non-English digital libraries. This project, in addition to expanding access to printed facsimiles available at LSU, is also intended to aid discovery of fully digitized, open-access versions of these manuscripts. If one exists, a link is provided in the item record.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;For more information on the library's facsimile collection, including a list of available titles, see the guide to &lt;a href="http://guides.lib.lsu.edu/rarebooks/medieval" target="_blank"&gt; Medieval and Renaissance Manuscript Facsimiles&lt;/a&gt;.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;This collection contains representative images of Medieval Manuscript Facsimiles found in the LSU Libraries Special Collections Library. Information about the original manuscripts is included in the data for each one. The facsimiles may be viewed in Hill Memorial Library.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-mmf</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/MMF</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/MMF</identifier>
+</mods>

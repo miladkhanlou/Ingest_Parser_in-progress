@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>F06</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1169</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1169</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1169/json"
+                        timestamp="2017-01-13 13:22:48">{"title":"F06","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nF6\nNelle Orl\u00e9ans 19 f\u00e9vrier. 63.\nCher enfant, nous avons eu de tes nouvelles\npar Mme Paul F\u2026. qui a re\u00e7u une lettre\nde son mari du 10 de ce mois. Tu es toujours\ndit-il chez Eug\u00e8ne. C\u2019est beaucoup de savoir\nque tu te portes bien, mais nous aurions bien\nvoulu en savoir davantage ! As-tu re\u00e7u le\npaquet que nous t\u2019avons envoy\u00e9 ? As-tu remis\nla lettre qu\u2019Emile t\u2019avait recommand\u00e9 de porter\n\u00e0 Mr. M\u2026.n ? Si tu l\u2019as fait, t\u00e2che donc\nde nous faire savoir le r\u00e9sultat de votre entrevue.\nToute la famille se porte bien. Nous\nvivons il est vrai comme les choux et les navets\nvivent, mais enfin nous vivons ! Tout est calme\nautour de nous maintenant : mais la mis\u00e8re\ncommence \u00e0 peser sur chacun. un voile de\ndeuil couvre la ville\u2026. On rencontre \u00e7a et l\u00e0\nquelques visages ennuy\u00e9s\u2026. Il n\u2019y a pas eu de\ncarnaval\u2026. Les salons sont rest\u00e9s ferm\u00e9s !!!\nDieu a permis que nous fussions frapp\u00e9s ; mais\nn\u2019oublions pas que si d\u2019un c\u00f4t\u00e9 de sa balance sa\njustice p\u00e8se, de l\u2019autre c\u00f4t\u00e9 le poids de sa mis\u00e9=\n=ricorde l\u2019emporte. Il nous rel\u00e8vera, gardons\nnous d\u2019en d\u00e9sesp\u00e9rer !\n2\nF6\nMme Jourdan part dimanche avec ses\nenfants. Elle va en France ! Elle ne peut\nplus se souffrir ici.\nNous avons eu des nouvelles d\u2019Adolphe ;\nil est toujours \u00e0 New-York.\nTon p\u00e8re et ta soeur t\u2019embra\u222bsent.\nAdieu, cher fils, que Dieu te\nprot\u00e8ge et t\u2019inspire.\nAdieu je t\u2019embra\u222bse et te b\u00e9nis.\nTa m\u00e8re et amie P. [Reyn\u00e8s]\nAmiti\u00e9s sinc\u00e8res \u00e0 Eug\u00e8ne et\nAm\u00e9lie de la part de toute la\nfamille.\n3","typa":{},"genera":{},"fullrs":"Volume5\/F06-1.pdf","find":"1170.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1169","restrictionCode":"1","cdmfilesize":"50353","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

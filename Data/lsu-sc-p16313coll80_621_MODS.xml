@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00000547e</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Run-Away.
+</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">RUN-AWAY From the undersigned, at Queue Tortue, in this Parish, on the 23rd. instant,a Mulatto-man, named Peter, aged about 25 or 30 years, 6 feet high, and very start built, having a scar across the end of the nose, speaking french and english. I have good reason to believe that said boy runaway with a certain Noë Huffpower, taking with them two creole horses, on a bay horse, blind of the right eye, the other a white face bay, both branded about thus: ( ) with two saddles and bridles. A reasonable reward will be given for the delivery of said boy and horses to the undersigned, or lodge in one of the jails of  this State. MAXIMILIEN LEBLANC. The Point Coupée Echo and Natchitoches Chronicle will publish the above one month, in french and english, and forward their bills to the Opelousas Courier. M.L. Opelousas, 29th Jan. 1853.--5t.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-01-29/ed-2/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-02-05/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-02-12/ed-2/seq-1/; ; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-02-19/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-02-26/ed-2/seq-1/; 
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/794</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>794</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/794/json"
+                        timestamp="2017-07-10 10:52:43">{"title":"RSA00000547e","object":"sn 83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 5\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-01-29\/ed-2\/seq-2\/\n","unique":"Run-Away.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"RUN-AWAY From the undersigned, at Queue Tortue, in this Parish, on the 23rd. instant,a Mulatto-man, named Peter, aged about 25 or 30 years, 6 feet high, and very start built, having a scar across the end of the nose, speaking french and english. I have good reason to believe that said boy runaway with a certain No\u00eb Huffpower, taking with them two creole horses, on a bay horse, blind of the right eye, the other a white face bay, both branded about thus: ( ) with two saddles and bridles. A reasonable reward will be given for the delivery of said boy and horses to the undersigned, or lodge in one of the jails of  this State. MAXIMILIEN LEBLANC. The Point Coup\u00e9e Echo and Natchitoches Chronicle will publish the above one month, in french and english, and forward their bills to the Opelousas Courier. M.L. Opelousas, 29th Jan. 1853.--5t.\n","subjec":{},"type":"text\n","format":"clipping","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-02-05\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-02-12\/ed-2\/seq-1\/; ; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-02-19\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-02-26\/ed-2\/seq-1\/; \n","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000547e.jp2","find":"858.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-02-24","dmoclcno":{},"dmrecord":"794","restrictionCode":"1","cdmfilesize":"204411","cdmfilesizeformatted":"0.19 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

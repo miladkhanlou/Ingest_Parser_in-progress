@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 43</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1530</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1530</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1530/json"
+                        timestamp="2017-02-03 08:23:11">{"title":"Page 43","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 43 \u2014\nLe jour ou parut cette proclamation, que nous aurions le droit\nde jnger en termes Bevetcs, si notre cause avait encore besoin de\nIutter pour arriver an triomphe, M. Olivier compromit la popnlarite\nque lui avaient conquise sc3 brillantes facult.es, Le peuple s'ena-\nmoure facilcment, comme les femmes donees d'un coeui-sensible;\nmais, comme elles aussi.il a un coenr'dc sensitive qui se contrracte et\nse referme a la moindre blessure. Comme cet Anglais, dont nous\navons lu l'histoire quelquc part, ct qui, malheureux d'une fortune\nlourde pour Ini, enviee par les autres, mit le feu a ses chateaux et\na son palais dc Londres se mirant dans la Tamise,\u2014M. Olivier mit\ndans un ecrin sa renommee, son influence, sa popularite, tout ce qui\nla veille faisait encore sa force et son orgueil,\u2014puis il prit cet e\"crin\noil il avait enferme ses diamants connne aurait fait une femmc au\nsortir d'un bal dont elle aurait ete la reine, et jeta cet ecrin dans\nla mer... qui ne rend guere ce qui lui est confie*.\nComment fut-il pousse a ce jeu hardi, &amp; cet audacicux de\"fi?\nKprouva t-il le de*sir d'elever un vain bruit autour deson nom? La\nconnaissance que nous avons de son caractcrc nous donne le droit\nd'en douter. Fut-ce un acte de courage destine\" a en imposer a la\nfoule en lui faisant croire que, dans sa pcrsonne, la Justice retrou-\nverait a ses heures l'energie qui faisait depuis si longtemps deTaut\naux deplorables juris de ce pays ? Nous en doutons encore, parce\nque M. A. Olivier est trop intelligent pour ne pas avoir compris\ndes le de\"but des Comites de Vigilance que ce n'etaicnt pas les ma-\ngistrats qui avaient besoin de rehabilitation, mais le juri. Eut-il\nl'esperance de briser les coraite*s par la puissance de la parole ?\nilelas! ce qui s'est passe\" depuis a du lui prouver que la musique\nchantee ou purlee n'a pas l'ombre d'une influence sur des populations pillees et ineendie\"es journellement. Non, M. Olivier ne fut\nponsse a ses hostilites contre les Comites, ni par 1'orgueil, ni par\nune foi follement cxageree en ses doubles forces de magistrat et\nd'orateur : il y cut dans son occur un acces d'audace Ie\"onine,etsans\ndoute il  trouva  beau de repeter ce mot si fler de l'histoire :\nFAiam si omnes, ego non .'\nI'onheur de la jeuncsse et de l'audace! M. Olivier n'a pas suc-\ncombe sons le poids de sa tache ! Comme la mer fut clemente a ce\nroi qui avait jete son anneau le plus precicux dans les flots et lui ren-","fullrs":{},"find":"1531.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1530","restrictionCode":"1","cdmfilesize":"393875","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

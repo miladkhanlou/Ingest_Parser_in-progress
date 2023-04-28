@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_4</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/628</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-07-23</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>628</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/628/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"Page_4","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"F21\narriv\u00e9s chez lui, quoi qu\u2019il \u00e9tait bien tard [d\u00e9chir\u00e9] trouv\u00e9\nau lit_ Il se trouve un berceau dans sa cha [d\u00e9chir\u00e9] ci au pied\nde son lit et appuy\u00e9 contre la muraille _ [d\u00e9chir\u00e9] cequ\u2019ils ont\ntrouv\u00e9 install\u00e9 dedans [rature] en [rature] de baby [d\u00e9chir\u00e9] chien.. Voila\nun attrait de plus pour vous. Ce sera [d\u00e9chir\u00e9] pet of the cradle.\nIl faut vous dire que cela \u00e0 chatouil\u00e9 le [d\u00e9chir\u00e9] Pavie au dernier\npoint _ aussi lorsqu\u2019il est arriv\u00e8 c\u2019est la permi\u00e8re chose qu\u2019il\nm\u2019a racont\u00e9 en riant aux \u00e9clats.\nCe 7 Juin_ Comme je n\u2019ai pas pu finir votre lettre dimanche\npass\u00e9 je viens le faire aujourd\u2019hui_ Je n\u2019[rature] aurai [rature] fait avant\nauj pas attendre de tard avant de la terminer si je n\u2019avais pas\n\u00e9t\u00e9 oblig\u00e9e de tenir compagnie \u00e0 Mme La fi\u00e8vre, qui m\u2019a\npay\u00e9 deux visites cette semaine-ci ___ Je vous assure que je\nne suis \"bonne \u00e0 rien. mais plutot des \"faiblesses, continuelles\nL\u2019intervalle qu\u2019il y a sur [illisible] le commencement et la\n[effac\u00e9] lettre en a donn\u00e9, la chance de recevoir la votre\nqui est Venue me surprendre comme une agr\u00e9able visiteuse .\nJe suis contente de, voir que vous avez l\u2019air satisfaite de\nvotre nouvelle demeure et j\u2019esp\u00e8re que cela continuera ainsi _ Je\nme figure que Mme Boyd est une si bonne personne__\nqui sait se faire estimer __ Quoique le Coll\u00e8ge soit situ\u00e9 dans\nune grande solitude, je ne pense pas que vous devez vous ennuyer\ncar s\u2019il y a peu de maisons il y a au moins beau coup de\nmondes Ce n\u2019est pas comme nous pauvres gens de l\u2019Ile aux Vaches.\nJe vois d\u2019apr\u00e8s votre lettre que vos vacances commencent la semaine_\nprochaine._ Je m\u2019avais commencer \u00e0 faire [d\u00e9chir\u00e9] preparatifs pour\nvous recevoir avec toute la pompe qui vous [d\u00e9chir\u00e9] et du. Le 15\ncommence vos vacances __ N\u2019oubliez que c\u2019est a [d\u00e9chir\u00e9] si la f\u00eate de la\nSt Dupleix,, et- que conform\u00e9ment \u00e0 la [d\u00e9chir\u00e9]esse que nous\n4","typa":{},"genera":{},"fullrs":{},"find":"629.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-07-23","dmmodified":"2008-07-23","dmoclcno":{},"dmrecord":"628","restrictionCode":"1","cdmfilesize":"1620623","cdmfilesizeformatted":"1.55 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

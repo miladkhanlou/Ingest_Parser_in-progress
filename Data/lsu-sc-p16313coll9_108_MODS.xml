@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>European doll</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes">1858</dateCreated>
+  </originInfo>
+   <subject authority="lcsh" displayLabel="Provenance">
+      <hierarchicalGeographic>
+         <continent>North America</continent>
+      </hierarchicalGeographic>
+      <hierarchicalGeographic>
+         <country>USA</country>
+      </hierarchicalGeographic>
+  </subject>
+   <subject authority="lcsh">
+      <topic>Dolls</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Time Period">
+      <temporal>1850s</temporal>
+   </subject>
+   <abstract displayLabel="Description">Adult female, bisque head, arms and limbs, blue eyes, light brown curly hair, stuffed fabric body, pink underwear pink under-skirt with ruffle, light blue (faded) brocaded outer garment with front skirt opening, pointed bodice, decolletage collar, pearl necklace and earrings, machinemade, reproduction of European doll of early 1800s.</abstract>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>46 cm</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Edith Dabney Doll Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll9:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Box 4</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll9/id/9</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-05-28</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll9</alias>
+         <pointer>9</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll9/9/json"
+                        timestamp="2017-02-07 09:41:25">{"title":"European doll","descri":"Adult female, bisque head, arms and limbs, blue eyes, light brown curly hair, stuffed fabric body, pink underwear pink under-skirt with ruffle, light blue (faded) brocaded outer garment with front skirt opening, pointed bodice, decolletage collar, pearl necklace and earrings, machinemade, reproduction of European doll of early 1800s.","notes":"46 cm","date":"1858","coverb":"1850s","subjec":"Dolls","covera":"North America","proven":"USA","provea":{},"associ":{},"source":"Box 4","object":{},"creato":{},"contri":{},"publis":{},"type":{},"format":{},"identi":{},"langua":{},"relati":{},"rights":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html  \tMention the \u201cItem number\u201d or \u201cItem URL\u201d in your request.","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","fullrs":{},"find":"10.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2014-05-28","dmmodified":"2014-05-28","dmoclcno":{},"dmrecord":"9","restrictionCode":"1","cdmfilesize":"533","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

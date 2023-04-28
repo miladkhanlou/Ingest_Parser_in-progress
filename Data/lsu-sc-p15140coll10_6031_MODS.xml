@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 100</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1584</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1584</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1584/json"
+                        timestamp="2017-02-03 08:23:13">{"title":"Page 100","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 100 \u2014\naistible comme le Mississipi lorsqu'il brise ses digues. Dante a lu sur\nla porte de l'Enfer :\nVOU3   QUI   ENTREZ ICI,'LAI3SEZ TOUTS   ESPERANCE   SUR I.E SEUIL I\nL'inscriptiou r\u00a3vde par Dante sera ddsormais une veritd devant\nnos tribunaux. comme sur les portes de l'Enfer.\nXL\nLa Prison ! Ma foi 1 une anecdote vous la peindra, et l'archi-\ntecte lui-meme, s'il est homme d'esprit comme on le dit, en rira tout\nle premier.\nLa prison!.,... Elle dtait toute neuve,touteflambaute; ni pluie\nni soleil n'avaient eu encore le temps d'en estomper les briques\nil'un rouge qu'un de nos spirituels amis, M. Judice, appelle rouge-\nguillotme; elle dtait encore vierge de prisonniers, ou a peu pres.\nlorsqu'un Fraucais y fut amend pour un ddlit insignifiant.\nC'dtait en dtd, et par une de ces nuits brulantes qni doivent faire\nressembler les prisons de la Louisiane aux plombs de Venise.\nCavcere duro, comme diraient l'cmpereur d'Autriche et Francois\nde Naples, qui aentait hier sur ses dpaules le vent du fort de Garibaldi.\nOn croyait notre Francois bien et dument scelle dans sa tombe\nde briqnes qui le rendrait le lendemain au juge de son debt, lorsqu'a\nonze heures du soir, celui qui avait fait les cles et les serrures de la\nprison entendit dea pan 1 pan 1 discrets frappds a sa fenetre.\nLe serrurier ouvrit discretement les volets et vit qui ?.... le Fran-\ncais emprisonnd, debont devant lui et lui souriant avec la malice\nd'un enfant qui vient dc commettre une espidglerie.\n\" C'est vous ? s'exclama le serrurier avec stupdfaction.\n\u2014Moi-meme, fit le prisonnier avec une superbe indifference. 11\nparait qu'on a oublid de mesurer aux cellules de votre prison la\nquantitu de pieds cubes d'air ndecssaire a la respiration. La nuit\nest brulante et je suis sorti pour prendre 1'air.\n\u2014-Mais, par quel moyen?\t\n\u2014Permettez-moi d'etre discret sur ce chapitre. Seulement il parait que vos serrures tournent comme des toupiea, et la toupie est\nun joujou que j'ai fort manid etant enfant.","fullrs":{},"find":"1585.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1584","restrictionCode":"1","cdmfilesize":"407647","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

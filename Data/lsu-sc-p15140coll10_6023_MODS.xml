@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 91</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1576</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1576</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1576/json"
+                        timestamp="2017-02-03 08:23:12">{"title":"Page 91","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"-Side doux romans de jeunesse; pas de moisson de souvenirs, amasses\npour enchanter leurs vieux ans. Un jour, il y a cinquante ans peut-\netre, ils s'dtaient unis, et le lendemain de leur mariage.... ils s'dtaient\nmis a travailler.\nL'dpouse avait prisson rouet, ce travail du temps d'Homere, qui\nest encore celui d'aujourd'hui dans nos campagnes.\nL'dpoux s'dtait courbe\" sur la charrue.\nEt ils s'etaient pris a naviguer doucement.... douceraent sur la\nmer de la vie,\u2014mer houleuse et pleine de tempe'tes pour les ambitions immoddrdes,\u2014mer douce comme l'huile aux cceurs modestes,a\nceux qui ne demandent a Dieu que leur pain quotidien.\nIls avaient eu plusieurs enfants.\nAprfes les avoir aimds, dlevds et dtablis, ils s'dtaient pris de passion pour autre chose: l'argent.\nNous avons tous besoin d'un cuite ou d'un amour, dans cette vie.\nPuis cette passion de l'argent leur dtant venue, ils avaient tra-\nvaille,\u2014et dcouomisd,\u2014et s'dtaient retranchd chaque jour plusieurs\nmiettes de leur pain, pour que ces miettes pusseut se changer d'abord\nen cents, puis en piastres, puis en trdsor.\nCe trdsor tant convoitd leur dtait enfin venu,\u2014non le trdsor des\nRotsch'Id,\u2014celui-la les aurait rendus fous,\u2014mais un pauvre, un\nbumble trdsor qui ferait sourire le dernier des courtiers marrons de\nla Nouvelle-Orldans. 11 se composait de 4 a $5000.\nA un si riche trdsor, il fallait un coffrc-fort qu'on avait fait ve-\nnir, apres de longues ct mures ddlibdrations qui avaient excitd\nplus d'une tempete. le soir, au coin du feu.\nLe coffre-fort venu, on 1'avait plaed triomphalement eutre le foyer\net le lit nuptial qui, depuis quarante ii cinquante ans, recevait les\nmonies botes.\nPuis les voisins avaient vu le coffre-fort des dpoux Simon (nous\navions oublid de les nommer),... puis on les avait crus riches.... rl-\nchissimes.... puis....\nPar une froide journde de novembre 1859, une jeune fille, allant\na pied, visitor les dpoux St?non, ses parents, vit une dpaisse fumde\nsortir par les portes, les fendtres et l'imique cheminde de la maisou\nqu'elle allait visiter\u2014et cria : au feu 1\nCe cri sinistre fut entendu des voisin3.","fullrs":{},"find":"1577.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1576","restrictionCode":"1","cdmfilesize":"394865","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/379</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>379</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/379/json"
+                        timestamp="2017-02-09 16:30:54">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\ntJublfsbcti Scmlsmontbln, at jTtbc Collars al'tiir, bn t(&gt;c ,$effer\u00abon Col lege nub Ellas Jliifl ton an ecu in.\nI NT I: It   8VI.VIS   A V A D E M I &amp;   (ill .1: II E II E   V B 11 U ,M .\nVOL.\nNATCHEZ, DECEMBER SO, 183T.\nNO. It.\nTHE IMPORTANCE OP SELF-GOVKUXMENT.\nA l.itcrt-iu:, dc-llrcrcd before- tbe Jefferson College ami WuBliingtoti Lyceum,\nJuly 1,1837, by J. A. Van IIoksbn, A. H. of Jeir..-rm\u00bbn Coltego.\nAir, President\u2014Ladies nnd Gentlemen:\u2014\nI do not appear, at this time, with an eloquent and studied\nspeech adorned with all the flowers of rhetoric: I have climbed no clifted rocks, nor have I wandered along the hanks of any\nwinding stream, to gather decorations from the fair fields\nof nature. I have selected no roses, unless it ho now\nnnd then one which hung by the way-side;\u2014and even\nthese, plucked by so rude :i hand, have, 1 fear, lost their fragrance.\nAlan, tin.' lord of creation, made a liillo lower than angels\nstamped with tho impress of his Creator, endowed with moral,\nphysical ami intellectual powers, the artificer of his own fortune; a free moral agent, destined for immortality, has, alas!\nforgotten the high purpose for which he was created; has neglected tho government of himself; prostrated his noble energies, and ceased to reflect tho divine image I Tho government of ourselves, this little empire within, this pari of God's\nmoral kingdom over which we are placed as supreme arbiters, which should have been brought to the highest statu of\ncultivation and refinement, and which should havodemanded\nour first and highest attention, has been neglected, Wo have\nsuffered ourselves to float loosely upon the stream of life, with-\noul knowing whence il took its lis.', or whither it might\ncarry us. Instead of standing upon ihe haul; and watching\nihe Mowings and oddyings ofthe current, we have rushed into the stream; we have launched our frail hark within,l a\nmil Icr, and been made the sport of the contending elements;\nand many\u2014alas! too many, have been lost\u2014lost to themselves\nand to the world!\nToo late they find that the current lias swept them into the\nboundless Ocean ; and, without chart or compass, they are\ntossed from billow to billow, till soon they disappear and no\ntrace remains. While nil are ready to acknowledge the importance of self-government; while all are ready to, admit and\nclaim their right of sovereignty,\u2014few have been found who\nhave ever exercised this power to its full extent, but have\nrather suffered themselves (o be governed by the opinions and\nsavings of others. We find men who can lead their country's\nmarshalled hosts to ihe field of battle', who fear not the roar of\nhostile cannon,who can brave (lungers, seen anil unseen; we read\nof an Alexander, who, when he bad conquered the world,\nmourned that there was nothing morethat he could subdue;\u2014of\nn Oicsar, who extended his conquests over a greater part of Europe ;\u2014and of a Bonaparte, whose very name is synoiny inous\nwith military greatness;\u2014yet neither of these generals ever\nventured to enter tho field in moral combat against their own\nsinful appetites and passions! \/And he, who has become complete master of himself, can boaswj victory, to which Ceesar and\nHannibal were entire strangers;\u2014-a victory which was never\nwon by the blood which flowed upon the plains of Marathon;\nand though his name may never have been enrolled upon the\npage of his country's glory; though he may scarcely be know n\nbeyond the domestic circle; yet he exerts an influence which\nwill he felt by nations whose ancestors are yet unborn. But\nto obtain such a victory it requires no common skill. We\nhave an artful and insinuating enemy to contend with; one\nthat intruded himself into the garden of Eden, and obtained a\nvictory over our first parents; and who has continued to increase in strength and numbers for six thousand years until\nit has become a legion.\u2014Yes, the appetites, the passions, ihe\nprejudices, ihe vanities, ihe vices and the follies of the world\nare arrayed against us: aud, on the one hand, pride, ostentation and vain-glory forbid an encounter ; while, on the\nother, reason, conscience and judgment urge to the contest ;\nand those only are persuaded lo take the field who have, from\ninfancy, received a regulat training in the school of moral\ntactics. Such havo never failed of coming off triumphant;\nhave borne the palm. Ofthis number Wat- Epainiuondas, the\ncelebrated Thchuii general, renowned for bis virtues and for\nhis military accomplishments; his love of truth was so great thai\nho never told a falsehood in his life; and such was our own\nbeloved Washington, whose history is familiar to us all, or at\nleast ought to he. And how could I belter inculcate the doctrine of self-government, than by refering to ihe histories of\nsuch men us a Bacon, a Newton, a Franklin and a Washing\nIon\u2014unless it be to thai perfect model recorded in ihe Bible of\nJesus of Nazareth, whose history, from Bethlehem's manger\nlo the hill of Calvary, has been so ably illustrated by the sacred historian, as to claim the attention and admiration of nil:\nand has been the means of purifying and regenerating the\nhearts of thousands. To a want of this self-control may be\nattributed a vast amount of the crime, misery, degradation and\nhuman suffering in our world. Intemperance, which has\ndone so much towards peopling our Jails, State-prisons,\nPenitentiaries, Poor-houses, Alms-houses, Hospitals, arid Asylums, may be traced to this very source\u2014want of self-control.\nHow many thousands of our fellow mortals, whose prospects\nfor a long and happy life were once as cheering us our own.\nhave1, from loo frequent indulgence in the intoxicating howl,\nfound a drunkard's grave ! yet bow many of this number, had\nthey been told the lirst time they took asocial glass with their\nfriends, that they had broken down the barrier between temperance and intemperance, that they had taken the first stop upon\nthe drunkard's highway,\u2014would have believed il ? Even\nthose who take their morning, noon, and evening dram feel\nperfectly secure ;and should you hint that they were in danger,\nthey would tell you that they could govern themselves, nor\nwould they thank you for your advice'. The drunkard, too.\nas he is seen for the first lime reeling from the grogshop, will\nboast his courage, bis manly independence; hut bis boasting\nis in vain ; he has indulged too long; the appetite is formed :","fullrs":{},"find":"380.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"379","restrictionCode":"1","cdmfilesize":"1836401","cdmfilesizeformatted":"1.75 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 03</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/559</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>559</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/559/json"
+                        timestamp="2017-02-09 16:31:00">{"title":"Page 03","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\n195\neel the\nof thi\ngraphy and statistics\nA portion of the physical geography is taken verbatim from\nMr. Flint, whoso description of Louisiana is fir more cor\nreel than that of Mississippi. Yet in the boundaries of Lou\nisiana there is a small error in the distance which this Stall\nis said to bo bounded by the Missisippi on the east: this dis\nlance is given at foui hundred and fifty miles, as being the\ncourse of the river between the thirty-third and thirty-first\nparallels of north latitude. The entire course of the river\nin tins distance is two hundred and fifty miles. He also gives\nthe entire course of the Mississippi, from the northern limit\nof Louisiana to the Gulf of Mexico at eight hundred miles,\nwhereas it does not exceed five hundred and eighty miles\nUpon the whole we consider the; work a valuable addition\nto our geographical charts; and a fine specimen of Ameri\ncan art, well worthy of being patronized by the people of\nhe United States.\ntie\nM.\nFor 111,.. South-Western Journal.\nLETTERS FROM TUB NOTES OF A  MIUKEYE niVSICIAN.\nTHE FIRST  CALL.\n[concluded ]\n\"Thus it is that human nature can debase itself J\" observ-\ne:l Clara, \"would you believe it,  Melmoth?  this patronai\nguardian of his own honor, three nights previous to the re\nceipt of that letter, conjured his Maker under this very roof,\nmost solemnly lo witness tlio sincerity ol his love for me, and\neven went so far as to classify with the devil, the man who\ncould willingly tamper  with the affections of a woman\nWhen I reflect upon  his importunities ere   I  listened to his\nsuit; think how unwisely I trusted my heart to his keeping,\nand then suffer from his proving recreant to the trust reposed\nin him; 0 there's madness in the thought, and I wonder why\n1 am not entirely bereft of my reason.   But no matter I   Herbert shall curse the day he proved treacherous to Clara Perryan!    Dr. Melmoth,\" she continued, \"as I wish to precede\nMr. Herbert, my father anel self will leave for the south in\nfoity eight hours; and before my return, you will receive a\nletter from me, but not till I havo taught villainy a lesson.  In\nthe mean time, I should be pleased to hear from you, and if\nyou do not receive answers to your letters, think not that it is\nbecause you have lost my friendship.    Will you be kind\nenough to drop this letter in the village post-office?    'Tis for\nHerbert,\" and handing me the letter, added, \"it is not sealed;\nyou can read it if you wish, and seal it before it leaves you.\"\n1 opened it an 1 found it to run as follows:\u2014\n\"To Mn.Geohof, HunnEn-r: !\nnow satisfied, that tho sen\nnd\nseparation which must of courseatte\nmy anticipated visit to Louisiana, would at least endanger its\nexistence, and perhaps efface entirely a recollection of it.\n\"C. P\nThornheage Lodge, Jan. 3, '34.\"\n\" I will be the bearer of this, Clara, and as [may not see\nyou again before you leave, would it be levying too heavy a\ntax upon your spirited nature, if 1 were to offer for your consideration, what your disposition and a Itnonledgo of your\nconstitutional temperament has suggested to my own mind 1\"\n\" No, indeed you will not I I will listen lo you intently.\"\n\" 1 have no desire,\" I rejoined, \"to hold up a mirror from\nwhich may be reflected a single fuult of yours, yet much as\nI admire your proud spirit of independence, I liar, Clara, this\npassion of revenge, which now feeds upon you, will, if you\narc not careful, prove n tyrant that may master vour better\njudgment, al a time when most its free exercise is needed. I\nknow not your future plans with regard to Herbert, neither\nwill I enquire what they are, but you are bent upon revenge ;\nho is a cunning, artful man, and have you ever calculated upon a failure in the prosecution of your determination?\"\nI have not, neither will 1! \"\nShould you be foiled, or your attempts be made to recoil\nupon yourself by a counter effort of his, the discovery of your\nobject, your discomfiture, and the necessary chag rin and mortification, will make a havoclc of your feelings, tn.it could bo\nilly borne by one of your temperament Think of this, and\npause ere you risk a step which may peihaps preclude tho\nenjoyment ol happiness this wide world may yet afford you.\nThe happiness of others is dependent on your own, and should\nweigh heavi\u2014\"\n\"No more, Melmoth, I cannot, will no! think of failure!\nyet believe me, I appreciate what you havo just uttered and\nit shall cause me to bo wary in all my actions relative to Herbert.\"\n\" Farewell, then, my fair friend, and remember that to adhere to your resolution of becoming cautious, is indispensable in entering the field wilh one whose knowledge, of artifice renders him a dangerous enemy.\u2014I wish you all the\nenjoyment, Clara, this trip can possibly afford.\"\nWith my llianhs, Melmoth, allow me to assure you I heed\nyour injunction,\u2014farewell! \"\nHaving taken leave of Clara, whose strange admixture cf\nfeelings rendered her an enigma that the future only could\nsolve, I joined the family in the next room, und, after partaking of refreshments with the Colonel, returned to the village.\nTime rolled on: business soon began to call my attention\n\"Sir:\u2014Your unexpected note arrived at the Lodge during\nmy illness, and I havo nol been able to notice it till now.\nU;'on its contenls, I have no comment to make, further than,\nthat you being the preserver of your \"honor,\" you should not\n'cse sight of that line of conduct which would keep it unsullied.\n\"As for my happiness, (which would seem lo be a consideration in your note,) I regard but lightly, when my honor\n\u00b0nd virtue are in the balance. The connection which existed\nbetween us, was one of your own seeking, and I have no\njust reason to offer against its dissolution, inasmuch as I am\nfrom the circumstances which rendered this whole afi'air ono\nof the deepest interest to inc. Several weeks had passed,\nand not having heaid from my itinerant friends, I sat down\nand wrote to Clara, registering such incidents of interest that\nhad transpired during her absence, and closed'with a \"word\nto the cautious.\" A month elapsed after I mailed this letter,\nand still I heard nothing of her, except through Madam Per-\nyan, who informed me that they would visit Havana before\nthey returned home. When I had censed to expect a letter, I\ntook from the post office a packet, which I know from tho\npost-mark, must be either from Col. Perryan or his daughter.\n'\u25a0:';   :\n!.:   il\nW","fullrs":{},"find":"560.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"559","restrictionCode":"1","cdmfilesize":"1749839","cdmfilesizeformatted":"1.67 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>A. D. Smith letter, 1814 July 12</title>
+  </titleInfo>
+   <name type="personal" displayLabel="Addressee">
+      <namePart>Foelekel, Lewis Valentin, d. 1817?</namePart>
+      <description>Addressee's location: Baton Rouge (La.)</description>
+      <role>
+         <roleTerm type="code" authority="marcrelator">rcp</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Addressee</roleTerm>
+      </role>
+   </name>
+   <name type="personal" displayLabel="Author">
+      <namePart>Smith, A. D.</namePart>
+      <description>Social class: middle</description>
+      <description>Birthplace: USA</description>
+      <affiliation>Occupation: Merchant</affiliation>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+      <description>Gender: M</description>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1814-07-12</dateCreated>
+      <place>
+         <placeTerm>Saint Stephens</placeTerm>
+      </place>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Receipts (financial records)</topic>
+   </subject>
+   <abstract displayLabel="Description">request for prompt delivery of funds</abstract>
+   <note type="content" displayLabel="Document Type">business</note>
+   <note type="content" displayLabel="Lingustic Category">Anglophone.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>2 pages</extent>
+  </physicalDescription>
+   <genre>correspondence</genre>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll41:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Gras-Lauzin family papers, 1783-1917 (bulk 1783-1866).</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Early English Corpus</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>U:152, Folder 1:5</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Gras-Lauzin Family Papers, Mss. 5, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Collections">Early Louisiana French Correspondence and Lettres de Louisiane</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll41/id/8</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2011-11-01</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll41</alias>
+         <pointer>8</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll41/8/json"
+                        timestamp="2017-02-06 16:01:47">{"title":"A. D. Smith letter, 1814 July 12","subjec":"Anglophone.","creato":"Smith, A. D.","date":"M","datea":"Merchant","covera":"middle","type":"USA","langua":"Saint Stephens","author":"1814-07-12","rights":"Foelekel, Lewis Valentin, d. 1817?","object":"Baton Rouge (La.)","cite":"business","source":"request for prompt delivery of funds","reposi":"2","reposa":"Receipts (financial records).","transc":"en","collec":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","contac":"Gras-Lauzin family papers, 1783-1917 (bulk 1783-1866).","publis":{},"restri":"U:152, Folder 1:5","item":"Gras-Lauzin Family Papers, Mss. 5, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","contri":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","descri":"Louisiana Early English Corpus","notes":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering  reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html. Mention the Item number or Item URL in your request.","identi":"See 'reference url' on the navigation bars.","catlog":"See transcription link on the left navigation bar.","coverb":"Early Louisiana French Correspondence (http:\/\/www.lib.lsu.edu\/special\/cffs\/) and Lettres de Louisiane (http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_p15140coll6.php?CISOROOT=\/p15140coll6)","format":{},"fullrs":{},"find":"9.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2011-11-01","dmmodified":"2011-11-01","dmoclcno":{},"dmrecord":"8","restrictionCode":"1","cdmfilesize":"681","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

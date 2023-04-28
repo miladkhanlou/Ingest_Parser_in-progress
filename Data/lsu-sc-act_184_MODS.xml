@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>William H. Crane</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>Sarony, 256 Fifth Avenue, New York, N.Y.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1900</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Actors</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">Wm H. Crane at the Tulane next week.; 1/4 portrait in costume.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <note type="medium">Gelatin silver prints</note>
+      <extent>4.25" x 6.50" </extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/2116.pdf</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-act:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Actors and Musicians Photographs, 1880-1920</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Actors and Musicians Photographs (Mss. 2116).</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Actors and Musicians Photographs (Mss. 2116), Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana, USA</note>
+   <identifier type="local" displayLabel="Item Number">21160009</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_ACT/id/333</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-03-20</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_ACT</alias>
+         <pointer>333</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_ACT/333/json"
+                        timestamp="2017-01-11 10:45:11">{"title":"William H. Crane","audien":"Done","creato":"Sarony, 256 Fifth Avenue, New York, N.Y.","date":"ca. 1900","subjec":"Actors--Photographs","descri":"Wm H. Crane at the Tulane next week.; 1\/4 portrait in costume.","typa":"Image","publis":"Gelatin silver prints; 4.25\" x 6.50\" (Cabinet studio card)","type":"jpeg","relati":"Actors and Musicians","reposi":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","reposa":"Actors and Musicians Photographs (Mss. 2116).","reposb":"Finding aid for the original photographs: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/2116.pdf ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","cite":"Actors and Musicians Photographs (Mss. 2116), Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana, USA","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"21160009","item":"See 'reference url' on the navigation bars.","collec":"http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/LSU_ACT","contri":"IRP","fullrs":{},"find":"329.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-03-20","dmmodified":"2015-03-20","dmoclcno":{},"dmrecord":"333","restrictionCode":"1","cdmfilesize":"316","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

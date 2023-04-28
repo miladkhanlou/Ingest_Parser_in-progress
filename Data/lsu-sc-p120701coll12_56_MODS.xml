@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Sepia Socialite</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Alonzo B. Willis, editor.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <publisher>New Orleans, The Sepia Socialite Pub. Co., 1942.</publisher>
+      <dateIssued keyDate="yes">1942</dateIssued>
+      <edition>Fifth anniversary ed.</edition>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <abstract displayLabel="Description">Dated on cover, July 1942; on t.-p., Apr. 1942.</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>168 p. illus., photos.</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/796</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2011-08-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>796</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/796/json"
+                        timestamp="2017-02-09 16:30:48">{"title":"Sepia Socialite","creato":"Alonzo B. Willis, editor.","date":"1942","biogra":{},"summar":"Fifth anniversary ed.","descri":"168 p. illus., photos.","langua":"en","publis":"New Orleans, The Sepia Socialite Pub. Co., 1942.","type":"Text","covera":{},"subjec":"African Americans--Louisiana.","notes":"Dated on cover, July 1942; on t.-p., Apr. 1942.","contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special ).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request.","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":": WORK FOR \u00b7\n.\u00b7lUI.I\"~\".=.;.'.;'..~'''.''\"'~''.'''VICTORY\n\u00b7-tc Buy\n\u2022 \"\"\"\"\"DS-S1:::~ WO RK \u2022 REST\u00b7 RELAX\n\u2022 \\\\\\)0'1 Life witn\nYour Vrle\\\\ns\n,. ..\n~ m~t &amp;;.nrt\u00b7alt\u00b7t~ ~e~\"\nA ~r~eFor @lepta ~ ~ ~ Negro Life :\npresents\nThe Negro In Louisiana:\nSeventy-eight Year","fullrs":{},"find":"797.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2011-08-18","dmmodified":"2011-08-18","dmoclcno":{},"dmrecord":"796","restrictionCode":"1","cdmfilesize":"23199","cdmfilesizeformatted":"0.02 MB","cdmprintpdf":"1","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

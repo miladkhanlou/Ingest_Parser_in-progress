@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Political Series</title>
+  </titleInfo>
+  <name type="corporate" displayLabel="Contributing Repository">
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <note type="content" displayLabel="Collection Description">This series focuses on Louisiana's rich political history. Topics include the civil rights movement, the Tidelands case, stump speaking, Louisiana's oil industry, and the administrations of governors from Huey Long through John McKeithen.</note>
+  <abstract displayLabel="Collection Summary">Focusing on Louisiana's rich political history.</abstract>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordCreationDate>2021-05-03</recordCreationDate>
+    <recordContentSource authority="local">lsu/jg</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

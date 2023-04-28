@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M13</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1240</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1240</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1240/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"M13","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM13\nCanal ce 29 mars 1836\nJ\u2019ai d\u00fb \u00eatre bless\u00e9 mon cher ami, du peu de Confi\u00e1nce, que\nVotre maison a eu en ma d\u00e9licatesse _ elle n\u2019\u00e9tait pas si en\navance avec moi pour ne pouvoir attendre encore quelques mois,\nSans l\u00e9ser des interets. C\u2019est \u00e0 60% que je vous paye vos\navances et vous devez \u222bavoir, puisque vous en avez as\u00e9, que\nVotre payement est ind\u00e9pendant des Circonstances malheureuses\nqui m\u2019ont afflig\u00e9 dans les Colonies - au \u222burplus Ces Circonstances\nne d\u00e9pendent pas de moi. je \u222baurai les faire Cesser avec le\ntemps et voila tout. Certainement j\u2019ai \u00e9prouv\u00e9 des pertes,\nmais je \u222buis loin d\u2019\u00eatre ruin\u00e9, comme on s\u2019est plu \u00e0 le r\u00e9pandre.\nmon travail et ma patience vaincront cette mauvaise fortune:\nencore deux ans tout \u222bera r\u00e9par\u00e9 ; alors vous verrez par\nmes produits \u222bi je sais travaill\u00e9_ j\u2019ai un Coeur reconnaissant\nje n\u2019oublie Jamais les bons proc\u00e9d\u00e9s m\u00eame qu\u2019on ait eu quelque\ntort envers moi. je vous avez promis du \u222bucre, je n\u2019ai pas\npu vous l\u2019envoyer, Ce n\u2019est pas de ma faute. les revenus de\nl\u2019habon n\u2019ont pas \u222buffi aux d\u00e9penses; on me doit dix\nfois plus que je ne dois, et personne ne me paye. je ne\nCompte donc que \u222bur moi pour faire honneur \u00e0 mes engagemens.\nMon travail dans la Colonie \u222buffira _ n\u2019ayez aucune crainte\nde voir diminuer mon Capital aux \u00e9tats unis. il \u222bera pour vous\ntoujours une garantie _ et les interets \u222buffiront audela \u00e0 la d\u00e9pense\nde ma famille _ \u222bi vous ne pouvez point Continuer vos avances\nfaites le moi \u222bavoir par un mot; afin que ma femme ne \u222be trouve\nJamais dans l\u2019embarras_ Votre Compte Courant vous \u222bera pay\u00e9\nimmediatement et vous aurez toujours \u00e0 Compter sur ma\n2\nM13\nGratitude pour le pass\u00e9_ je resterai votre ami; Car le vil\ninteret n\u2019influe point \u222bur mon amiti\u00e9. Ce n\u2019est pas \u00e0 la\nBourse que je juge l\u2019homme. les affaires \u222be font ou\nne \u222be font pas; Sans que l\u2019amiti\u00e9 en \u222bouffre.\nJ\u2019ai pass\u00e9 \u00e9criture de votre Compte. Cependant je dois vous\nfaire une observation. les trois mille piastres que vous avez\nre\u00e7us \u00e0 la nouvelle orl\u00e9ans valent mieux que quinze mille\nfrancs - elles m\u2019ont cout\u00e9 davantage: et je m\u2019\u00e9tonne\nque vous n\u2019ayez pas trouv\u00e9 \u00e0 mieux placer cette traite.\nLa r\u00e9colte de cette ann\u00e9e ci \u222bera pauvre. les cannes ne rendent pas,\nC\u2019est g\u00e9n\u00e9ral _ le \u222bucre est ici \u00e0 26 &amp; 28 demand\u00e9\nil y a beaucoup de navires en rade de la Pointe. ils attendront\ncar la r\u00e9colte \u222bera tardive, et difficile \u00e0 faire par\nles pluies qui ont d\u00e9ja Commenc\u00e9 nous avons depuis\nquelques jours un temps d\u2019hivernage. J\u2019esp\u00e8re que\nCela ne Continuera pas, Car nous autres pauvres planteurs\nnous \u222berions mal dans nos draps.\nexcusez moi mon cher ami \u222bi je ne vous \u00e9cris pas plus\n\u222bouvent. J\u2019ai une paresse impardonnable quand il\nfaut \u00e9crire_ je deteste plume ancre &amp; papier et j\u2019aime\nbeaucoup \u00e0 lire des lettres quand elles ne \u222bont pas de moi\nContinuez donc \u00e0 me donner de vos nouvelles parlez moi\n\u222bouvent de votre aimable famille et croyez \u00e0 mon\n\u222binc\u00e8re attachement je ne veux point \u00eatre oubli\u00e9 aupres d\u2019elle\nVotre tout devou\u00e9 et affectionn\u00e9\n[Cte ?] de Gaalon\n3","typa":{},"genera":{},"fullrs":"Volume5\/M13-0.pdf","find":"1241.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1240","restrictionCode":"1","cdmfilesize":"52299","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M73</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1251</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-10-13</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1251</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1251/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"M73","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM73\nCt Landing sur le Misissipi, La, u.s.\nle 4 novbre 1873.\nMonsieur,\nDepuis longtemps j\u2019avais form\u00e9 un d\u00e9sir.\nCelui de vous exprimer ma reconnaissance\npour votre charit\u00e9 \u00e0 mon \u00e9gard. Mais pour\natteindre mon but, il fallait que Dieu perm\u00eet\nque je fusse envoy\u00e9 loin de France. Enfin\nMes sup\u00e9rieurs ont bien daign\u00e9 me choisir pour\naller dans les savanes de la Louisiane, l\u00e0\no\u00f9 fleurit la fi\u00e8vre jaune pour faire aimer\nDieu ; c\u2019est del\u00e0 que je vous dis : merci,\nMerci. Sous la main de Dieu pr\u00e8s des tombes\n\u00e0 peine ferm\u00e9es de trois confr\u00e8res frapp\u00e9s en\nfaisant le bien par le terrible fl\u00e9au ; oui\nje me sens un ardent besoin de vous\n2\nM73\naimer et de vous prier de ne pas cesser\nd\u2019assister mes neveux de Damville.\nComme vous voyez, je suis \u00e0 4,000\nlieues de ce petit bourg, vous ne\ndevez plus craindre de m\u2019y rencontrer\net croyez que je saurais m\u00eame\nalors vous remercier, lors malgr\u00e9\nvotre animosit\u00e9 \u00e0 mon \u00e9gard. [tache]\nVeuillez croire, que je supplie\ninstamment la divine majest\u00e9, d\u2019aug-\nmenter ma foi et qu\u00e9lqu\u2019indigne que\nj\u2019en sois, je suis pr\u00eat, il me semble,\navec le secours d\u2019en haut, \u00e0 subir\nla mort pour toutes les v\u00e9rit\u00e9s\nque l\u2019Eglise nous enseigne et pour\nchacune d\u2019elles en particulier.\nSur ce, Monsieur et Oncle, en vous\ndisant probablement ici un adieu\nsupr\u00eame ; je vous Recevez l\u2019assurance\nde mon sinc\u00e8re et entier respect\n3\nM73\navec lequel j\u2019ai l\u2019honneur d\u2019\u00eatre\ndans les saints cours de J\u00e9sus et de Marie\nVotre tr\u00e8s humble et tr\u00e8s ob\u00e9\u00efssant,\nA.L. de la Peichardi\u00e8re\nj.m.","typa":{},"genera":{},"fullrs":"Volume5\/M73-0.pdf","find":"1252.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2009-10-13","dmmodified":"2009-10-13","dmoclcno":{},"dmrecord":"1251","restrictionCode":"1","cdmfilesize":"46176","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

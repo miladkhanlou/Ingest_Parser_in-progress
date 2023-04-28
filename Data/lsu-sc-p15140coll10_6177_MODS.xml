@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 249</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1733</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1733</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1733/json"
+                        timestamp="2017-02-03 08:23:17">{"title":"Page 249","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 249 \u2014\npoussd, on ne sait trop pourquoi, snr le bayou Te\"che, comme une\nde ces jolies flours qui ne s'dpanouisseot que dans la solitude.\nLit aussi on cria hourrah 1 a ceux qui passaieut.\nA quelques milles du Pont-Braux, ou vit une nude de cavaliers\ndans la prairie: c'etaieut les jeunes gens de la Grande-Pointe qui\nvenaient saluer leurs amis de Saint-Martin.\nLa banniere que les democrates de Saint-Martin venaient cffrir it\nleurs freres de la Grande-Pointe et qui avait dtd portde jusqne-lit\npar II. Bienvenu, cette banniere passa entre les mains de M. L\\atio-\nlais, un vieillard qui porte ses quatre-vingts ans plus lestement que\nbeaucoup de jeunes gens leur vingtieme amide\u2014un de ces Nestors\nhomdriques qui .semblent avoir ete coulds en bronze et qui sont si\nforts qu'on sc demandc s'ils vaincront le temps on s'il3 seront vaiu-\ncus par lui.\nLe cortege s'avanca alors processiomicliement, et banniere en\ntete, vers les chenes seculaires du colonel Thome.\nApres la banniere, marchaient un jcune homme et une jeune fille\nde seize ans, vetue de blanc. Le jeune homme est it la fois un grand\ncoeur et une belle intelligence\u2014il se uomme Alcee Judice. La jcune\nfille... permettcz-nous, mademoiselle, de vous voilcr comme l'eiait\n1'Isis egyptienne. Nous jetons ce voile sur votre gracieux visage it\nla rcquete de ceux qui vous ont vue ct eutendue ce jour-la et qui\ndesirent garder pour eux les impressions poetiques que vous leur\navez laissees.\nLe colonel Thome, un Americain qui n'a jamais suce le lait des\nmamcUcs demi-blanches et demi-africaines de madame Beecher\nStowe, le colonel Thorne recut cette nombreuse et vaillante cohortc\ndc democrates qui venait it lui.\nUn de nos amis, Edgard Voorhies, lui repondit an nom dc la caravane, et le meeting commenca.\nLa belle et graciense jeune fille, vetue de blanc, monta avec la\nIdgerete d'un sylphe sur la tribune, drcssee sous deux grands chenes et saisit Ia banniere d'une de ses mains frcles ct blanches. Fiere\net calme, erte regarda la fonlc. On eut dit 1'ange, ou plutot le genie\nvivant de la patric.\n.    Alors, de sa voix  douce et vibrante, elle olYrit ce drapeau ii la\nnombreuse population de la Grande-Pointe massee a ses pieds.\nVoueavez vaincu, leur dit-elle, et vous avez meme des couronnes \u25a0,","fullrs":{},"find":"1734.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1733","restrictionCode":"1","cdmfilesize":"390150","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

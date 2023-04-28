@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo displayLabel="Title">
+      <title>Leaving a voting booth</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes" qualifier="approximate">1930</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Long, Huey Pierce, 1893-1935</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">Huey P. Long exiting a voting booth, New Orleans, La., ca. 1930.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form>Photographs</form>
+      <note type="medium">Gelatin silver prints</note>
+      <extent>3.00" x 4.75"</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+<namePart>LSU Libraries. Special Collections</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Huey P. Long Photograph Album</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-hpl:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Huey P. Long Photograph Album (Mss. 4495)</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Huey P. Long Photograph Album (Mss. 4495), Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana, USA.</note>
+   <identifier type="local" displayLabel="Item Number">44950016</identifier>
+   <identifier type="uri" invalid="yes" displayLabel="Migrated From">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_HPL/id/15</identifier>
+   <recordInfo>
+      <recordCreationDate>2005-10-25</recordCreationDate>
+      <recordChangeDate>2018-11-14</recordChangeDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_HPL</alias>
+         <pointer>15</pointer>
+         <dmGetItemInfo timestamp="2016-07-21 15:25:18" mimetype="application/json" source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_HPL/15/json">{"title":"Leaving a voting booth.","compou":{},"creato":"Unknown","date":"ca. 1930","dates":{},"subjec":"Long, Huey Pierce, 1893-1935--Photographs.","descri":"Huey P. Long exiting a voting booth, New Orleans, La., ca. 1930.","source":"Gelatin silver prints;3.00\" x 4.75\"","type":"jpg","publis":"Huey P. Long Photograph Album.","relati":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","reposi":"Huey P. Long Photograph Album (Mss. 4495).","reposa":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","cite":"Huey P. Long Photograph Album (Mss. 4495), Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana, USA.","descra":{},"to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identa":"See 'reference url' on the navigation bars.","identi":"44950016","langua":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_HPL.php?CISOROOT=\/LSU_HPL","typea":"Photographs","genera":"Image","fullrs":{},"find":"16.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2005-10-25","dmmodified":"2005-10-25","dmoclcno":{},"dmrecord":"15","restrictionCode":"1","cdmfilesize":"351604","cdmfilesizeformatted":"0.34 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

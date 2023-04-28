@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Lucy Boyer Thomas oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Thomas, Lucy Boyer, 1923-2004</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Mwendo, Nilima</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">2003</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African American neighborhoods</topic>
+    <topic>Louisiana</topic>
+    <topic>Saint Bernard Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African American neighborhoods</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African Americans</topic>
+    <topic>Louisiana</topic>
+    <topic>Saint Bernard Parish</topic>
+    <topic>Social life and customs</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African Americans</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+    <topic>Social life and customs</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Disaster relief</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Disaster victims</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Evacuation of civilians</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Farm life</topic>
+    <topic>Louisiana</topic>
+    <topic>Saint Bernard Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Hurricane Betsy, 1965</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Hurricanes</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Levees</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>University of California, Los Angeles</geographic>
+    <geographic>School of Nursing</geographic>
+    <geographic>Students</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Thomas, Lucy Boyer, 1923-2004</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Schiro, Victor H. (Victor Hugo), 1904-1992</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Thomas describes country living as a child, growing up with farm animals, a father who treated with folk remedies, and the daily routines of farm life.  She describes a year in Los Angeles studying nursing around 1943, life in the Ninth Ward before Hurricane Betsy, and her experiences during that hurricane.  She also discusses the subsequent rebuilding of her house, changes in the Ninth Ward, and suspicions about the deliberate breaking of a levee to flood her neighborhood and save richer parts of the city.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/hurricanebetsy/Thomas_Lucy_T3340_T3341.abs.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.1687; A digital version of the transcript (pdf) exists for duplication purposes; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room; Interview conducted by Nilima Mwendo.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Lucy Boyer Thomas was born in 1923, grew up in the Fazendeville village near Chalmette, and attended school in New Orleans through the eleventh grade.  She studied nursing at UCLA and worked as a nurse in California and Louisiana.  She married Francis Thomas and they had five children.  She lived in the Ninth Ward for more than fifty years, surviving Hurricane Betsy.  She died in 2004 at age eighty-one.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>2 sound cassettes (2 hours, 33 minutes); Abstracts (4 leaves); Transcripts (119 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017348" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Hurricane Betsy Survivors Oral History Project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>Hurricane Betsy survivor stories: a healing project (Lower Ninth Ward, New Orleans, Louisiana)</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-betsy:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by interviewer and Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Lucy Boyer Thomas Oral History Interview, Mss. 4700.1687, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">4700.1687</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-04-23T12:08:15.383-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

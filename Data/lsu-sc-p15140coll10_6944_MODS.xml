@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 10, Page 4</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2350</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2350</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2350/json"
+                        timestamp="2017-02-03 08:24:55">{"title":"Section 10, Page 4","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"j     4                                SUBSCRIBERS\nTO THE N. O.\n:     Rrownlec, John\n*\u21225\nBuisson, is.\nI     Bcckinan, John\nBean, H. &amp; Co..\ni      liririfoimnn, F. II.\nBoudousque, A.\n'     Beach, E. D.\n4\nBeaufeu, Alfred\nBehan, Thomas W.\ni     Bidwell, WilliamH.\n10\nBurton, Gay &amp; Co.;\nBell, Samuel\n20\nBailey, Wheeler &amp; (J\nBidwell, Henry\n&gt;     Ihmeils eV Cullum,\nBurgess, B. F.\nBull, A. G.\n10\nBaquie, J. A.\nJ     ISranfter, Williams A: ('.,\n50\nBonnabel, H.\n1     Banister, It.\n5\nBonnabel, A,\n\\     Bruneau, Joseph\nBrown, William I\n5     Braud, J. A.\n5\nBridge, E. A.\n5\nBonford, P. E.\nBlache, J. B.\n10\nBertel, J. B.\nBurthe,\n50\nBertel, A.   .\n&gt;     Bujac, M. J.\nBrownlee, J. I).\nBrown, E.\n&lt;     Bonneffons, J.\nBarnett, Edward\nBeebe, E.\nBaruett. Thomas R.\n&gt;     Beebe, William J.\nBarnett, Caroline S.\nBeebe, H.\n25\nBarnett, Elizabeth G.\ni      11,amerntt, Eugene\n20\nBarnett. E. R.\n5\nBarnett, Isabella N.\nI     Banduc, T. J.\n5\nBoyle, Francis A.\n5     Bouzano, H.\n25\nBloomfield, B.\n5     Boyd, C.\n10\nBoucher, H. C.\n&gt;     Bii'ggs. Cliarles\n10\nBellow, Charles\n&gt;      His- .1 antes A.\nBillaud, A.\n&gt;     Beatty, G. H.\nS     Baldwin, J.\n20\nBridge. Isaac\nBurthe, L.\nBull, Charles T.\nBell, John\n'     Beatty, M.\nBennett, Sylvester\nBeatty, G. 0.\nBrown, C.\n5     Beatty, D. C.\nBarast, G.\nS\"     Burton, E. V.\n10\nBonner, W.\n;     Burron, James Kihvin\nBoisfontaine, G. B.  ,U)\n'     Blanciiard, A. G.\nll\n0\nBecker, John\nButchert, J. M.\nCampbell, James\nCampbell, J. jr.\ni    Beiker, Michl.\n2\nConyningham, D.     4\n5    Beir, H.\nCailteaux, Joseph\nBarchey, John\nCasey, T.J.       -M\ni     Bouligney, A.\n10\nj^zl^^","fullrs":{},"find":"2351.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2350","restrictionCode":"1","cdmfilesize":"505898","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

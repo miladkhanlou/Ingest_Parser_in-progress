@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 18</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2061</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2061</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2061/json"
+                        timestamp="2017-02-03 08:24:43">{"title":"Page 18","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"ii\nfet, mi tklrty-secoad hms ef ittrih ktittifl\u00ab\n(which is her centre) is only 124 milesi in this\ndistance there will be developed another portion\nof Louisiana, equal in size to the whole State of\nMassachusetts, giving in the route from Algiers\nto Texas, four such States in territorial extent as\nMassachusetts, and all within our own limits.\nBut what is Texas ? She is out of debt, with\nthree millions of money in her treasury, by the\nrecent settlement with the United States Government. She owns more than one hundred and\nfifty millions of acres of vacant laud; she is\nforty-four times as large as the State of Massachusetts, and New Jersey thrown in besides; the\ntide of immigration to her, across our own State,\nis immense; at two points on Red River, viz :\nGrand Ecore and Shreveport, there passed, the\nlast year, over sixty-three thousand immigrants,\nmost of whom would have taken the road had it\nbeen in existence. The price of passage to them\nwould alone have paid ten per cent, dividend on\nthree millions of capital\u2014a sum sufficient to make\nthe road the whole way to Texas. The great\noutlet and market for Texas is New Orleans.\nWith this road to strike her centre on the east,\n(as all her rivers are small and unnavigable most\nof the year, except in great floods of rain,) her\nLegislature will, doubtless, direct her grand\nimprovements to meet this one from New Orleans.\nShe has, no seaport, except for vessels of the\nsmallest kind, and can never have any great\ncommercial mart, even if the Northern winds did\nnot render, as they do, her coast dangerous.\nHer interest is, therefore, identified with New","fullrs":{},"find":"2062.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2061","restrictionCode":"1","cdmfilesize":"537656","cdmfilesizeformatted":"0.51 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

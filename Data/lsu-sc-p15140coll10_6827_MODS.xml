@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 8</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2233</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2233</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2233/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 8","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[81\noverflowed in spite of herself; and her works, which we will supp086\nwere really sufficient, are thus in danger of being rendered of no avail\nThe prosperity of the valley is to be greatly affected by this work\nof embankment, drainage, and, reclamation ; and, therefore, the best\ntalents that the country affords should be employed to direct it.\nIII. More than fourteen feet water cannot now be counted upon in\ncrossing any of the bars at the Balize. Vessels drawing sixteen feet\nare sometimes dragged over them through the mud.\nAs for the ability of New-Orleans, or the people who send their\nproduce there on its way to market, to avail themselves of the in.\nprovement in ship-building, as long as the passes of the river are\nobstructed by bars, it is out of the question. The sailing qualities\nof ships are according'to their models; their models are regulated\nby their draught; and their draught is controlled by the depth of\nwater on the bar. Therefore, the people of the great valley of tie\nWest, the men whose labors and whose enterprise have put the heart\nof the country where it is, and who supply all those great staples\nout of which the business of commerce raises revenue for the government\u2014therefore, I say, those people must be doomed to second and\nthird rate ships to do business for them upon the great waters, because that government will not do its duty. Had the people ofthe\nMississippi valley been true to themselves, no representative of theirs\nwould have ever been found recording his vote more than once\nagainst an appropriation for keeping the mouth of that river free and\nopen for ships ofthe largest class.\nA year or two ago, the Secretary of the Navy was kind enough to\nyield to my solicitations, and to direct a series of observations to be\nconducted upon the habits of the Mississippi River, at Memphis.\nThis series commenced 1st March, 1850, and was continued daily fora\nyear, by Eobert A. Marr, Passed Mid. U. S. Navy ; a most intelligent\nofficer, and a patient and indefatigable observer.\nHis attention w~as directed, among other things, to the volume of\nwater, as well as the quantity of sediment, borne down the river by\nMemphis.\nHis observations were most carefully made. According to them,\nand upon the supposition that the year gave a fair average, there\ngo by Memphis daily, 471,550 cubic yards of sand and mud, or\nsilt, as it is called.\nBecause the river runs faster at Memphis than it does at and below New-Orleans, and because, as the current slackens, the silt\u00bb\nprecipitated, we are, I presume, correct in the inference, that the\nwaters of the Mississippi River are more heavily laden with silt a9\nthey pass Memphis, than they are when they reach the Balize.\nNow we know very well, and we derive the knowledge from many\nyears of observation, that the Mississippi River does not raise l\"\nbottom, below New-Orleans, at the rate of more than a few inches\nin a year, if at the rate of an inch.\nTo cross the bar at either of the passes, a vessel has only to sail\nfew hundred yards. Suppose the bar were to rise up at the rate o\none or two feet, instead of a few inches in the year; the ehann","fullrs":{},"find":"2234.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2233","restrictionCode":"1","cdmfilesize":"559601","cdmfilesizeformatted":"0.53 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

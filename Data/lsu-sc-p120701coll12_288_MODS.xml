@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 04</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/560</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>560</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/560/json"
+                        timestamp="2017-02-09 16:31:00">{"title":"Page 04","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"w\n\u00bbii'\n1 nW' - \u25a0 \u25a0 \u25a0,\nP0!,'.\nIff \u25a0\u25a0''\nBftr.\n?HrJ!\nII' \u25a0\u25a0'\u25a0\n,#\u25a0\nIf\nI-,\n- i , .' \u2022\n106\nSOUTH-WESTERN JOURNAL.\n\u25a0\n!\n\u25a0\n!\nI-., i ir,\nHaving shut myself up, I soon became deeply interested in\nthe following document:\n\" Havana, Isle of Cuba, March 14, '31.\n\"Dn. Jon* Mia.MDTii!\nDear Sir:\u2014Here I am in this beautiful island, a blighted\nmass of moving nature, longing for the moment when death\nshall close these eyes upon a world of trouble, and I may be\npermitted to yield up a life that has proved indeed a burthen.\nWe have been here a fortnight, under tho hope entertained\nby my father, that this shattered frame of mine will again assume the vigor of health, but he little thinks the Haltering\ndisease which now preys upon the very citadel of my existence, must sooner or later destroy me. How lo describe the\nscenes I have gone through ; portray the passions that have\nwell nigh wrecked my reason, and reveal the too successful\nplan of my unholy revenge, without sinking at tho task, I\nknow not; bull promised to do so, and it shall be done.\nNothing of interest transpired after I left the Ledge, till I\nreached Cincinnati, where we spent a week in noting the\nbeauties ofthis fair \"Queen ofthe West.\" Having witnessed all the novelties of this city, my father engage d a passage\nto New Orleans for us, on the steamboat Mediterranean. We\nembarked on the 10th of January, and suffering from an attack of influenza, I did not leave the ladies' cabin to dine in\ncommon, until we reached the mouth ofthe Ohio. The din\nner hour was 2 o'clock, P. M., and I left ours for the main\ncabin, on tho arm of my father, taking my seat next to him\nat table, without allowing my eyes to rest long enough for\nrecognition upon the features of any of the mam'gentlemen\nthat crowded lo llieir seats. Whilst dinner was being served\nup, there was a medley of conversation all around me, none\nof which interested me, except that in which some genlh men\nopposite were engaged, upon tin- subject of painting. I Us-|iscTme that ? \"\ntoned, however, without raising my eyes, until an appeal was\nmade by one of them, to his next neighbor, upon the point of\ndisputation. The gentleman referred to hud no sooner uttered half a dozen words, than my knife fell from my fingers\nupon the plate, making quite a noise, whilst f trembled most\nviolently, for 'twas Herbert's voice that struck my ear, and as\nI glanced in the direction of the speaker, my eyes assured\ninoof tho fact. He was looking in another direction at the\nmoment, and ashamed of my weakness, which fortunately\nwas not observed, I studied an indifference, in which I succeeded, I fear, but illy. I rose from ihe table soon aflcr, and\nbeing obliged lo pass Herbert, our eyes met, he bowed, und\nwith a recognition on my part, 1 fli d to my state-room.\nSecure from observation, I revolved in my own mind u\nthousand vyiles.with which to hire him within my grasp, that\nI might then rack my brain for an invention to torture this\nheartless man. I almost imagined him powerless within\nmy reach, and, 0 Melmoth! iho savage exultation which\nthrilled through my heart at that moment, was like a benison\nto my soul. Beveling in this thought, I was disturbed by a\nlow tap at my door. \"Come in,\" said 1, and Miss Alice\nNorth, who had embarked at Louisville, entered with\u2014\n\"Good evening, Miss Perryan, I fear I am intruding on vour\nand if ive can accommodate ourselves to this little\ncoop, \u00bbc\npint\nmay manage to while away an hour that might be j\nmore tediously.\"\n\" Do you know, Miss Perryan,\" said my pretty inquisitor\nthe gentleman who sat opposite to me at dinner?\" andde\nscribing Herbert's person, added, \"I allude to the gentleman\nwho was appealed to, and gave his opinion on painting so eloquently to the disputants? \"\n\" I answered in the affirmative,\" and enquired, \" what thera\nwas in him to attract her attention ? \"\n\" O he is such a handsome fellow ! and do you know, his\neyes were constantly upon you while al table, and when you\nleft, he gazed upon you as though 'twas his last look upon a\nmuch-loved object.\"\n\" Come, come, Miss North, do not be silly,\" I replied, without betraying any further notice of u piece of information\nwhich encouraged me in my unhallowed design upon bis\nhappiness.\n\" What is his name, Miss Perryan '? \"\n\" George Herbert.\"\n\"My brother,\" she returned, \"bus invited him into the la-\ndies' cabin, alter tea, to introduce him lo us, but would nottcil\nmo his name, which you must know is one of Harry's many\nprovoking tricks, but\u2014\"\n\" Hold !\u2014your brother's humorous disposition has served\nto break the monotony of ibis long und tedious passage, anel\nI will not hear him condemned unheard.\"\n\" 1 will tell him that you said so,\" replied Alice.\n\"Nol if you value my friendship, 1 quickly added, \"for\n'twos nut intruded for his ears.\"\n\"As you will; but then we shall have vour company tonight, win u Herbert and Harry come info our cabin\u2014prom-\nprivacy ?\n\" Nol at all,\" I replied, \"for I feel the want of company\n\" Certainly, as you are so urgent!\nThis gay and happy girl then left my room to change bei\ndress for the evening, whilst I, for the first lime in my life,\nstudied how I should make myself \"irresistible,\" as the vain\nof our sex would say. Dress after dress was thrown aside,\nand being dissatisfied with my whole ward robe, f wore ihe\nplain morning dress 1 had on; paid some attention to my\nhair, loaded my cars and fingers with jewelry, and fell dim\nI could play the flippant. The bell announced tea, and ray.\nfather being upon the boiler deck, Mr. Henry North banded\nme to the table. Henry for the last two days had paid nw\nmuch attention, and ut table made himself very agreeable,\nthe which I desired, and played tho \"stricken\" when I thought\nmyself observed by Herbert. I conversed freely wilh him,\nand upon subjects of which I was mistress, I dilated as eloquently as 1 knew how. 1 had been contending for a point\nwith Henry for some time, and during the colloquy, became\nmuch animated and deeply interested; excited, I pressed my\narguments upon him till he sued for peace, and then, by u\nglance round the table, I perceived that I had drawn upon\nme lhc gaze of all present. I directed my eyes towards\nHerbert; caught his so intensely fixed upon me, that he colored deeply when our eyes met, and looked like a plagiarist\ndetected in stealing a manuscript. This too, I enjoyed without a change of features, and, in a whisper to my heart, I \u00ab\u2022","fullrs":{},"find":"561.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"560","restrictionCode":"1","cdmfilesize":"1732962","cdmfilesizeformatted":"1.65 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

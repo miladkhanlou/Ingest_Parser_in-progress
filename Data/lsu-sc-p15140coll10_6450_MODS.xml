@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 41</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1964</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1964</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1964/json"
+                        timestamp="2017-02-03 08:23:55">{"title":"page 41","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"shock of heaven's thunderbolt, and sharpen itself into the keen edge of the sword with which\nWashington secured the liberty of his country.\nIt is the obedient slave that waits on all our\nfertilizes   th\n3   domain   of   agriculture,  and   is\nequally hub,\npensable to all the arts and sciences.\nIt becomes a\ns delicate as gauze, as light as air,\nand floats on\nthe ocean.    If in the shape of the\ncamion   and\nthe   bomb   it   serves  the  angry\npassions of i\nrati, in the shape of a medicine it\ncontributes t\nobis health, and is so friendly to our\nrace, that  it\nis to be found in our blood, and\nconstitutes a\npart.of the elements which enter\ninto our composition.    For all these wonders, in\nconnection a\n-ill.  a single material supplied  by\nnature, we a\nre  indebted to the Mechanic Arts.\nBut in then\napplication, even when thus con-\nfined solely\nto one object, what a variety of\noccupations\nWhat   gradations   in   the   calls\nmade on th\n3 intellect and on physical labor!\nWhat a div\na-sity of operations\u2014many merely\nmodifying tl\ne shape or form of matter\u2014some\nothers consisting in multiform, capricious, and\nexclusively physical manipulations\u2014some which\ndemand the greatest and sublimest effort of the","fullrs":{},"find":"1965.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1964","restrictionCode":"1","cdmfilesize":"449179","cdmfilesizeformatted":"0.43 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

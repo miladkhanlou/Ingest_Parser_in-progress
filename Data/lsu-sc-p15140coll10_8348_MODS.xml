@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 4</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2982</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2982</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2982/json"
+                        timestamp="2017-02-03 08:23:26">{"title":"Page 4","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"sentations that are held up to the world a - models\nday; nor less do the sage prophets of the olden ti\nto occupy the highest place in the galleries of Chris\nAll honor is due Michael Angelo* for his great G\nception of good and perfect manly character, in his\nof the prophets in the Sistine Chapel. \"He stands a\nauthor among bis contemporaries, like the last outli-\nArchitecture also seems, like painting, to be closely associated\nwith religious affections, as the style and variety of church building surpasses that of any other. In all ages the perfections of\nthe art have been lavished upon churches, temples, and chapels,\nreligion, expend their superior architectural skill upon their temples, mosques, and houses sacred to their idols.\nThe Temple  of   Solomon was by far the most magnificent\nexactly known, although the d. uen i n .1 carefully handed\ndown to us in the Jewish crnoicles of the Bible. It was built\nof stone so carefully cut before the building, that, we are told,\nnot a sound of hammer or chisel was heard during the whole.\nTherefore it must have been all symmetry, and built of square\nstones, and the beginning of the Grecian style of architecture,\nwhich differs from all other in this regard.\nThe next to this magnificent, house of the Jewish king, is the\nTemple of Mahaballapoor in India, which has been beautifully\ndescribed to us by an oriental traveller, and seems to have been\noverlooked by many others who have so loved to write of the\nbeauties of the orient clime. This temple, sacred to the idol\nVishnu, is built upon the banks of a cove or bay, and commands","fullrs":{},"find":"2983.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2982","restrictionCode":"1","cdmfilesize":"498357","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 10</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/515</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>515</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/515/json"
+                        timestamp="2017-02-09 16:30:53">{"title":"Page 10","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"154\nSOUTH-WESTERN   JOURNAL.\n,:\nins a\n. \u25a0.\nwe may and we ought to have confidence, that the great and\nobvious outlines of that plan will bo harmoniously filled tip,\nWe have the highest encouragement. Religion, science,\ntho useful arts, all the forms of benevolent activity, aim at\nthe extirpation of evil. In this war to be the meanest soldier is to win immortal glory. True, the contest must long\nendure' nor can it cease till He whose hand has moulded\null the elements ol being shall speak the word of peace. We\nmay come off victorious from a skirmish, but the great battle which has the wide earth for its theatre, has the world's\nages for its duration. Generation after generation, each ns\nit rises, shall claim the field, and prove its prowess against\nthe unblest powers of earth and air. One by one, the myriad hosts shall yield; and, as every ago passes away, wider\nshall be the border, and stronger the bulwark of the kingdom of truth and love.\n\" Is such the hope which we arc allowed to enjoy, as tho\nsage proclaims what his trained foresight discerns of tho gigantic ages whose shadows stalk before? Are these the\nprospects that meet our gaze, when the prophet's torch\nthrows ils sacred light upon the clouded scenes of future\ntime? Can we then think too highly of our office as pioneers of so glorious a future? Can wc too much exalt the\nglory of our age in being called to so illustrious a mission?\nCan we too carefully ponder our high duties, and too assiduously endeavor to act worthy of our vocation ? Let us all,\nthen, Citizens and Students,\u2014and why not, each one of us,\nboth at once in one\u2014a citizen devoted to noble and useful\nstudies\u2014a student ever mindful of his civic obligations,\u2014\nlet us all labor for tho present and future good of our country and the world. Let us strive to realize those ideas of\nbeauty and of grandeur, which the Deity has enstamped on\nthe human mind, to be the types and models, according to\nwhich its plastic energies shall mould the forms of material\nthings, and the fabric, of society. In our own breasts, and\nin the beloved circles of our homes, let the delightful work\nbe ever going on. Let us plant,\u2014let us build,\u2014and cover\nthis smiling- land with gardens, and groves, and pleasant\nmansions. But, above all, let us lay deep and sure the foundations of institutions, which shall for ages continue to rear\nup able anel active promoters of our country's progress,\u2014\nmen, who shall extend the power, and exalt the dignity, and\nbrighten the glory of immortal mind ! \"\numn of Pompey at Alexandria, were positively nnd indi\u00abpt|.\ntnbly single granite blocks, hewn from the mountains beyond\nthe cataracts, and transported down the Nile; unless, indeed\nthese dubious masses were the fragments of a rudei and an\nearlier age.\nI tried every possible method to detach ti piece of one of\nthese blocks, to take with me as a specimen, but in vain; nor\nwere we more successful in our search after some small pieces\nthat might have been scattered round, although we sought for\nthem in every direction.\nIt would be hazarding too much to say that these were the\nremains of antediluvian works; but I should be deficient in\ncandor, if I did not confess, that the rude irregularity of form\nand size in tho masses themselves, the want of order in their\narrangement, their present appearance, and the evident proofs\none meets at every step, of the surrounding plain having been\nonce covered by the sen, very forcibly impressed me with\nsuch nn opinion on the spot. The whole of the country hore\nlooks like a ruin of nature; trees and bushes overwhelmed\nwilh sand, their tops only visible in several places, and evciy\nwhere the suifiice scattered over with broken shells and marine productions: while underneath, at the distance of a few\nfeet, is a fine bed of earth.\"\nANTEDILUVIAN REMAINS IN EGYPT.\nB V    HON.   J .   n .    11 r e 11 I N a II A M .\nIn examining the ruins of Serapeum, in Egypt, Mr. Buckingham found some of those extraordinary and anomalous\nmasses of rock which have excited the wonder ofthe antiquary.    He says of them\u2014\n\"That they were not stone, I was disposed to believe, from\ntho characteristics which distinguished it from all other kinds\nthat I had seen; bill that they should be an artificial composition, seemed as difficult to suppose, from the want of an apparent motive for so making them, as their size was comparatively small; more particularly when 1 remembered that the obelisks at Luxor, the colossal Mcmnon at Thebes, and the col-\nGeology of Maryland.\u2014The Baltimore Transcript\nrives a brief synopsis of the matter of a report of the state\ngeologist of Maryland, embracing the: results of a survey of\none or two counties.    We subjoin the synopsis:\n\"Geological Report.\u2014Montgomery County,\u2014\nThe area of this county is a little above 5oG square miles, or\n3.j(i,326 acres, more than ono half of which is waste land,\nbut nearly ail of which might bo converted inlo superior soil\nnt a comparatively trilling expense. Tho soils, being produced by the decomposition of rocks, with the exception of\nthe alluvial formations, vary of course with ihe nature of the\nstrata which they overlie, and these qualities are readily\nknown, when the rocks from which they are produced are ascertained.\nFor iho purpose of grouping tho various kinds of rocky,\nin order lo illustrate the mineral and agricultural resources of\nthe county, it is divided into four principal regions; the basin\nof tho Paluxent, including the valley of flawling s river; the\nbasin of Rock Creek; that of tho Seneca and ihe Sugar binds,\nso called. The basin of the Patuxent is about twenty-three\nmiles long, and its greadest breadth six miles. In ils upper\npart the rocks are magnesian, and the soil produced from them\nis quite meagre nnd arid. Under some circumstances, however, they produce by decomposition a light red soil, which\nyields well in a slnty horneblende, it gives rise to n good oals\nand corn, and when it passes into wheat soil. In the lower\nand central portions of this region, the soils, though of little\ndepth, are good, but highly improvable by the usual tillage.\nPlaster does well, and by the application of cue hundred lo\none hundred and fifty bushels ol lime to the acre, they may\nbe made equal to the best lands in the state. This has been\ndone to some extent.\nAlong Ilawling's river and its tributaries, there are valuable\nmeadow grounds.    This region also possesses some fine tracts","fullrs":{},"find":"516.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"515","restrictionCode":"1","cdmfilesize":"1726779","cdmfilesizeformatted":"1.65 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

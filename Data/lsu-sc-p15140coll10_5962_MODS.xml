@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 27</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1514</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1514</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1514/json"
+                        timestamp="2017-02-03 08:23:10">{"title":"Page 27","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u00ab. 27 \u2014\nle courage court les rues, ces hommes avaient appele a eux tous\nles hommes honnetes. Cet appel avait eu de Pecho et tousyavaient\nrepondu. Exemple memorable, qu'il est bon de graver dans ces\nfeuilles ephemeres, ne dussent-elles avoir que la duree d'une journee,\net qui prouve que lorsqu'une socie\"te souffre, elle repondra au premier appel qui sorlira d'une poitrine virile, et que, sans cet appel,\nelle aurait retards d'un siccle peut-etre le moment d'agir! Oui, re*-\npetons que les actes de courage sont electriques et qu'au jour du\ndanger ils ont et auront toujours sur les foules un profond retentis-\nsement.\nOn allait done bientot voir a Pceuvre ces tribunaux sommaires\ndont le nom seul faisait deja, courir un frisson dans bien des consciences.\nQuel serait leur code ?\nQuels chatiments appliqueraient-ils ?\nTelles etaient les questions que se posaient les personnes etran-\ngeres a Passociation des Vigilants.\nL'incertitudejje dura pas longtemps, car le premier comite (celui\nde la Cote-Gclee) publia des les premiers jours de son organisation,\nune proclamation a ses concitoycns de la paroisse Lafayette. Cette\nproclamation, qu'on trouvera plus loin, ne laissait pins planer Pom-\nbre d'un doute sur ce que nous pourrions appeler la Question des\nChatiments. La liste en e*tait courte mais singulierement significative ; pour que nos lecteurs puissent en juger eux-memes, nous nous\nempressons de la donner.\nLa premiere peine etait le bannissement;\nLa seconde, le fouet ;\nLa troisieme, la corde.\nComme ou volt, e'etait d'une simplicity presque primitive ; c'e\"tait\ncourt, mais e'etait net.\nLes hommes de ce comite ne s'etaient pas ingenies a creer des\ncategories de peines ni des categories de condamnations.\nPour vol ou tout autre crime ou delit ordinaire, si on etait trouve\ncoupable, on, serait toujours coodamne, comme dans les conseils de\nguerre ; la condamnation prononcee senait le bannissement.\nAussitot Parret rendu, le president du comite monterait a che-\nval, ainsi que le comite\" executif, et irait immediatement notifier la\ncondamnation.","fullrs":{},"find":"1515.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1514","restrictionCode":"1","cdmfilesize":"418472","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

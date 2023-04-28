@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 33</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1520</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1520</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1520/json"
+                        timestamp="2017-02-03 08:23:10">{"title":"Page 33","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 33 \u2014\nNos tribunaux no ceesaient pas d'absoadre,\nAu crime neurons ils otaient leur chapeau.\nNous, noun frappons comme i'rappe la foudr*\nDe Jehiiva me-sssgere ct bourreau.\nPrappons toujours! Aueune voix austere\nN'osera dire aux yengeurs dechaine\"s :\na Cain! Cain ! qu'as-tu fait do ton frtire ? i\nQuo lea bandits soient tous extermines !\nQnand nous fondons sur ces bandee farouche*,\n'lrouueait saiguautet re\"duit de mollis?,\nNous cn[oiidonsparf..is dans quelques bouchea\nTon doux hmgago, 6 divine Pitie\" !\nA ces brigands oh drcsse &lt;)es statues\n'Common des saints d'un nimbe couronn^B.\nSous U08 talons qu'elles sotent^abattues\t\n-Que lea bandits soient tous extermines!\nEroutez en paix 1'iierbo de nos campagnea,\nTroupeaux traqu^s trente ans par ces maudits ,\nLes Vigilants improvisont des bagncs\nEt d'un enfer vont faire un paradis.\nDursforg-erons, couroe\"s sur le cratere,\nNoir soupirail ouvc;-t pour cos damne\"s,\nFondons pour eux le boulct populaire\t\nQue ces bandits soient tous extermines\nLouisiane, 0 mere bien-aimtie,\nMets sur ton front ta eouronne do fleurs\nPuis endors-toi surtaeouelie embaumee\nfit ne crams plus meurtricrs ni voleur\nSol de l'honneur, 6 pa'rie immortelle,\nPerme ton sein a tes fils gangrenes,\nLe juste aeul doitdonnlr sous ton aile ..\nQue les bandits soient tous extermines !\n\u00a9giyj^ -^yn pakteimt\n\u202206 vont ces bandits, fils des bagncs, Qu'a faitce driMe a l'air farouche.\n\u25a0Qui pillaicnt nos belles campagnes Au grand front fuyant, a I'ceil louche,\nComme des tfcumeurs de mer ? Comme celui d'un paria?\nOii oea gars de mauvaise mine ?        Dans son abri clos d'une plancht   \u25a0\nK% vont manger outre Sabine II a tue\" ma vache blanche\nUn pain atner. Pauvre Lia !\nOnvuntces demons de nos plaines, Qu'a fait ce vieux a I'oail atone\nI\u00bbs mains libresde toutes cliaiues,    An ventre gros comme une tone*\nAux premieres roses d'avril 1 Monte sur eon grand palefroi ?\nOu vont-ile. monies, eu silence 1     .11 conduit daus d'autres patriea\nUi voiit chercber une potence Les pirates de nos prairies\nDans leur exil. Dont il est roi.","fullrs":{},"find":"1521.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1520","restrictionCode":"1","cdmfilesize":"472660","cdmfilesizeformatted":"0.45 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

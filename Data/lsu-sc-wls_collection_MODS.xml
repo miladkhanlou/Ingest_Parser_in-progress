@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>John Langdon Ward Lantern Slides</title>
+  </titleInfo>
+  <name type="corporate"
+      authority="naf"
+      authorityURI="http://id.loc.gov/authorities/names"
+      valueURI="http://id.loc.gov/authorities/names/no2015036095"
+      displayLabel="Contributing Repository">
+   <namePart>LSU Libraries. Special Collections</namePart>
+   <role>
+      <roleTerm type="text"
+                authority="marcrelator"
+                authorityURI="http://id.loc.gov/vocabulary/relators"
+                valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+   </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The collection consists of one hundred seven (107) lantern slides documenting the aftermath of the Siege of Port Hudson, 23 May - 09 July 1863. John Langdon Ward may have created these slides dating from circa 1880. John Langdon Ward, born October 25, 1841, was commissioned Captain of the 50th Regiment Massachusetts Infantry, 15 September 1862. Ordered with the regiment to Louisiana, he served with the 19th Corps through the siege of Port Hudson. The physical collection can be viewed at Louisiana State University's Hill Memorial Library.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The collection consists of 107 lantern slides documenting the aftermath of the Siege of Port Hudson, Louisiana from May 23 - July 9, 1863. John Langdon Ward may have created these slides dating from circa 1880.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-wls</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_WLS</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_WLS</identifier>
+</mods>

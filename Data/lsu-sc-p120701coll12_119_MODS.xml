@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 11</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/408</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>408</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/408/json"
+                        timestamp="2017-02-09 16:30:59">{"title":"Page 11","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH- W E S T E R N JOURNAL.\n43\nf, el in tho presence of so many individuals whose nam, s heltlemon.    The stage region of the amphitheatre was covered\nhad been accustomed to venerate; and on adding that the kind- with seals for the officers of the association and sliangers\t\nness I had experienced led me lo feel that I was not viewed ns The effect of a coup (Vail of ibis great collection was very\na foreigner, my remarks were suddenly interrupted by a burst striking nnd beautiful; and th) interest of it was increased, by\nof approbation. These, and other unprcmediated expressions the idea, Ihat rarely, if ever, had been collected together any\nof feeling, gave me a more satisfactory idea ofthe sentimi nts number of human beings, possessing so much know ledge of\nofthe English in regard to our country lhan, I think, cm Ik Jail ihat was useful and ennobling to man. Such were mi\/\nderived from the books of a tew needy or ill-natured travellers, feelings at the time, and I doubt not they were experienced\nA book oftravels in a known region, to be popular, must be by others. At these meetings, an al stractof the proceeding?\nwell se-asoncd with those pungent remarks, which all men re- of the sections was given by some of tho more distinguished\nlish.\u2014The British nation have no wish to see America un-lsavan.il usually of a most entertaining and instructive nu-\ndervalued; on the contrary, they nre pleased with accounls oftttre. One evening wrs occupied in showing the effect of\n.our prosperity, provided they are not employed to draw coin-: lightning conductors. The lecturer formed floating- electrical\nparisons unfavorable to British manners and institutions.\u2014 clouds of ccllon wool, which, when they passed mar a ship\nThis they will not tolerate. They are, and I think with jus- or house, discharged their conti nts with striking eflect on the\nlice, the last people to admit that their institutions nro not bet-spectators, lie satisfied the audience of the utility of cooler adapted their state of society than those of any other people ductors, properly made, and showed that numbers of shijj\nwould be. ] might be saved, by employing a rod or bar of copper, h t into\nAnother fact, illustrating English hospitality, ought not beilhc mast, in such a way as to give additional strength, and to\npassed over. Before Iliad been two clays in England, I was conduct ihe fluid uninterruptedly to the water. Each mast\nasked by a gentleman, to whom  I had not letters, to pass the should be provided in tli is way.\nweek ofthe Association meeting at his house. Nor in this n The other evenings were employed in social meetings or\nsolitary occurrence; on the contrary, 1 have overy where ex-lsoirccs, in the magnificent suit of apartments in the town hall,\nperienced the kindest reception, as well from individuals to; llcn-i,bout two thousand persons of both sexes were brought\nwhom I had letters, as from others to whom I had nol; and ifltogt thcr. Al these meetings I had an opportunity of being\nat any time I found myself in a place where I had researches introduced lo many of lb\" distinguished mm of science,\nto make, it was only necessary to satisfy them who I was, and whoso names wc have long heard, and whose labors we have\nwhat were my objects, to receive every attention and accommo- so often regarded with admiration. I found them generally,\ndation I wished. |l may say universally, of mo. I  unassuming manners and\nThe day of opening the meetings having arrived, the differ, agreeable conversation. Many of them took much interest,\n(it! bodies comprising the Association, assembled in the halls and asked manyqucstions about our country; and all seemed\nappropriated to each of them.   More lhan 1600 members were to have a feeling of fraternity towards us.    I noticed nt these\npresent.    Tiny wero divided into seven sections:\u2014\n1, Mathematics and Physics.\n12, Chemistry and Mineralogy.\n3, Geology and Geography,\n4, Zoology and Botany,\n5, Medical .Science-.\n0, Statistics.\n7, Mechanical Science.\nEach section had a handsome and convenii nt ball assigned\nby the inhabitants of Liverpool, of a size proportioned to the\nnumbers composing tho section, A committee ol each section met in the morning.    Th\neleven, and continued (our or live hours. Every section\nhad its president and secretaries. The meeting being opened\nby the president, the papers, approved by the committees, were\nread in an order which was posted up every morning at the\nplace of meeting. Each paper was submitted lo the critical\nremarks of the assembly, and very warm, but polite discussions occurred daily at most of tho meetings. At \"&gt;, P. M.,\nthere was a public dinner daily, to which strangers were invited. Healths win: proposed, and speeches made. Tin.\nevenings were occupied alternately by social and scientific\nmeetings. On Monday, 'Wednesday, Friday, and Saturday,\nihe whole association assembled ia a great amphitheatre, capable of containing some thousand persons.     The assembly\nmeetings, that while there was a great variety of elegant\nrefreshments, such as rich fruits, ices, &amp;c., that no wine nor\nstimulating drinks wero offered; and, ut the dinners, the winis\nwere in moderate quantity, cheap, nnd good of their kind, but\nnone of them rich and extravagant, such as champagne, bm-\ngundy, or old Madeira or sherry , so that the temptations to\ndrink were not such as 1 have seen in some jdac.es, at education dinners, where they certainly should not have been presented.    The time occupied ai table wnsabout two hours only\nTho labors of ihe Association terminated with the weok\nand were concluded  in  each of the sections,  by an  address\n1 meeting opened at from the president of the scciion ; and, al the lost evening\nmeltings, an account was given of the proceedings of all iho\nsections for the week.\nAmong the festivals was a splendid dejcunc,nt4, P- M., in\nthe botanic garden. This was attended by tho members of\nihe Association, and by an equal number of ladies. An cli-\nerant canopy or saloon of great extent, surmounted by the na-\nlional arms, received the guests, and added lo tho brilliancy\nof tlio spectacle ; while the sense of hearing was gratified by\nthe noble music of two large military bands, playing alter\nnatcly through the afternoon.\nBy the liberality of the citizens of Liverpool, the places of\ninstruction and amusement were generally thrown open.\nThe card of the Association was a passport lo the Atheneuin,\nwas composed of about   an equal number of ladies end gen-lRoyal Institution, and a multitude of public places Ltlupied :o","fullrs":{},"find":"409.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"408","restrictionCode":"1","cdmfilesize":"1736974","cdmfilesizeformatted":"1.66 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

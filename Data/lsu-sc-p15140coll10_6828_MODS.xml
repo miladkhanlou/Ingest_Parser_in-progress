@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 9</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2234</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2234</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2234/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 9","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[9]\nacross the bar for ships need not be more than 300 or 400 feet\n*?je. and how much dredging would it take to excavate annually\n*lftver of mud one or two feet deep, from a channel-way a quarter\nV'.t' mile long, by 300 or 400 feet wide?\nThis is the matter about which the government has, for the last\ntwenty years, been having examinations made. Examinations will\never satisfy.    Let us make the experiment.*\nI have no doubt whatever as to the practicability of deepening one or\nmore of the bars at the mouth of the Mississippi, and by dredging, of\nkeepiu0* any required depth of water there. A gale might now and then\ninterfere with it. But it is a case in which experiment, and experiment alone, can properly decide. It is worth the trial. I hope,\ntherefore, that the delegates to the Convention, and the people whom\nthey represent, will take the matter in hand, and not rest till Congress causes the experiment of deepening one ofthe bars at the mouth\nofthe Mississippi to be made. This is no New-Orleans question:\nit is not confined to the valley, nor to the people of the South and\nWest. It is a great national concern. The people of Missouri, Iowa,\nami Tennessee, of Maine, Massachussetts, and Texas, are as much\ninterested in this matter as are those of Louisiana.\nIV. Steamships are the railways of the sea.\nNotwithstanding there be fine navigable streams and good turnpike roads leading into a city, it is found, by ample experience, that\na few rail-roads, well placed and brought into the same city, will\nvastly increase its business, and, hence, its prosperity.\n\"What is singular about these railways is, that they do not interfere with the turnpikes nor the river trade. They create a business\nof their own.\nSo it is with lines of steamships. They do not interfere with the\ncoasters and the sailing packets, which answer to the turnpike and\nriver craft of the interior. But they also create a business of their\nown. Look what the European steamers have done for New-York\nand Boston. So far from interfering with the business under canvass,\nfrom those cities, they have stimulated it, and made it more active.\nfiver since steamers began to ply between New-York and Liverpool, the New-York packet ships have been increasing both in number and size. And it is as idle for us of the South and West to re-\n\u00b0se upon the great commercial advantages which nature has vouched to New-Orleans, or to that region of country, by reason of her\n\u00b0Jn geographical position, and the geographical position of the Gulf\n-Mexico\u2014it is as idle, I say, for the people to rest quiet, and ex-\nlfct ^e proper lines of steamers to come to them, as it has been for\nem to rest quiet upon the advantages which the Mississippi River\n8 ye them, while all around them was enterprise and activity. Other\n''es and sections tapped the Mississippi valley, and sent rail-roads\nere *or their own benefit and advantage. They may also, from the\n^\u00b0e m\u00b0tives, send their steamships to  ply about New-Orleans.\ne people of New-Orleans have waked up to the reality of their\n\u25a0rie*'^ ^\"icle upon this subject, in the September Number ofthe \"Western Ee-\n**\u25a0  Published at St. Louis.","fullrs":{},"find":"2235.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2234","restrictionCode":"1","cdmfilesize":"561681","cdmfilesizeformatted":"0.54 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

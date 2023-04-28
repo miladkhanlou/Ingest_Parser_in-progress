@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Shrimp Boat 'Mariah Jade'</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>Donn Young</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">2003-10-14</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>New Orleans (La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Seafood industry</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shrimpers (Persons)</topic>
+      <topic>Louisiana</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shrimp industry</topic>
+      <topic>Louisiana</topic>
+      <topic>New Orleans</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fishing boats</topic>
+      <topic>Louisiana</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Gambit (New Orleans, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">Shrimp boat 'Mariah Jade' taken for article which appeared in 10/14/03 issue of the Gambit Weekly.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>16.8 MB</extent>
+    
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-dyp:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Donn Young Photographs</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights and copyright retained by the LSU Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Images of New Orleans: The Donn Young Photograph Collection, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">494438834b022</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_DYP/id/154</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2007-05-09</recordCreationDate>
+      <recordChangeDate>2018-12-04-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_DYP</alias>
+         <pointer>154</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_DYP/154/json"
+                        timestamp="2017-01-05 16:16:34">{"title":"Shrimp Boat 'Mariah Jade'","creato":"Donn Young","date":"2003 October 14","subjec":"New Orleans (La.)--Photographs;Seafood industry--Photographs;Shrimpers (Persons)--Louisiana--Photographs;Shrimp industry--Louisiana--New Orleans--Photographs;Fishing boats--Louisiana--Photographs;Gambit (New Orleans, La.)--Photographs.","descri":"Shrimp boat 'Mariah Jade' taken for article which appeared in 10\/14\/03 issue of the Gambit Weekly.","type":"Image","origin":"TIF","origia":"16.8 MB","identi":"494438834b022","digita":"Donn Young Photograph Collection","source":"IRP","reposi":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","digitb":{},"rights":"Physical rights and copyright retained by the LSU Libraries.","cite":"Images of New Orleans: The Donn Young Photograph Collection, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request.","item":"See \"reference url\" on the navigation bars","collec":"Homepage: http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_LSU_DYP.php?CISOROOT=\/LSU_DYP;   List of images: http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/LSU_DYP","fullrs":"Volume16\\494438834b022.tif","find":"155.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2007-05-09","dmmodified":"2007-05-09","dmoclcno":{},"dmrecord":"154","restrictionCode":"1","cdmfilesize":"154836","cdmfilesizeformatted":"0.15 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <collectionSource>IRP</collectionSource>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 11</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/425</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>425</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/425/json"
+                        timestamp="2017-02-09 16:31:04">{"title":"Page 11","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"59\nnionow nt 12 o'clock.\nTuesday, January 0.\nThe Convention met pursuant to adjournment.    Mr, Hingis presented ihe following certificate from the Brandon Aca\nmy\n\" January 4th, 1838.\n\"A, a meeting, called for tho purpose of sending delegates\nto the Convention of teachers, and those friendly to education,\nto be held in Jackson, on the 8th day of January, 1838\u2014Mem-\nbus prist nt\u2014M. W. Philips, President; G. T. Swann, C.\nA. Folsom, J. T. Spencer, R. S. Hardy, R. A. Hargis;\nwhereupon, it was resolved, that it is deemed expedient to send\ndelegates from our body to represent the Trustees of th\nBrandon Academy in said convention, with full powers to\nact as such.\n\" Furthermore resolved.   That a committee of three be appointed to attend said convention,    That said committee consist ol Messrs. Philips, Swann, and Hargis.\n\" No further business.    The Trustees adjourned.\n\"M. W. Phillips, Pres't.\n\"R. S. Haiidy, Scc'y.\n\" I do herby certify, that the above is a true copy of thi\nminutes.\n\"R. S. Hardy, Scc'y.\"\nMr. C. L. Dubuisson then presented the following certifi\ncate from the Secretary of Jefferson College :\n\"Jeffehson College, Jan. 2.\n\" At a meeting of the Faculty of Jefferson College, held\nthis day, on motion, it was resolved, that President C L. Dubuisson be a delegate on the part of the Faculty of this institution, lo represent them in the Convention of Professional\nTeachers, to bo held at Jackson, on the 8th inst.\n\"J. A. Van  Hoesen, Scc'y.\"\nMr. B. W. Minter appeared as a delegate from the Sharon\nAcademy, Madison county, and took his seat.\nMr. Dubuisson then made the following report :\nWhereas, The continuance of our republican institutions,\nis essentially dependent upon the intelligence of those, who,\nthrough the exercise of the elective suffrage, control their operation, is a proposition which commands the assent of all\nclasses of thinkers, whatever differences of opinion may exist with regard to the limitations by which the right of suffrage may be restricted; and, whereas, to perpetuate the blessings of good government, to avert the evils of which ignorance\nis thesource, 'o mis   :!:\u25a0: standard of popular intelligence, and\nto purify and strengthen the tone of public morals, are the\ngreat objects of education; therefore\u2014\nResolved, That the rapidly increasing importance of our\nState in wealth, the daily increase of population, the high stand\nshe has already taken among her sister States, the lofty character of her citizens, and the brilliancy and genius of her youth,\ndemand some immediate and decisive steps to be taken on the\nsubject of education.\nResolved, That all that is necessary to reach the destined\npoint, is to excite an interest on the subject throughout the com-\n\u25a0 tin\n'.ho have the cha\nof\nanion\ninstitutions of learning.\nResolved, That the means and facilities of esfalishing a\ngeneral system of education, are, in the opinion of this convention, amply sufficient,\nResolved, That, in furtherance of this object, a committee\nof three be appointed to digest a uniform system for common\nschool and academical education, and to report on the\t\nday of .\nResolved, That the Board of Directors be instructed to\nappoint a local committee in each county, lo report to said\nBoard such stalistics as they may be able to collect.\nResolved, That said committees be instructed to report on\nthe following subjects:\n1 st. How many common schools and academies there are\nin each county?\n2d.    How many scholars attend each ?\n3d.    How many children under 12 years of age attend no\nschoel?\n4th.    How many over 12 years cannot read or write?\n5th.    How many adults are unable to read?\nCth.    How many schools the county can support, and the\nprobable number of pupils in each?\n7th. Condition of old school houses,and the best location\nfor new ones.\n8th.    The probable value of the school houses, &amp;c.\nOn motion of Mr. Hoopcs, the blank in the fourth resolution was filled with the 8th day of January, 1839.\nOn motion of Mr. Dudley, it was,\nResolved, That the committee consist of five, instead of\nthree.\nThe following gentlemen were then nominated and appointed by the convention, lo acl as a committee accoiding to\nthe 4th resolution:\u2014Mr. C. L. Dubuisson, President of Jefferson College-; Mr. Sims, of Hinds; Mr. Hoopes, of Claiborne; Mr. Witter, of Lowndes.\nThe constitution, us drawn by Mr. Tift, was then read, and\nreferred to a committee, who are authorized to report this\nevening at seven o'clock.     Committee\u2014Messrs. Dubuisson,\nLester, and Tift.\nOn motion of Mr. Weir,\nResolved, That this body bo henceforth called  the \"Mississippi Association Ibr the Promotion of Education.\"\nOn motion of Mr. Lester,\nResolved, That the sentiments contained in the Inaugural\nAddress of Governor McNutt, relative to the importance of\neducation, give assurance of his coidial co-operation in all\nmeasures to promote this desirable object, and entitle him to\nthe warmest thanks of this Convention.\nOn motion of Mr. Gilmer,\nResolved, That the committee be particularly instructed to\ninquire what progress, as well as the advantages, seems to\nhave been had in the establishment of manual labor schools,\nn the different parts of our country generally.\nOn motion of A. G. Weir, the report was received and\nagreed to.\nThe committee then adjourned, until 7 o'clock, P. M-\n8 :\nVI'   '.     I\ni\n0; ij\n,';    \u2022 j\nti :\u25a0&lt;\nid . -\ni ,-:\nN","fullrs":{},"find":"426.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"425","restrictionCode":"1","cdmfilesize":"1871007","cdmfilesizeformatted":"1.78 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

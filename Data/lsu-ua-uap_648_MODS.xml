@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 45</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Louisiana State University and Agricultural and Mechanical College. University College</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>College buildings</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Military cadets</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>College students</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Dalrymple, W. H. (William Haddock), 1856-1925</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cows</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Teaching demonstrations</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Livestock</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Wagons</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Wood products</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Lumber</topic>
+      <topic>Transportation</topic>
+   </subject>
+   <abstract displayLabel="Description">Page 45 of the album includes two photographs.; Photo 1 [165] shows LSU cadets participating in an outside demonstration for probable veterinary studies class.  Instruction concerning a cow is given by Dr. W.H. Dalrymple.; Photo 2 [156] shows a horse-drawn wagon hauling a large tree section chained to the flatbed.  One man drives the team, another man tends to the wagon load.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="citation/reference" displayLabel="References">Photograph of W.H. Dalrymple (approx. 1916).  Retrieved August 4, 2014, from http://www.louisianadigitallibrary.org/cdm/singleitem/collection/LSU_UAP/id/2365/rec/111</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3793</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3793</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3793/json"
+                        timestamp="2017-02-01 13:53:04">{"title":"Page 45","compoa":{},"photog":{},"notes":{},"biogra":{},"descri":"Page 45 of the album includes two photographs.; Photo 1 [165] shows LSU cadets participating in an outside demonstration for probable veterinary studies class.  Instruction concerning a cow is given by Dr. W.H. Dalrymple.; Photo 2 [156] shows a horse-drawn wagon hauling a large tree section chained to the flatbed.  One man drives the team, another man tends to the wagon load.","typea":{},"date":{},"publis":{},"subjea":"Louisiana State University and Agricultural and Mechanical College. University College.; College buildings.; Military cadets.; College students.; Dalrymple, W. H. (William Haddock), 1856-1925.; Cows.; Teaching demonstrations.; Livestock.; Agriculture--Louisiana.; Wagons.; Wood products.; Lumber--Transportation.","geogra":{},"aquisi":{},"box":{},"folder":{},"series":{},"subser":{},"reposi":{},"type":{},"source":{},"dates":{},"item":{},"relate":"Photograph of W.H. Dalrymple (approx. 1916).  Retrieved August 4, 2014, from http:\/\/www.louisianadigitallibrary.org\/cdm\/singleitem\/collection\/LSU_UAP\/id\/2365\/rec\/111","rights":{},"contri":{},"to":{},"catalo":{},"compou":{},"ocr":{},"cite":{},"collec":{},"fullrs":"Volume167\/LSUAgExt082_Page 45.jpg","find":"4077.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2014-08-25","dmmodified":"2014-08-25","dmoclcno":{},"dmrecord":"3793","restrictionCode":"1","cdmfilesize":"7814031","cdmfilesizeformatted":"7.45 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

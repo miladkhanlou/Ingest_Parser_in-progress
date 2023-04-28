@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 56</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2280</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2280</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2280/json"
+                        timestamp="2017-02-03 08:24:52">{"title":"Section 7, Page 56","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"high land, k\n.early 5,\nfew degree   t v   mtle  a^j\nkfthe summfr MMon'tUs\"swamp beiorn 1.\"7\" water\nir, \"at a point whore the distance would be\nee to the right  hand, running along the\n. \u25a0    . \u25a0\nlal   .a-.-.ie  th\nalong  the   high  lands  of Ba-you Bl nl  t\nslightly 10 the right across the high lands of Bayou l'Orrrs one mile   er.i a hale\n.im! oalers a cypress   and tupelo gum swamp, lying between the high lands of\ncrosses a small draining bayou, the bottom of which is boggy.\nLeaving this last mentioned swamp, and passing over cultivated land, at IH\nway according to the tide ; difference between  ...I.  ..   I I low tides about\nmore than half a mile, and enters a palmetto, asb, and cypress swat...\nier\u00b0highglar7 .,7'Thence the Une\nhigh; i,\n.rrwi llavou Tiger; which is 60 feet wide ar\ndraining bayou in the swamp between Bayou l'l","fullrs":{},"find":"2281.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2280","restrictionCode":"1","cdmfilesize":"588354","cdmfilesizeformatted":"0.56 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

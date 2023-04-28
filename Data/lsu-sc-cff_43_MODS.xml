@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M59</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1310</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1310</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1310/json"
+                        timestamp="2017-01-13 13:22:54">{"title":"M59","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM 59\n\u00e0 Monsieur Dn Nicolas forstall\nrigidor perpetuel de la Nlle Orleans\nCommendant Civil &amp; militaire \u2015\ndes opeloussas \u2015\nA. Dubroqua resident en ce poste \u2015\nJeme presente avec Respect et dis \u2015\nque dans lemois de Fevrier 1794 \u2015\nJ\u2019expediai de ce poste une voiture\ncharg\u00e9e de trente deux sacs de graine\ncontenant ensemble \u222beize quarts \u2015\n\u00e0 ladresse de differents habitants \u2015\net \u222bous la conduitte du Sr Jh Frug\u00e9\npatron qui \u00e0 \u222bon retour m\u2019a accus\u00e9\navoir remis toute la quantit\u00e9 \u00e0\nMr Aime ; mais comme il paroit\npar les lettres du Sr Aime que\nle dt Sr fruge nelui en \u00e0 livr\u00e9\nque treize quarts en vingt \u222bix\nsacs, jevous \u222bupplie devouloir \u2015\nfaire comparoittre ledt frug\u00e9 \u2015\n2\nM 59\npour qu\u2019il ait \u00e0 declarer \u222b\u2019il \u00e0 \u2015\neffectivement remis la ditte quantit\u00e9\nde graine ou non me reservant \u00e0\nprendre contre lui les mesures\nqui Conviendront \u00e0 mon droit \u2015\nGrace que j\u2019espere de v\u00f4tre justice\naux Opeloussas le 25 Janvier 1795 \u2015\nA. Dubroqua\nLe \u222bieur frug\u00e9 comparoitra\na notre Domicile pour repondre a La\ndemande Du Suppliant aux opelou\u222bsas\nce 4 fevrier 1795\nForstall","typa":{},"genera":{},"fullrs":"Volume7\/M59.pdf","find":"1312.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1310","restrictionCode":"1","cdmfilesize":"47474","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

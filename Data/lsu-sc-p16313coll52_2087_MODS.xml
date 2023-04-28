@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Turnaround</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>Rosskam, Edwin and Louise</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1944-02-01</dateCreated>
+  </originInfo>
+   <subject authority="local" displayLabel="Location">
+      <hierarchicalGeographic>
+         <region>Southeast</region>
+      </hierarchicalGeographic>
+      <hierarchicalGeographic>
+         <city>Baton Rouge</city>
+      </hierarchicalGeographic>
+  </subject>
+   <abstract displayLabel="Caption">Chemical products divisions.  Turn-around at the alcohol plant.  Electricians checking the insulation on a wire.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <note type="ownership" displayLabel="Source"> University of Louisville Archives &amp;
+            Special Collections (http://library.louisville.edu/archives/home) </note>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana images from the Standard Oil Collection, Univ. of Louisville</title>
+      </titleInfo>
+      <titleInfo displayLabel="Volume">
+         <partNumber>Vol. 68</partNumber>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://digital.library.louisville.edu/cdm/landingpage/collection/sonj/</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll52:collection</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location">University of Louisville Archives &amp;
+                Special Collections</physicalLocation>
+      <url displayLabel="Institution Web Site">http://library.louisville.edu/archives/home</url>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Standard Oil (NJ) Collection, Photographic Archives, Archives and Special Collections, University of Louisville </note>
+   <identifier type="local" displayLabel="Negative No.">2917</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll52/id/385</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-12-02</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll52</alias>
+         <pointer>385</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll52/385/json"
+                        timestamp="2017-02-08 13:27:45">{"title":"Turnaround","descri":"Chemical products divisions.  Turn-around at the alcohol plant.  Electricians checking the insulation on a wire.","covera":"Southeast","vol":"68","negati":"2917","date":"2\/1\/1944","creato":"Rosskam, Edwin and Louise","city":"Baton Rouge","digita":"Standard Oil Photographs from the University of Louisville Photographic Archives","subjec":{},"publis":{},"contri":{},"type":{},"format":{},"source":"University of Louisville Archives &amp; Special Collections  http:\/\/louisville.edu\/library\/archives\/","reposi":"http:\/\/special.library.louisville.edu\/display-collection.asp?ID=223","contac":"To order a reproduction, inquire about permissions, or for information about prices see: http:\/\/louisville.edu\/library\/archives\/copies Please cite the Image Number when ordering. ","langua":{},"relati":{},"rights":{},"audien":{},"identi":{},"cite":"Standard Oil (NJ) Collection, Photographic Archives, Archives and Special Collections, University of Louisville ","fullrs":{},"find":"386.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2013-12-02","dmmodified":"2013-12-02","dmoclcno":{},"dmrecord":"385","restrictionCode":"1","cdmfilesize":"190611","cdmfilesizeformatted":"0.18 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

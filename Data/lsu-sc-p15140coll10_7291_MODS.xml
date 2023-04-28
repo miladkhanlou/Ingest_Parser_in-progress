@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 73</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2602</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2602</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2602/json"
+                        timestamp="2017-02-03 08:23:44">{"title":"page 73","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"se that had black vomit the discharge by the bowels\ni pure blood; after standing a short time il coagulated\n,..s       \\: .1  in Ji.in       :    \u25a0    \u25a0\nsymptom.     When this sec\netion was scanty, or not voided for\nt was often relieved by appropriate\nver the surface, from the size of a pea\nto that of a hazelnut.\nIt will not be expected of\nusually adopted; but a few\nommunieation.   The treatment carried\nout was principally on the\nexpectant plan, which consisted (after\nIministering foot-bath, etc.) of a gentle\npurge of some kind; calom\n1 and rhubarb were used, but I saw\ndose of oil.    Of the different alkalies\n1 ,        s     \u201eess    The obje\nt was. to keep up a gentle perspiration\nall the time.   As long as th\nthe  patient,  unless  sympto\nbeyond the use of cold drin\nas possible to the comforts\nof the sick-room.   When high fever\nitlr great thirst\nml restlessness, ext. aconite was adtui-\nthree or four hours, in order\nalso for its diaphoretic  pro]\nerties.   But this, I think, is a remedy\nthat re.p.ire- watching. ,.- t!\nere is already too great a tendency to\nstomach, and enemas of Co\nd slippery-elm water, repeated every\nran high, hot and dry skin, thirst, and tenderness on pressure of\nthe epigastric region.    Very decided relief was afforded the patient\ndesired;  eold douche to the head; stimulating frictions, as pepper\nwas languid, were used with advantage.   After total sui ;","fullrs":{},"find":"2603.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2602","restrictionCode":"1","cdmfilesize":"490867","cdmfilesizeformatted":"0.47 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

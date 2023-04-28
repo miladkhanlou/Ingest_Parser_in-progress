@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 225</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1709</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1709</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1709/json"
+                        timestamp="2017-02-03 08:23:17">{"title":"Page 225","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 225 \u2014\nCerent it rider autour de cette maison, Bausee vivant \"de Te*tfos sa-\nf ranees, un peu haiees par le soleil, et elles s'eveillerent, comme des\nfives' fremissantcs. eu cntendant toutes ce3 voix qui leur parlaient\nla langue universelle, celle de Tamour.\nAlors ces Venus safranees, qui n'etaient ni de bronze ni de marbre, et qui etaient d'autant plus vivantes qu'elles avaient dans leur?\nveines un sang riche ct chaud comme le soleil des tropiques, alors.\ndisons-nous, ces Venus joucrent le role de biches qu'on aurait prises\ndans la foret.\nAux premieres fieurettes des galants, elles se cabrercnt.\nAux entrevues des jours suivants, elles regarderent avec moiiis\nd'epouvaute  les iucultes  chasseurs  qui  leur disaient  des Choses\nqu'elles ne  coinprenaient pas et qui pourtant les faisaient tres-\nsaillir.\nPuis elles se rapproehereiltun peu, eu ouvrant an vent leurs na-\nriues, et en laneant des flammes etranges de leurs yeux qu'un poete\na si bien appeies dim noir d'enfer...\nPuis elles mirent leurs mains, ces gazelles sauvages' dans les\nmains rudes des chasseurs qui leur avaient reveie.les premiers, cette\nlangue etrange de l'amour, que'le serpent begaya, aux premjei&gt;\njours de 1'fidcn, et que l'on parlera encore it la fin du monde...\nPuis une bouche ardentc en avait appeie nne autre et... comme\npour leurs meres, leurs anges gardiens purerit dire :\n Mon Dieu, vons n'L-ticz donc.pas la,\nQuo vous aycz luisse eommettre cette fauto !\nQue vous u'ayez pas &lt;Iit avec votre voix huutq:\nTieus! ce qu'on t'ofire, c'ost cela !\nEn d'autixs termes, la prostitution etait cnti-es la. Les mere;\nsunt comme les laboureurs : elles ne recueillent que ce qu'elles out\nseme.\n' La prostitution s'etait done glissec la; celle qui dedilre tous les\nvoiles blancs dc la viergc^et en fait des haillons taches de boue;\nCelle qui brise le corps et tue 1'ame ;\nCelle qui fait quelque chose d'infAmeetd'abject d'une intelligence\noh Dien se mirait la veille.\nAh '. si les femmes savaient ce qu'elles pCrdent it cesser d'etre pares 1\nAussitot qu'elles furent defloi-ees, ces femmes tomberent, de chute","fullrs":{},"find":"1710.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1709","restrictionCode":"1","cdmfilesize":"391261","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

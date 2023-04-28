@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 237</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1721</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1721</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1721/json"
+                        timestamp="2017-02-03 08:23:17">{"title":"Page 237","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 237 \u2014\nde flaques d'eau, de ravins, de bois morts, qui semblaient vouloir\nddlier  toutes nos reeherches.  Dieu nous guidait. sans doute, car.\napres deux jours de courses a travers bois, nous avons trouve, sur\nles bords d'un marais Ah 1 mon ami, quel horrible spectacle 1\t\nnous avons trouvd des ossementa tituuains disperses dans tous les\nsens sans doute par la dent des betes fauves et plus loin un\ncrane qui semblait ricar.cr et nous rcgarder avec ses yeux vides\t\n\" J'ai dprouve un moment une de ces atroces douleurs qui font\neroire it I'homme qu'il touclie aux Umites de la folie. La folic, je\n1'aurais desiree peut-etre... mais puisqu'elle n'est pas venue, j'en re-\nmercie Dieu... II faut qu'il reste un fils ii la bonne et sainte Jeanne-\nMarie Sellicr.\n\" Nous avons fait cormtater cette funcbre trouvaille par un magistral puis j'ai enseveli piensement, en terre sainte, ces debris hu-\nmains et ce crane, sur lequel les betes fauves n'avaient pas laisst'\nassez dc chair pour qu'un nom put s'y lire.\n- \" Une information jiidi'.'iain1 est commenode contre certains habitants de cette maison mal famee de la Prairie-Marronne. Oil abou-\ntira-t-elle ? A rien, mon ami. car nous n'avons trouvd aucun indice\nqui puisse uous aider a constater d'une maniere sure it qui out ap-\npartenu ces ossements.\n\" Moj-rheme, je u'.Qserais nflinncr en justice que ce sont lii les ossements de mon frere... Mais mon ceeur me fa dit\u2014j'ai .dcoute\ncette voix infaillible... et j'ai pris le deuil. car mon frere est mort'.\nmen frere est mort !\n\" Aussitot que l'instruction de 1'affaire sera terminde, je repartj-\nra' pour la France ou je trouverai du travail, je l'cspere.et ou je\npourrai parler dc mon frere avec notre mere. Jeanne-Marie Sellier.\n\"Voire ami.\n\" M...','\nQuelques jours apres. les gens de la Prairie-Marronne furent de-\ncharges de toutes poursiutcs et.M.... vint nofta dire adieu et prendrt-\nuos lettres pour notre petite ville.\n\" Que Dieu vous garde ! nous dit-il en partant, et surtout arraez-\nvous jusqu'aux deufs, si jamais vous passez devant cette infame\nmaison de la Prairfe-Marronne7ou les Marguerite du lieu dgorgeut\nles gens comme dans la Tour de Nesle.''\nNons n'avons pas eu besoin de suivre le conseil de M... car, Dieu\nnierci '. nous n'avons jamais iianchi le seuil de cet horrible tapir-\ni'rane.\nNous n'avons plus eu de nouvclles de M..., mais son nom ho\u00ab?","fullrs":{},"find":"1722.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1721","restrictionCode":"1","cdmfilesize":"379857","cdmfilesizeformatted":"0.36 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

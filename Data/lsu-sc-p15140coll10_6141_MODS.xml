@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 211</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1695</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1695</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1695/json"
+                        timestamp="2017-02-03 08:23:16">{"title":"Page 211","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"SOMITE\nDC\nJP03STT-' IDE   H.-A.   BUTTE\n       -\u2666- -\n0^gLU    f\u00abLn.\n(SOD\u00ae\u00a9\nUNE EXECUTION\nLe 4 fevrier de l'an de grace 1859, une scene etrange se paesait\na quelques milles de Vermillonville, sur le chemin qui conduit de ce\nvillage au Pont-Braux, ii deux heures du matin. Le theatre dc is,\nscene que nous aliens decrire s'appelle le Pont des Moutons.\nUne torche de pin, jctant au veut sa fiamme rougeatre, edairait\nan cercle de vingt-deux homines, tous eomius dans la paroisse Lafayette, comme appartenant a la partie la phis eclairee et la plus honorable de la population. La torche qui les edairait, au lieu de\ndonner des tons sombres ou ejus it ce3 vingt-deux figures, en faisak\nressortir les lignes harmoineuses. Cos figures respiraiem la boot*\net la franchise. L'honnete homme n'a pas besoin d'ecrire son nom\nsur son chapeau, comme lc Berger de la fable.\nIncessu patuit dea,\na dit le grand poete latin. II en est de meme de rhonne\u00ab:te. Elle a","fullrs":{},"find":"1696.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1695","restrictionCode":"1","cdmfilesize":"417116","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

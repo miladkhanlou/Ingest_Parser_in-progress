@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>F04</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/598</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>598</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/598/json"
+                        timestamp="2017-01-13 13:22:52">{"title":"F04","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"F 4 \n\n \n\n \n\n Baton Rouge 3 mars 1852 \n\n \n\n Ma Ch\u00e8re Cady, \n\n Mr Kerby d\u2019apres ce que je lui \n\nai dit a quitt\u00e9 ta maison le 25 fevrier et maintenant elle est \n\npr\u00e8te a recevoir ta maman. Mr Sheppers est arriv\u00e9e de la Nlle \n\nOrl\u00e9ans dans le m\u00eame bateau que M\u00e9m\u00e9, Marguerite et Billy \n\nqui allaient chez toi sont-ils arriv\u00e9s \u00e0 bon port ? Mr Sheppers \n\nm\u2019a dit que le jour de son arriv\u00e9e \u00e0 la Nlle Orl\u00e9ans qu\u2019il avait vu \n\nta m\u00e8re qui \u00e9tait bien chagrine et bien tracass\u00e9e \u00e0 cause de ses meubles \n\nqu\u2019on voulait saisir pour r\u00e9pondre de son loyer (\u00e0 ce que je crois) \n\nalors Mr Sheppers a donn\u00e9 dix piastres ; tu me diras peut-\u00eatre que \n\nc\u2019est bien peu, mais c\u2019\u00e9tait encore audessus de ses moyens car sais \n\ntu que voil\u00e0 plus de deux ans que ton Oncle ne fait rien sa sant\u00e9 est \n\nsi mauvaise : reellement si ce n\u2019\u00e9tait notre couture \u00e0 H\u00e9lo\u00efse et \u00e0 moi \n\nnous serions quelque fois priv\u00e9es du stricte n\u00e9c\u00e9ssaire, quand nous ne \n\ntrouvons pas de couture pour les familles et bien nous en prenons \n\npour les magasins que nous faisons a vil prix, mais c\u2019est \u00e9gal \n\ncela nous donne quelques sous ; Je ne me plains pas tout \u00e0 fait de \n\nmon sort mais je t\u2019assure ma bonne amie que nous ne roulons \n\npas sur l\u2019or. Cependant Mr Sheppers voulant employer son terr- \n\n-ain va essayer de faire un jardin fleuriste voir si cela lui donnera \n\nquelques picaillons. Je ne t\u2019ai jamais dit je crois que nous n\u2019avions \n\nplus le jardin ? que Mr Sheppers l\u2019avait \u00e9chang\u00e9 pour la propri\u00e9t\u00e9 \n\nou nous restons, je me trouve si bien ici que cela me donne du coeur \n\npour travailler, j\u2019ai pris des messieurs pendant le tems de la seission \n\npour pouvoir gagner du moins notre march\u00e9 pendant deux mois, ils me \n\ndonne un peu de tracas mais je prends mon courage \u00e0 deux mains. \n\n \nF 4 \n\n \n\nAs tu bien re\u00e7u le paquet que je t\u2019ai envoy\u00e9 par le Gipsy \n\nil y a 15 jours avec une lettre ? J\u2019ai fait de mon mieux pour remplir \n\ntes commissions dis moi dans ta prochaine si tu es contente. Kerby a \n\npay\u00e9 son dernier mois de loyer, de sorte que j\u2019ai \u00e0 toi 21 piastres \n\nla dessus il faudra j\u2019en suis s\u00fbre bien 10 piastres pour les taxes et \n\n onze piastres \n\nla balance est \u00e0 tes ordres. Les P\u00eachers que tu as envoyes sont trop \n\nbeaux, les Orangers n\u2019ont pas encore bourgeonn\u00e9s mais je pense qu\u2019ils \n\nne tarderons pas. Quoique je t\u2019aies \u00e9xpos\u00e9 notre position qui n\u2019est certes \n\npas brillante puisque nous sommes sans un seul revenu si tu as \n\nbesoin de quelques articles adresse toi \u00e0 moi et je me ferai un \n\nvrai plaisir de te les envoyer. Embrasse les enfans, le Dr pour \n\nnous. Ecris moi bient\u00f4t. Je pense que nous te verrons lorsque ta \n\nmaman restera ici puisque tu n\u2019as jamais voulu venir me voir. \n\n \n\n Ta tante et amie \n\n O Sheppers \n\n \n\n Si par hazard tu trouvais une occasion directe et que tu puisse \n\nm\u2019envoyer quelques plantes ou arbustes dans une caisse tu me feras \n\nplaisir, des oeillets quelques beaux rosiers enfin ce que tu pourras cela \n\naugmentera la collection des fleurs et arbustes. Tu te diras toujours \n\nmendiante ! Mais il faut bien pour faire un jardin avoir recours \n\nd\u2019un bord et d\u2019un autre. \n\n \n\n ","typa":{},"genera":{},"fullrs":{},"find":"599.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"598","restrictionCode":"1","cdmfilesize":"14735","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

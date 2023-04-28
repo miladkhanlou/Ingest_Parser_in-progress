@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 99</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1583</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1583</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1583/json"
+                        timestamp="2017-02-03 08:23:12">{"title":"Page 99","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"- 99 -\nIX.\nL'Egliseest un de ces monuments, mottic dglise,moitid salon, que\nnous avons trouves au fleuve comme aux Attakapas. Les fendtre3\nout des rideaux peu luxueux, l'autel des nappes modestes; l'enceinte\nest conpde de bancs destines aux deux races catholiques qui se parta-\ngeut lesol. Derrierc lemaitre-autel, unseul tableau, reproduisant un\ntrait de charitd que notre mere nous a fait observer plus d'une fois\naux jours bdnis de notre enfauce : Saint Martin donnant la moitie de\nson mantcau a un pauvre. Au-dessus du jubd, un orgue qui prend une\name et une voix, le dimanche, sous les doigts d'une noble femme,\ncrdole de la Guadeloupe, a qui Dieu a refuse 1'aumone qu'elle aurait\nle plus ddsirde : des eufants; mais qui depuis vingt ans est la mere\nde toutes les jeunes filles a qui la mort a retire leurs meres ;\u2014d'une\nfemme qui est l'Ange de la Bicnfaisance, dans un pays ou la reconnaissance est une fleur assez rare, qui ne croit pas sur tous les che-\nmins;\u2014d'une femme enfin qui est surederecevoir un jour les palmes\ndu ciel si lc bien qu'elle fait ne lui fait pas tresser des couronncssur\nla terre.\nMadame, nous avons dit que l'dglise de Saint-Martin dtait pauvre. Pardon ! Nous n'aurions pas du oublier que Dieu vous y voit\nchaque fois que lc pretre le fait descendre sur l'autel.\nLa Maison de Cour a etc batie depuis la creation des Comitds,\ne'esta-dire depuis l'dpoque ou l'on a aboli, par ordre d'une autorite\nsuperieure, le parjure et les acquirements scandaleux. Nous avons\nentendu critiquer vivement 1'architccture de ce palais de la justice\nattakapienne, et ces critiques nous ont paru injustes. Tousles architects ne peuvent pas creer des chefs-d'eeuvre de pierre comme\nSt-Pierre de Rome; Mile Bonnehaie ne peut pas jouer comme Rachel.\nQuoiqu'il en soit, cette maison aura du moins un avantage sur l'an-\ncienne. Dans cclle-ci, le juri sera moins souvent Iache et criminel,\nlea tdmoin3 moins souvent parjures, et lorsqu'un crime y sera\nprouve et ddmontrd, l'dloquence dea avocats ne pourra plu3 empe1-\ncher le chatiment de tomber sur le coupable, froid et impassible\ncomme la statue du Commandeur. La reaction vers le bien est irrd-","fullrs":{},"find":"1584.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1583","restrictionCode":"1","cdmfilesize":"410383","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Carte de la Louisiane et du cours du Mississipi / dressée sur un grand nombre de memoires entr'autres sur ceux de Mr. le Maire, par Guillme. de L'Isle.</title>
+  </titleInfo>
+   <name displayLabel="Contributor">
+      <namePart>Le Marie, Francois, 1675-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Creator">
+      <namePart>L'Isle, Guillaume de, 1675-1726</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1718</dateCreated>
+      <publisher>Amsterdam, J. Covens et C. Mortier, geographes</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Early maps</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Louisiana</geographic>
+      <geographic>Maps</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Mississippi River Region</geographic>
+      <geographic>Maps</geographic>
+      <geographic>To 1800</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>United States</geographic>
+      <geographic>Maps</geographic>
+      <geographic>Early Works to 1800</geographic>
+   </subject>
+   <abstract displayLabel="Description">1 map : col.; 44 x 61 cm.;Scale ca. 1:4,752,000.</abstract>
+   <note type="content">Bar graph (33/8") "Echelle de cent lievres Francoises." Hand colored. Relief shown pictorially. Inset:  Carte particuliere des embouchures de la riviere S. Louis et de la Mobile. Scale ca. 1:2,376,000</note>
+   <typeOfResource>cartographic</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">fr</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Maps of Louisiana Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-lmp:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>G4010 1718B .L57 MCAGE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">lm000004</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LMP/id/3</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2004-08-13</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LMP</alias>
+         <pointer>3</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LMP/3/json"
+                        timestamp="2017-01-25 09:42:50">{"title":"Carte de la Louisiane et du cours du Mississipi \/ dress\u00e9e sur un grand nombre de memoires entr'autres sur ceux de Mr. le Maire, par Guillme. de L'Isle.","creato":"L'Isle, Guillaume de, 1675-1726","contri":"Le Marie, Francois, 1675-","date":"1718","publis":"Amsterdam, J. Covens et C. Mortier, geographes","subjec":"Early maps","geogra":"Louisiana--Maps;Mississippi River Region--Maps--To 1800;United States--Maps--Early Works to 1800","biogra":{},"descri":"1 map : col.; 44 x 61 cm.;Scale ca. 1:4,752,000.","notes":"Bar graph (33\/8\") \"Echelle de cent lievres Francoises.\" Hand colored. Relief shown pictorially. Inset:  Carte particuliere des embouchures de la riviere S. Louis et de la Mobile. Scale ca. 1:2,376,000","type":"Maps","format":{},"langua":"fr","source":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","covera":"G4010 1718B .L57 MCAGE","rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":{},"to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","catalo":{},"catala":{},"object":"lm000004","identi":"See 'reference url' on the navigation bars.","collec":"Homepage: http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_LMP.php?CISOROOT=\/LMP;   List of Images: http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/LMP","typea":"Maps","genera":"Image","fullrs":{},"find":"70228181862003_lm000004.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2004-08-13","dmmodified":"2010-02-25","dmoclcno":{},"dmrecord":"3","restrictionCode":"1","cdmfilesize":"1879413","cdmfilesizeformatted":"1.79 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_2</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1150</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-03-04</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1150</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1150/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"Page_2","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"M 16\nMon cher amie\nDepuis que je sui mari\u00e9 je n\u2019est pas\nencore put de donn\u00e9 un d\u00e9tail du marige\nmais au jour d\u2019huit je vai dire quand\nj\u2019aiter gar\u00e7on je me faiser une id\u00e9 du\nmarige mais je me sui tromper [anple?]\ncar je naurai jamai put croire que\nle marige aurai put me changer comme\nsa car si tu temps rapelle l\u2019ann\u00e9\npasser je na vai pas de pasiense\npour rien du tous mes cette ann\u00e9e\nj\u2019ai dontez la juman noir que\ntu avai fais haller elle ma fait\ndismille misaire mai je les j\u2019amai\nbatue ni je me sui jamais facher\nencore. Ainsi si tu tenrapel que\ntu me dises que tu aller esp\u00e9r\u00e9\nque je me marie et quelque temp\nappr\u00e8s quand ons aller se s\u00e9parer tu\naller prendre ma m\u00e9son mai mon\ncher ami je esp\u00e9re appr\u00e9s ce la pour\nte mari\u00e9 tu pourai peux-t\u00e9tre\nrester vieux gar\u00e7on car pour sa\ndonn\u00e9 mieux que nous il n\u2019est\npar beaucoup posible. Ainsi je s\u2019est\nbien que ce la \u00e9t\u00e9 pour pl\u00e9senter\nque [rature] tu diser avec moi\nA Dieu il faut que je termin\nma lettre tache dans que tu\nvas monvoyer [rature] de me dire quell\u00e9\nton [rature] ouvrage car Smith ma dit\nqu\u2019il aurai \u00e9t\u00e9 contemp daller\nsil [rature] pourai trouver de louvrage [rature]\nde la part d\u2019un\nfr\u00e8re qui t\u2019aime et qui sen\ntache de me nui amort Ed Huval\nrande r\u00e9ponse Albert a re\u00e7u ta lettre\nausi [rature] vite et il avai tros honte pour\nposible te randre r\u00e9ponse [rature]\n[en travers]","typa":{},"genera":{},"fullrs":{},"find":"1151.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2009-03-04","dmmodified":"2009-03-04","dmoclcno":{},"dmrecord":"1150","restrictionCode":"1","cdmfilesize":"735245","cdmfilesizeformatted":"0.70 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

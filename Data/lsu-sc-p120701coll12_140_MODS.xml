@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/429</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>429</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/429/json"
+                        timestamp="2017-02-09 16:31:04">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN\nAll care and grief.\u2014\nBut there was one lair being\nWhom I had loved;  in whom alone I found\nA charm, to hold me Still, spell-bound, to life.\nI went to breathe into her listening ear,\nThe last and faithful vows of Constancy,\nTo lell her, wo i n earth might meet no more,\nAnd in my soul, for the last time, to drink\nThe ecslacy of love.\u2014Her searching eye\nRead, in my faded check, the tale of grief,\nAnd from me drew the secret locked within\u2014\nThe guilty purpose of my heart exposed,\nI stood before her as a wretch condemned.\n0! shall I e'er forget that piercing look!\nShe spoke not, but her eye was fixed upon me,\nWith a strange, unearthly lustre beaming, and\nI felt as if 't were viitue's self frowning\nIndignantly upon a guilty being,\nAnd 1 should sink beneath her dreadful frown\u2014\nHer lip was pale, the blood had left her cheek;\nBut yet (bat eye upon me fiercely gazed !\nI could not bear that look, bill fell subdued,\nAnd at her feet, in childlike, gushing tears,\nForgot the fiendish purpose of my heart.\nYet, at ihe feet of that Angelic maid,\nI was reel limed to virtue, an I humbled\nInto the meek simplicity of a chill. S.  A.  H.\nSclccloil by a L&amp;tly,\nTHE AMERICAN POETS.\nc o I. UMBIIS.\nHis lasl embarkation from th:: Sew World, a captive.\nIlv .1  W. Millbh.\nDay broke\u2014upon the seaward hills\nOf Hlspan's lovely Isles;,\nBright was tite sward wilh leaping rills,\nTile blushing sea wiih smile::;\nAnd wakening bird, and tree, and wave,\nTo morn a gentle greeting gave.\nUprose llic sun\u2014bis sudden glance\nSin), o'er Domingo's bay,\nAmi hushed beneath his red advance,\nThe panting waters lay;\nAmi, poured above the voiceless earth,\nA flood ol' spleudour, veiled her mirth,\nWhat rushing, as ol' seas, passed then\nO'er the deep hush ol' mora ?\nOa that dark treinbliag surge of men\nWhat mighty wreck is borne 1\nAlong the gleaming shore a cloud\nHas tiling the darkness of the shroud.\nReceding, as a weary wave,\nRolls back the weltering throng,\nYet, as ihe timid flees the brave,\nAs leaves, Ihe weak, the strong,\nTltcy left him.   Hate and ire subdued,\nHe passed amid grief's solitude,\nChained captive! Hal and is it thou,\nColumbus!\u2014conquerer\u2014\nNot o'er the warrior's death-dewed brow,\nNot in the blood of war,\u2014\nVictor! thai Error's chain hath rent\u2014\nTo do Clod's purpose, armed and sent.\nColumbus, conqueror, whose thought-\nInspired nnd daring soul,\nUp from deep night a world hath brought,\nChosen ! is ihy control,\nVielor of elements! thus Inst!\nOn man's low passions wrecked and tossed 1\nEven thus;\u2014as melis the ercstcd wave\nBehind yon lessening bark,\nPower shrinks Into Time's ocean grave,\nFame in Oblivion's dark.\nVet passclli on that shallop now,\nGreatness, nur Time, nor Dcaih may bow.\nStands he upon Ihe narrow deck\nOf yon lone: caravel.\nWhose- lull shape, as wilh princely beck,\nBowed to the heaving swell,\nAnd when Ihe conquerer o'er her side\nCrossed meekly, rose- with living pride.\nThe fool that trod a world alone,\nHi,mill to an infant's face!\nThe arm, a sceptre's rule hath known,\nWeighed by a chain's embrace !\nThe brow, whose soul hath conquered Time,\nBent wilh foul charge of wrong and crime!\nNight's lowct ing vapors melt and dec\nBefore the sun's advance\u2014\nA light as mighty and as free,\nBroke from the hero's glance;\nIt fell u;\u00bbci the awe-struck train ;\u2014\nThey knelt to loose the captive's chain.\nWhal (Humph in his meekness shone,\nWhen his proud voice was heard\u2014\n\" G.i.id friends, my sovereign's deed alone,\nMight bind\u2014alone his word\nShall loose,    This thing,this morlal clod\u2014\nThe Mini hui boweth lo ils God .'\"\nLandward, above the yielding trees,\nAnd whitening beach\u2014Ihe deep\nKni.w.'ili her steps\u2014comes forth the breeze,\nAsfrom a morning sleep;\nAnd, her broad sail, distending well,\nRnshcth lo sea Ihe caravel.\nStoopeih her pride beneath weight\nThe quickening wind hath cast,\nWaves, bright as hope, trivw dark as fata\nAs seaward strode the blast,\nAnd writhed iliedeep beneath Iter keel,\nLike serpent trod by giant's heel,\nDay sank'.    Upon llic glowing west,\nRested one faint blue shade,\nLike Ihe huge swell of ocean's rest,\nWhen phantom storms are laid,\nThen lurn'd the hero.    On his eye\nLoomed up his sinking world more high.\nAnd in thai hour, his soul, as crsl,\nSpoke, face to face wilh Death,\nWhose one revealing veil was burst,\nAnd rolled back as a breath ;\nAnd in the depth of future time,\nHe saw achieved his hope sublime.\nHe heard the echoings of his name,\nPass to Earth's darkest bound-\nHe heard, on age's wings, his fame\nBorne with a ceaseless sound.\nThrones, pyramids to dust were hurled,\nlie saw his monument\u2014A WORLD!\nJ\nV\nI 1\n,11\n1\n:r\n%\n111 .\n1'\n\u2022-.   \u25a0\n'jj   : '.\n-\n'\n1\n(\u25a0:'t\nii f","fullrs":{},"find":"430.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"429","restrictionCode":"1","cdmfilesize":"1796507","cdmfilesizeformatted":"1.71 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

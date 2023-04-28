@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Early Louisiana French Correspondence</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The Early Louisiana French Correspondence collection is a digital corpus of letters in French written in Louisiana in the 18th and 19th centuries. The purpose of the corpus is to enhance access to rare and understudied French language documents held in the LSU Libraries Special Collections division by providing images of the original documents with transcriptions. For the initial selection, Dr. Carole Salmon choose 100 letters, taking into consideration factors such as the author's gender, profession, and social status to create a diverse corpus that will be useful to a wide range of scholars and researchers in fields such as history, sociology, economy, geography, and linguistics.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.lib.lsu.edu/special/cffs/"&gt;Project Website&lt;/a&gt;&lt;br /&gt;&#xD;
+&lt;a href="http://www.lsu.edu/cffs/"&gt;Center for French &amp; Francophone Studies&lt;/a&gt;&lt;br /&gt;&#xD;
+&lt;a href="http://www.lib.lsu.edu/special"&gt;LSU Libraries Special Collections&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The Early Louisiana French Correspondence collection is a digital corpus of 100 handwritten French letters, personal and letters of business, written in Louisiana in the 18th and 19th centuries. These letters, showing the living conditions and social and political climate of the time, were transcribed and digitized to provide greatest access to the information contained within due to a collaboration between Louisiana State University's Center for French and Francophone Studies and Hill Memorial Library.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-cff</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_CFF</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_CFF</identifier>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 374</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1855</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1855</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1855/json"
+                        timestamp="2017-02-03 08:23:22">{"title":"Page 374","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 374 \u2014\nroisses Vermilion et Saint-Landry la bonne nouvelle de la procbaine\nprise d'armes, et que Sarrazin Broussard, Nuina Nunez, Foreman,\nStanton, Maggy et Desire Hebert, les freres Lebleu et autres vail-\nlants jeunes gens de Calcassieu, sommes de se trouver en armes, le\n3 septembre, ii la Queue-Tortue, avaient repondu comme les autres :\nH Merci! Merci 1\"\nUN VILLAGE CHANGE EN CAMP\nII est de ces contrastes qui passent inapercus pour les hommes\nordinaires, et qui ravissent le3 peintres, les pontes, tous les artistes\nqui cherchent la vie en dehors des chemins bat-tus par les roues des\nvoitures de poste ou'des wagons ii coton.\nNous avons, a peindre un dc ces contrastes.\nAvez-vous vecu dans un de ces heureux villages ou l'angelus\nroule trois par jour dans le ciel sans qu'aucun bruit, aucune imprecation tcrrestre se meient a sa meiodie aerienne?\nUn de ces villages de la Louisiane oti les femmes passent dans\nles rues, a demi-cachees sous leur voile vert ou sous leur voilette de\ngaze, gracieux bouclier contre la poussiere et les moustiques,\u2014qui\nremplace, au dix-neuvieme siecle, le loup de satin, dont se cou-\nvraient les grandes dames du Moyen-Age?\nUn de ces villages qui rappellent le calme de la mer, tant la vie\ny est douce et reguliere ; taut la cloche y tinte des heures monotones ; tant le lendemain ressemble a, la veille ; taut on y recneille\navec avidite les primeurs des petites villes claustrales\u2014primeurs\nqui peuvent se resumer en trois Iignes, ou plutot en trois tinte-\nments dc cloche:\nTintements pour baptfime;\nTintements pour mariage;\nTintements pour enterrement ?\nUn de ces villages ou les journalistes n'Ont a enregistrcr, coming\nnouvelles, que les faits suivants :\nM. et Mme X viemient de faire baptiaer leur premier enfant. C'est","fullrs":{},"find":"1856.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1855","restrictionCode":"1","cdmfilesize":"414367","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

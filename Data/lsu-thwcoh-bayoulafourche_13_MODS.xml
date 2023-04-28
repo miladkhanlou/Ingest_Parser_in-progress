@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>John Doucet oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Doucet, John P.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Branton, Ryan</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">2010</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Cajun French dialect</topic>
+    <topic>Louisiana</topic>
+    <topic>Lafourche Parish</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Cajuns</topic>
+    <topic>Health and hygiene</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Cajuns</topic>
+    <topic>Louisiana</topic>
+    <topic>Social life and customs</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Catholic scientists</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Dramatists, American</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Geneticists</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Grandparent and child</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Hurricane Betsy, 1965</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Religion and science</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Usher's syndrome</topic>
+    <topic>Research</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>Catholic Church</geographic>
+    <geographic>Louisiana</geographic>
+    <geographic>Lafourche Parish</geographic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>Nicholls State University</geographic>
+    <geographic>Faculty</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Doucet, John P</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Doucet discusses his childhood growing up in Golden Meadow, how he interacted with his father, who was often gone because of his work on the oil rigs, and losing his father at age twelve.  Doucet acknowledges how the community rallied to support him and his brother, including mentors at school and in the extended family, but his family was a close-knit one, and they rarely spent time with the larger community.  Growing up Doucet spent a good deal of time with his grandparents, who spoke Cajun French, and he internalized their language such that he could reproduce many of their characteristics in plays he wrote as an adult.  He also discusses the role and history of French in his family and on the bayou.  The Doucets were very involved in the church, and Doucet served as an altar boy.  Science was important from an early age.  After making a perfect score in a third-grade science exam, Doucet's father, and later teachers, encouraged him to pursue a career in science, which led him to many science fairs and eventually, a doctorate in molecular biology at LSU Medical Center in New Orleans.  He recalls his first memories are of the 1965 Hurricane Betsy, which nearly flooded their house.  His post-doctoral genetic research of Usher's syndrome, which disproportionally affects Acadians, led to the discovery of the genetic mutation responsible, and brought him back to Acadian culture.  He discusses how he got the job at Nicholls and how, since arriving he has continued to conduct genetic research with Acadians and with other subjects of South Louisiana interest, including local animals like love bugs and crawfish.  Doucet discusses the role of religion in his life, with particular emphasis on its intersection with science, and the importance and definition of "home" in his life.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/bayoulafourche/Doucet_John_T3945.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.2099. A digital version of the index (pdf) exists for duplication purposes. A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room. Interview conducted by Ryan Branton.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">John Doucet was born in 1962 in Golden Meadow, La., the son of Herman Joseph Doucet, an oil field worker, and Dora Rebstock Doucet, a homemaker; he is one of five children.  In his youth he spent a significant amount of time with his French-speaking grandparents, and a good deal of time with his family, but was rather isolated from the larger community.  His father passed away when Doucet was twelve, but before his death encouraged Doucet to study science.  Mentorship in middle school and high school, along with a local, regional, and national recognition, laid the groundwork for Doucet's scientific career.  As a first-generation college student, Doucet studied chemistry at Nicholls State University.  After completing his doctoral studies in biochemistry and molecular biology at Louisiana State University Medical Center in New Orleans, he received a National Institute of Health fellowship to study genetics, also at LSUMC.  His team conducted research on Usher's syndrome, which disproportionately affects people of Acadian descent.  His team identified the genetic mutation that causes Usher's, and his research has continued to focus on people of Acadian descent.  Doucet joined the biology department of Nicholls State in 1999.  He has served as the head of the Biology Department (three years) and honors program (nine years), and in 2012 was selected to serve as Dean of the College of Arts and Sciences.  Doucet became Louisiana's first certified public health geneticist in 2010, and the first to serve on the national Education Board of the American Society of Human Genetics.  He has written over a dozen plays about Louisiana's Cajun culture, and a number of history texts about Bayou Lafourche.  A practicing Catholic, Doucet served as an altar boy; as an adult he continues to have a strong faith in God, which he believes can coexist with his scientific research.  He and his wife, also a Bayou Lafourche native, have two children.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>1 digital audio file (1 hour, 3 minutes); Abstract (5 leaves); Index (7 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017371" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Bayou Lafourche oral history project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>Bayou Lafourche oral history series</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-bayoulafourche:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">John Doucet Oral History Interview, Mss. 4700.2099, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">Doucet_John_T3945</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-03-31T18:10:39.757-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

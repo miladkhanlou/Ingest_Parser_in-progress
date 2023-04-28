@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 428</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1909</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1909</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1909/json"
+                        timestamp="2017-02-03 08:23:24">{"title":"Page 428","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 428 \u2014\nNo, X7.\u20146 octobre 1859.\u2014lAon Mire.^-Avant Faflfatre de la Queue-\nTortue, un jour, dans eon clos, il recut la vlsitedc Jinkins etde sahande\nquile&gt;sominerent,au nom du Gouverneur, dese rendre a la Queue-Tortue\nle 3 septembre.\u2014Le deposant repondit qu'il n'tivait ni poudre ni plomb.\u2014.\nOn lvti dit qu'on Uu fournirait toutes lea munitions de guerre.-\u2014Force\"\npar Jinkins ct sacompagnic, de marcher, il alia avec eux a la Mermento.\nLeur but etait dc rccruter dc3 hommes pour les aider &amp; tuer les Keguia.\nteurs. En route, ils foreerent Norbert Gario et plusieurs autres de s'en-\"\nrdlerdaus leur bande. Norbert reussita s'e'vader pendant la nuit. Puis\nils voulurent enraler deux autres hommes, qui repondirent qu'ila\nn'avaient pas do chevaux. On leur dit: a Si vous ne venea paa dcmaiii\navec nous, vous serez garrottes ct fueille's. b-\u2014Un do ces hommes urines\ndit qu'il voulait tuer Francois d'Aigle pour avoir sa graisse;\u2014un autre\nqu'il voulait tuer Richard Hightower et lui arracher le cceur et son pis-\ntolet de prix (to get kis heart and h\\sfine pistol). II sjouta qu'il y aurait,\nlo 3, cntrc eux et les Ilegulateitrs, uue rencontre avec des armee homicides.\u2014D'autres ajeutereat que si, le 3, ils etaient vainqueurs ala\nQueue-Tortue, ils iraiont attuquer la prairie Robert ;^qu'ils egorge-\nraient tons ceux qui nlsisteraient, et que,de la, ils mureheraient sur\nVermillonville qu'ils traitcraient dela meme facon. Ha eomptaient avoir;\ndeus mille Moderateurs d leur barbecue.\n(Devant James Myers, juge depaix.)\nIVo. IHx^l'ierrc-OzemC Trahan.\u2014Meme temoignage.\n\"So. 19\u00bb\u2014MM. Horace. Voorhies et Columbus Eastin, Tun sherif,\n''autre greffier et juge do paix de la paroisse Lafayette, declarant par\n&lt;icrit que, dans 1'execution des mandats lances par eux, ils ont toujours\n^u le concours des milicee vigilantes.\nDISTRIBUTION   DE   SECOURS\nTous les Hvres des Comites coii3tatent que, non-seulementotidis-\ntribua une somme assez rondelette a chaque bandit qui avait uu\nordre d'exil dans sa poche, mais que cette generosite s'e*tendit encore aux families de ces hommes. Uue souscription avait ete ou-\nverte daus chaque Comitd a cet effet.","fullrs":{},"find":"1910.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1909","restrictionCode":"1","cdmfilesize":"439820","cdmfilesizeformatted":"0.42 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

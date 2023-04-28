@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 368</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1849</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1849</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1849/json"
+                        timestamp="2017-02-03 08:23:22">{"title":"Page 368","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 368 \u2014\nvoix basse, dans un groupc de deux personnages : Fun, brim comme\nun Espagnol de la plus belle eau; l'autre, pule, aux cheveux cha-\ntains, a la figure meiancolique ; une t6te de vingt-deux ans, fou-\ndroyee, non par la douleur physique, mais par une souffrance morale.\nV Aussi vrai que je m'appelle Valsain Broussard, dit le brun, ce\n\u25a0coup de fusil vient de la maison que doit fouiller cette nuit le Comite de Saint-Martinville.\n\u2014Oui, dit le jeune homme triste que nqns nommerona Desire1\nBernard. De quels rangs est-il parti ? de la maison ou du cote des\nassailiants? je l'iguore ; mais, en verite, il serait temps d'cu fhijr\navec cette guerre de buissons, et de rencontrer uno bonne fois les\nbandits sur un champ de bataille quelconque. Une lutte au soleil,\na. decouvert, abregerait cousidcrublemcnt les choses... tandi3 que\nces querelles sont capables de nous user, nons d'abord, puis, apre3\nnous, trois ou quatre generations.\n\u2014Ilssontaux troisquartsabattiisdejii,repritValsain; nos chefs ont\nfait comme Tarquin avec ses pavots ; par l'exil ou le fouet, ils ont\ndecapite les plus hautes tetes de la truauderie attakapienne. Une\nreste done plus que les troucons brises du serpent qui etreignait\nnotre societe, comme un boa- gigantesqno ; ces troiifons qui palpi-\ntent encore, nous en aurons fiicilement raisou.\"\nLe beau et limpide regard de Desire Bernard s'euDamma.\n\" Nous en aurons raison, dit-il, oui sans doute ; mais seulement\ns'ils sc groupent, s'ils s'enregimenteiit, s'ils s'exposcnt, comme onk\ndit, it, une journee. Ce cas etant donne et s'il y a choe, le groupe\nqui representera Vhonneu: vaincra faeilcment le gronpc repi-esen-\ntant le crime ; car ce serait alors un duel ou Dieu lui-meme inter-\nviendrait, si nos bras n'etaient pas assez vaillants. Puisse done ton\ndesir ou ton presage se realiser 1 Mais faisons quelques pas et tu\nvas voir de tes-propres yeux tt quels homines nous avons a faire.\".,\nEt Valsain Broussard et Desire Bernard, deux Creoles de la Cote-\nGeiee, deux de nos amis, aurions-nous du dire, ramperent tt travers\nIe3 hautes herbes, Fun suivant la direction de l'autre ; puis, a l'eu-\ndroit le plus touffu, Desire se redressa et desiguant, du doigt, a\nA'alsin, un arbre, aieul de cette foreH, dont le vent bercait douce-\nment les longues et flottantes draperies dc mousse;\n\"Tu crois peut-etre que nous sommes seuls, murmura-t-il d'une","fullrs":{},"find":"1850.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1849","restrictionCode":"1","cdmfilesize":"416276","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

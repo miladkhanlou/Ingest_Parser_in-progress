@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>John James Audubon manuscript of Children's warbler, before 1831</title>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>Onithological biography. Children's warbler</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Children's warbler</title>
+   </titleInfo>
+   <name type="personal" displayLabel="Creator">
+      <namePart>Audubon, John James, 1785-1851</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1831</dateCreated>
+      <dateCaptured encoding="w3cdtf">2021-01-25</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Sylvia (Birds)</topic>
+      <topic>United States</topic>
+   </subject>
+   <abstract displayLabel="Description">Children's Warbler, a short description of the bird of the same name, is from Audubon's "Ornithological Biography, or An Account of the Habits of the Birds of the United States of America" (Philadelphia: Judah Dobson, 1831), 1:180-81.</abstract>
+   <note type="biographical/historical" displayLabel="Biographical Note">John James Audubon was an American ornithologist, naturalist, hunter, and painter.  He painted, cataloged, and described the majority of the birds of North America in a monumental work consisting of 435 hand-colored, life-size prints of 497 bird species, made from engraved copper plates measuring around 39 by 26 inches.  "The Birds of America" was first published as a series of sections between 1827 and 1838.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Manuscripts (documents)</form>
+      <extent>1 page</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>E.A. McIlhenny Natural History Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-mcilhenny:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 5190</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>VAULT:53</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No Copyright - United States</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Physical rights are retained by the LSU Libraries. Copyright of the original materials in this collection has expired and they are therefore in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">John James Audubon Manuscript of Children's Warbler, Mss. 5190, E.A. McIlhenny Natural History Collection, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">5190</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/en</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2021-02-04</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

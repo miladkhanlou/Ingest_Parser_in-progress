@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Negre Marron en Prison.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000619f</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Chs. Thompson</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1857-10-10</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Missouri</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Missouri</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Missouri</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Missouri</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Missouri</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Opelousas</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1857</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1857-10-04</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Negre marron en Prison. Il a été écroué dams la Prison de la Paroisse St. Landry, le 4 Octobre courant, un nègre se disant nommé Charles, et appartenir à un certain William Wallace, demeurant dans l'Etat du Missouri, et faisant le commerce de chevaux dans la Louisiane, duquel il est parti le 24 Septembre dernier, de la Nlle.-Ibérie, Paroisse St. Martine, Louisiane.  Charles est âgé d'environ 21 ans, mesure 5 pieds 5 pouces de haut, couleur griffe, a une cicatrice près de l'œil droit, corps frèle, et ne parle que l'Anglais. Le propriésaire de cet esclave est prie de venir le reclamer, prouver sa propriété et 'emmener, autrement il sera tranféré au Dépôt général de l'Etat, à Baton-Rouge, à expiration de soixante jours. CHS. THOMPSON, Géolier. Opelousas 10 Octobre 1857.  45
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">griff;</note>
+   <note type="content" displayLabel="Slave Owner">William Wallace
+</note>
+   <note type="content" displayLabel="Slave Name (Age)">Charles (21)
+</note>
+   <note type="content" displayLabel="Slave Age Under 12">N
+</note>
+   <note type="content" displayLabel="Physical Description Provided">Y
+</note>
+   <note type="content" displayLabel="Slave Sex">M;</note>
+   <note type="content" displayLabel="Personality Description Provided">N
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 5
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1857-10-10/ed-1/seq-1/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1945</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-16</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1945</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1945/json"
+                        timestamp="2017-02-13 13:34:01">{"title":"RSA00000619f","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":"1857-10-10","year":"1857","film":"page 1, column 5\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1857-10-10\/ed-1\/seq-1\/\n","unique":"Negre Marron en Prison.\n","person":"Chs. Thompson\n","parish":"Opelousas\n","digita":{},"acknow":"1857-10-04","public":"William Wallace\n","town":"Missouri\n","relati":"Charles (21)\n","slave":"M;","slavea":"griff;","slaveb":"N\n","slavec":{},"reward":{},"multip":{},"physic":"Y\n","persoa":"N\n","transc":"Negre marron en Prison. Il a \u00e9t\u00e9 \u00e9crou\u00e9 dams la Prison de la Paroisse St. Landry, le 4 Octobre courant, un n\u00e8gre se disant nomm\u00e9 Charles, et appartenir \u00e0 un certain William Wallace, demeurant dans l'Etat du Missouri, et faisant le commerce de chevaux dans la Louisiane, duquel il est parti le 24 Septembre dernier, de la Nlle.-Ib\u00e9rie, Paroisse St. Martine, Louisiane.  Charles est \u00e2g\u00e9 d'environ 21 ans, mesure 5 pieds 5 pouces de haut, couleur griffe, a une cicatrice pr\u00e8s de l'\u0153il droit, corps fr\u00e8le, et ne parle que l'Anglais. Le propri\u00e9saire de cet esclave est prie de venir le reclamer, prouver sa propri\u00e9t\u00e9 et 'emmener, autrement il sera tranf\u00e9r\u00e9 au D\u00e9p\u00f4t g\u00e9n\u00e9ral de l'Etat, \u00e0 Baton-Rouge, \u00e0 expiration de soixante jours. CHS. THOMPSON, G\u00e9olier. Opelousas 10 Octobre 1857.  45\n","subjec":"Fugitive slaves--Missouri.; Slavery--Missouri.; Slaves--Missouri.; Racially mixed people--Missouri.\n","type":"text","format":"clipping","langua":"French;","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000619f.jp2","find":"2081.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-16","dmmodified":"2016-03-16","dmoclcno":{},"dmrecord":"1945","restrictionCode":"1","cdmfilesize":"172053","cdmfilesizeformatted":"0.16 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

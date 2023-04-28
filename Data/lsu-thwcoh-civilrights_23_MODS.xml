@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Johnnie Jones, Sr. oral history interview</title>
+  </titleInfo>
+   <name displayLabel="Interviewee">
+      <namePart>Jones, Johnnie, 1919-</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Interviewer">
+      <namePart>Hebert, Mary J.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+      </role>
+  </name>
+   <note type="biographical/historical" displayLabel="Biographical Note">Johnnie Jones, Sr. was born in Laurel Hill, La., in 1919. After completing sixth grade, he worked for Ransom Lumber Company in Woodville, Miss., where he lived with his boss, Mr. Hergen, and tutored Hergen's son, Buddy. Jones later was sent to live with his uncle in Scotlandville, La., to begin his high school education at Southern University Demonstration School. He went on to Southern University for a year and a half until he was drafted into the U.S. Army to serve in World War II. He was one of the first African-American warrant officers and he took part in the D-Day invasion, landing in the third wave at Omaha Beach. After the war, Jones returned to Southern University to finish his bachelor's degree in psychology. After graduating, he married Sebell Chase and worked for two years at the post office. He then went on to Southern University Law School and earned his law degree in 1953. Jones' legal career included several landmark civil rights cases.</note>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes">1993</dateCreated>
+      <dateCreated point="end">1995</dateCreated>
+  </originInfo>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Jones, Johnnie,</namePart>
+         <namePart>1919-</namePart>
+         <namePart>Interviews</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Tureaud, Alexander Pierre</namePart>
+         <namePart>1899-1972</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Jemison, T. J</namePart>
+         <namePart>(Theodore Judson)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Cox, B. Elton</namePart>
+         <namePart>(Benjamin Elton)</namePart>
+         <namePart>1931-2011</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Southern University and A &amp; M College</namePart>
+         <namePart>Demonstration High School</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Southern University and A &amp; M College</namePart>
+         <namePart>Students</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>National Association for the Advancement of Colored People</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Congress of Racial Equality</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Actions and defenses</topic>
+      <topic>Louisiana</topic>
+      <topic>Cases</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African American children</topic>
+      <topic>Education</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African American civil rights workers</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African American soldiers</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Civil rights</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Segregation</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Baton Rouge Bus Boycott, Baton Rouge, La., 1953</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Civil rights movements</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>School integration</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Segregation in transportation</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1939-1945</topic>
+      <topic>Participation, African American</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1939-1945</topic>
+      <topic>Campaigns</topic>
+      <topic>France</topic>
+      <topic>Normandy</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Louisiana</geographic>
+      <geographic>Race relations</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Laurel Hill (La.)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject">
+      <occupation>African American lawyers</occupation>
+      <occupation>Louisiana</occupation>
+      
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject">
+      <occupation>Cause lawyers</occupation>
+      <occupation>Louisiana</occupation>
+      
+   </subject>
+   <abstract displayLabel="Description">Jones gives a detailed account of his life, beginning with his childhood in West Feliciana Parish, La., through his high school, college, and law school education. He describes his army service in World War II, his position as the first African-American warrant officer, and his involvement the D-Day invasion. Jones shares recollections of racism, segregation, sit-ins, and protests in Baton Rouge and other Louisiana cities. He describes in detail his work as a civil rights attorney, including his relationships with Louisiana civil rights leaders, the NAACP, and CORE; his participation in numerous civil rights cases; student activism at Southern University; the Baton Rouge Bus Boycott; his involvement with the NAACP; local and national figures in the civil rights movement; prominent court cases aimed at ending segregation; the lawyers and judges involved in those cases; and the wider civil rights movement in Louisiana.</abstract>
+   <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/civilrights/Jones_Johnnie_4700.0321.pdf</abstract>
+   <note type="content">This collection includes materials accessioned as 4700.0321.; A digital version of the transcript (pdf) exists for duplication purposes.; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room.; Interview conducted by Mary Hebert.</note>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>16 sound cassettes (17 hours, 29 minutes); Transcript (708 leaves)</extent>
+  </physicalDescription>
+   <genre authority="aat">Oral histories</genre>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no94017348"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Civil Rights Movement Oral History Project</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series">
+         <title>T. Harry Williams Center for Oral History civil rights series</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-civilrights:collection</url>
+      </location>
+  </relatedItem>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Johnnie Jones, Sr. Oral History Interview, Mss. 4700.0321, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

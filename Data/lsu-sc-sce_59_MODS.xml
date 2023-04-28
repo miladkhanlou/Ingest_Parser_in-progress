@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Long, Huey P. Radio Address, 1935 (transcript)</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+      <namePart>Long, Huey Pierce</namePart>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1864</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Long, Huey Pierce, 1893-1935</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Radio addresses, debates, etc</topic>
+   </subject>
+   <abstract displayLabel="Description">Huey P. Long was elected governor of Louisiana in 1928.  Two years later he was elected to the U.S. Senate.  He continued to influence the state through his chosen successor, O, K. Allen.  In 1934, Long’s own presidential ambitions and his more radical social platform led him to break with President Franklin D. Roosevelt and form an alternative political organization, the Share-Our-Wealth Society.  Through the society, he advocated redistributing wealth through sharply graduated income and inheritance taxes. He found a ready and sympathetic audience for his ideas in Depression-era Americans.  Long effectively used radio to distribute his populist message.  This transcript is from a 1935 broadcast by Long. He was assassinated the same year.</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Huey P. Long Papers, Mss. 2005</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>LSU Special Collections: Louisiana and Lower Mississippi Valley Manuscript Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">sd000105</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/94</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2006-07-24</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>94</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/94/json"
+                        timestamp="2017-02-02 09:47:13">{"title":"Long, Huey P. Radio Address, 1935 (transcript)","creato":"Long, Huey Pierce","date":"1935","dates":{},"publis":{},"contri":{},"subjec":"Long, Huey Pierce, 1893-1935.; Radio addresses, debates, etc.","descri":"Huey P. Long was elected governor of Louisiana in 1928.  Two years later he was elected to the U.S. Senate.  He continued to influence the state through his chosen successor, O, K. Allen.  In 1934, Long\u2019s own presidential ambitions and his more radical social platform led him to break with President Franklin D. Roosevelt and form an alternative political organization, the Share-Our-Wealth Society.  Through the society, he advocated redistributing wealth through sharply graduated income and inheritance taxes. He found a ready and sympathetic audience for his ideas in Depression-era Americans.  Long effectively used radio to distribute his populist message.  This transcript is from a 1935 broadcast by Long. He was assassinated the same year.","notes":{},"langua":{},"transc":{},"digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":"Louisiana and Lower Mississippi Valley Manuscript Collection","collec":"Huey P. Long Papers, Mss. 2005","sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":"Text","format":"JPEG2000","imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":"sd000105","identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":{},"find":"95.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2006-07-24","dmmodified":"2007-03-07","dmoclcno":{},"dmrecord":"94","restrictionCode":"1","cdmfilesize":"526","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

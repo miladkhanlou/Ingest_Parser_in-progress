@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Laborers' quarters on Allendale Plantation, sugar mill in background</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Allendale Plantation (La.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="approximate">1900</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1930</dateCreated>
+      <dateCaptured encoding="w3cdtf">2020-01-28</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Sugar plantations</topic>
+      <topic>Louisiana</topic>
+      <topic>West Baton Rouge Parish</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Agricultural laborers</topic>
+      <topic>Housing</topic>
+      <topic>Louisiana</topic>
+      <topic>West Baton Rouge Parish</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Allendale Plantation (La.)</geographic>
+      <geographic>Photographs</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Port Allen (La.)</geographic>
+      <geographic>Photographs</geographic>
+   </subject>
+   <note type="biographical/historical" displayLabel="Biographical Note">Henry Watkins Allen (1820-1866) established the Allendale sugar plantation in West Baton Rouge Parish, Louisiana, in the early 1850s. Allendale Plantation changed hands several times over the years, until 1882, when John and Martin James Kahao purchased the land, buildings, and equipment. The Kahao family successfully operated the plantation for most of the twentieth century, during which time it underwent a change in farming techniques, moving from hand labor and mule cultivation to mechanized farming.</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Photographic prints</form>
+      <extent>1 photograph</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Allendale Plantation Records, circa 1900-1930</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-allendale:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Series Number">
+         <partNumber>Series II</partNumber>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series Name">
+         <partName>Photographs</partName>
+      </titleInfo>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 3824</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>U:1, Box 2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NKC/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No known copyright.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">For those materials not in the public domain, copyright is retained by the descendants of the creators in accordance with U.S. copyright law.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Allendale Plantation Records, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">3824B002013</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/mlm</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-07-30</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

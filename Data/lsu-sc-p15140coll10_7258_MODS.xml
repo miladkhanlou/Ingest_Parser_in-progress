@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 40</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2569</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2569</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2569/json"
+                        timestamp="2017-02-03 08:23:43">{"title":"page 40","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"aieh the\nfever oc\n\u25a0urre.l in\nfamilies\ninth\nsurroir\nding\nrest, I wi\n.nle\nain\nlllv   th\n,f tire dise.nse  in\nmily ot\n.Mrs\nand\nI give\nextraels\n: Mr. J.\nof W\n\u25a0.-I   bel\ntten while\nthe eve\nre all fr\nshin\nThe letter rear\nsas folio.\nV ii\nSeptember, '53\nmy nop\new, Wi\nliatn\nMcDerm\nott, a\netghtee\nd, arrived\nat my\n...th,\nvir.gr 1;\nidol \u201eii\nis wav ,1\nwnaCV\nurg, whe\nght, ll\nyellow\nfever prevailing\nat th\nt place\ntthe\n\"In a few days Miss VY,n\nrs of his mother's family, and tl\nP. C. Smith, with bl\nnother'i\ng; the i\n--'  ,y\nss W., \"-\n1 pronounced by the\ns. McCausland, who\nr is stated by Mr. S.)\nhis visit was on the 20th of September; on the 26th Mrs. McC.\nened and subsequently died. On the 1st of October, owing to\nprevalence of the epidemic in Woodville at the time, I did not\nme for examination a vial of fluid ejected from her stomach\nrious to death, which was unquestionably black vomit.\nwenty days after the death of Mrs. McC., T was called to attend\ndaughter,\" Miss  Eliza, who died  on tho tenth day after a well\nIced attack of yellow fever.    During the progress of her case,","fullrs":{},"find":"2570.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2569","restrictionCode":"1","cdmfilesize":"527426","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

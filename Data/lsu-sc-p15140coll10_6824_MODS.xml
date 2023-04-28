@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 5</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2230</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2230</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2230/json"
+                        timestamp="2017-02-03 08:24:50">{"title":"Section 7, Page 5","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[6]\ncanal is beginning to supply that whole region of country with\nfir and molasses, which it attracts up the Mississippi.\nW^his lessens the receipts of freight at New-Orleans ; but it benefits\nhoth producer and consumer; and it is not, I apprehend, any part of\nthe'objects of the Convention to interfere with a business so legitimate\nd proper as this is, and which all the railways in the world can no\nmore bring back than they can stop up that canal. It is the object\nof the Convention to assist the sugar and the molasses to get to\nChicago by railway, if sugar and molasses shall prefer that, to water\ncarriage.\nWe buy Virginia hams here in Washington now that are cured\nin Terre Haute, on the Wabash. By the old. and natural roads to\nmarket that could not be ; the route of the ham would, have been\ndown to New-Orleans, thence by ship to New-York, and thence back\nby a packet into the Capes of Virginia, and so up the Potomac to\nWashington\u2014a two or three months' voyage, during which, in con-\ngequence ofthe climates through which it must have passed, and the\nstowage it must encounter, it probably would have come to life again.\nAt any rate, it would have been alive by the time it reached this\nplace.\nNow, in consequence of these rail-roads, which have been tapping\nthe Mississippi valley, the \" Westphalias\" of Terre Haute can reach\nhere in a week by paying ^ cent a lb. They come up the Ohio,\ninstead of going down; and across by rail-road, instead of around by\nwater.\nThe commercial history of this ham is that of much produce in the\nvalley of the upper Mississippi. Here, therefore, in these tapping\nrailways, is to be found another ofthe silent causes which have lessened the deliveries of produce at New-Orleans.\nTo add to the deleterious effects upon New-Orleans of this tapping\nofthe Mississippi River at the other end of its valley, and on the\neastern side, are the bars at the Balize, and the influence which the\ndepth of water there exercises\u2014the baneful influence which the bar\nthere exercises upon the models and the sailing qualities, and in fact,\nupon the whole economy of the ships that are built for the New-\nPneans trade. And it is bad for the owners to be compelled to\nMild ships that will not answer equally well for all trades. The best\nearnerS) therefore, cannot come to New-Orleans. If they could, New-\nwleans would soon find her merchants shipping the produce that\n!mes th,e levee direct to its foreign port of destination. As it is, the\ningejiiiity of ship-builders has contrived models for cotton ships.\n\u25a0these are immense carriers, and can take cotton to England at\nes which a few years ago would have been considered ruinous to\nowners. &amp;\nwill ft6 Vesse^s being once loaded and over the bar into blue water,\nYo L      cotton to Liverpool nearly as cheap as they will to New-\na 7* 0r Boston.    The voyage is short, and perhaps the chances for\niVlv.11 Car^\u00b0 are ^etter in Liverpool; therefore, they go direct.\nthese facts and circumstances, and in this view of them, we can\nhe operation of causes which tend to increase the foreign export","fullrs":{},"find":"2231.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2230","restrictionCode":"1","cdmfilesize":"549433","cdmfilesizeformatted":"0.52 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

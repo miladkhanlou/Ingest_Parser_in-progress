@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 05</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/594</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>594</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/594/json"
+                        timestamp="2017-02-09 16:30:56">{"title":"Page 05","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"S O U T t-I - W E S T E R N J 0 U li. N A L.\n220\nThe comparatively small number of skeletons found in those\nmounds which havo boon appropriated to sepulture, show\nthat large quantities of earth wore atlded with each additional\nbody.    These skeletons, such at least as retain the form ol\nbone, nre found at different depths from the base up to the\nsummit; they arc found near the centre and near the surface.\nHence we infer tho mounds were erected by a succession of\nburials, commencing with a layer first upon the ground with\na small tumulus of a few feet over the first body:\u2014then the\nnext at its side raised to nn equal height and joined to the\nfirst: then another in the same way, and another until the\nbase was of proper dimensions.    When this is done the first\nlayer is completed, and the next is placed upon the first tumu\nhis, with an additional pile of earth gradually receding with\nits external side into the pyramid form.    In this manner one\nlayer after another may have been completed year after year,\nuntil in the lapse of one or two ages one mound would be completed, and remain a grand mausoleum, not for one person on.\nIy, but for generations.    Many of them are found with but a\nfew feet elevation above the ground; and such were evidently left in an unfinished state j\u2014and lime, and the action of\u25a0\nrains have in some measure leveled their surface.    It is not\nuncommon, in tho fine arable lands of tho bayous and lakes\nof Louisiana, to meet with several largo mounds near each\nother, and ono or more of less than half the size of the lar\ngest; being in all probability one that was in a state of being\nerected when the final catastrophe ofthe nation was consummated.    Again within  one or more miles of some large\nmounds, wo may occasionally find several others, all of whicl\nare small and imperfect; and indicating the probability that\nlhc old burying place was completeel and consigned to inviolate sanctity, while new ones were in use.    In one instance\non lhc Roundaway bayou these small ones arc near two miles\nfrom the larger ones, and upon a higlialluvial ridge of a half!\nmile in width   extending back into  the swamp; probably\nselected as a moro retired spot for those sacred relics.   Possibly they may have been hastily erected to cover the bodies\nof a little host of heroes who may have fallen in battle, or\nbeen slain in ambuscade, where they received a hasty burial\nafter the nude'.\nIn the valley of the lower Mississippi these tumuli are\nfrequent in the finest arable level lands; and are seldom seen\nin tho hilly regions except in high flats. I havo never seen\none in sterile lands, although they were beautifully situated.\nTho mounds and works point out the regions which contained a dense population many centuries ago; while barren flats,\nhaving been then as they arc now, unproductive, show no signs\nol'a former race; having been reserved for gamcand pasturage.\nIn the lower valley of the Mississippi these tumuli observe\na regular form, with very few exceptions. This form is almost uniformly a regular parallelogram at the base, rising in\nin a pyramidal form to the surface or terrace, which is generally fiat and level. They are mostly oblong, being about\none third longer than their width. Thoso found near the\nhanks of tho old river lakes, and tho bayous, are from forty\nto two hundred feet long, and from thirty to ono hundred feet\nm width ; and from ten to fifty feet high. Tho area of the\ntop or terrace is about one half of the base.\nIn shape these vary materially from those so common\nin the north-western states anel territories. Tho latter are\nmostly round, of a conical shape, and often much higher than\nthose in the south. This difference in the form of the works,\nespecially south of Tennessee, is sufficient to indicate a different race of men as the builders of each. The difference\nin the form is too remarkable to have been the result of any\naccidental cause. Again, the earthen wall or embankment\nsurrounding them is much more common in the north than\nin the southern portion of this valley: in the south embankments about the mounds are uncommon ; while in the north\nthese embankments even occur where there is no mound.\nThe pyramidal square mound occurs in considerable numbers in the fertile alluvial bottoms as far east as Pearl river,\nand probably to East Florida.\nMany of these mounds we have said wero probably creeled as sacred places of sepulture for their tribes or chief:-.\nThis is a mode of burial not unknown to history, among the\ntribes of the eastern hemisphere. It is a custom which hn-\nbecn more or less in use among semi-barbarian people in all\nages. As Major Stoddart observes, \" Many of the ancient\nnations buried their dead in this way; especially those oi\ndistinction and consideration among them. Iceland still exhibits the remains of tumuli; and, according to the drawings\nmade of them, they appear to resemble thoso of the Missi::\nsippi valley. Plutarch says that Alexander, on the death ol\nDemaratus, maelo a most magnificent funeral for him, his\nwhole army raising him a monument of earth eight cubits\nhigh, and of vast circumference. The Scythians, according\nto Herodotus, labored to raise as high a monument of earth\nfor llieir dead as possible. Seniiraniis endeavored to eternize,\ntho memory of Niuus, her husband, by raising a high and\nbroad mound for his tomb. Tho same practice! obtained\namong the Spartans and Thracians, and even among the\nJews. * * * * All rude and uncultivated nations have\nraised these pyramids of earth, either as cenotaphs or mausoleums to tho memory of those they respected.\"\u2014Sketches of\nLouisiana, p. 351.\nWhen wc reflect upon this mode, as practised by the American tribes, as well as those of the eastern hemisphere, compared with the mode adopted by ourselves in common country burying grounds, wc cannot repress our admiration ot\nthe superior moile of the former. We wish to hold our\nburial grounds equally sacred; and equally desire to perpetuate the memory of our friends and ancestors: yet very\noften a few diminutive hillocks, which will be completely\nobliterated in half a century, are all that remain to mark the\nspot where hundreds of our friends lie buried: and in the\nlapse of a few years, their bones may be trodden under foui\nand desecrated by the plough ; while tho funeral places ol\nthese ancient barbarians still exist, and perpetuate the memory of their race, long after all tradition and historical legends\nhave been lost in obscurity.\nSome are evidently the remains of fortified places, or enclosed for better defence. Others may have been mounds\nfor temples or altars for tlio rites of their religion, enclosed\nwilh earthen walls made of burnt or unburnt brick, which\nhas mouldered to its original earth.    Even in New Cttlifor-\n?\nFii\nn","fullrs":{},"find":"595.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"594","restrictionCode":"1","cdmfilesize":"1681396","cdmfilesizeformatted":"1.60 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

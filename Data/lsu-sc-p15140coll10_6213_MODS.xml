@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 287</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1770</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1770</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1770/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 287","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 287 \u2014\ndeux cigarettes,\u2014une narration aussi proline que peu inleressaute\nde sa vie, que nous allons nous permcttre de resumer daus le cha-\npitre suivant.\nA BIOGRAPHIE VULGAIRE, COURT CHAPITRB\n1-fi toreador etait 116 daus la Cerdagne, aiicienne province eepa-\ngnole anncxce k la Catalogue, non par MM. Cavouret Napoleon HI,\nmais par une dc ces involutions municipales du Moyen-Age qui ne\neont pas plus mteressantes pour l'historien que pour le lecteur.\nLa Cerdagne etait un gateau decoupe sur la Catalogue et expose\nau has des Pyrenees,\u2014et se trouvait. par consequent sur le versant\nespagnol, Un jour la Catalogue absorba la Cerdagne. C'etait Cain\nqui tuait. non Abel, mais seulempnt le nom d'Abcl.\nLe toreador etait done no sur le versant espagnol h, la Sen d'lJ r-\ngel, i\\ nous avons bonne inemoire, dans un pays ou la romance :\nYo soy  contrabandi&amp;ta\nest chantee sur tous les tons et sur tous les instruments ; depuis\nhi mandoline jusqu'a l'cspingole ; depuis le tromblon jusqu'au pier-\nrier. Strange musique. si Ton veut 1 mais les contrebandicrs sont des\nartistes cxcentrlques, et aucun d'eux, que nous sachiona, n'a jamais\nfait partie du Conservatoire de Paris.\nLa Sen d'Urgel a encore une autre wpccialitd qui, nous en somaics\nRur, ne lui sera enviec par aucun de hob lecteurs : elle a les cagots\net les goltreux.\nf^es cagots sont des creatures humaines profondetoejot hmuiliantes\npour le geure humain. Certes, un ccrcueil est d'une eloquence terrible : c'est la matiere, le m;ant physique succedaut a. la vie. C'est un\nfront que la pensee brulait la veille et d'oti la pensee s'est exilee ;\nc'est une bouche channunte, nid de baisers la veille, et qui, le lendemain, s'est fermee pour ne plus embrasser que hi ver du tombeau.\n\u2014 Ohez le cagot, fame est morte, mais la vie auhnale existe. Pigu-\nrw-vous un mort qui aurait (aim el soif. et qui ne saura.it pas dire","fullrs":{},"find":"1771.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1770","restrictionCode":"1","cdmfilesize":"419036","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

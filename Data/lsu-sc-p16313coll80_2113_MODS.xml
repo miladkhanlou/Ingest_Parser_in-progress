@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Runaway.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000001</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Wm. Walker</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1861-07-10</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>New Orleans</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Winnfield, Parish of Winn, Louisiana</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1861</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1860-07-12</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Runaway. Was committed to Jail, in the Town of Winnfield, Parish of Winn, Louisiana, the 8th day of June, 1861, a negro man, who calls his name HENRY, says he belongs to JAMES HAYNIE of New Orleans. Said Negro is about twenty five years old, about five feet eight inches high, will weight about one hundred and forty five pounds; of light copper color; says he left the Steamer Grand Duke at Pleasant Hill, below Shreveport, on or about the 16th May, ult.. The owner is hereby notified to come forward prove property, pay charges, and take said Negro away, or he will be dealt with as the law directs.  Wm. WALKER, Sheriff. June, 12, 1861. -- 4t.--prs. fee $4.
+</abstract>
+   <note type="content" displayLabel="Slave Owner">James Haynie
+</note>
+   <note type="content" displayLabel="Slave Name (Age)">Henry (25)
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 4
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The southern sentinel. : (Winnfield, La.) 1883-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn88064428/1861-07-10/ed-1/seq-3/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 88064428</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/532</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-12-12</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>532</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/532/json"
+                        timestamp="2017-02-13 13:33:07">{"title":"RSA00000001","object":"sn 88064428","publia":"The southern sentinel. : (Winnfield, La.) 1883-1910\n","date":"1861-07-10","year":"1861","film":"page 3, column 4\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn88064428\/1861-07-10\/ed-1\/seq-3\/\n","unique":"Runaway.\n","person":"Wm. Walker\n","parish":"Winnfield, Parish of Winn, Louisiana\n","digita":{},"acknow":"1860-07-12","public":"James Haynie\n","town":"New Orleans\n","relati":"Henry (25)\n","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"Runaway. Was committed to Jail, in the Town of Winnfield, Parish of Winn, Louisiana, the 8th day of June, 1861, a negro man, who calls his name HENRY, says he belongs to JAMES HAYNIE of New Orleans. Said Negro is about twenty five years old, about five feet eight inches high, will weight about one hundred and forty five pounds; of light copper color; says he left the Steamer Grand Duke at Pleasant Hill, below Shreveport, on or about the 16th May, ult.. The owner is hereby notified to come forward prove property, pay charges, and take said Negro away, or he will be dealt with as the law directs.  Wm. WALKER, Sheriff. June, 12, 1861. -- 4t.--prs. fee $4.\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.\n\n","type":"text\n","format":"clipping","langua":"English\n","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000001.jp2","find":"596.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-12","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"532","restrictionCode":"1","cdmfilesize":"121124","cdmfilesizeformatted":"0.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

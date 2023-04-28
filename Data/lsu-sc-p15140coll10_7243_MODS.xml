@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 25</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2554</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2554</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2554/json"
+                        timestamp="2017-02-03 08:23:42">{"title":"page 25","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"tt of yellow fever bye;-\ns life of the patient, tl\nampelled for want of 1\n;.s \\.-t; and the great diversity of practice that is pun\n!, -\u25a0:. :he experience of the last two or three years, in\nivas formerly pursued; but the fell destroyer still cl\n.!' \\ .\u25a0 tints, in spite of potent drag or magic skill.     V\nd.-.- .vercd no d\/wi\/ir [\\,r yellow lever, and are h.-ff U\n\\   ii \u25a0\u25a0    i.e.ls r,f rx|bi-ir ,\u25a0\u25a0-.      I\n: .-\u25a0\u25a0very of a grand .-y-'wa- was  publicly announced'\n...';\u25a0 :. !\u25a0\u25a0 ;-;i:,-    \u25a0\u25a0  \u25a0. ;:\u25a0   \u25a0'      !!,\u25a0   :\u25a0 \u25a0      \u25a0       \u25a0      V:,S .--  r \u25a0\u25a0\u25a0 \u25a0   :.-i   \". a 7  ,..,;'., e   i \u25a0 ,      i\nwas not both -pn-cij'i (\".!.\u25a0', and   unjust.     From the  highly laudatory\nand after being assured that the physic\nCharity Hospital.    My first experiments\nive expected,\nubrilci-x'-ite-\nistipaievi   tlte","fullrs":{},"find":"2555.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2554","restrictionCode":"1","cdmfilesize":"478798","cdmfilesizeformatted":"0.46 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

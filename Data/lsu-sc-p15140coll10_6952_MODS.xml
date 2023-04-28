@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 10, Page 12</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2358</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2358</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2358/json"
+                        timestamp="2017-02-03 08:24:55">{"title":"Section 10, Page 12","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"noi7ts7i     xoo*s\n,\u201e,:.\nSteelier\nSanders, G W\nJleiubnril,   Mnrgrrrcl  L\nReinhard, E W\nSlocomb! C H\nReinhnril, Norma\nSt John, L\nRegan, Barney\nSabatier, G\n201.)\nRoberts, HAG\nSchreiber, A\nRogers, D D\nSehreul,,:,., Clara\nEuffier, W H\nSehmil.er, Josephine\nRice, P jr.\nSutterlin, G\nReed, A\nRutherford, C M\nSurapuru, j B\nRobinson, W L\nRees, John\nStackhouse, R\nRub, J F\nStew-art,  Thomas T\nfiodrigues, B\nKlmf, Day &amp; Slander\nRodrigues, J\nStone, H L &amp; Co\nRace &amp; Foster\n10\nSieves, ER&amp;CO\nRobb,  S &amp; Co\nRobertson, R L\nSchmdt, H G\nRcllceb, Charles\nSarpy, R\nIlea, David\n10\nSands, 11 Tucker &amp; Co\nScott, A E\ns\nSlawson, J B\nStafford, J\nSowter, R\nSeavers, A\nScott, W T\nSkeels, H B\nStanton, J W\n400\nSmith, Sol\nSimvcrsscu, Francis\nScanlan, Owen\nSmith, Sidney\nSickles, S V\n20\nSteili, John\nSmith, Gowan\nSale, Charles li\nSarrt.zin, William\nSmith, William\nSheffield, PK\nSullivan, Thomas\nSumner. R B\nSearing, F F       ^\nSmvenson, JohtiE\nSizer, George M\nSnow, Thomas A\n20\nScholl, Joseph\nSper.lm, -lirme^\nSinnott, N\nSt Paul, Alba\ns'nimpt, cV\nSummers, Henry M\n00\nSeg.r, AB","fullrs":{},"find":"2359.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2358","restrictionCode":"1","cdmfilesize":"506019","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

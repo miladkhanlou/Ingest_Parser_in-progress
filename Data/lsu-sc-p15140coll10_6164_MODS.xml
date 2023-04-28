@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 236</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1720</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1720</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1720/json"
+                        timestamp="2017-02-03 08:23:17">{"title":"Page 236","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 236 \u2014\nteudu  parler  de lui. Nous reeumes de tous une reponse unanime ;.\nils n'avaient pas vu le jeune homme dont nous leur avions envoye\nle signalcment et n'avaient meme pas enteudu parler de lui.\nLe mystere de cette disparition commencait ii seddehirer. II y\navait probablementlit-dcssous no crime commis sans doute, la nuit,\nsans temoins... uue agonic aux rules entendus de Dieu seal... une\nfosse a, l'dcart, sous quelque arbre. Nous essayions toutefois d'eloi-\ngner de nous ces sinistres pressentinients, lorsque nous resumes, de\nVermillonville, la lettre suivante; nous l'ouvrimes en frissonnant,\ncar elle etait timbree de noir.\n\" Mon eher compatriote,\n\" Mon frere est mort... mon Eugene... II a ete rejoindre notre\nmere... Oh! comme Jeanne-Marie Sellier, sa seeonde mere, va pleu-\nrer 1\n\" Pauvre Eugene 1 lui qui ne voulait arriver a, la fortune que\npour faire une douce vieillessc it cette pauvre et noble femme !...\n\" Voici les notes que j'ai recueillies... Devant uue pareille tombe,\nje ne sais, en verite. si j'aurai le courage de les retrouver dans les\nlimbes de ma memoire.\n\"La derniere fois qu'on 1'a vu, c'est au Pout-Braux. II arriva,\nun soir d'orage, les habits tout souilies de boue, les cheveux, ses\nbeaux cheveux noirs qu'il soiguait tant 1 colies sur ses tempes par la\npluie. II paraissait d'une tristesse prof'onde.\n\" Ce soir-lii. comme cela lui arrivait souvent, il chercha 1'oubll\ndans des libations copleuses. On l'enteudit murmurer plusieurs fois\nun nom de femme... sans doute celui qui lui brfilait le coenr... celui\nqui lui avait inspire les fragments dc podsie que je vous ai cites.\n\"Vers les dix heures du soir, il se leva en ehancclant et demanda\nle chemin qui conduit du Pont-Braux it la Prairie-Marronue. On\nm'a dit qu'il y a la uue maison mal famee o\\i le passant, quel qu'il\nsoit, trouve des voluptds faciles, et oii les chevaliers errants de Ia\nboh6me attakapienne sc donnent souvent rendez-vous.\n\" On le vit monter it cheval, apres avoir assujetti, avec des cour-\nroies, sa boite de bijoux a la selle, et prendre ensuite le chemin de\ncette maison maudiie.\n\" Pauvre Eugene !... Depuis, on ne 1'avait plus rcvu !\n\" Les habitants du Pont-Braux ne s'dtaient pas emus de cette\ndisparition. pensant sans doute que mon frere avait continue sa\nroute vers le chef-lieu de la paroisse, et de lii vers St-Landry. Ils se\nsont dmus en voyant mes larmes; il y a ddciddment parmi eux\nde nobles cceurs.\n\" Aide par eux. j'ai battu la cypriere, foret immense, entrecoupde","fullrs":{},"find":"1721.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1720","restrictionCode":"1","cdmfilesize":"403540","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

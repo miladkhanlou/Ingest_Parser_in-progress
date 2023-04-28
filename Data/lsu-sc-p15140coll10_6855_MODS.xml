@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 36</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2261</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2261</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2261/json"
+                        timestamp="2017-02-03 08:24:51">{"title":"Section 7, Page 36","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[36]\nbe about a mile of bottom land requiring embankment.    Beyond this, alo\nslope of the Bodcom valley, and that of its tributary, the Little Bodco^'\nthrough the dividing ridge into the valley of the Bois d'Arc, 17 miles, the e''\nis quite irregular, and large quantities of rock appear in the hills\u2014th'e fir.j   e\nsince entering the state.\nWe cross the Bois d'Arc by a 100-feet bridge and 30-feet abutments, with\nmile of embankment on its eastern side. Beyond the Bois d'Arc we rise'at oan\nto the table-land of the Red River, ou which nothing but a low embankment wTl\nbe required.\nFrom this table, within half a mile of Fulton, we descend on the slope ol\nliquely, with a 50-feet grade, to the level laud lying just above high water'aml\non which the town of Fulton is built. On this we may find ample depot ac'com.\nmodations. To cross the Red River would require a bridge 800 feet long, witha\ndraw, with piers 35 feet high, and placed on piled and platform foundations.\nFrom the crossing of the Dorcheat we might have reached the Red River ata\npoint nearer by 20 miles than Fulton, although nearly as far west as that pint\nFor this we would have continued nearly due west from tbe Dorcheat, crossing\nthe Bodcom at a lower point of its course than ihe present, and passing below\nthe mouth of the Bois d'Arc, to Conway, 30 miles south of Fulton in a straight\nline, aud 60 by the course of the Red River. As this route runs directly acrosi\nthe ridges, it is probable that it would cost more per mile to contract lhau by oar\npresent line; still, as it is but half as long, there will be a material saving ot firet\ncost, with the advantage of a diminution of no less than 20 miles in tbe whole\nlength of the road.\nAs a line of levels was carried from the Mississippi to the Red River at Fulton,\nit may be well to give the relative heights of those streams, as well as the\nWashita\u2014not that it is of consequence as regards the location of a road, but as it\nmay be of some general interest.\nFrom the Mississippi, at Lake Providence, a straight line to our crossing-place\nover the Washita is 53 miles in length ; but inclines a little down stream, or to\nthe south, viz: 6J-miles. The highest water of the Mississippi is 3 7-10 feel\nhigher than the highest ground of the village of Lake Providence, immediately\nwithin the levee. This latter may be called the natural bank of the Mississippi\nRiver; for one-fourth of a mile back of this it is five feet lower, and the swamp\nbegius. The east bank of the Washita is 20 feet lower than this, and the highest\nwater of the Washita five feel lower still, or 28 7-10 feet lower than the high**\nwater of the Mississippi at Lake Providence. The lowest water of the Mississippi could not be ascertained with precision ; but that which we found by inquiry to be the lowest, was 7-I0ths of a foot higher than that of the high water\nof the Washita, or 41 7-10ths feet higher than the low water of the Washita.\nThe low-water mark of the Washita at Collier's Point is 100 feet lower than\nthe low-water mark of the Red River at Fulton.    The distance  from one p \u00ab\u00ab\nto the other, in a direct line, is 117 miles ; but, measured on the map from '\"'*\ndown   the  Red  River to the  mouth of Black  River, (a prolongation ol'\nWashita.) is 431 miles; and from the mouth of Black River, up the Washita toU\nlier's Point, 187 miles.    Now, if the declivity of the Red River and Washita\nthe same, this will indicate a fall in both these streams of 9\u00a3 inches IJ?rD\\\nThere is, however, reason to believe that the declivity of the Washita is n\nless than this; for the current is quite sluggish, and freshets do not swe\nriver at a rate of more than a foot a day.    It is, moreover, asserted^ that, m      *\nthe rise in the Mississippi produced slack water in tbe Washita at Colh\u00ab\u00bb ^ ^\nThis would indicate a very gentle declivity; and Dr. Collier considers tn,\ndeclivity is not greater than 45 feet between Collier's Point and the aebou\nthe Washita into the Red River\u2014a distance by the river of 187 miles. ^\nIf we assume the declivity at 2\u00a3 inches to the mile, it will give 39 leetta i\na declivity to the Red River of 6 38-100 inches to the mile. .,    e \u00ab\u25a0*\nIt was stated that the high water of the Mississippi at Lake Froviden ^^\ndetermiued to be 28 7-10 feet above the high water of the Washita at u ^\nPoint. From Lake Providence, down the Mississippi to the moutu ^\nRiver, is 240 miles; and from Collier's Point, down the Washita t0. ,ie3pef\npoint, is 209 miles. The Mississippi is said to have a declivity of two \"\"^ptc-f\nmile ; but in freshets it must be more\u2014say 2\u00a3.    This would give the o","fullrs":{},"find":"2262.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2261","restrictionCode":"1","cdmfilesize":"604006","cdmfilesizeformatted":"0.58 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

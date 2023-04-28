@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>LSU Architectural Drawings by Theodore Link</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;Theodore C. Link designed most of the buildings for LSU when the campus was relocated in the 1920's. This group of approximately 200 drawings provide architectural, wiring, heating and plumbing specification for buildings across the campus. Many of the architectural plans provide detailed views of unique stuctural elements. The drawings are arranged in series by the names of buildings.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Theodore C. Link designed most of the buildings for LSU when the campus was relocated in the 1920's. This group of approximately 200 drawings provide architectural, wiring, heating and plumbing specification for buildings across the campus. Many of the architectural plans provide detailed views of unique stuctural elements. The drawings are arranged in series by the names of buildings.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-ua-tld</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/TLD</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/TLD</identifier>
+</mods>

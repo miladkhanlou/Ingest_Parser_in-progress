@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 2, Page 31</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2095</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2095</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2095/json"
+                        timestamp="2017-02-03 08:24:44">{"title":"Section 2, Page 31","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"31\nas a state, aud in its sovereign capacity. This cannot be\nsairJ with equal propriety of any other scheme before the\npublic, because none other contemplates the development of\nsLlch an immense region of fertile country, within our own\njurisdiction. This view of the subject is not uninteresting to\ndie city of New Orleans. She has appealed to the gencro-\nsjty of the state, to aid her in protecting herself against the\ninundations of the Mississippi river. That appeal was entertained with feelings of sympathy, in the councils of the\nstate; but the public coffers were empty, and nothing was\ndone for her relief. The day is not far distant when her application may be renewed, and when it may become necessary to make an appropriation out of the public treasury,\nlo stay the devastations of the mighty stream, which often-\ntimes brings desolation to its shores, while it bears upon its\nbosom the wealth and the commerce of the world. When the\nday of her renewed application arrives, New Orleans may\nproudly command the aid of the state, and particularly of the\nsouthwestern parishes by reference to the services she may\nhave rendered, in the construction of this road, and the development of the magnificent region, \"which is destined to\ncontribute so largely to the affluence of the state.\nBut, gentlemen, we may consider our subject from a much\nhigher point of view. This road once constructed to Opelousas, would not stop there. It is destined to find its way\ninto Eastern Texas, developing, as it advances to the Sabine,\na hundred and fifty miles of our own territory. The State\nof Texas, wc are told, has three millions of dollars to appro-\npt'iatr: to purposes of internal improvement; and we are not\nwithout authority for believing that she will avail herself of\nthe opportunity of co-operating with Louisiana in the expenditure of this sum, so as to meet the extension of the Opelousas railroad on her eastern border. What a magnificent\nprospect is here presented for the future commerce of New","fullrs":{},"find":"2096.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2095","restrictionCode":"1","cdmfilesize":"507283","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$10 Reward.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000562</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>John Nugent</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1854-01-07</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Prairie Plaisance, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>St. Landry</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1854</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1853-12-25</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$10 Reward. I gave my negroman Aaron, a pass for a week, to work about Opelousas, as his wife was in the  neighborhood, dated 25th December last, since he which he has not returned. He is about 5 1/2 feet high, stout built, and has a swagger when walking. He rode off a dark bay creole horse; his clothes are green blanket coat, brown cloth coat, white linsey pantaloon, a beaver hat, small rim and low crown. His object is to force me  to sell him, so as to be near his wife. I will give the above reward to any person who will deliver him to me, at Prairie Plainsance, or put him in Jail so I get him again. JOHN NUGENT. St. Landry, 6 January 1854. 5--tf.</abstract>
+   <note type="content" displayLabel="Slave Owner">John Nugent</note>
+   <note type="content" displayLabel="Slave Name (Age)">Aaron</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$10</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1854-01-07/ed-2/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83026389</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/790</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>790</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/790/json"
+                        timestamp="2017-02-13 13:33:20">{"title":"RSA00000562","object":"sn 83026389","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910","date":"1854-01-07","year":"1854","film":"page 2, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1854-01-07\/ed-2\/seq-2\/","unique":"$10 Reward.","person":"John Nugent","parish":"St. Landry","digita":{},"acknow":"1853-12-25","public":"John Nugent","town":"Prairie Plaisance, La.","relati":"Aaron","slave":"M","slavea":{},"slaveb":"N","slavec":{},"reward":"$10","multip":{},"physic":"Y","persoa":"Y","transc":"$10 Reward. I gave my negroman Aaron, a pass for a week, to work about Opelousas, as his wife was in the  neighborhood, dated 25th December last, since he which he has not returned. He is about 5 1\/2 feet high, stout built, and has a swagger when walking. He rode off a dark bay creole horse; his clothes are green blanket coat, brown cloth coat, white linsey pantaloon, a beaver hat, small rim and low crown. His object is to force me  to sell him, so as to be near his wife. I will give the above reward to any person who will deliver him to me, at Prairie Plainsance, or put him in Jail so I get him again. JOHN NUGENT. St. Landry, 6 January 1854. 5--tf.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000562.jp2","find":"851.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"790","restrictionCode":"1","cdmfilesize":"131442","cdmfilesizeformatted":"0.13 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>View across a body of water toward a settlement on the opposite shore</title>
+  </titleInfo>
+   <name type="personal" displayLabel="Photographer">
+      <namePart>Lytle, Andrew David, 1834-1917</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="questionable">1900</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Outdoor photography</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Waterways</topic>
+      <topic>Louisiana</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Photograph : resin coated paper print from copy negative</note>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Series">
+         <partName>Landscapes</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <nonSort>'</nonSort>
+         <title>Andrew D. Lytle's Baton Rouge' Photograph Collection/</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>UU:263</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Andrew D. Lytle Album Photograph Collection, Mss. 3708, Louisiana and Lower Mississippi Valley Collections, Baton Rouge, Louisiana.</note>
+   <identifier type="local" displayLabel="Item Number">3708_173</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll12/id/911</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-01-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll12</alias>
+         <pointer>911</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll12/911/json"
+                        timestamp="2017-05-16 10:32:41">{"title":"View across a body of water toward a settlement on the opposite shore","series":"Landscapes","creato":"Lytle, Andrew David, 1834-1917.","date":"1900?","descri":"Photograph : resin coated paper print from copy negative","notes":{},"type":"Still image","subjec":"Outdoor photography--Louisiana.; Waterways--Louisiana--Photographs.","contri":"'Andrew D. Lytle's Baton Rouge' Photograph Collection","publis":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )","identi":"UU:263","source":"Andrew D. Lytle Album Photograph Collection, Mss. 3708, Louisiana and Lower Mississippi Valley Collections, Baton Rouge, Louisiana.","relati":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","langua":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Mention the 'Item number' or 'Item URL' in your request.","covera":"See 'reference url' on the navigation bar.","coverb":"Collection homepage: http:\/\/www.louisianadigitallibrary.org\/\/cdm4\/index_p15140coll12.php?CISOROOT=\/p15140coll12; Related online exhibition: http:\/\/www.lib.lsu.edu\/special\/exhibits\/e-exhibits\/Lytle\/index.html","digita":"Photograph : Original digitized in color using a Microtek Scanmaker 1000XL and converted from tiff to jpeg grayscale using Adobe Photoshop.","image":"3708_173","fullrs":{},"find":"912.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-01-30","dmmodified":"2014-01-30","dmoclcno":{},"dmrecord":"911","restrictionCode":"1","cdmfilesize":"1320378","cdmfilesizeformatted":"1.26 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Photograph : Original digitized in color using a Microtek Scanmaker 1000XL and converted from tiff to jpeg grayscale using Adobe Photoshop.</hardwareSoftware>
+  </extension>
+</mods>

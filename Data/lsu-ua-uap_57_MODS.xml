@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Back</title>
+  </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>LSU Photograph Collection, 1886-1926</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/2778</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-01-09</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <hardwareSoftware>Scanned with Digibook 1000 at 300 ppi; saved as a TIFF and converted to JPEG2000</hardwareSoftware>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>2778</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/2778/json"
+                        timestamp="2017-02-01 13:53:06">{"title":"Back","compoa":{},"photog":{},"notes":{},"biogra":{},"descri":{},"typea":{},"date":{},"publis":{},"subjea":{},"geogra":{},"aquisi":"LSU Photograph Collection, 1886-1926","box":{},"folder":{},"series":{},"subser":{},"reposi":{},"type":"Scanned with Digibook 1000 at 300 ppi; saved as a TIFF and converted to JPEG2000","source":"Louisiana State University Libraries, Special Collections","dates":{},"item":{},"relate":{},"rights":{},"contri":{},"to":"To inquire about ordering copies of these images, email lsudiglib@lsu.edu See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Include the \"Item URL\" in your request. ","catalo":{},"compou":"See 'reference url' on the navigation bars.","ocr":{},"cite":"LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.","collec":"http:\/\/www.lib.lsu.edu\/special\/archives\/digital","fullrs":{},"find":"3062.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2009-01-09","dmmodified":"2009-01-09","dmoclcno":{},"dmrecord":"2778","restrictionCode":"1","cdmfilesize":"249897","cdmfilesizeformatted":"0.24 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

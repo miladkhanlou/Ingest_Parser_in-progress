@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 359</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1840</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1840</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1840/json"
+                        timestamp="2017-02-03 08:23:21">{"title":"Page 359","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 359 \u2014\n&lt;noudro ct des balles, leur mission avait ete relativement beaucoup\nplus faci'c que celle des recruteurs.\nEt d'abord, ils avaient trouve ouverts trois ou quatre marches\ndifferents : Galveston, que les goelettes de la Mermento et meme\nde simples embarcations de pecheurs visitent toutes les semaines,\nAbbeville, le lac Charles, les Opelousas, et la Nouvelle-Orieans\nelle-meme ou ils avaientde nombreux correspondants.\nLa poudre, le plonib, les balles, les bowie-knives et autres munitions ct arnica de guerre avaient done ete faciles a trouver. Le\ncommerce ne connait que le Dieu Dollar, chacun suit era, comme\ndit FOpera Comique. Beaucoup de ses membres sont disposes a\nvendre, cent fois par jour, de quoi tuer pere et mere. Du moment\nqu'ils sont payes, que leur importe 1\nLes achats d'armes avaient done ete faits en divers lieux, ct\nmeme au cceur des paroisses ou regnaient en maitres les Comites.\nA Vermillonville, les soldats de John Jones s'etaient meme souvent pre*seutes avec provocation dans les magasins en demandant a\nacheter des munitions de, guerre, dont ils determinaient d'avance\nI'emploi; demande a laquelle on avait toujours repoudu, soit par\nun refus absolu, soit par la vente de quantites insignifiantes.\nLes soldittd de i'ii:surrcction parlaient haut, comme des hommes\ndeja assures dc leur victoiro ;\u2014d'autant plus assures, que le Gou-\nverneui\", qui arait deja lance sa proclamation, devait leur envoyer,\ndisaieut-ils, des soldats dc Farmee fe'deralc, k Faide desquels ils\nvaincraient facilenient ces hordes de Vigilants qui voulaicnt chaster du pays les honnetes et pauvres gens.\nSeptembre approchait et ces messieurs parlaient si haut que les\nComite3 n'avaient plus besoin de veiller, mais d'ouvrir seulement\nles oreillcs pour recueiilir tout cc qu'ils avaient interet a savoir.\nAinsi, un jour, un homme de la Queuc-Tortue, arme d'un fusil,\ns'etait presente a Vermillonville, chez uu honorable negociant\nnomme M. ReveUlon, et, apres quelques achats, etait remonte a\ncheval, oubliantson fusil. II etait deja, parti au galop, mais quelques secondes apres, il avait reparu devant le magasin et, repreuant\nson arme :\n\" N'oublions pas mon fusil, avait-il dit; je pourrais en avoir besoin demain, ou dans huit jours.\" (On touchait au 3 septembre).\nUn autre bandit deja nomme, (Eugene Alloue), avait rencontre","fullrs":{},"find":"1841.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1840","restrictionCode":"1","cdmfilesize":"405765","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

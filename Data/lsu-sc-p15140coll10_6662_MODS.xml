@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 2, Page 4</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2068</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2068</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2068/json"
+                        timestamp="2017-02-03 08:24:43">{"title":"Section 2, Page 4","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"DOCTOR ROBERTS, from Assumption,\nJUDGE WOODROOF, \"   Jefferson,\nCAPTAIN ROBINSON, \u00ab    Algiers,\nWho, after a few minutes absence, reported,\nthrough their chairman, J. W. Stanton, as the basis\nfor voting, that each municipality of New Orleans\nhave two votes, each parish two votes, and Gretna\nand Algiers two votes. The report was unanimously\nadopted.\nThe number of delegates in attendance was three\nhundred and thirty-eight, as follows:\nNEW ORLEANS DELEGATES.\nRichard Nugent, G F Weisse,\nBenj Adams, Mark Thomas,\nF A Lumsden, Chas F Daunoy,\nT C Goodrich, F B Letrean,\nJ C Preudergast, Alex Lesseps,\nW A Atwood, B F Flanders,\n  Carpentier, R F Nichols,\nII R W Hill,\nP.Conrey, Juii.,\nGeu J B Plauche,\nII II Labatut,\nWin J Leverich,\nB H Payne,\nCol Seymour,\nJ B Bellocq,\nJohn Hall,\nChas DeBlauc,\nWm E Thompson,\nWm P Converse,\nJohn Maginnis,\nJ D Denogre,\nS M Darby,\nC Fellowes,\nAlex Walker,\nJ II Maddox,\nP A Degolos,\nA W Squires,\nF Perrett,\nC. Toledano,\ns\nJudge J H Overton,\nEdmund H. Martin,\nPatrick H. Overton,\nCol Solomon High,\nJ D Bern,\nGustave Leroy,\nFergus Gardere,\nChasPHobhs,\nSylvester Bennett,\nClement Brown,\nA Miltenberger,\nCapt P Marey,\nChas Derbigny,\nLaurent Millaudon,\nCol Maiinsel While,\nJ Y Egana,\nJohn Hughes,\nP Siinms,\nMOHNortou,\nJ W Stanton,\nRobert Geddes,\nH E Lawrence,\nCaspar Audi,\nM M Cohen,\nAmbrose Lanfear,\nJohn R Marshall,\nJ II Stauffer,\nThomas A Adams,\nC Oliver,\nLeonard Matthews,\nGlendy Burke.\nLANDRY DELEGATES.\nN. G. Whittington, Evariste DeCailloi\nLouis Chachere, Cyprien Dupre,\nJ. J- Beauchamp, Joseph Gibbw,","fullrs":{},"find":"2069.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2068","restrictionCode":"1","cdmfilesize":"515684","cdmfilesizeformatted":"0.49 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

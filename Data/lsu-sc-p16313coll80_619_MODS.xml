@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00000546f</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Esclave en Prison.</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">Esclave en Prison. IL a été conduit  à la Prison de la Paroisse St. Landry, le 7 Novembre courant, un nègre disant se nommer Henry, et appartenir à un certain John H. Harris, demeurant sur le Bayour Salé, dans la Paroisse Sainte Marie, d'où il est parti vers le 20 d'Octobré dernier. Henry est âgé d'environ 35 ans, taille de 5 pieds, 6 pouces, couleur cuivrée, ne parlant qu'anglais. Le propriétaire est prié de venir prouver sa propriété, payer les frais et l'emmcher, au-trement il en sera disposé selon la loi. CHS. THOMPSON, Geôlier. Opélousas, 20 Novembre 1852.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 6
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1852-12-11/ed-1/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1852-12-18/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1852-12-25/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-01-01/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-01-08/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-01-15/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-01-22/ed-1/seq-2/;
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/792</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>792</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/792/json"
+                        timestamp="2017-07-10 10:52:42">{"title":"RSA00000546f","object":"sn 83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 6\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1852-12-11\/ed-1\/seq-2\/\n","unique":"Esclave en Prison.","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"Esclave en Prison. IL a \u00e9t\u00e9 conduit  \u00e0 la Prison de la Paroisse St. Landry, le 7 Novembre courant, un n\u00e8gre disant se nommer Henry, et appartenir \u00e0 un certain John H. Harris, demeurant sur le Bayour Sal\u00e9, dans la Paroisse Sainte Marie, d'o\u00f9 il est parti vers le 20 d'Octobr\u00e9 dernier. Henry est \u00e2g\u00e9 d'environ 35 ans, taille de 5 pieds, 6 pouces, couleur cuivr\u00e9e, ne parlant qu'anglais. Le propri\u00e9taire est pri\u00e9 de venir prouver sa propri\u00e9t\u00e9, payer les frais et l'emmcher, au-trement il en sera dispos\u00e9 selon la loi. CHS. THOMPSON, Ge\u00f4lier. Op\u00e9lousas, 20 Novembre 1852.\n","subjec":{},"type":"text\n","format":"clipping\n","langua":"French\n","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1852-12-18\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1852-12-25\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-01-01\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-01-08\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-01-15\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-01-22\/ed-1\/seq-2\/;\n","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000546f.jp2","find":"856.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-02-24","dmoclcno":{},"dmrecord":"792","restrictionCode":"1","cdmfilesize":"134635","cdmfilesizeformatted":"0.13 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

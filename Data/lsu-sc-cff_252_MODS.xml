@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M61</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1324</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1324</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1324/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"M61","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM61\nA Monsieur Dn Martin Duralde\nCapitaine des Milices, Commandant\nCivil et Militaire du poste des\nopelou\u222bsas\nMonsieur\nComme il est de l\u2019int\u00e9r\u00eat g\u00e9n\u00e9ral\ndu poste de s\u2019opposer aux abus, et de\nmon devoir en particulier de vous faire part\nde tout ce qui peut parvenir \u00e0 ma con-noi\u222b\nsance \u00e0 ce Sujet, afin que vous y mettiez\nordre, Je vous repr\u00e9senterai que l\u2019automne\npass\u00e9e le Sieur Renaut a emmen\u00e9 dans son\ntroupeau plusieurs b\u00eates \u00e0 cornes de marque\n\u00e9trangere. J\u2019en ai \u00e9t\u00e9 instruit par Mr_\nGe Lalonde, et j\u2019ai envoy\u00e9 Mr [Bte?] Nero\n2\nM61\nQui en a reconnu plusieurs. Comme il\nn\u2019est jamais trop tard de reprimer les abus,\nlorsque l\u2019on n\u2019a pu les d\u00e9couvrir plut\u00f4t,\nj\u2019ose esp\u00e9rer que vous voudrez bien faire\ncomparoir les personnes \u00e0 -de\u222bsus nom\u2014\nm\u00e9es pour avoir d\u2019elles une connoi\u222bsance\nplus exacte du d\u00e9lit, et qu\u2019ensuite vous\nprendrez cette affaire en consid\u00e9ration,\npour y mettre bon ordre \u00e0 l\u2019avenir.\nLes soins que vous avez pris jusqu\u2019ici pour\nmaintenir le bon ordre dans toute l\u2019\u00e9ten-due\nde ce Poste, me persuadent que vous\nne n\u00e9gligerez rien pour d\u00e9couvrir les\ndiff\u00e9rentes particularit\u00e9s de cette affaire, et\nque vous voudrez bien r\u00e9it\u00e9rer vos ordres,\npour que toute personne qui veut conduire\nun troupeau dehors du poste, ait le faire\npasser par l\u2019inspection de son Syndic avant\nle d\u00e9part. Non pas que j\u2019ose attaquer la\nprobit\u00e9 de qui que ce soit, mais puisque\ntels sont les ordres, ils doivent \u00eatre mis en\n\u00e9x\u00e9cution avec la plus grande rigueur.\nDieu vous ait sa Ste Garde\nJ Roman\nopelou\u222bsas 29e Ao\u00fbt 1795","typa":{},"genera":{},"fullrs":"Volume7\/M61.pdf","find":"1326.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1324","restrictionCode":"1","cdmfilesize":"49037","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

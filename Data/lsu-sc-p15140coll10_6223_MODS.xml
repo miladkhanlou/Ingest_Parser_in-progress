@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 297</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1780</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1780</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1780/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 297","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 297 \u2014\nvoyage auquel etait none un paquet, enveloppe d'un foulard, et qui\ncontenait sans doute son modeste bagage. Un garde-soleil lui cou-\nvrait le visage comme une cornette de religieusc*. Parfois elle por- v\ntait   a ses yeux uu mouchoir qui paraissait avoir bu deja bien des\nlarmes.\n\" Oil va cette jeune femme qui pleure et qui a 1'air d'une mater\ndolorosa?\" se demanda un artiste qui la rencontra sur ce chemin.\nqui etait sans doute pour elle un calvairc.\nOu elle allait? Ie savait-elle elle-mgmc? Le desespoir est comme\nCain : une main invisible le pousse... au suicide, s'il ne rencontre\naucune main amie sur sa route... a la redemption, si une seule voix\nlui dit: espcre et repens-toi.\nOu elle allait? elle n'aurait pas su le dire sans doute elle-meme.\nsi quelque passant, profauant son desespoir, fui avait adresse cette\nquestion.\nMais ce qu'elle n'aurait su ni pu dire, le void : elle allait, d'ins-\ntinct plutot que de occur ; car, daus certaincs crises de la vie, il\nfait nuit dans l'ame comme sur la terre ; elle allait ii son foyer\n\u25a0\\handonne... Ii son vieux pere aveugle qui avait peut-etre demande\nsouvent des nouvelles dc sa fille... et qui ne savait pas qu'il n'avait\nplus de fille... a ses frijres qui, au lien de plenrer leur sceur absente,\nla maudiraient peut-etre lorsqu'elle rentrerait, humble et repen-\ntante, au foyer paternel.\nElle allait, cssuyant sur sa route la sueur de dix agonies.\nElle allait d'un pas lent, mais egal, insensible aux sensations ex-\nterieures, aux bruits qui se faisaient autour d'elle, a la chaleur du\nsoleil qui lui brfdait la peau. Si une morte se fut levee du cimetiere et eut repris le chemin de sa demeure, elle aurait marche du\nmeme pas automatique. Elle marcbait, c'est vrai, mais il y avait en\nelle comme' les poses et la demarche d'uu cadavre. On avait froid\nrien qu'a la voir passer.\nElle travensa ainsi la prairie Sauve, qui s'eteud de 1'habitation\nde notre brave chef, le major St-Julien, au pont qui porte le nom\ndu Major, ct sort de frontiere aux deux paroisses Saint-Martin et\nLafayette.\nEn arrivant au Pont, defendu a cette epoque par des avant-pos-\ntcs de cheiics verts et autres arbres que notre ami. Euclide St-Jn-\nlicn,attaque a coups dc hache, elle aperc,ut une maison.","fullrs":{},"find":"1781.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1780","restrictionCode":"1","cdmfilesize":"398266","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

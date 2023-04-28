@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$75 de Recompense.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000756</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes">1861-06-08</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Waterloo</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1861</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$75 De RECOMPENSE. PARTIS marrons de mon habitation, près Waterloo, vers le 1er juillet dernier, la négresse FRANCIS ou FRANCOISE, et le nègre MILLIEN partis vers le 1er octobre; ces deux esclaves ont été achetés de MM. Vrgnes &amp; Lebeau.  Je donnerai la récompense ci-dessus à quiconque me ramènera ces déux esclaves oules logera en prison, ou $50 pour Francis et $25 for Millien. -- Francis est recelée par les nègres aux environs de la Pointe Coupée, audessus de Brown's Levee ou andessous de la grande Levee,
+</abstract>
+   <note type="content" displayLabel="Slave Owner">Messrs. Vignes &amp; Lebeau.</note>
+   <note type="content" displayLabel="Slave Name (Age)">Francis or Francoise; Millien</note>
+   <note type="content" displayLabel="Reward Amount">$75 </note>
+   <note type="content" displayLabel="Physical Description Provided">N</note>
+   <note type="content" displayLabel="Slave Sex">M; F</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">2</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 2</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Pointe Coupee Democrat. : (False River [i.e. New Roads], Parish of Pointe Coupee [La.]) 1858-1908</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">RSA00000751; RSA00000752</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86053686/1861-06-08/ed-1/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86053686</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3388</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3388</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3388/json"
+                        timestamp="2017-02-13 13:33:03">{"title":"RSA00000756","object":"sn 86053686","publia":"Pointe Coupee Democrat. : (False River [i.e. New Roads], Parish of Pointe Coupee [La.]) 1858-1908","date":"1861-06-08","year":"1861","film":"page 2, column 2","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1861-06-08\/ed-1\/seq-2\/","unique":"$75 de Recompense.","person":{},"parish":{},"digita":{},"acknow":{},"public":"Messrs. Vignes &amp; Lebeau.","town":"Waterloo","relati":"Francis or Francoise; Millien","slave":"M; F","slavea":{},"slaveb":{},"slavec":{},"reward":"$75 ","multip":"2","physic":"N","persoa":"N","transc":"$75 De RECOMPENSE. PARTIS marrons de mon habitation, pr\u00e8s Waterloo, vers le 1er juillet dernier, la n\u00e9gresse FRANCIS ou FRANCOISE, et le n\u00e8gre MILLIEN partis vers le 1er octobre; ces deux esclaves ont \u00e9t\u00e9 achet\u00e9s de MM. Vrgnes &amp; Lebeau.  Je donnerai la r\u00e9compense ci-dessus \u00e0 quiconque me ram\u00e8nera ces d\u00e9ux esclaves oules logera en prison, ou $50 pour Francis et $25 for Millien. -- Francis est recel\u00e9e par les n\u00e8gres aux environs de la Pointe Coup\u00e9e, audessus de Brown's Levee ou andessous de la grande Levee,\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Women slaves--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":"RSA00000751; RSA00000752","contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":" Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries. ","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000756.jp2","find":"2288.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-05-11","dmoclcno":{},"dmrecord":"3388","restrictionCode":"1","cdmfilesize":"126046","cdmfilesizeformatted":"0.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Mingo Family African American Photographs, 1887-1955</title>
+  </titleInfo>
+  <name type="corporate"
+      authority="naf"
+      authorityURI="http://id.loc.gov/authorities/names"
+      valueURI="http://id.loc.gov/authorities/names/no2015036095"
+      displayLabel="Contributing Repository">
+   <namePart>LSU Libraries. Special Collections</namePart>
+   <role>
+      <roleTerm type="text"
+                authority="marcrelator"
+                authorityURI="http://id.loc.gov/vocabulary/relators"
+                valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+   </role>
+</name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The collection consists of 32 photographic images and includes cabinet card portraits of men, women, and children taken at unidentified studios and by photographers in Andrew David Lytle of Baton Rouge and the Dambley Brothers of Plaquemine, Louisiana, as well as real postcards and photographic prints made in Hot Springs, Arkansas; Cairo, Illinois; New Orleans, La.; and St. Cloud, Minnesota.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;A visual highlight of the collection is a set of four large format prints from around 1920 carrying the studio imprint of Stevenson Studio, Cairo, Illinois. These images show the stage of a theater with scenes from two different productions, with some cast members in black-face or white-face.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;&lt;a href="http://www.lib.lsu.edu/special/findaid/5113.pdf" target="_blank"&gt;View collection Finding Aid&lt;/a&gt;&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The collection consists of 32 photographic images of unidentified African Americans, believed to be members of the Mingo family of Port Allen, La. Includes cabinet card portraits of men, women, and children, real photo postcards made in Hot Springs, Arkansas, and photographic prints created in Cairo, Illinois; New Orleans, La.; and St. Cloud, Minnesota. It is possible that some of the individuals in the images are members of an African American theatrical troupe specializing in minstrel shows.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p16313coll54</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p16313coll54</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p16313coll54</identifier>
+</mods>

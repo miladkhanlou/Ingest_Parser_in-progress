@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Verso</title>
+   </titleInfo>
+   <originInfo>
+      <dateCaptured encoding="w3cdtf">2008-10-23</dateCaptured>
+   </originInfo>
+   <typeOfResource>cartographic</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Maps of Louisiana Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-lmp:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Parent Item Title">
+         <title>An authentic street map compiled from private surveys, state surveys, and official records of East Baton Rouge Parish of metropolitan Baton Rouge, La.</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="local" displayLabel="Item Number">Holsum_Bread_1947_BRLA_Map_02</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/hcr</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2021-01-13</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

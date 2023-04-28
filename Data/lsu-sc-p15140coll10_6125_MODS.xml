@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 194</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1679</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1679</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1679/json"
+                        timestamp="2017-02-03 08:23:16">{"title":"Page 194","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 194 \u2014\nsuperficielle ; come*die oil l'on fait paraitre les acteurs que Ton veut,\net ou   ne  paraissent jamais  ou presque jamais les premiers roles,\nceux qui pourraient arracher le masque de l'assassin et le livrer, pant-elan t et effare, au bourreau.\nBien qu'il ne se fut fait qu'un demi-jour fort obscur autour du\ncrime, Aladin fut renvoye devant Ia cour criminelle.\nSauf la prison preventive, c'etait presque un acquirement; car,\na cette epoque, ce ftto'jnri de Yermillon se souciait aussi peu d'un\nparjure que de l'acte le plus insignifiant du monde ; ce bon, ce ver-\ntueux juri, ce modele tics juris pSS8e*S, presents et futurs. n'etait\nqu'une machine it acquittements. C'est dur, c'est triste, mais c'est\nvrai. La cour d'Abbeville etait un Calvaire oii le Christ etait r\u20acgu-\nliercment crucifie tous les six mois.\nCependant la verite eclatait de toutes parts. On avait su que, la\nnuit de 1'assassinat, un homme avait frappe it la porte de Jean Lacouture, campe, pour une cause que nous avons deja rapportee, sur\ncette coulee Kinney\u2014coulee pleine de mysteres sanglants, comme\nla foret de Bondy\u2014et que la porte de cet honnete Jean Lacouture\ns'etait ouverte immediatement.\nL'homme qui avait frappe it cette porte s'appelait, selon la chro-\nnique, Aladin Corner.\nCet hommc\u2014toujours selon la chronique\u2014aurait interpclie la\nmaitresse de la maison, fille d'un honnete hommc, honnete femme\nelle-meme, mais marine ii un bandit, et ltd auraitdit:\n\"Je viens de tuer un homme; je fuis, et demain il faut que j'aie\nI'ranchi la Mermento. Preparez-moi done un bon souper.\" *\nQuels liens y avait-il done entre ces deux baudits, dont 1'un venait d'ecraser la tele d'un homme, et cet autre bandit qui etait\npoursuivi pour vol?\nLa jeune femme se leva et, toujours selon la chronique, tua et\nprepara une dinde qui fut mangee par celui qui sc vantait d'avoir\ntue un homme, et par son mari.\nLe meurtrier, dit-on, maugca avec le mcilleur appetit du monde,\napres quoi il monta a, cheval et prit un chemin bien connu de lui,\ncelui dc la riviere Mermento.\nLa, il trouva, comme nous l'avons dit, M. Lufrosi Guidry fils,\n^epute-sherif, qui 1'attendait, un mandat d'arret u. Ia main.","fullrs":{},"find":"1680.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1679","restrictionCode":"1","cdmfilesize":"400285","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

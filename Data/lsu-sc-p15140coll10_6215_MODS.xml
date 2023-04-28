@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 289</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1772</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1772</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1772/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 289","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"antique, les Espagnols, flattes d'etre gouvernes par une femme,\n\u2022avaient acclame le testament de Ferdinand. En vertu de Ia loi Sali-\nque\u2014loi qui excluait les femmes du trone\u2014la couronne d'Espagne\nrevenait au frere du roi mort, Don Carlos, Carlos Qitinto, pour parler le iangage des Vendeens d'Outre-Pyrenees.\nDon Carlos avait arbore* sa caudidature;\nIsabelle, la sienne, par la bouche de sa mere, Marie-Christine.\nEt, comme 1'Espagne a peu de journaux et beaucoup d'escopettes,\nil etait arrive uu beau jour que les deux candidate avaient ete de-\nfendus a coups de fusil.\nCe n'est pas it nous a faire ici l'histoire de cette guerre homeri-\nque ou Ia pauvre Espagne versa le plus pur de son sang\u2014et dont\nnous avons vu nous-memc quelques pages; toujours est-il que le\nberger de la Sen d'Urgel fut' pris un jour dans la montagne par une\nsruerilla carliste, et oblige de prendre un fusil ct un berret blanc\npour la plus grande gloire de Carlos Quinto.\n\" Quel  est ton nom? lui demanda le chefde la guerilla royaliste.\n\u2014Santa-Maria de la Plata.\n\u2014Ce n'est pas un nom, qui se trouve dans l'annnaire nobiliaire de\n\u25a0'\u25a0Espagne,\" avait repondu le chef, et il 1'avait enroie comme simple\nC'est le premier degre de l'echelle qui conduit au baton de rnare-\nchal, en France ; raais.en Espagne, c'est bien different.\nNotre gentiihomrae\u2014tous les Espagnols le sont\u2014fit done la\nguerre dans une des guerillas et deploya sur ce terrain hasardeux au-\ntant de sang-froid et d'intrepidite que ses compagnons. C'etait du\nreste une guerre de partisans, ou l'on se battait plus souvent der-\nriere les bales qu'en rase campagne et ou les balles perdo.es etaient\nplus nombreuses que celles qui blessaient ou tuaient. II ne faut pas\noublier de dire que le couteau\u2014la navaja\u2014le cuchillo\u2014etait souvent\nde la partie\u2014ct l'histoire est la, pour prouver que, dans ce genre do\nguerre, les Espagnols n'ont pas de superieurs.\nSanta-Maria (puisque tel est le nom de l'ivrogne du tapis-franc)\n*e fit remarquer de bonne heure, dans les rangs de 1'armee carliste,\npar une adresse merveilleuse au lazzo- Ses chefs avaient remarque\nque. dans leurs escarmouches quotidiennes, son tir etait d'une precision douteuse, mais que son lazzo ne se trompait jamais. Cette\nadresse, que tout 3e monde connait aux Attakapas, lui avait acquis","fullrs":{},"find":"1773.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1772","restrictionCode":"1","cdmfilesize":"402090","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

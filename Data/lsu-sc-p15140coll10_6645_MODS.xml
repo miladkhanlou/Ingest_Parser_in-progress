@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 8</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2051</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2051</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2051/json"
+                        timestamp="2017-02-03 08:24:42">{"title":"Page 8","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"ville, in the parish of Lafourche Interior, I there\nmet the result of the proceedings of a convention\nheld in this city, in which it was proposed to refer\nall such improvements to the future legislation of\nthe State, and to rely for means of their construction on taxation. Not knowing how far this decision of that convention might compromise the\ngentlemen interested in the Algiers road, I deemed\nit my duty to return immediately and report the\nfacts ; and to inform them that this road possessed\nthe elements of its own success so eminently, in\nthe gallant sons of Louisiana scattered along the\nline, that it could be carried through independent\nof all such conclusions; that; a simple statement of\nthe business now annually transacted by this\nsection, would tell the tale of its value, in such\nway as would command the attention of capitalists any where; that, indeed, if necessary,ihe. country would take the whole stock requisite to make\nthe road, sooner than see it fall. J. therefore did\nnot canvass Assumption, Ascension, St. John the\nBaptist, St. James, St. Charles and Jefferson.\nIn a work of this magnitude, it is not to be\nexpected that people can come to full conclusions\nat the moment; prudence, therefore dictated the\npropriety of a convention from city and country,\nto take place in New Orleans, on Wednesday, the\n4th of June next. In the meantime, the people\nwill have leisure to reflect deliberately upon this\nimportant matter. It may be proper to state, that\nat the outset of my labors, I suggested to the\nplanters the propriety of their parishes taking\nstock as parishes in this road. To accomplish\nthis, with a certainty of success, 1 recommended","fullrs":{},"find":"2052.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2051","restrictionCode":"1","cdmfilesize":"522024","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Charles de Rabars to Auguste Doussan, 1832 Sep. 22</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Rabars, Charles de</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1832-09-22</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Rabars, Charles deily</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Doussan, Auguste Alexandre</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Doussan, Louise Perrin</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Doussan, Antoine J</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bordeaux (France)</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Baton Rouge (La.)</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>New Orleans (La.)</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>France</topic>
+      <topic>Politics and Government</topic>
+      <topic>18th Century, 19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cholera</topic>
+      <topic>France</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Droughts</topic>
+      <topic>France</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Southern States</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <abstract displayLabel="Description">Charles de Rabars, (Brun?), to Auguste Doussan in Baton Rouge, 'État de la Nlle. Orléans.'  Charles de Rabars, a resident of the Bordeaux region of France, served in Napoleon's army with Antoine Doussan.  De Rabars also maintained a lengthy correspondence with Auguste Doussan, a relationship initiated at Antoine Doussan's behest. Auguste Doussan was the younger brother of Antoine Doussan.  He practiced medicine in Grasse, France, and married Louise Perrin, who was a relative of the Allain family of Louisiana.De Rabars discusses the sociopolitical situation in France and mentions the advance of cholera in the Bordeaux area as well as the measures being taken to avoid the epidemic.  He reports that Auguste is now married to Louise Doussan, née Perrin.  De Rabars discusses his family life.  De Rabars mentions the drought in the Bordeaux area and asks if the vine slips he had sent Auguste's brother arrived.  
+</abstract>
+   <note type="content" displayLabel="Summary">(Brun?), September 22, 1832, Charles de Rabars to Auguste Doussan in Baton Rouge, 'État de la Nlle. Orléans.'  De Rabars deplores the sociopolitical situation in France and mentions the advance of cholera in the Bordeaux area as well as the measures being taken to avoid the epidemic.  He says that Auguste is now married to Louise [née Perrin], and he hopes that things go well.  De Rabars complains about the trouble that his son has caused him, but the younger De Rabars has been home for a while and has returned to his old self.  De Rabars mentions the drought in the Bordeaux area.  He wants to know if the vine slips he had sent Auguste's brother arrived, and he will want to know if they survive in the future.  The writer says that if Dubroca [apparently in Louisiana] remembers him, then remember De Rabars to Dubroca and tell the latter about De Rabars' nephew Dunogué.
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>1 letter.</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+<languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Doussan family papers, 1827-1872</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll76:collection</url>
+      </location>
+      <titleInfo displayLabel="Series">
+         <partName>I. Correspondence, 1827-1849, undated.</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4800.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>U: 314</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item  is therefore in the public domain.  Permission to reproduce this image must be  requested through the Special Collections Division, Louisiana State University  Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Doussan Family Papers, Mss. 4800, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll76/id/731</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-01-30</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll76</alias>
+         <pointer>731</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll76/731/json"
+                        timestamp="2017-02-08 15:15:56">{"title":"Charles de Rabars to Auguste Doussan, 1832 Sep. 22","creato":"Rabars, Charles de","date":"1832-09-22","extent":"1 letter.","descri":"(Brun?), September 22, 1832, Charles de Rabars to Auguste Doussan in Baton Rouge, '\u00c9tat de la Nlle. Orl\u00e9ans.'  De Rabars deplores the sociopolitical situation in France and mentions the advance of cholera in the Bordeaux area as well as the measures being taken to avoid the epidemic.  He says that Auguste is now married to Louise [n\u00e9e Perrin], and he hopes that things go well.  De Rabars complains about the trouble that his son has caused him, but the younger De Rabars has been home for a while and has returned to his old self.  De Rabars mentions the drought in the Bordeaux area.  He wants to know if the vine slips he had sent Auguste's brother arrived, and he will want to know if they survive in the future.  The writer says that if Dubroca [apparently in Louisiana] remembers him, then remember De Rabars to Dubroca and tell the latter about De Rabars' nephew Dunogu\u00e9.\n","donor":"Charles de Rabars, (Brun?), to Auguste Doussan in Baton Rouge, '\u00c9tat de la Nlle. Orl\u00e9ans.'  Charles de Rabars, a resident of the Bordeaux region of France, served in Napoleon's army with Antoine Doussan.  De Rabars also maintained a lengthy correspondence with Auguste Doussan, a relationship initiated at Antoine Doussan's behest. Auguste Doussan was the younger brother of Antoine Doussan.  He practiced medicine in Grasse, France, and married Louise Perrin, who was a relative of the Allain family of Louisiana.De Rabars discusses the sociopolitical situation in France and mentions the advance of cholera in the Bordeaux area as well as the measures being taken to avoid the epidemic.  He reports that Auguste is now married to Louise Doussan, n\u00e9e Perrin.  De Rabars discusses his family life.  De Rabars mentions the drought in the Bordeaux area and asks if the vine slips he had sent Auguste's brother arrived.  \n","langua":"French.","type":"Text.","subjec":"Rabars, Charles deily; Doussan, Auguste Alexandre; Doussan, Louise Perrin; Doussan, Antoine J.; Bordeaux (France)--History--19th Century; Baton Rouge (La.)--History--19th Century; New Orleans (La.)--History--19th Century; France--Politics and Government--18th Century, 19th Century; Cholera--France--History--19th Century; Droughts--France--History--19th Century; Agriculture--Southern States--History--19th Century","contri":"I. Correspondence, 1827-1849, undated.","addres":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )","findin":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4800.pdf","color":"U: 314","cite":"Doussan Family Papers, Mss. 4800, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana.","rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item  is therefore in the public domain.  Permission to reproduce this image must be  requested through the Special Collections Division, Louisiana State University  Libraries.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Mention the \"\"Item number\"\" or \"\"Item URL\"\" in your request.   ","file":"Jpeg2000","digiti":"Images digitized using a Epson Flatbed Scanner 110000XL and converted from tiff to jpeg2000 with Photoshop software.","source":"See 'reference url' on the navigation bar. ","publis":{},"fullrs":{},"find":"759.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-01-30","dmmodified":"2015-01-30","dmoclcno":{},"dmrecord":"731","restrictionCode":"1","cdmfilesize":"1146","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Images digitized using a Epson Flatbed Scanner 110000XL and converted from tiff to jpeg2000 with Photoshop software.</hardwareSoftware>
+  </extension>
+</mods>

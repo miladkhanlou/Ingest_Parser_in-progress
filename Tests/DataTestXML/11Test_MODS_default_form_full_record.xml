@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:mods="http://www.loc.gov/mods/v3">
+  <identifier type="local" displayLabel="Item Number">4693</identifier>
+  <identifierS type="local" displayLabel="Item Number">4693</identifierS>
+  <identifier Shape="local" displayLabel="Item Number">4693</identifier>
+
+  <identifier type="isbn" displayLabel="ISBN">123456789</identifier>
+  <part>
+    <detail type="Volume">
+      <caption>Vol.</caption>
+      <number>20</number>
+      <title>The volume title</title>
+    </detail>
+  </part>
+  <name type="corporate" displayLabel="Contributing Repository" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no2015036095">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+
+</mods>

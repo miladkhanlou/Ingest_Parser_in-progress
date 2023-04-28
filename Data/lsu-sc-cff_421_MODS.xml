@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M12</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/828</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>828</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/828/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"M12","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M12\nNlle Orleans six_\nJuillet matin _\nMon cher Arroyo,\nJe ?uis arriv\u00e9 hier soir par la grace de\nDieu et d\u2019un Caboteur, avec lequel je me ?uis\nembarqu\u00e9 en face de Mm Erue. Je desire\nque ma lettre vous trouve content et Joyeux\nce ?era une preuve que votre aimable\n\u00e9pouse sera heureusement accouch\u00e9e.\nJe vous envoie en toute h\u00e2te votre\nwrit, pour saisir de ?uite les esclaves\net habitations de ceux de tous les defendeurs\nqui [rature] esconte [?]. Ce m\u00eame writ vous peut\nservir, le Greffier chez le quel J\u2019ai et\u00e9 \u00e0\n8h du soir pour prendre un autre writ\nparceque Mazureau croyait cela nece??aire\nm\u2019a dit qu\u2019il vous ?uffisait de rayer votre\nretour ecrit audos en le croi?ant ?eulement\nde cette mani\u00e8re \u00d7 parce que Jusqu\u2019au\n1er Jour d\u2019Ao\u00fbt, dit-il vous avez le droit\nD\u2019agir en vertu de ce writ, et vous pouvez\nchang\u00e9 votre retour selon les Circonstances.\nEncons\u00e9quence. ?aisissez sans delai Jusqu\u2019\u00e0 [rature]\nla valeur au Comptant [?] de $ 9160. &amp; tous\nles\n1\nM12\nles frais du Greffier et les v\u00f4tre _ annoncez-en\nla vente ?ans delai, ce moyen ?era plus expeditif\nqu\u2019une action contre ce Jacquot [ ?], car le\nJuge de la cour de District part cette semaine\npour la Baye St Louis. Mazureau partage_\nvotre indignation et la m\u00eame [rature] il pense que\nGrymes est pour quelque choses Dans l\u2019ent\u00eatement\ndu ?usdit Jacquot ; or, plus de m\u00e9nagement\nJevous enprie_ emmenez de?uite les esclaves\nchez vous et ?i on veut en?uite vous offrir [rature]\nune Caution pour les representer le Jour de la\nVente ne l\u2019acceptez qu\u2019autant que cette Caution\naura assez de propri\u00e9t\u00e9s immoblili\u00e9r\u00e9s Non\ngrev\u00e9es d\u2019hypoth\u00e9ques _ cette condition est _\nde rigueur. Lorsque vous aurez saisi __\n[rature] vous mettrez ?ur la marge du writ\na partir du petit point 1 _ on the of july_\n1825 Seized _ . . slaves named \u2026\nand a plantation measuring one arpent front by _\nforty arpent in depth, in this parish situate between\nMr and Mr. as the proprety_\nof the widow Mad\u00e8re one of the defendants.\nles blancs que vous voyez vous les remplirez\npar les [rature] nombres, les noms et les ages des esclaves\nsaisis, et les noms des voisins.\nJe Compte sur votre z\u00eale pour l\u2019execution\nprompte\n2\n3\nM12\nprompte de cette saisie, et ?urtout ?ur la prise\nde possession, des esclaves. [rature] ?i dans cette _\noperation on vous donne les $1800, alors _\nSuspendez en vertu de l\u2019accord que vous avez en\nmain et en venant en ville apportez cette ?omme.\nJevous Salue d\u2019Amiti\u00e9\nCuvillier\nMes regrets \u00e0 Madame\nJevous prie _\nLorsque\u2019il ?era lheure d\u2019aller faire ses _\nvisites jirai chez Made Duillet et chez leur\nTresorier _ car en ce moment il nest encore\nque cinq heures_","typa":{},"genera":{},"fullrs":{},"find":"829.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"828","restrictionCode":"1","cdmfilesize":"59486","cdmfilesizeformatted":"0.06 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

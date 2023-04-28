@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Letter from W. &amp; D. Urquhart to James P. Bowman, 1858 February 23</title>
+   </titleInfo>
+   <name type="personal" displayLabel="Addressee">
+      <namePart>Bowman, James P. (James Pirrie), 1832-1927</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm>
+      </role>
+   </name>
+   <name type="corporate" displayLabel="Creator">
+      <namePart>W. &amp; D. Urquhart</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm type="text">New Orleans (La.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1858-02-23</dateCreated>
+      <dateCaptured encoding="w3cdtf">2012-10-12</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Business enterprises</topic>
+      <topic>Finance</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Sugar trade</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Cotton trade</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <note type="biographical/historical" displayLabel="Biographical Note">W. &amp; D. Urquhart was a commission merchant firm who facilitated the sale and shipment of cotton and sugar in New Orleans.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Letters (correspondence)</form>
+      <extent>1 letter</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Bowman-Turnbull Family Papers</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-bowmanturnbull:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Series Number">
+         <partNumber>Series I</partNumber>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series Name">
+         <partName>Bowman Family Papers, 1829-1972, undated</partName>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Subseries Number">
+         <partNumber>Subseries 1</partNumber>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Subseries Name">
+         <partName>Correspondence, 1854-1922, undated</partName>
+      </titleInfo>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 5059</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>T:53, Box 1, Folder 7</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No copyright - United States</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright of the original materials in this collection has expired and they are therefore in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Bowman-Turnbull Family Papers, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">5059b01f07002a</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/mlm</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-09-28</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

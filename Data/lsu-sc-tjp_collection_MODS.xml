@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Thomas H. and Joan W. Gandy Photograph Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;This digital collection contains a small sample of the Dr. Thomas H. and Joan Gandy collection which documents 100 years of history in and around Natchez, Mississippi. The physical collection contains approximately 20,000 images including wet and dry collodion glass plate negatives, film negatives, ferrotypes, and historic and modern prints as well as nearly 100 pieces of photographic equipment, including a Norman Studio portrait camera and an array of late-19th and early-20th century cameras. All are housed at LSU Libraries Special Collections in Hill Memorial Library.&lt;/p&gt; &#xD;
+&#xD;
+&lt;p&gt;&lt;strong&gt;Photographic History&lt;/strong&gt;&lt;/p&gt; &#xD;
+&#xD;
+&lt;p&gt;Brothers Henry and M. J. Gurney established a daguerreotype studio in Natchez in 1851 and began recording the lives of their fellow citizens using the latest in photographic technology. The Civil War brought economic disaster and social upheaval to the region, but Natchez quickly recovered. In 1870, Henry Gurney hired a new employee, Henry Norman, and by 1876 Norman had opened his own studio, buying out Gurney's studio to do so. Henry Norman became the best-known photographer in the region. When he died in 1913, his son Earl inherited the studio. Earl, like his father, became widely known for his photographic skills and left images spanning nearly 40 years.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">Collection contains glass plate and celluloid negatives of Natchez photographers Henry Norman, Henry Gurney, and Earl Norman, collected by Dr. Thomas and Joan Gandy. Images include scenes of Natchez, historic buildings, civic events, sports, family groups, and portraits.</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-tjp</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_TJP</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_TJP</identifier>
+</mods>

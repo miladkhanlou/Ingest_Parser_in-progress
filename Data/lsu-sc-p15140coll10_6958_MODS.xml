@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 10, Page 19</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2364</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2364</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2364/json"
+                        timestamp="2017-02-03 08:24:55">{"title":"Section 10, Page 19","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"AND 0PEL0US\nAS RAILROAD.                             19\nHEphcmse                     1\ns\ncet, Victor                         2\nyell, John                         !\n\u201ee, Charles                        4\ne Lean.lr-.-: P                    4\nre, Ol.exiine P                     4\nUtah Alfred                         1\nHittaaic, -feau B                 4\ntin\u00b0E,nelia                          2\nrrnult, Auguste M             1\nStelly, Alexandre                    2\nStelly, Tbeodate 4\nStelly, Thereuce 1\nStelly, Louis 4\nStelly, Adolphe 2\nSoeleau Joseph A.                 2\nShields, William'B.              4\nSlane W. H.                          2\nSlng-.g-, Phillippe 8\nSoeleau, Louis                         2\nEx, James M                    4\nBy, Dickson                       1\n\u25a0is, John                         1\nlescott, Wm AI                  40\nSoeleau, Charles 2\nSmith, B.J. 20\nSmith, B. A.                        10\nSmith Raphael J. jun.          4\nI, Pierre                          4\nSmith, John F. 4\nSmith, Robert E. 28\nSimms, B.                               4\nQ\nSmith, C. B.                        4\nnebedos, Joseph E.           2\nSandoz, Joel H. 2\nSansat, F. 1\nSheuble, Daniel                     4\nR\naviol.J. F.                          10\noy, Jean Bapliste                 4\nchard,   Raphael                   2\nchard, Jos, rh !).                1\ns7n77liimos T.                   4\noy.Ulger                            4\nOllill, Theodore S\nfeard, Simon                     2\nwhits, Thomas 11.             4\nSt'. t'.uudiiinsE.\"' 2\nScribner, T. II. 10\nSmith, Daniel J. D.              4\niiiiarrl Xripohau,\n*d, John                             2\nT\ncliaril, Get-rrsi.m                    ml\nThompson, Charles                 2\n\u25a0es, A. B.                            1\nThmu.ison, J. M.                     2\nTaylor, H. P.                           4\np.&amp;V.                        40\n'I'llornpson, F. H.                           2\nThompson, Andrew J.            2\n*Md, Jean F.                   4\nThompson Cyrus                      2\n\u00ab*s, George                       4\nThompson, Cyrus                 20\n\u00bb,!&lt;%r .routes l.[.                4\n' 1 John                                     4\n\u25a0 J^lli^llntclow..)    2","fullrs":{},"find":"2365.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2364","restrictionCode":"1","cdmfilesize":"506595","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

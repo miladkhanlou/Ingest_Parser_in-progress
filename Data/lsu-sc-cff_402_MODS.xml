@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M49</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1338</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1338</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1338/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"M49","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\n-M 49\n\u2020\nJ. M. J. Nouvelle-Orl\u00e9ans, 26 Mars 1869.\nMadame Queyrouse,\nRue St Louis, 17.\nNouvelle-Orl\u00e9ans.\nMadame,\nNe pouvant, \u00e0 mon grand regret, aller moi-m\u00eame\nvous voir. Je vous envoie ce petit mot, comme je l\u2019ai\npromis \u00e0 M. Salle, pour vous dire que malheureu-sement,\nmalgr\u00e9 tous mes efforts, je n\u2019ai rien pu obtenir\nde Mgr l\u2019archev\u00eaque, qui se croit oblig\u00e9 en conscience\nde refuser la permission demand\u00e9e, jusqu\u2019\u00e0 ce qu\u2019il ait\nre\u00e7u les renseignements lui donnant la certitude que\nla personne en question n\u2019avait pas \u00e9t\u00e9 baptis\u00e9e.\nJe regrette d\u2019autant plus d\u2019avoir \u00e9chou\u00e9, que je suis\ntout dispos\u00e9 \u00e0 admettre la sinc\u00e9rit\u00e9 de M. Salle et\nla v\u00e9rit\u00e9 de ses affirmations. Et ce qui est le plus f\u00e2 .\ncheux dans cette affaire, c\u2019est que M. Salle et la\njeune personne paraissent dispos\u00e9s \u00e0 se marier\n2\nM 49\ndevant le juge, sans tenir compte de l\u2019emp\u00eachement\nde l\u2019Eglise, ce qui sera un grand scandale, les tiendra\neloign\u00e9s des sacrements, et mettra en danger leur salut.\nJe prie Dieu de toute mon \u00e2me qu\u2019il d\u00e9tourne ce\nmalheur.\nTout en leur exprimant mon regret de n\u2019avoir pas\nr\u00e9ussi, dites-leur bien de ma part qu\u2019ils r\u00e9fl\u00e9chissent\naux suites f\u00e2cheuses de la d\u00e9marche coupable qu\u2019ils\nont l\u2019intention de faire.\nJe suis heureux, Madame, d\u2019avoir cette occasion\nde vous exprimer les sentiments respectueux\navec lesquels j\u2019ai l\u2019honneur d\u2019\u00eatre\nvotre tout d\u00e9vou\u00e9 serviteur en N. S.\nN. J. Perch\u00e9\n[apost. vic. \u2013 g\u00e9n ?]","typa":{},"genera":{},"fullrs":"Volume7\/M49.pdf","find":"1340.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1338","restrictionCode":"1","cdmfilesize":"8290","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

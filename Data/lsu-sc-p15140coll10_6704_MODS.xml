@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 1</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2110</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2110</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2110/json"
+                        timestamp="2017-02-03 08:24:45">{"title":"Section 3, Page 1","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"ADDRESS\nPEOPLE OF THE SOUTHERN AND WESTERN STATES,\nand more particularly to those of louisiana, texas, mississippi,\nalabama, tennessee, arkansas, kentucky and missouri.\nFellow-Citizens :\u2014\nThe portion of the Union which we occupy is one of the most\nwealthy in the world, and produces, in proportion to population, the\ngreatest amount of exportable commodities. Its population has\nbeen steadily increasing, and a condition of general prosperity prevails through its limits, which, if not as wide as it should be, may be\nsaid to depend upon causes altogether within our control.\nShall it be asserted, that this great section of the Union is so peculiarly agricultural that it can contain within its limits no large cities,\nno controlling centres and emporia, but must be dependent upon the\nNorthern Atlantic sea-boards, penetrated through mountain passes, and\nby the most difficult and devious roads, for the vitals of commercial\nlife and activity ? Is there any necessary reason that the whole commercial strength of the nation should concentrate in the cities of the\nNorth, whilst New-Orleans, Mobile, Charleston and Savannah, are\narrested in their progress, or exhibit at times even the evidences of\ndecline % Whence is it, that Louisville, Memphis, Vicksburg and\nNashville, have shown none of the progress that has marked other\nsections of the confederacy 1 Are the cities and towns of the South\nand South-west in particular to decline, or to remain stagnant, whilst\nthe din of progress is heard everywhere else ? Are there not sympathies and interests to bind us together in this section of the South and\nthe valley of the West, and can we not, by a concerted action, promote our common weal % Whilst we have been idle spectators, New-\nYork and Boston have been taking away the commerce of the rich\nand growing states of the North-west, which once paid tribute to us\nas it passed to the ocean, but which now avoids our limits, and refuses\nthe wealth which it formerly diffused through its channels. Are the\nmillions of the North-west more naturally allied to those of the North\nthan to us, who occupy a part of the same great valley, and are\nnearer of approach ; and must we forever abandon the idea of controlling, or of sharing their commerce?\nThese questions, fellow-citizens, have a direct and common interest\nto all of our states, and upon their solution will depend much of the history of this great and growing region in the future. Dense population,\ngreat and growing cities, wealth, power and influence, and political\nstrength on the one hand\u2014or scattering villages, decayed cities, stag-\n1","fullrs":{},"find":"2111.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2110","restrictionCode":"1","cdmfilesize":"582134","cdmfilesizeformatted":"0.56 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

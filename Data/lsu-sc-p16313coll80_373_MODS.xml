@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00000292f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">DETENU dane la geole de St. Jean Baptist, le nègre marron se nommant ETIENNE et appartenant à M. William Kerr de Neuvelle-Orlèans, il est ag or 14 ans et mesure 5 pieds 24 Octobre.</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <location/>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/834</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>834</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/834/json"
+                        timestamp="2017-02-13 13:34:03">{"title":"RSA00000292f","object":{},"publia":{},"date":{},"year":{},"film":{},"altern":{},"unique":{},"person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"DETENU dane la geole de St. Jean Baptist, le n\u00e8gre marron se nommant ETIENNE et appartenant \u00e0 M. William Kerr de Neuvelle-Orl\u00e8ans, il est ag or 14 ans et mesure 5 pieds 24 Octobre.","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume4\/RSA00000292f-0.jp2","find":"898.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-02-24","dmoclcno":{},"dmrecord":"834","restrictionCode":"1","cdmfilesize":"31893","cdmfilesizeformatted":"0.03 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

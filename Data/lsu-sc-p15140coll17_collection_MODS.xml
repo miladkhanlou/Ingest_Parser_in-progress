@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>LSU Libraries Mardi Gras Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;Documenting a span of over a hundred years, this collection of Carnival and Mardi Gras items consists of ephemera and other objects selected from several manuscript collections in the &lt;a href="http://www.lib.lsu.edu/special/"&gt;LSU Libraries Special Collections&lt;/a&gt;. The oldest item represented in the collection, &lt;em&gt;Rex&lt;/em&gt;, 1875, is a sketchbook containing watercolor portrayals of the planned costumes and floats of the Krewe of Rex for that year. There are also invitations and programs for Mardi Gras Balls, as well as dance cards for attendees. Of the more recent items included, there is a selection of contact sheet of photographs documenting the Baton Rouge Spanish Town Parade in the 1970's.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Reflecting the industry that grew from the cultural event, there is a pamphlet issued by the Illinois Central Railroad company inviting passengers to take the "Third-Annual Mid-Winter Vacation" in 1916, a trip starting in Chicago and ending in New Orleans for Mardi Gras.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Mardi Gras Mambo: Selections from LSU Libraries Special Collections is an assortment of Mardi Gras-related materials from 1875 to 1980. Mardi Gras celebrations in both New Orleans and Baton Rouge are represented in the photographs, programs, invitations, and other selected items.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p15140coll17</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p15140coll17</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p15140coll17</identifier>
+</mods>

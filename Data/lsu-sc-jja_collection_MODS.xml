@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>John James Audubon in Louisiana</title>
+  </titleInfo>
+  <name type="corporate"
+      authority="naf"
+      authorityURI="http://id.loc.gov/authorities/names"
+      valueURI="http://id.loc.gov/authorities/names/no2015036095"
+      displayLabel="Contributing Repository">
+   <namePart>LSU Libraries. Special Collections</namePart>
+   <role>
+      <roleTerm type="text"
+                authority="marcrelator"
+                authorityURI="http://id.loc.gov/vocabulary/relators"
+                valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+   </role>
+</name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The John James Audubon in Louisiana collection contains water colored lithographs and engravings of birds Audubon did during a 4-month stay at the Oakley Plantation in St. Francisville, Louisiana in 1821. Many were later published in various incarnations of Birds of America. The Audubon prints chosen for digitization are in two different forms: large, loose folios (30" x 40") and octavo book plates (7" x 11") and were chosen from the "John James Audubon Collection," part of the library's E.A. McIlhenny Natural History Collection. This collection contains a complete Elephant Folio, one first-edition Royal Octavo, four later-edition Octavos, 117 separate Folio prints, and 32 original pencil drawings associated with the production of the Octavo edition of the Birds of America.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;A collection of hand-colored lithographs and engravings published in Audubon's Birds of America. Audubon painted these birds during a 4-month stay at the Oakley Plantation near St. Francisville, Louisiana, in 1821.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-jja</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_JJA</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_JJA</identifier>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 9, Page 12</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2342</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2342</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2342/json"
+                        timestamp="2017-02-03 08:24:54">{"title":"Section 9, Page 12","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"opposite bank of the Mi. slsaippi river from Xew Orleans       1\nwestward through or in   i   1 hi ml m\\     t1 1     t   , '   '\nLThTpau'shol1'\"    1,7\" ,      '   ,\nued to the |   t\nof  ,   mtinu I j        I     I\nthe Rio Gi in.'. b ' i . i i ,'   i\nfor the mutt   t , '\n^rrTtoneX and 1   \"   feerth^'\n3..The capital stock of the company is fixed at three millions of\ndollars, divided into one hundred and twenty thousand si,,,,,'.' .',','\n\"   \" '     \"'   \"\"\"I t\nXil7:,7fixedDby8the Board of 1 &gt;n l,        p      ,,\nnotice of each call shall be guet,    ' ,  ,  ,i , ,'\nm Niv,  Oil, in-   e huh sh ill hi   k    inn  In l \u201e\noilu i u pi   ,i   i i t 1 ii | i   d     i    i t ,    , mn bedcsilf.\nnated along the line of the road.    Not more than three calls shall\nI     m   '    i    i       v i      '     -if. ...pm' years, the calls to ho fixed by\nthe stockhol 1 I ,      1   ,,\n4..The said, i id b, otganhed,\nso soot, as shares of aloci.   t,,   eg.     . \u25a0 ,:: .:   ,,f ; I,r&lt;\u2022:\u25a0   : in   bed thousand\ndollars shall have boon subscribed.\n;     11                            I i dat it  dom-\nicil, in tl                             ( i     i 1 of eighteen\noftherrloh I\ntheir election.    A qu i it lea t even\nDirectors.      Mallei .       i  .       i\neach share  shall  be  entitled to one vole.    After the first vent- all\nshares of stock must be owner] voter in his in\nVotes maybe  given  in   pin  on  oi Iv   proxy        \\,,  p  mon shall vol.\nmoi.   than   lifieen  I             ,1 .                          he  Pre-iilcrif ni tit\nlump it Mb   in.      .1     ' i        i u legal service\nof nil pu,,.     i.   ,                     i .   .y may be made, andtt\u00bb\n, ,m ,   ,         ,ti mm, whether\nmade on the Preside,    \u201e -  at the office\nof the company, in the hands of any of its officers.\n6..The fii t 1  1  , f I. .   ,', ,          - -eon as the\nlists of sul snip, lo,   '    I , ih'i\nthe time and pi '         '     7 '\nreceiving    no    i      i ces ,,t lies eli\ntion shall bo given in ic.            ... ,\u201e.\ntwo newspapers published in New Orleans.    The first election slial'","fullrs":{},"find":"2343.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2342","restrictionCode":"1","cdmfilesize":"522442","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

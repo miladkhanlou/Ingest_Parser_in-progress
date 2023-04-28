@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>West Access Channel realignment, Atchafalaya River : hydraulic model investigation</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Maggio, David M. Nickles, Charles R.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Contributor">
+      <namePart>United States. Army. Corps of Engineers. New Orleans District.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1989</dateIssued>
+      <publisher>Hydraulics Laboratory (U.S.) Engineer Research and Development Center (U.S.)</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>River engineering</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Atchafalaya River (La.)</geographic>
+   </subject>
+   <note type="content">Technical Report Abstract: The entrance of the West Access Channel has required frequent maintenance dredging to maintain flow distribution to the West Atchafalaya Protection Levee. The channel has had a history of shoaling to the extent that the amount of flow through the channel has been significantly reduced. Due to channel alignment and length, the flows in the channel are normally too small to move the sediment through the channel. A 1:120-horizontal- and 1:80-vertical-scale movable-bed model was used to study the effects of relocating the entrance about 2.7 miles upstream of the existing entrance on the sediment load entering the West Access Channel. This configuration exited the Atchafalaya River at approximately 90 deg and decreased the length of the channel about 1.5 miles. The model results indicated the new alignment would reduce the amount of bed material entering the channel to almost zero.</note>
+   <name type="corporate"
+         authority="local"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Government Documents</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-govdocs-p16313coll35:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana Waterways Management Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Available in the Engineer Research &amp; Development Center (EDRC) USACE, Vicksburg, MS http://acwc.sdp.sirsi.net/client/search/asset/1030421</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail diglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll35/id/455</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-11-01</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll35</alias>
+         <pointer>455</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll35/455/json"
+                        timestamp="2017-02-07 15:32:29">{"title":"West Access Channel realignment, Atchafalaya River : hydraulic model investigation","date":"1989","creato":"Maggio, David M. Nickles, Charles R.","subjec":"River engineering--Louisiana;","covera":"Atchafalaya River (La.);","publis":"Hydraulics Laboratory (U.S.) Engineer Research and Development Center (U.S.)","descri":{},"notes":"Technical Report Abstract: The entrance of the West Access Channel has required frequent maintenance dredging to maintain flow distribution to the West Atchafalaya Protection Levee. The channel has had a history of shoaling to the extent that the amount of flow through the channel has been significantly reduced. Due to channel alignment and length, the flows in the channel are normally too small to move the sediment through the channel. A 1:120-horizontal- and 1:80-vertical-scale movable-bed model was used to study the effects of relocating the entrance about 2.7 miles upstream of the existing entrance on the sediment load entering the West Access Channel. This configuration exited the Atchafalaya River at approximately 90 deg and decreased the length of the channel about 1.5 miles. The model results indicated the new alignment would reduce the amount of bed material entering the channel to almost zero.","source":"Available in the Engineer Research &amp; Development Center (EDRC) USACE, Vicksburg, MS http:\/\/acwc.sdp.sirsi.net\/client\/search\/asset\/1030421","catego":{},"contri":"United States. Army. Corps of Engineers. New Orleans District.","type":{},"format":{},"langua":{},"relati":{},"rights":{},"audien":{},"identi":"westaccesschannelrealignment","fullrs":{},"find":"417.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2013-11-01","dmmodified":"2013-11-01","dmoclcno":{},"dmrecord":"455","restrictionCode":"1","cdmfilesize":"3453051","cdmfilesizeformatted":"3.29 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

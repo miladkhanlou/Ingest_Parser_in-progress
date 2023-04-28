@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 02</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/558</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>558</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/558/json"
+                        timestamp="2017-02-09 16:31:00">{"title":"Page 02","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"1 \u25a0\u00a3\u2022&gt;.\nI,.\nfflfc-.'\nIS\nrS-Bj\nif\nin-!?,\nle-olWi\ni \u25a0 v;\"\nliff:\nT\n\u25a0\u2022.\u2022.\nmi\nG O U T II - W E S T E It N  J O U K. NAb.\npreviously they had been estimated much higher. In\nMr. Mitchell's present work, he gives the descent of the\nfalls inn] rapids for ten miles below at seventy-four feet, whereas Schoolcraft, in IS32, by a moro correct observation, ascertained the entire descent, including sixteen and a half feet of\nperpendicular falls, and the rapids for half a mile below, nl\nforty feet; and the rapids in the next eighteen miles down to\nSt. Peter's river, do not exceed twelve feet, or eight inches\nper mile; making a total descent in eighteen miles of fifty-\ntwo feet, including the perpendicular falls of sixteen and a\nhalf foot.\nSouth Ameiiica is equally well delineated. Thecourses\nand proportions of the Amazon and Orinoco are more cor-\nreel than on any in.ep we have seen, not excepting Make'\nBrim's\nEunoi'i: is finely delineated upon the map: and the book-\ncontains n concise synopsis of the different countries and\nstate's, together with their statistics. In spreading out the\ngreat extent of the Russian tertitory, it slill leaves lhc country of tho bravo Poles with a name; although they have\nbeen deprived of their liberty and polilixal rights. The\nMediterranean sen, with the populous rcgionsaround it, iscon-\nopicuoii3ly laid down, with the fine islands by which it is\nchequered.\nAsia is more minutely laid down than common; and the\nmap designates iho different regions occupied by the different\nraces of men, who people thnt immense continent. The interior of that continent, especially the regions inhabited by the\nTurcomans, the Kulmuks, Mongols, Tartars, and Samoieds,\nnre de signaled on the plan of Multe' Brim.\nAfrica is no less well executed, and contains the most\nrecent discoveries in relation to ils interior unknown regions,\nand the sources of some of the large rivers which lake their\nrise in the mountainous regions of the interior. The Niger,\nor Cluorra, is laid down in accordance with the discoveries of\nRichard and John Lander, Slill a large portion of its course\nis rather problematical. The map exhibits more correctly\nthe countries of the coast around, und of the interior: for\nwhich we are mostly indebted to Malle' Brim's maps of Africa.\nToe most interesting portion, however, is embraced in\nii .inns of watery wastes,speckled by\nids, solitary and remote, or grouped\ninto numi rous classes: This division or classification was\nfirst m i le by Milte' Bran.\nOceanic a: those vast\ninnumerable small isls\nminutely into the merit\nsmall innccurn\nother.    The \/\u201e\n&gt;eyt\n1 our e\n;\nd-'sign to enter\nii the map, or to make objections to\n1 maceur s; but we believe it not excelled by any\n' the world, which accompanies the map,\nis upon the plan of that which accompanies lhc map of the\nUnhed States, as published in 1S35. It has n copious consulting indi &gt;.. for pointing out the spot upon the mop where\nany town or o|her locality may be found. This is very Con-\nvenient to those who are not familiar with the particular locality of cities und countries upon the map; and even foi\nthose who arc w. II versed in gi ography, and who may occasionally need some assistance in ascertaining the location ol\nstrange cities and places.\nAs a frontispiece, there is a map containing the color\" unil\nemblems of nearly all the flags of civilized nations ihroimh\nout the world. This is quite an interesting map, and merited\nmore care and attention in the painting than it has obtained,\nThe typographical execution of this volume is neat end\nplain, and such as will please all; if we may except the\n\"black lines\" around the margins, which would not so certainly please all parties. It may nol be in bad taste\" but it\nevidently must remind the two great opposing parties in'tali\ncountry, of an occurrence in the Senate ofthe United Stutc?\nwhich, in ils different and opposite stages, was equally obnoxious lo both. We feel confident, however, that the publishers\ndid not, by these lines, intend lo sustain the views ol either\nparty, or intend them to have any bearing whatever upon tho\nmere act ol \"expunging'1 in the abstract. The matter contained in this volume, is probably as correct as that of any\nsimilar work.\nOur attention has been drawn particularly to the chapters\nupon the States of Mississippi and Louisiana, in which w\u00bb\nfind a very correct nnd condensed synopsis of the physical\ngeography and statistics, with two or three, exceptions, which\nareas follows; viz:\n1. Mississippi. This Statu is staled to have an \"average\nlength of three hundred miles.\" In tlii3 he follows Mr,\nFlint almost verbatim ; and may be correct, as the distance\nbetween 31* and 35? north latitude, the extremes ofthis\nState on the. river, is about two hundred and eighty miles,\nand the south-east corner, which is about fifty miles longer,\nand as wide, would probably make the whole State average\nthree hundred mihs in length : but Alabama, which lies the\nsame nnithern and southern limits, is given at two hnnilriel\nand eighty miles long. Another error has been admitted in\nthe same way, from Mr. Flint: The direct length ofthe\nState ale, lg the Mississippi river is given at three hundred\nanel eight miles, which is just seventy-seven miles to a degree, or nearly eight miles too much for every degree. In\nthis distance he says the river has a serpentine \"course of near\nseven hundred miles,\" which is very erroneous; for the\nwhole distance by the river from the mouth of the Ohio lo\nthe thirty-first degree of north latitude, is only about seven\nhundred and twenty-five miles, nnd of this distance about su\nty miles of the river border Kentucky, and nearly one hundred and forty on Tennessee, so that there remain only five\nhundred and ten miles as its course opposite the State of Mississippi ; previous to some cut-ofls, it was five hundred and\nthirty miles. Tho crop ofthis State is given at 31)0,003 baits.\nof cotton: yet the crop of 1S3G was about 350,000 bales\nOne or two small errors are observed in l cl .tion to Nalehiz;\none of which is on page 20;\"&gt;, where he says, \"many of lhc\nhouses are embosomed in groves of orange trees,\" &amp;c. \"I&gt;ls\nmay have originated in the laurica mundi having been mis-\ntaken for the orange. The orange tree will not stand the\nwinters nt Natchez, unless protected from the cold. The\nlanding or \" Under the Hill,\" is said to be built upon a Ha'\nor \"dead level,\" which is not the case; as it is principally\nbuilt along the foot of the bluff\u2014and upon very uneven\nground.\n2. Louisiana.    We admire the perspicuity with which","fullrs":{},"find":"559.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"558","restrictionCode":"1","cdmfilesize":"1861215","cdmfilesizeformatted":"1.77 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

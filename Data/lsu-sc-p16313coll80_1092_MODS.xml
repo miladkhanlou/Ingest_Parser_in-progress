@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>R U N A W A Y.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000747e</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Louis Fabre</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1859-09-24</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>On Black River</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Pointe Coupée, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1859</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1859-09-18</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">R U N A W A Y . WAS committed to the jail of this parish, on this 18th inst., a Negro Man, calling himself FORTUNE, and who says  that he belongs to Dr. Gauge, residing on Black River. Said negro is about 30 years old ; of very black complexion, and about 5 feet 2 or 3 inches in height. The owner is requested to come forward, pay charges, and take him out of jail. LOUIS FABRE, Jailor. P't Coupee, Sept. 24, 1859.
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">very black;</note>
+   <note type="content" displayLabel="Slave Owner">Dr. Gauge
+</note>
+   <note type="content" displayLabel="Slave Name (Age)">Fortune (30)
+</note>
+   <note type="content" displayLabel="Slave Age Under 12">N
+</note>
+   <note type="content" displayLabel="Physical Description Provided">Y
+</note>
+   <note type="content" displayLabel="Slave Sex">M;</note>
+   <note type="content" displayLabel="Personality Description Provided">N
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 4
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Pointe Coupee Democrat. : (False River [i.e. New Roads], Parish of Pointe Coupee [La.]) 1858-1890
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86053686/1859-09-24/ed-1/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86053686/1859-10-01/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1859-10-08/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1859-10-15/ed-1/seq-2/;
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86053686
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2526</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-05-11</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2526</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2526/json"
+                        timestamp="2017-02-13 13:34:10">{"title":"RSA00000747e","object":"sn 86053686\n","publia":"Pointe Coupee Democrat. : (False River [i.e. New Roads], Parish of Pointe Coupee [La.]) 1858-1890\n","date":"1859-09-24","year":"1859","film":"page 2, column 4\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1859-09-24\/ed-1\/seq-2\/\n","unique":"R U N A W A Y.\n","person":"Louis Fabre\n","parish":"Pointe Coup\u00e9e, La.\n","digita":{},"acknow":"1859-09-18","public":"Dr. Gauge\n","town":"on Black River\n","relati":"Fortune (30)\n","slave":"M;","slavea":"very black;","slaveb":"N\n","slavec":{},"reward":{},"multip":{},"physic":"Y\n","persoa":"N\n","transc":"R U N A W A Y . WAS committed to the jail of this parish, on this 18th inst., a Negro Man, calling himself FORTUNE, and who says  that he belongs to Dr. Gauge, residing on Black River. Said negro is about 30 years old ; of very black complexion, and about 5 feet 2 or 3 inches in height. The owner is requested to come forward, pay charges, and take him out of jail. LOUIS FABRE, Jailor. P't Coupee, Sept. 24, 1859.\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.\n","type":"text\n","format":"clipping\n","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1859-10-01\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1859-10-08\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1859-10-15\/ed-1\/seq-2\/;\n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000747e-0.jp2","find":"2596.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-11","dmmodified":"2016-05-11","dmoclcno":{},"dmrecord":"2526","restrictionCode":"1","cdmfilesize":"85075","cdmfilesizeformatted":"0.08 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

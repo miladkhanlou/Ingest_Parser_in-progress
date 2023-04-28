@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Navajo man</title>
+  </titleInfo>
+   <subject authority="lcsh" displayLabel="Provenance">
+      <hierarchicalGeographic>
+         <continent>North America</continent>
+      </hierarchicalGeographic>
+      <hierarchicalGeographic>
+         <country>USA</country>
+      </hierarchicalGeographic>
+  </subject>
+   <subject authority="lcsh">
+      <topic>Dolls</topic>
+   </subject>
+   <abstract displayLabel="Description">Male adult, Navajo man, brown cloth head and all body, painted features, black hair wig, white head-band, white yarn tied at the back of the hair, brown cloth boots, blue velvet blouse with lining, bead buttons, belt with bead decorations, white pants have side slit on each leg, beads earrings and necklace. Accompanying information describes that Navajo men wear loose flapping trousers and velveteen blouses. Their wide belts are decorated with silver and often with turquoise. Doll body is hand and machine-made. Costume is machine-made.</abstract>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>41 cm</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Edith Dabney Doll Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll9:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Box 14</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="citation/reference" displayLabel="Associated Artifacts">Navajo woman</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll9/id/139</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-05-28</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll9</alias>
+         <pointer>139</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll9/139/json"
+                        timestamp="2017-02-07 09:41:25">{"title":"Navajo man","descri":"Male adult, Navajo man, brown cloth head and all body, painted features, black hair wig, white head-band, white yarn tied at the back of the hair, brown cloth boots, blue velvet blouse with lining, bead buttons, belt with bead decorations, white pants have side slit on each leg, beads earrings and necklace. Accompanying information describes that Navajo men wear loose flapping trousers and velveteen blouses. Their wide belts are decorated with silver and often with turquoise. Doll body is hand and machine-made. Costume is machine-made.","notes":"41 cm","date":{},"coverb":{},"subjec":"Dolls","covera":"North America","proven":"USA","provea":{},"associ":"Navajo woman","source":"Box 14","object":{},"creato":{},"contri":{},"publis":{},"type":{},"format":{},"identi":{},"langua":{},"relati":{},"rights":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html  \tMention the \u201cItem number\u201d or \u201cItem URL\u201d in your request.","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","fullrs":{},"find":"140.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2014-05-28","dmmodified":"2014-05-28","dmoclcno":{},"dmrecord":"139","restrictionCode":"1","cdmfilesize":"667","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

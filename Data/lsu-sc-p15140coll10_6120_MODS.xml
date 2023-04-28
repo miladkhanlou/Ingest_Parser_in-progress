@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 189</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1674</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1674</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1674/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 189","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"h, la chair des femmes des teintes marmoreennes. Les hommes y\nafeondaieut, et uotamnient les amis dc Yileor Thibodeau.\nLe bal s'alluma aux grincements du violon.\nLa salle avait un aspect pittoresque. Les revolvers et les poi-\ngnards y brillaient a la ceinture des danseurs.\nOn cut dit un fandango mexicain, a voir l'cntrain dc la danse et\nle pittoresque des costumes.\nCinq homines,\u2014etait-ec cinq nouveaux danseurs ?\u2014sc prescnte-\nrent tout-ii-coup sur la galcrie ou regorgeait la foule.\nDon Juan Yileor dansait en ce moment, ne se doutant pas qu'il\nallait avoir a faire avec la statue du Conimaudeur.\nPauvre Don Juan Vileor !\nCependant les 'cinq hommes avaient fendu lentement la foule et\na'etaienL avances lentement vers une des portes d'enti-ee.\n(] \" Faites-moi venir le chef de 1'etablissement,\" dit un des cinq\nhomines, petit, mais nerveux, yif comme un taon, brave comme Ney\nou Murat, uu des plus beaux et des plus probes caracteres de cette\nparoisse,\u2014Pierre Maux.\nLe chef accourut.\n*' Vileor Thibodeau cst-il ici ?\n\u2014Oui, U danse.\"\nAlors, et apres avoir montre\" sa ceinture vigilante ornec d'une\ngaine d'oii sortait la c-rossc d'uu revolver, Pierre ajouta :\n\" Combien de portes ?\n\u2014Trois, dit l'hote.\n\u2014Prends mon fusil et fais bonne garde a celle-la, car si c'est par\nlii que Yileor s'ochappe., je jure Dieu que tu recevras toi-rugme,.. le\nchatiment que nous lui destinons.\"\nL'hote prit le fusil qu'on lui presentait et se planta &amp; la porte,\nraide coinmc une sentinelle autrichienne.\nII etait evident que si Vileor sortait de Ia salle, ce ne serait pas\npar la.\n\" Toi, a, cette issue 1 toi, a l'autre,\" continua Pierre Maux, en re-\njctant au dehors la foule amoncelee sur Ia galeric.\nCet ordre avait ete donne a deux de ses hommes qui se range-\nrent aussitot aux pastes a. eux assignee.","fullrs":{},"find":"1675.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1674","restrictionCode":"1","cdmfilesize":"385493","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

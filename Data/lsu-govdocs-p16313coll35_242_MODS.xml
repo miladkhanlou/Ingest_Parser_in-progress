@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Report of the engineer of the Second District Swamp Lands, state of Louisiana</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Louisiana. Second Swamp Land District.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1854</dateIssued>
+      <publisher>New Orleans : Emile La Sere, State Printer, 1854.</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Drainage</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Flood control</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <note type="content">At head of title: Appendix; Report dated December 20, 1853, and signed: Lafayette Caldwell; addressed to Stephen Van Wickle, Commissioner, Second Swamp Land District; Sometimes also found as an appendix to the Louisiana Senate journal for 1854. Cf. Foote; Last page contains letter to L. Caldwell from John Lobdell of West Baton Rouge Parish, requesting a levee be built at his plantation.</note>
+   <note type="content" displayLabel="Category">flood control</note>
+   <physicalDescription>
+      <extent>6, [1] p. ; 25 cm.</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="local"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Government Documents</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-govdocs-p16313coll35:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana Waterways Management Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>TC977 .L8 A53 1854 LARA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail diglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll35/id/47</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-05-10</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll35</alias>
+         <pointer>47</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll35/47/json"
+                        timestamp="2017-02-07 15:32:28">{"title":"Report of the engineer of the Second District Swamp Lands, state of Louisiana","date":"1854","creato":"Louisiana. Second Swamp Land District.","subjec":"Drainage--Louisiana; Flood control--Louisiana","covera":{},"publis":"New Orleans : Emile La Sere, State Printer, 1854.","descri":"6, [1] p. ; 25 cm.","notes":"At head of title: Appendix; Report dated December 20, 1853, and signed: Lafayette Caldwell; addressed to Stephen Van Wickle, Commissioner, Second Swamp Land District; Sometimes also found as an appendix to the Louisiana Senate journal for 1854. Cf. Foote; Last page contains letter to L. Caldwell from John Lobdell of West Baton Rouge Parish, requesting a levee be built at his plantation.","source":"TC977 .L8 A53 1854 LARA","catego":"flood control","contri":{},"type":{},"format":{},"langua":{},"relati":{},"rights":{},"audien":{},"identi":{},"fullrs":{},"find":"48.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2013-05-10","dmmodified":"2013-05-10","dmoclcno":{},"dmrecord":"47","restrictionCode":"1","cdmfilesize":"861077","cdmfilesizeformatted":"0.82 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

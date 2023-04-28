@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>http://chroniclingamerica.loc.gov/lccn/sn84020181/1862-07-17/ed-1/seq-2/</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000641</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J.B. Plaisance</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1862-07-17</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Bossier parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Natchitoches, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1862</temporal>
+   </subject>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black</note>
+   <note type="content" displayLabel="Slave Owner">Elias O. Neal</note>
+   <note type="content" displayLabel="Slave Name (Age)">Jacob</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 2</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Natchitoches union. : ([Natchitoches, La.]) 1859-1864</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">RUNAWAY.</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn84020181/1862-07-24/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn84020181/1862-07-31/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn84020181/1862-08-07/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn84020181/1862-08-14/ed-1/seq-2/; </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 84020181</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2221</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-04-06</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2221</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2221/json"
+                        timestamp="2017-02-13 13:33:56">{"title":"RSA00000641","object":"sn 84020181","publia":"Natchitoches union. : ([Natchitoches, La.]) 1859-1864","date":"1862-07-17","year":"1862","film":"page 2, column 2","altern":"RUNAWAY.","unique":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn84020181\/1862-07-17\/ed-1\/seq-2\/","person":"J.B. Plaisance","parish":"Natchitoches, La.","digita":{},"acknow":{},"public":"Elias O. Neal","town":"Bossier parish, La.","relati":"Jacob","slave":"M","slavea":"black","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":{},"subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text","format":"clipping","langua":"English; French","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn84020181\/1862-07-24\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn84020181\/1862-07-31\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn84020181\/1862-08-07\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn84020181\/1862-08-14\/ed-1\/seq-2\/; ","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":{},"find":"2286.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2016-04-06","dmmodified":"2016-04-06","dmoclcno":{},"dmrecord":"2221","restrictionCode":"1","cdmfilesize":"335","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

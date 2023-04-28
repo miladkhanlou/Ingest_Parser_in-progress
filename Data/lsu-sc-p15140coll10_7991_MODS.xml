@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 23</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2661</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2661</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2661/json"
+                        timestamp="2017-02-03 08:23:52">{"title":"page 23","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"23\nmitted, the property stolen, (enumerating the articles,) the name and residence of the owner of the\nproperty, the estimated value of the property stolen, and the names of the Sergeant and policeman\non the beat at the time the offence was committed- '\nA true and correct transcript of said book to be\nfurnished to the Chief of Police, each and every\nmorning, at eight o'clock.\nSec. 15. At any alarm of fire it shall be the\nduty of the Lieutenant of the District nearest the\nscene of conflagration, forthwith to proceed to the\nsame, with all the  policemen he   can muster, and\nto be dilige\nit in\npreserving\norder and pr\notecting\nproperty.\nSec. 16.\nIn c\nise of any\nriot or other\nsudden\nemergency requii\ning the ser\nvices of the Police, on\nnotice being\na, the Lieu\ntenant of the\nDistrict\nin which sa\nd riot may occi\nr, shall forthv\nidth pro-\nceed to the\ni_of such\ndisturbance with the\nwhole  polic\ne force he can n\naster, and bo\nvigilant\nin suppressing the disorder. Should the Lieutenant have any doubt of his ability to restore order\nor preserve the peace, he will immediately send\nnotice to the Lieutenants of the other Districts\nand to the Chief of Police, and will assume command until the arrival of the Chief of Police.","fullrs":{},"find":"2662.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2661","restrictionCode":"1","cdmfilesize":"485829","cdmfilesizeformatted":"0.46 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

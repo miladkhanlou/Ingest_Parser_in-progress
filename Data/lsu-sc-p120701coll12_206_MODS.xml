@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 09</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/495</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>495</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/495/json"
+                        timestamp="2017-02-09 16:30:53">{"title":"Page 09","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOU T H \u2022 WE ST ER N  J 0 U R N A L\n110\n,|;sirrace. Bul the greatest advantage to be gained is in the\nhabits of promptitude and decision of character already no-\n,;,.\u201e,. And it is every where yielded that no exercise is so\nSalutary und invigorating as military drill. And if the bare\nleisure of students were thus spent, without any further study\n\u201e| tactics, how much more, would be gained of military\nmovements, than is found in the best trained militia; and\nwhat an ample substitute would it be for the yearly, or even\nmonthly training of the militia, if this system were incorporated into all academies of learning, as a regular duty ! Nor\nwould I recommend that it interfere at all with the usual\ncollegiate courses of study. Those are too well established\nby the wisdom of ages, to be lightly thrown aside; and far\nhe il from me to recommend that colleges be converted into\nmilitary schools, such as national academies. But if all the\nadvantages we have suggested accrue from the bare intro-\nilui-tion of military discipline; and if it give encouragement\nto youth, to make something of external display, and attract\ntin., attention and plaudits of an admiring community\u2014for one,\nwe would raise our hands and our voice for military colleges.\nfor tlio South.Women\nSOLITUDE.\n0 would not love, when chilling care nnd grief\nig mi ihe mind like some autumnal cloud,\n1 sits upon the azure face of heaven,\ndves llic cheerful sun of all his brightness,\ncasts deep gloom upon the sombre earth;\na would not love the silent hoiiraud place,\nere wounded souls may freely tell of wo,\nhole! communion with themselves alone\u2014\nfearless of th' unfeeling world's black tongue 1\nJournal.\nCome, then, and sit wilh me, unhappy one,\nUpon yon mossy bank.\u2014We'll watch Ibc boughs\n(if overhanging irees thai gently twine\nAi',unci each other, like some long lost friends,\nWept feu, while pariod ; greeted, when returned,\nWith such affection, us (hose mute young stems,\nWaked by ihe summer breeze of noon, evince*.\nCome, while the day-god pours his radiance down\ntin flood and fell, and where his sportive beams\nStray through the heavy foliage, here and there,\nPainting wilh golden loach some verdant spot,\nWhere happy myriads of the forest life,\nFresh from the; master hand of Nature, sporl;\n&lt;&gt;r through the long drawn vista of Ihe wood,\nAlike to sninc gay gorgeous palace hall,\nWilh arches formed by Ihe eternal oak,\nAnd music fur beyond man's minstrelsy,\nWaked by a thousand throats, whose mellow tones\nWould shame the Harp that spoke 'nealh Beauty's hand.\nAnd all attuned lo harmony and love,\nWe'll roam\u2014and while the babbling rill complains\nTo hill and dale wilh music soft and low,\nWe'll ask each other, can aspeck of grief\nBiol the fair face of such a spolless page 1\nAnd while, perhaps, some simple shepherd's song\nFloats, like Ihe vision of a waking hour,\nUpon ihe sportive breeze; that rustles by,\nAnd Echo, watchful, cm Ihe tufted hill,\nTakes up Ihe strain, anel throws il, mellowed, back,\u2014\nWe'll ask each oilier, whither lied our grids?\nThe mountain Nymph will answer, whither! J. P. S.\nNotches, -2[th March, 1838.\nPRIDE OF CHINA, OR INDIA.\nMella artdaraeh.   Class X. ord. I. Llnncus,\nBotanic characters. A Iree of moderate size, umbra-\ngeous, spreading; from thirty lo forty feet high; of rapid\ngrowth, flourishing only in hot climates. Leaves bi-pinnata\nand alternate, forming bunches towards tho extremities of the\nbranches; leaflets, smoolhe, ovate, and dentate: flowers odorous, somewhat like jessamine or lilach: calyx small, five-\nparted; petals-five; nectary cylindrical, ten-toothed ; orific internally antherifovous ; stylo cylindric ; stigma five-rayed ;\nfruit a globose drupe in bunches or clusters; nut five-celled\nand five-seeded. Blossoms early in April, in numerous li-\nlnch-colored panicles or corymbs ; berries when ripe yellow\nor light russet.\nThis is one of the most common shade and ornamental\ntrees in the southern states, It embowers almost every private residence, and is often used to shade the sidewalks of our\ncities and our public promenades; it is found about almost\nevery habitation in Mississippi and Louisiana, whether ofthe\nbond or free; and often in onr worn-out and waste.fields, a\ncluster of china trees alone marks out the site of some former\ndwelling.\nThis tree was originally a native of India and southern\nChina ; but lias now become naturalized to the southern parts\nof the United States, where it grows most luxuriently. It\nwill not stand the winters of the United States north of 34\",\nand severe winters, as far north as 31\" and 32\u00b0, kill the tender\nbranches.\nIn winter, when its foliage; is all cast, it exhibits a few\nbranches, rather thick and stubbed, similar to the branches of\nthe catalpa or fig tree, and to a stranger it would be the last\nto attract his attention as a shade tree. But in spring, it sends\nforth numerous radiated bunches of leaves upon long branching petioles, which render it in summer one of the most\ndensely covered trees known. The foliage is of a deep rich\ngreen, darker than almost any other tree. The smell of the\nleaves is decidedly narcotic ; their shape is oval and acuminate, about the size of the wild cherry leaf.\nIn ordinary years, south of latitude 33\" it flowers early in\nApril, though in cold springs not until the fifteenth ; being\none of the latest in its vegitation as well as inflorescence.\nThe flowers come out in clusters very numerous around the\nextremities of the small branches, and at several other points\nbelow the extremities. So numerous are the flowers that\nduring the period of inflorescence, which precedes the foliage about five or six days, that the whole tree appears like\none great lilach bush in bloom. A few days exhibit clusters of deep green leaves interspersed through the blossoms,\nuntil the trees exhibit one mass of deep green foliage mixed,\nwith the most gorgeous flowers. During the period of inflorescence the whole atmosphere around is perfumed with a\nstrong, but slightly narcotic fragrance. Tho flowers are\nsucceeded by clusters of green hard pulpy berries, which attain their growth about the middle of July, and begin to ripen and change to a light russet or yellow color about the\nfirst of October. These berries are about the size of the\nsmall northern red-haws. They remain and cover the ex-\nremities of the branches, and give the tree al a distance the\n' 1\n\u25a0 i    J\"\n'\".Il\n\u25a0' ''^v!\n\u2022 '#11\n\u25a0 m\nm\nm\n;]!\u25a0' ;i\n:&gt; '\u2022\n\u25a0 j$j :\n11\n\u25a0-\nfp\nI   '\u25a0'.\n\u25a0 i'\n.\n1","fullrs":{},"find":"496.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"495","restrictionCode":"1","cdmfilesize":"1691752","cdmfilesizeformatted":"1.61 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

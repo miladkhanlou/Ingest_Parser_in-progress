@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 281</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1764</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1764</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1764/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 281","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 281 \u2014\n\u2014Que vous importe?' Cdui qui vous a reveille est un homme\nqui ne veut ni vous laisser tuer par le soleil qui ne plaisante pas\ntoujours dans cc pays bridant,\u2014ni vous laisser mettre eu prison\nconnne uu negre, uu jour ou tout lc monde pile et ae rejouit.\n\u2014Caramba.1 c'est le jour de I'aques que tu laches de pareilles\nenormites? IjC. soleil me tucra, dis-tu? et que t'importe?\u2014Est-ce\nque je le redoute, moi, ton soleil\"? Est-ce qu'il ne me eonnait pas.\nton soleil? Est-ce que je ne l'ai pas vu dans toute3 les parties du\nmonde,ton soleil?\n\u2014Mais IC'Commissairc?\n\u2014Allous done! tu me prends poufun autre, mon tres eher... Le\ncommissaire... c'est un personuage fantastique comme le serpent de\nmer... 11 n'y a pas plus do rois que de commissaires... Je nc crois ni\naux uns, ni aux autres... A has les commissaires !..,\"\nEt en vociftsrant ce cri, l'ivrogne decrivit un zig-zag et alia tomber, comme une masse iuerte, sur le tapis d'herbe oh I'ivresse 1'avait\ndeja jete. . i\n\" Vous vous etes blesse? lui dimes-nous, en nous claimant pour\n1'aider a se reiever.\n\u2014iloi, blesse ?... allons done 1 tii veux rire, nous repondit 1'Espa-\ng&lt;aol eu se rcmetlaiii sur ses pieds avec l'agilite d'un clown de cirque olympiquc. Est-ce que les paves pourraient me blesser quand\nles halles out respecte cette poitrine?\u2014Et en nous disant cela, il\navait ouvert sa chemise et nous desiguait du doigt une cicatrice qui\nitait bien cello d'une balle.\n\u2014Vous avez cu de la chance, senor ; dix-neuf sur vingt seraient\ntues par une pareille blcssure.       . ,\n\u2014Et pourtant je ue suis pas mort, moi, repondit l'ivrogne qui,\ngrace- a la brisc ct peut-etre aussi aux passes magnetiques que, sans\ns'en douter, il avait pratiquees sur son front, eu y promenant les\nmains, paralssait avbir retrouve la moitie de sa raison... Je ne suis\npas mort... et pourtant le coup fut tire de bien pres... Veux-tu que\n;e te raconte cela, l'ami ?\n\u2014Contcz,\" lui dimes-nous en souriant ucetutoiement plus que fa-\nnilier venant d'un inconnu.\n__ Tout le monde sait que les ivrognes ont le vin tres democratique.\nC' tait  aux Cpelousas... il etait nuit... je ne sais pas s'il faisait\n&lt;'hsr  on noir... mais nous n'etions pas dans la rue... C'etait &lt;hn-","fullrs":{},"find":"1765.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1764","restrictionCode":"1","cdmfilesize":"401446","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>A Runaway in the Depot.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000587e</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">A Runaway in the Depot. WAS committed into the Depot of the Parish of St. Landry, from the Jail of the Parish of Lafayette, on the 9th January instant, a griff colored boy, named ANDREW, aged aout 25 years, 6 feet, 2 inches high, speaking French and English, having two cuts made with a knife, on the right collar bone, wears long beard all over his face, was arrested on the 5th of November last, in the Parish of Lafayette. Said boy says he belongs to Mr. Thomas Harper, of Simsport, La., from whom he ranaway in August last, 1854.  The owner of this slave is requested to come forward, prove property, pay charges and take him away, otherwise he will be disposed of according to law, after the legal delay. LOUIS L. BOUTTE, Jailor. Opelousas, Jan. 13th, 1855.---3m.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 6
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-01-13/ed-2/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-01-20/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-01-27/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-02-03/ed-2/seq-2/;
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1037</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-29</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1037</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1037/json"
+                        timestamp="2017-02-13 13:34:01">{"title":"RSA00000587e","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 6\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-01-13\/ed-2\/seq-2\/\n","unique":"A Runaway in the Depot.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"A Runaway in the Depot. WAS committed into the Depot of the Parish of St. Landry, from the Jail of the Parish of Lafayette, on the 9th January instant, a griff colored boy, named ANDREW, aged aout 25 years, 6 feet, 2 inches high, speaking French and English, having two cuts made with a knife, on the right collar bone, wears long beard all over his face, was arrested on the 5th of November last, in the Parish of Lafayette. Said boy says he belongs to Mr. Thomas Harper, of Simsport, La., from whom he ranaway in August last, 1854.  The owner of this slave is requested to come forward, prove property, pay charges and take him away, otherwise he will be disposed of according to law, after the legal delay. LOUIS L. BOUTTE, Jailor. Opelousas, Jan. 13th, 1855.---3m.\n","subjec":{},"type":{},"format":{},"langua":"English\n","digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-01-20\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-01-27\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-02-03\/ed-2\/seq-2\/;\n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000587e.jp2","find":"1101.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-29","dmmodified":"2016-02-29","dmoclcno":{},"dmrecord":"1037","restrictionCode":"1","cdmfilesize":"147966","cdmfilesizeformatted":"0.14 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

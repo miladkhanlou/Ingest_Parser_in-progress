@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 4, Page 12</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2159</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2159</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2159/json"
+                        timestamp="2017-02-03 08:24:47">{"title":"Section 4, Page 12","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"12\nter\u2014to Opelousas, still better, and that the further west in\nextended, the more remunerative it will be to the capital\nvested.\nCarried through Texas, the road will develope more t|\n200 millions of acres of land, which, for loveliness and salt\nbrity of climate, and fertility of soil, has no superior in a\u00bb\ncountry in the world. It will establish daily, and evj\nhourly.commercial and social intercourse between the pej\npleof Texas and Louisiana. Recognizing the benefitsthi\nmust accrue to themselves as well as to us, the citizen!\nTexas have taken hold of the enterprise with that inti\ngence and energy for which they are proverbial : and Tea\nand Louisiana have struck hands across the Sabine I\npledge to build this road from New Orleans to the westei\nlimits of Texas, at any and every cost or sacrifice.\nTexas contains more than 200 millions of acres ofli\nhalf of which belong to the State. By this road those lanj\nwill be opened to a flood of immigration that will flow in up\nher and give to those lands, now unsaleable, a high marti\nable value ; and in turn that immigration will draw from In\nteeming soil an incalculable amount of saleable products ai\npour those products into New Orleans, and make this cit\nan unsurpassed mart of trade and commerce.\nSuch are the views now prevalent in regard to the I\nOrleans, Opelousas and Texas Railroad.\nWhat are the prospective means relied upon to build\nMany persons who hive examined the subject are co*|\ndent that when a liberal charter has been obtained, and W\nall the statistical and other evidences of the prospective i\"\nsiness ofthe road are laid before the public, it will\nsuch inducements to capital that private stock subsc\nmay be obtained sufficient to build it, without a resort to ta*\ntion or any other means. But stock subscriptions are rm\nupon only in part.   The Legislature of this State will\u00bb\u00bb","fullrs":{},"find":"2160.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2159","restrictionCode":"1","cdmfilesize":"592936","cdmfilesizeformatted":"0.57 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

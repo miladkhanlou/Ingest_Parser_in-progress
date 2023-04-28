@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 116</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1600</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1600</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1600/json"
+                        timestamp="2017-02-03 08:23:13">{"title":"Page 116","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u201411$ \u2014\nKos lecteurs s'attendent peut-etre a cc que, apres une nuit anssi\nfructneuse, Reed et le ne-ir se separent et aillent dorrair du sommeil\ndu juste en attendant le jour. Nons leur demandons pardon de les\ntirer de cette erreur qui les honore. Cette nnit-la s'aunoncait sous\nlea pins heureux auspices, et Reed n'avait aucunc envie de se repo-\nser. N'a-t-on pas dit d'ailleurs, avant Briilat-Savaiin, que Vappetit\nvimt en mangeant ?\nOn dtait en mars, if faisait une de ees nuits tiSdes qui sont\ncomme les messageres du printemps, et qui font dire a ceux qui\naiment a revcr devant les splendeurs de la nature :\n'\u2022 O mon Dieu, qu'il est doux de vivre ! \"\nDe pins cette nuit dtait sombre et dfe.it ainsi complice iuvolon-\ntaire des vols qu'il avait commis et de ceux qu'il allait commct-\ntre encore....\nt; En avant! \" fit Reed.\nEt  il  s'engagea le premier  sur la banquette de la rue du Port.\nApres quelques minutes de marcbe, il s'arrSta. Une maison de-\ncoupait h quelques pas, dans I'obsctirite, sa facade blanche et sa\nbarriere dgalement blanchic a la chaux. Quelques arbustea de la\ncour levaient leurs silhouettes nsires et timidcs au-dessus de la barriere ; leurs branches frissonnaient au vent, touchdes par les premieres brises du printemps. ,\n\" C'est ici,'' muTinara Reed a 1'oreiHe du noir.\nAvant de poursuivre notre rdcit, disons que cette maison appar-\ntenait a M. Vahnont Richard, dont nons avons parld en racontant\nI'incendie de Saint-Martin, ou il perdit son fils unique sous les mines de la maison Tertron, et dont il ne reconnat le cadavre que par\nun Soulier que les flammes avaient oublie* de consumer. Ajontons que\nM. V. Richard est aujourd-hui un des chefs du Comitd de Vigilance de Saint-Martinville, et qu'il est lc digue lieutenant dn capitaine G. Webre, dont nou?parlerons ailleurs.\nLes deux volettrs etaient ddja sur la galerie, lorsque Reed accou-\ntumd aux tdn&amp;bres comme an oiscau de nuit, poussa un cri em-\npreint d'un sentiment presque religieux.\nLes fcn6tre3 de la maison dtaient, non entrebiiilldi'a, mais tout\ngrand ouvcrtes. Elles semblaient sourire et tendrc les bras aux deux\nvisiteurs nocturnes et leur dire : \" La maison vous attend, mes\nbeaux messieurs, passez-lui la main autour de latailleetfouillez-Ia.*'","fullrs":{},"find":"1601.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1600","restrictionCode":"1","cdmfilesize":"428974","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

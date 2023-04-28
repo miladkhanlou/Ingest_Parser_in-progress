@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/590</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>590</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/590/json"
+                        timestamp="2017-02-09 16:30:56">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\ngut. Us ten acmt-moiilUa, at gibe Bb1U\u00bb a y enr, til, tl,c fletfmon ColUjj, nrm \u00bbM\u00bb(nstOll ffijeeum.\nI N T E II  a V L V A s   AC A D E M1  HUJEnimE  v B u 0 M,\nVOL. 1.\nNATCHEZ, JULY 3 0, 18118.\nNOS.  15 &amp; l(i\nA LECTURE ON EDUCATION\nRuv, II. H. Iin.M.-ic.\nMa. Pukicidi-.st:\nI am aware that tho subject of education in several of its\nimportant brunches, lias been brought ably before this Asso\ni-intiun. But such is its importance anel complex character,\nthat I trust I shall be excused for intruding a feu- thought;\nmoro on the same subject.\nThe term education does not convey to the mind all that\nis intended to be brought to view in these remarks. Man is\nso complex a being in his nature, capabilities, interests, and\nrelations, that it is difficult to find a single term that will express all the training and culture necessary lo his high destiny. He is a compound of matter and mind\u2014of reason,\npassions, and appetites,\u2014is capable of sensual, social, and intellectual enjoyment, and of moral improvement without\nbounds. He is allied lo his friends who form the social circle around him; to his country, as an integral part of the\nbody politic ; and to the human race, as sharing a common\nnature; and to God, as his creator, preserver, and governor.\nTo assist man to turn all his high capabilities to the best possible account, is the object of education\nThis subject naturally divides itself into physical, intellectual and moral culture. The first of which shall occupy\nthe greater part of this lecture, not because of its superior\nclaims, but because it is treated of so rarely.\nBy physical training is understood whatever will perfect\nthe body, so as to enable it to procure subsistence, and comforts for itself and dependents; and to bo the most perfect instrument for tho operations of mind\nIt will be seen, at tho first blush, that in this, as in all the\nother departments of training children and youth, the parent,\n,-inil not tho school teacher, must be the principal guide. It\nis in the nursery that a good foundation must be laid, or in\nmany instances it can never be successfully laid. By proper\nfood, in well regulated quantities\u2014by a wise adaptation of\nclothing and exercise, the young scion shoots forth with vigor and promise. But for lack of thoso timely attentions, the\nconstitution is often ruined in tho earliest stages of ils formation. In many instances tho injury is irreparable by the skill\nof the physician, or tho efforts of the patient. Parents who\nhave the solo management of children at an early age,\nshould lay this to heart, and not permit any foolish fondness\nto cause them to lay tho foundation of incurable effeminacy,\nWe assume it as universally admitted, that exorcise is essential to tho perfect development of the strength, and to the\ngeneral health of tho constitution. To secure this, nature\nhas endowed the young with love of motion, which unrestrained, or properly directed, will in most instances eflect\n'\u25a0he object.    But it is in directing this propensity to action,\nthat proper habits of industry arc formed, and by impressing\nBend bcfjro llio Jefferson Collngo nncl Washington I.yot , July 4,1838.   I!v elln mi-mi \u201e.:,u ,t,n \u201e\u201ei,.\u201e \u201er ,i    e   -.     ri ,       i   , \u25a0       \u201e\nlno m,1KI Wltn tno value ol the fruits of labor, habits of economy are produced.\nThis process may bo commenced at a very early period.\nAlmost as soon as lhc infant limbs are capable of motion,\nthat which is prompted by the instinct of nature may bo directed in a proper channel, governed, restrained, or urged,\nas occasion may require, so that at a very early age, salutary\nhabits may bo formed. The difficulty does not generally\nlie in producing a disposition for action, but in regulating it\nso that it may not be the desultory offspring of whim.\nWant of-proper attention to physical training, both in (am\nilies and schools, occurs to mo to bo one of the mo t crying\nevils of this age and country. The injuries which it is inflicting upon individuals and communities, are great and ir-\nsparable. There must be a radical change in this respect,\nor our country will bo cursed with incurable and insupportable effeminacy; or pass, through successive generations, into lhc hands of more hardy fortune-hunters of the north,\nIt woulel seem that no one, with any pretensions to observation, could fail to see that this is iho effect of our present\nsystem of education.    If patriotism calls on us to rise e;i\nmasse to defend our homes and firesides when invaded by a\nforeign foe, her voice is no k'ss unequivocal in the present 4\ncase.    Every lover of his country or race should rush to\ntho rescue, before the insidious flattering foe undermines all\nthe energies of our species.    What renders this foe ihe more\ndangerous, is, ho has for his dictator one of the greatest tyrants which ever destroyed our race.    This imperious dictator has in almost every ago murdered millions of the species in cold blood, and without remorse\u2014yet in appearance-\nthis monster is placid, smiling, polite and courteous.    Men\nof all ranks, and of every profession and age, pay court to\nhim.    Dandies and belles think it would bo better to bo out\nof the world than from under his dominions.    Do you in-\nmire his name?   It is Fashion. Such influence has ibis malignant, Proteus shaele, that with nine-tenths of mankind his\nipse (licit is above all reason and common sense.    Reason\nwith men as clearly as you may, get them to admit that your\npremises and  conclusions are  irrefragable, and they will\nthink they havo given you a full answer to all by telling you\nthat it is unfashionable, or, in other words meaning the same\nthing, public opinion is against it.    It is said to be hard to\nanswer a jest; but I am persuaded it would bo harder lo influence by reason lhc slaves of fashion; and it matters not\nhow vital the interest.    Health, life, country, or the claims\nof religion apart, or altogether, weighed against this all-controlling influence, is lighter than vanity.\nWhat heart havo wo then to reason against the present effeminate course of training, when wo are met at every point\nby tho declaration, whether true or false, that public opinion,\nin this country, is against manual labor.    Our only resource\n\u2022:;\ni*'j","fullrs":{},"find":"591.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"590","restrictionCode":"1","cdmfilesize":"1801645","cdmfilesizeformatted":"1.72 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

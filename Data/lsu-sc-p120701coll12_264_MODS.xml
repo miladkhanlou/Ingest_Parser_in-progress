@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 14</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/536</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>536</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/536/json"
+                        timestamp="2017-02-09 16:31:05">{"title":"Page 14","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"f\/l'l$-. \u25a0\nus s*;\n171\nSOUTH-WESTERN  JOURNAL.\nI.   '!\" if\ni   W,\u00bb'..,\n'\u25a0 1\u00bb '\u25a0\ni. i \u00ab'i\nii '- \u00ab:7i\ni   .. &lt;\u2022!'\n:\ni\n\"Mastodon Parvus.    Founded upon teeth dis-\nVory small.    Cuvier's Ossemens Fos-\nFounded upon a\n: Fossiles.\n\u25a0Species 5th\ncovered in Europe,\nsiles.\nSpecies  6th.    Mastodon  Tapyroiil\ntooth obtained in France.    Cuvier's Ossemens\nSpecies rtli. Mastodon Arverncnsis. Established by\nCroizct and Johert, senior, upon some fragments of bones\nfound in ihe departments of Puy do Dome in France.\nTho two following species arc founded upon some remains\ncollected by Mr. Crawford, along the course ofthe river Iri-\nwado, between Rangoon and Ava in Asia.\nSpecies 8th. Mastodon Latidens; described and figured\nby Mr. Clift. Transactions of the Geological Society of\nLondon, vol. 2, 2d scries.\nSpecies 9ih. Mastodon Elephantoides. Described am\nfigured by Mr, Clift. Transactions of the Geol. Soc. ol\nLoudon, vol. 2, 2d series.\nIn 1830, Dr. Goilman of New York, (since deceased,)\nattempted to form a new genus from some bones ofthis great\nMastodon, and gave to his new genus the name Tetracaulo-\ndon, from having four tusks, two of which were in their usual place, and two small ones in the lower jaw. But as it has\nbeen ascertained since, that ibis was a mere sexual peculiarity, the genus is no longer recognized.\nPRACTICE OP APPLAUDING PUBLIC SPEAKERS.\n1 was lately in a city of this Union, where the governor\nof the stale, after having that day reviewed a large body of\nhandsomely uniformed and well disciplined troops, was, at\nnight, to deliver an address before a Mechanics' Association\n1 made one of the multitude, that crowded the immense\nChurch where the orator spoke.\nVarious causes wound up my interest to a very high pitch.\nThe Association was one for the moral and intellectual improvement of a numerous and important class of our countrymen; an object high in the regards of all who hope for\nthe permanence of our republican institutions. The speaker\nwas, by general admission, unrivalled in set oratory, among\nliving Americans\u2014whether we look to grace in delivery, or\nto beauty and force of composition. He was the governor\nofaonKAT state (for \" The hiwd 's the measure of th\nman ;\") and here, doffing the robes of civil office as well as\ntho gaudier finery of military parade, he, as a plain citizen,\nwas to address an humble Mechanics' Association upon \"the\nimportance of the mechanic arts lo civilization, and to happiness. \" The vastness ofthe throng, the newness of tho people to me, and their being reputed to have some striking peculiarities\u2014raised my curiosity on tiptoe, to see how they\ncould appreciate what fell from ono of the most accomplished scholars on this continent. And I was equally curious to\nsee, how he would contrive, without descending from the. dignity of learning or from his habitual elegance of style, to\nmake himself understood and relished by such an assembly\nand by what mode of operation he would work out the design of his address\u2014namely, to impress mechanics with such\na self-respect, as might elevate their conduct and characters,\nand impress all others with a just  and salutary  respect f\nmechanical pursuits.\nThe address was, in most respects, happy bevond mv\npectations. But what was my surprise, to find every t\u00bb\nfine passage followed by thunders of applause, from a law\npart of the audience !\u2014hands clapping\u2014canes, feet, umbreb\nlas, rattling upon the floor! The sobriety of the people\u2014\ntheir puritan descent\u2014tho supposed character of the speaker\n\u2014the (supposed) sacredness of the place\u2014had all been to\nmy mind, infallible guarantees against the appearance there\nof a practice at nearly all times indecorous and irrational, but\nthen and there, hardly less shocking than female drunkenness.\nThe practice of applauding public speakers, has but lately\nbegun to appear in the rural parts of the United States.   It\nwas brought over, some time before the chojora, from Europe;\nand was long confined to our cities and large towns, whence\nit spread gradually into the villages. Now.it is seen and\nheard even in the country\u2014where, one would think, the natives are by no means polished enough yet, for such a refinement to have gotten foothold among them. At first, every\nwhere, it appeared only in circuse's, anel puppet shows; and\nin menageries, where that graceful gentleman, Dandy Jack,\nastonishes the multitude by his elegant costume, his comely\nphysiognomy, and his wonderful performances upon a shaggy Shetland pony. Then it passed into the Theatres; where,\nhowever, it was for a long time the appropriate meed of Harlequin, and of such comic, actors as bent their bodies and\ntwisted their features into the funniest shapes, or sungadroll\nsong in the funniest manner. At length, rising in ils objects\n\u2014from fun, it came to be exercised upon humor; and by degrees also upon wit, pathos, and fine sentiment or fine acting\nof any kind.\nThose who had witnessed and practised applause at the\ncircus, puppet show, menagerie, and theatre, sot the fashion\nof practising them also towards public speakers: first only\nupon the fourth of July, at dinner speeches, and in popular\nmeetings; afterwards in places where, certainly, those un\ncivilized rustics, George Washington, Patrick Henry, Jtunei\nOtis, Josiah Qiiincy, junior, and Roger Sherman, never would\nhave expected to see them\u2014in courts of justice, and legisla-\ntive halls. There have been repeated instances of loud applause at fine bursts of declamation or keen thrusts of sar\ncasm, in advocates or legislative orators; at the acquittal el\na popular criminal, or the adoption of a favorite measure\nThe dignified decorum of the United States Senate has thu\nbeen violated; and the\nbeen thus heightened,\nginia Legislatuie, applauses have been followed by their natural counterpart\u2014hisses. The evil has even shown iWU\non devotional occasions. It is not long since, in a Virginia\nvillage, the close of a rather too animated, controversial sermon, was greeted by a commencing, but quickly suppress\nroll of applause: and a few years before, some students ol a\nlearned university honored a public prayer of their chaplain\nwith a full peal.\nii ui   un; uiiiie--u   oiucc.3 .jL....... \u2014\n: customary disorder of the other House\nBoth in that Senate, and in the Vir-\nIt must  be confessed, however, that us this practice\nha)\nrisen in the subjects of its exercise, it has sunk in the ChM'","fullrs":{},"find":"537.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"536","restrictionCode":"1","cdmfilesize":"1862221","cdmfilesizeformatted":"1.78 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

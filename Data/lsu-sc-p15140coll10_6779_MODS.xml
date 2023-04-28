@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 5, Page 26</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2185</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2185</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2185/json"
+                        timestamp="2017-02-03 08:24:48">{"title":"Section 5, Page 26","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"26\nAs the adoption of this route will depend upon the demonstration of its constitute\nthe most direct route practicable, it will be proper to adduce the authority upon whij\nthe assertion is based.\nIn accordance with a resolution of the Senate of the United States, General Benmj\nmade, in 1824, a geodetical measurement of the direct distance between Washing^\ncity and New Orleans. He also made a reconnoisance of several comparative rout\u00ab\nfor a mail road between those two important points.\nTaking the latitude and longitude of New Orleans and of Washington city, andest*.\nmating the degree at 69J miles, the arc of a great circle intercepted between the pointt\nWas in length nine hundred and sixty-four ~ miles, passing through Warrenton, Clm.\nlottesville, Lexington, Big Lick, Grayom (C. H.,) Ashville, Cahawba, St. Stephen1*\nPearlton and Lake Borgne, to New Orleans. The routes reported, according to three\ncomparative approximations to the line 01 direct admeasurement, were as follows:   j\nFrom Washington to New Orleans, via Fredericksburg, Abing-\nton, Knoxville, McMinnville, Huntsville, Rushville and Pike-\nville in Ala., Columbus, Jackson, Fort Gibson, Washington,\nNatchez and Woodville in Mississippi, St. Francisville and\nBaton Rouge to New Orleans\u2014distance, 1380 miles.\nFrom Washington to New Orleans, via Salisbury in N.C., Spartanburg, Athens and Fort Stoddard, 1260 miles.\nVia Knoxville, Kingston, Bennettville, Cahawba and St. Stephen's,      1222 miles.\nThe route might pass through Richmond^ Raleigh, Columbia,\nMilledgeville, Coweta and St. Stephen's, with no other deviation than is necessary to obtain good ground,      1100 miles,\nAfter reciting these routes, the Report adds\u2014\"A deviation to\nthe north or south is, however, necessary. A deviation to the\nnorth will pass by or near Fotheringay (Montgomery County,\nVa.,) Christiansburg, Wythe, C. H., Abington, Knoxville, Miner, via, Cahawba, to New Orleans. This is believed to be the\nnearest direction practicable for a post road from Washington to\nNew Orleans, and is estimated at 1056 miles.\nUpon this accurate measurement and minute comparison, the South Western Natiow\nRailroad has been commended to the patronage ofthe country, since it is obvious ft*\nit cannot be superseded by any other. It is now under construction,- under auspic*\nwhich will ensure its completion.\nThe efleet of this route upon the prosperity of New Orleans and the South\u2122*\nmust he very favorable.   It is no longer doubtful that the Valley of the Mississi*^\nmust receive much of its mercantile supplies direct by rail across from the Atlan\ncities.   The coastwise trade is uncertain and expensive,* and the insurance alone\ngoods of a costly character, will amount often to as much as the freight on the\ngoods by rail.   The circumnavigation ofthe Atlantic States, performed by the eXP\u00b0\nand imports of the Mississippi Valley, is a charge on production too heavy to he o\u00bb\nIt is, therefore, that so much of the mercantile supply of the interior is carried a13*1\n* Amongst the permanent charges on coastwise trade, it may be mentioned that  the fortifi**\nfor its protection cost eighteen millions of dollars.   The lighting of the southern coast atone\nmore than $500,000 per annum; whilst the dangers, insurance and loss of time in transit, ff'\"\nually operate to diminish itn operations, and throw the commerce upon internal lines.","fullrs":{},"find":"2186.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2185","restrictionCode":"1","cdmfilesize":"625341","cdmfilesizeformatted":"0.60 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

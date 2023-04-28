@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 311</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1793</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1793</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1793/json"
+                        timestamp="2017-02-03 08:23:20">{"title":"Page 311","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 311 \u2014\nfonctions de meMec-in et celles d'hotelier, et qu'un Comite, preside\npar Hiriam Andrews, craigBaat qu'il n'empoisounat la population\npar Paction combinee de la inedecine et de la cuisine, lui avait or-\ndonne d'aller exercer ailleurs sa double Industrie.\nSanta-Maria, devant cette condamnation populaire, ne songea\npas le moins du monde k brandir sa navaja. II accepta Postracisme,\nmais non saus avoir hurie autaut de caramba qu'il avait hurie autrefois de Viva Carlos Quinto ! II partit pour l'exil sans faire au-\neune resistance. Depuis la mort de Don Quicliotte, on ne pourfend\nplus les geants.\nQuelques jours apres, il arrivait a Jennerefc (paroisse Ste-Marie).\nJENNERET-L'HOTEL PREVOST\nConnaissez-vous Jenneret?\nII cy a vingt ans, c'etait un village qui existait ii l'etat de my-\nthe... comme tant de villes fantastiques des Etats-Unis, se eompc-\nsant de rues trac^es par le soc et de poteaux plantes d'espace en\nespace, indiqnant le nom de ces memes rues. Quant aux maisons,\nelles brillent par leur absence, mais quand dies s'eleveront, elles\npourront ehoisir leur terrain daus les rues decorees des noms les plus\nsonores: depuis celui deWashington, le fondateur de la patrie,jusqu'a\ncelui de M. Dougla., qui veut defaire ce qu'a fait Washington.\nC'est la speculation qui donne ces coups de charrue et ei&amp;ve ces\npoteaux indieateurs, et comme elle peut tout ce qu'elle veut dans\nce pays ou elle est reine et raaitresse, elle est sure que les villes\ndont elle decrete la fondation, jailliront un jour du sol. Ses miracles,\nelle les fait avec une baguette qui, de nos jours, a produit autant\nde crimes que de miracles : la baguette d'or.\nII y a vingt ans, le quartier dont nous nous occupons etait habite\npar un  Americain nomme Jenneret.\nCet Americain concut, le premier, le projet d'eiever son quartier aux honneurs de village. II partit sans avoir pu faire une rea-\nHte\" de son reve ; mais ses voisins donnerent son nom a lalocalite","fullrs":{},"find":"1794.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1793","restrictionCode":"1","cdmfilesize":"408900","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

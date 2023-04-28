@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>General Foster Joseph Tate photograph album</title>
+  </titleInfo>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The original General Foster Joseph Tate photograph album (unbound) contained 103 black and white photographic prints mounted on paper. The images show scenes from several locations in Louisiana during the 1920s including lumbering and shrimping operations, city scenes, and a number of scenic bayou images. It is not known whether Foster Joseph Tate was the photographer. It is known that the album was his property.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;The original General Foster Joseph Tate photograph album (unbound) contained 103 black and white photographic prints mounted on paper. The images show scenes from several locations in Louisiana during the 1920s including lumbering and shrimping operations, city scenes, and a number of scenic bayou images. It is not known whether Foster Joseph Tate was the photographer. It is known that the album was his property.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p16313coll56</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p16313coll56</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p16313coll56</identifier>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

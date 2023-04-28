@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Minnie C. Hunt diary, 1866-1867</title>
+  </titleInfo>
+  <identifier type="local" displayLabel="Item Number">4693</identifier>
+  <identifier type="local" displayLabel="Manuscript Number">Mss. 4693</identifier>
+  <name type="corporate" displayLabel="Contributing Repository" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no2015036095">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Creator">
+    <namePart>Hunt, Minnie C.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Massachusetts</placeTerm>
+    </place>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1866</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1867</dateCreated>
+    <dateCaptured encoding="w3cdtf">2012-12-17</dateCaptured>
+  </originInfo>
+  <subject displayLabel="Location" authority="LCSH">
+    <geographic>Maine</geographic>
+    <geographic>Description and travel</geographic>
+  </subject>
+  <subject displayLabel="Location" authority="LCSH">
+    <geographic>Maine</geographic>
+    <geographic>Social life and customs</geographic>
+    <geographic>19th century</geographic>
+  </subject>
+  <subject displayLabel="Location" authority="LCSH">
+    <geographic>Massachusetts</geographic>
+    <geographic>Social life and customs</geographic>
+    <geographic>19th century</geographic>
+  </subject>
+  <subject displayLabel="Name Subject">
+    <name type="personal">
+      <namePart>Hunt, Minnie C.</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Minnie C. Hunt kept this diary while on an extended visit with relatives in Massachusetts.  She described her daily life, family matters, health, and a beach holiday in Maine.</abstract>
+  <note type="biographical/historical" displayLabel="Biographical Note">Minnie C. Hunt of New Orleans, La., was born August 20, 1849. She lived on Mulberry Farm, a cotton farm, with her parents.</note>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <form authority="AAT">Diaries</form>
+    <extent>1 diary</extent>
+    <internetMediaType>application/pdf</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <language>
+    <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Minnie C. Hunt Diary, 1866-1867</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-mchunt:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>Hill Memorial Library: Special Collections</subLocation>
+        <shelfLocator>J:19</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights Statement" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright of this diary has expired and it is therefore in the public domain.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Minnie C. Hunt Diary, Louisiana Digital Library, Baton Rouge, La.</note>
+  <recordInfo>
+    <recordContentSource authority="local">lsu/hcr</recordContentSource>
+    <recordCreationDate>2020-07-16</recordCreationDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

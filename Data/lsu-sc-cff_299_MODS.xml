@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_1</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/807</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-08-08</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>807</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/807/json"
+                        timestamp="2017-01-13 13:22:48">{"title":"Page_1","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M38\nNlle Orl s. 26th Mars 1833.\nMon cher Juste,\nMr Sallande a re\u00e7u une de tes lettres, et m\u2019a dit\nt\u2019avoir \u00e9crit par le Hibernia, pour \u00f4ter sa limite. Il a vendu il\ny a quelques jours un lot de grai?se re\u00e7u de Cin.a \u00e0 8 \u00bd \u00a2, ce qui\nlui donne un b\u00e9nefice d\u2019\u00e0 peu pr\u00e8s 1000 $. \u2013 Je doute que ce prix\nce maintienne, quoi que la grai?se soit rare, mais je regrette que ns.\nn\u2019ayons rien fait cette ann\u00e9e sur cet objet et sur le Whiskey, qui sont\nles deux sur les quels nous avons gagn\u00e9 l\u2019ann\u00e9e pa?s\u00e9e, et peut-\u00eatre,\ncomme je l\u2019ai souvent dit, les moins pr\u00e9caires \u2013 Le Whiskey cependant\nest \u00e0 pr\u00e9sent a?sez bas : 31 \u00a2. La farine @ 425 437 dull . Notre\nwhiskey rect.[\u00e9] et le tien ne sont pas encore vendus, non plus [rature] que le\nBrandy. On n\u2019offre de ton wky- rectifi\u00e9 que le prix du Wh. ordinaire.\nAu fait ces objets de qualit\u00e9 sup\u00e9rieure ne se vendent gu\u00e8res, et je\ncrois qu\u2019en g\u00e9n\u00e9ral, il vaut mieux se m\u00e9ler du commun, qui est\npres que toujours d\u2019une d\u00e9faite certaine. \u2013\nL\u2019objet de la pr\u00e9sente est de te faire souvenir qu\u2019il serait\ntemps de nous envoyer tout ce que tu as pu r\u00e9alizer tant sur notre caf\u00e9\nque sur les Mdz.s cte \u00bd que nous pouvons t\u2019avoir exp\u00e9di\u00e9es. \u2013 Nous\navons beaucoup \u00e0 payer le mois d\u2019Avril et les premiers jours de Mai,\net tu dois te rapeller que je t\u2019ai souvent pri\u00e9, quand nos achats devenaient\nd\u00fbs ici, de n\/s envoyer tout ce que tu aurais r\u00e9alis\u00e9 \u00e0 Cincinnati. \u2013\nParmi les effets que n\/s devons payer Sont : 1 e le 2 Mai pr caf\u00e9\u2026 1184.19\net 2e le 3 Mai, ta traite pr achats de farine &amp; Why. [Monvagalala]\u2026 1000. \u2013\nTu sais que nous ne sommes en fonds que pour la farine, ce qui d\u00e9duction\nfaite [te fut] &amp; - pr farine &amp; Why. ne n\/s lai?se pas 500 $, \u00e0 quoi il faut ajou-\n-ter les 20 Btes Why ord. vendus pour toi, environ 650$ [rature] en tout \u2013 de ceci il faudrait d\u00e9duire 600 $ ta traite pay\u00e9e [tache] le 14 F\u00e9vrier. \u2013 ce qui r\u00e9duit les fonds que\n1","typa":{},"genera":{},"fullrs":{},"find":"808.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-08-08","dmmodified":"2008-08-08","dmoclcno":{},"dmrecord":"807","restrictionCode":"1","cdmfilesize":"796636","cdmfilesizeformatted":"0.76 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

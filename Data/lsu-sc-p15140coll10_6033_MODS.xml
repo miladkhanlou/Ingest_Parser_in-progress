@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 102</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1586</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1586</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1586/json"
+                        timestamp="2017-02-03 08:23:13">{"title":"Page 102","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 102 \u2014\nrue3 de Saint-Martinville ; mais garda-t-il son secret ? Nousendou-\ntons, car nous pourrions dire, en parodiant un vers celebre :\nllelas ! quej'on ai vu partir de prlsonnicra!\nQuoi qu'il eu soit,. la prison baptisee par A. Judice a saldgende;\nsou3 ce rapport, elle est plus riche que le village mi-meme. En attendant que son histoire s'eurichisse de nouveaux feuillets, elle continue a s'ouvrir pour les prisonniers comrae si le Francois y etait\nencore. Nous la visiterons de nonveau a la suite des prisonniers des\nComites de Arigilance et pent-dtre retrouverons-nous sur quelqu'une\nde ses bviques le nom et l'histoire dc Valsin Deroussel.\n\"   '  '   \\ XII.\nY.ifai n'avibns dor.hd que trois monuments a Saint-Martin; he-\nlas ! il y en a un quatrieme qu'on trouve aussi partout ou il y une\ncerii'inuhauty,' cu meme un petit groupe d'hommes,\u2014le cimetiere.\n'Saint-Martin a nis de la coquetterie a faire du sien un Pere-La\nchaise, ou tout au moins un cimetiere St-Louis. Ici, comme la-ba3\non s'est plu a parer la mort, a la faire belle ; a donner un lit de reine\na la jeune fille fauchde dans la belle fleur de ses seize ans comme un\nlis par la charrue, ou a la jeune femme qui s'est couchde dans toute\nla splendour de la beaute. Puis on a scelld en pleurant, sur leurs\ntetes endormies, le marbre blanc d'ltalie ou la pierre ; puis, pendant\nque le ver du tombeau mordait ces blanches statues de marbre qui\nMer aimaient et chantaient, comme aimeetchante lajeunessej'oubli\nest venu, l'oubli, ce second linceul des morts, a dit Shakspeare. Puis\nles survivants sont revenus a leurs passions, a leurs haines, a leurs\namitids, a leurs fetes, et le ver a pu achever de ronger ses morts\naimes et leurs suaires, sans (Hre trouble par les larmes et lea prieres\ndes survivants.\nNous avons entendti parfois blamer la richesse de quelques-unes\ndes tombes de ce cimetiere. Ces blames nous ont toujours semble\"\nun blaspheme du cceur. Chacun a le droit de donner a ses morts le\nlinceul qu'il aimc leplus; le riche, le Carare; le pauvre, les six\npieds de terre que la Nature, alma mater, rdserve aux plus pauvres\nd'eutre nous. La Mort ne fait, il est vrai, du pauvre comme du ri*\nche, qu'une pincde de cendres. Vouloir faire un lit de roi ou de","fullrs":{},"find":"1587.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1586","restrictionCode":"1","cdmfilesize":"408676","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

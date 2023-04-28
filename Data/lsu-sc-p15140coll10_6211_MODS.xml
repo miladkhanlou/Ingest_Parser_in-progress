@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 285</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1768</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1768</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1768/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 285","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 285 \u2014\net lui dernandames si 1'bomnie qui nous avait donne rendez-vous a\nsa taverne etait visible.\n\"Quel homme? nous de'manda-t-il en grimacant comme Quasimodo.\u2014 FEapagnol, n'est-co pas ?\n\u2014Oui.\n\u2014Eh mon Dieu ! le voila qui se bat dans ce coin 1 \"\nEt en murmurant ces mots avec un accent gascon intraduisible. ii\npc detourna pour verser un verre de gin ii un des spectateurs qui avait\nrouie, plut&amp;t que marche, jusqu'a son comptoir. Pour nous, nous\nnous etions eiance d'un bond sur le theatre de la lutte ; nous vbu-\nlions voir notre heros dans 1'attitude d'un boxeur emerite : il nous\nsemble qu'on peut voir facilement a nu le moral d'un homme a ce\njeu-lli. r\nNous sumes bientot ce que nous desirions savoir. Quand nous\ncumes franchi la triple haie de spectateurs dont les mains, battant\navec, force, saluaient le combat d'un tonnerre d'appluudissements ;\nquand nous fumes arrive an premier rang pour voir dc plus pros les\nprouesses de I'homme' que nous cherchious, nous le vihies debout.\ncalme, daus 1'attitude du luttcur antique, et tenant sous ses pieds\nson malheureux adversaire qu'il avait terrasse d'un coup de poing\nformidable, apres lui avoir brise le visage et poche les yeux.\n\" &amp;enor, lui criames-nous, en applaudi.jsant comme nos voisius,\nla force est toujours ge'hecettse : laissez done se relever ce pauvre.\ndiable qui rale sous votre pied.\n\u2014C'est un bon conseil que vous me dounez-la, dit-il en retirant\nsa botte ferree de dessus la poitrine duvaincu.\u2014Allons, Pierre,\najouta-t-il en tendant la main a son adversaire, releve-toi, mon\nvieux, et viens boirc un coup a la sante du toreador... du coureur\nde tavernes que tu as en la temerite d'insnlter.\"\nCes mots furent dlts avec la noblesse du :\nSoyons amis, China, c'est moi qui ten ebnvie !\nvers qui,, comme on le sait, est de ce poete franco-espagnol qu'on\nappelle Corneille.\nCelui qu'on avait appeie Pierre, se rdeva, le visage toutensan-\nglante et sc dirigca vers la barre en cbancelant,\n\" Un mot, nou3 dit 1'Espagnol, en battant une marche militaire\n!Sik les epaules de son partner : je ne vous invite pas h boirc avec","fullrs":{},"find":"1769.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1768","restrictionCode":"1","cdmfilesize":"409603","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

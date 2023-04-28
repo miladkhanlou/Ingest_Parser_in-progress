@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M50</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1315</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1315</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1315/json"
+                        timestamp="2017-01-13 13:22:52">{"title":"M50","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM 50\na La pointe Coupe ce 22 8bre1767 [338]\nMon generale\nLe flux de \u222bang que Je Garde dudepuis un mois\nDemy ; [rature] mayant reduit a toute extremit\u00e9\nfaute de \u222becour ; nayant [auqun ?] [remaide ?] dans le\nposte Convenable \u00e0 ma maladie, ny mesme\nde viande dauqunes Espece pour fer Le bouion\n[rature]ma Contrain de demender a monsieur don pedro\ndes piernase La permi\u222bsion de d\u00e9\u222bsandre a La pointe\nCoupe pour y rescevoir Les \u222becours Convenable\n2\nM 50\na mon mal. il me la acorde avec bien de La penne\nmais \u222bepandant voyant Letat danjereux ou j\u00e9toit\nreduit il cest determine a me donner une pirogue\nqui Est ramont\u00e9 avec des volailes il ya deux jours.\nJe viens a La pointe Coup\u00e9 celle dont vous ave\nbien voulu mehonorer avec La permi\u222bsion que\nvous voul\u00e9 bien me donner de d\u00e9\u222bsandre an ville\npour y fer mes affaires. Comme Jetois desia randue\na La pointe Coupe Et que Je netoit plus a mesme\nde fer voir [votre ?] Laittre a monsieur pierna\u222bse\nJe me \u222buis decid\u00e9 a rester icy an attendant de\nnouvaux ordres de votre part. craignant que \u222bi jus\npour\u222buivie ma route Jusqua Laville vous Lu\u222bsie\ntrouve mauvais. Je \u222buis chez monsieur de La mezelier [mazelier ?]\n[toujours?] fort malade [rature], Jesper mon General que vous\nvoudere bien ne me pas refuser, daller a la nouvelle\norlean deLesser de me retablir pour remonter Lorsque\nJaur\u00e9 ratrape ma \u222bant\u00e9 tous le monde retombe\n3\nM 50\n[339]\nretombe malade il yen avois ancort quinse a \u222baise\nquand je \u222buis partye\nJe \u222buis an attendant vos ordres\nMon General\nVotre tres humble\nEt tres obei\u222bsant \u222berviteur\nDelaville Boeuvre","typa":{},"genera":{},"fullrs":"Volume7\/M50.pdf","find":"1317.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1315","restrictionCode":"1","cdmfilesize":"49201","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

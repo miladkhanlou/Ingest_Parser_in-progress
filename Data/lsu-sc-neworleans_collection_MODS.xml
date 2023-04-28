@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>New Orleans Image Collections at the LSU Libraries</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The majority of the images are from the New Orleans French Quarter Scenes, circa 1900, Mss. 2116 collection and the Vieux Carre photographs, Mss. 3043. Other manuscript collections represented include: New Orleans Dock Views, Mss.423301; Chef-Rigolets Bridge construction photograph, 1927, Mss 2557; Horticultural Hall at World's Cotton Centennial and Industrial Exposition Photographs, Mss. 034844; New Orlean's Jackson Square and St. Louis Cathedral, Mss. 1534; New Orleans National Bank Building Photograph, Mss. 17620006; New Orleans Levee Scene, Mss. 1534; Palace Theater Cast of Miss Amos Photograph, Mss. 176207; and an assortment of Mardi Gras images. The original images are located at the LSU Libraries Special Collections Library.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">The majority of the images are from the New Orleans French Quarter Scenes, circa 1900, collection and the Vieux Carre photographs. Other manuscript collections represented include: New Orleans Dock Views, Horticultural Hall at World's Cotton Centennial and Industrial Exposition Photographs, New Orlean's Jackson Square and St. Louis Cathedral, and an assortment of Mardi Gras images. The original images are located at the LSU Libraries Special Collections Library.</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-neworleans</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/NewOrleans</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/NewOrleans</identifier>
+</mods>

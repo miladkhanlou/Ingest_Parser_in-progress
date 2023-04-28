@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 1</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Farmers</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Crops</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Watermelons</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fruit trees</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Tomatoes</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Suspenders</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hats</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Farmhouses</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Barns</topic>
+   </subject>
+   <abstract displayLabel="Description">Page 1 of the album includes three photographs.; Photograph 1 [253] shows a watermelon patch with buildings and probable telephone poles in the background.; Photograph 2 [254] shows two men with hats and suspenders in a field, seedling crops growing on poles [probably tomatoes].; Photograph 3 [255] shows planted rows of bush or tree crops [probable fruit trees].</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3749</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3749</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3749/json"
+                        timestamp="2017-02-01 13:53:03">{"title":"Page 1","compoa":{},"photog":{},"notes":{},"biogra":{},"descri":"Page 1 of the album includes three photographs.; Photograph 1 [253] shows a watermelon patch with buildings and probable telephone poles in the background.; Photograph 2 [254] shows two men with hats and suspenders in a field, seedling crops growing on poles [probably tomatoes].; Photograph 3 [255] shows planted rows of bush or tree crops [probable fruit trees].","typea":{},"date":{},"publis":{},"subjea":"Agriculture--Louisiana.; Farmers.; Crops.; Watermelons.; Fruit trees.; Tomatoes.; Suspenders.; Hats.; Farmhouses.; Barns.","geogra":{},"aquisi":{},"box":{},"folder":{},"series":{},"subser":{},"reposi":{},"type":{},"source":{},"dates":{},"item":{},"relate":{},"rights":{},"contri":{},"to":{},"catalo":{},"compou":{},"ocr":{},"cite":{},"collec":{},"fullrs":"Volume167\/LSUAgExt038_Page 1.jpg","find":"4033.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2014-08-25","dmmodified":"2014-08-25","dmoclcno":{},"dmrecord":"3749","restrictionCode":"1","cdmfilesize":"9046801","cdmfilesizeformatted":"8.63 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

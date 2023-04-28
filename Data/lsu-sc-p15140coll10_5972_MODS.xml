@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 37</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1524</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1524</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1524/json"
+                        timestamp="2017-02-03 08:23:11">{"title":"Page 37","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 37 \u2014\nbords. Inutile d'ajouter que I'abime dont les Hots avaient recn 'te\ncorps virginal, ne rcndit qu'un cadavre !\nII.\nMalgre* le peril souvent mortel qu'il y a a remonter le courant\nd'un torrent, ou d'un Active furieux, il se trouva deux hommes qui\nle tenterent. La fortune a souvent seconde\" 3'audace, dit le proverbe\nemprunte' a la langue lathie ; c'est vrai, mais seulement 1'audace^ap-\npliquCe a ce qui est possible, a ce qui peut etre tente ct reussi a\nI'aide de circonstancea heureuses d'abord, ensnite a l'aide d'une sur-\nabondance des deux qualites qui reunies donnent a l'homme des\nproportions surhumaines, une intelligence et une energicsupe'rieures.\nII est bon d'etre cupitor i\/nposstbiltum, pour nous servir dc la pitto-\nresque expression de Tacite; mais, pour atteindre l'impossiblc, il ne\nsuffit pas de le de\"sirer. Quel est d'aiileurs le jeune homme de vingt\nans, qui, riche de sang, de seve.d'irnugination, de jeunesse,n'a forme\nle de'sir d'allumer son cigare au feu des e\"toiles ?\nDeux homines tenterent done 1'entreprise fabulense. herofque, de\ndire aux comites : Vous n'irez pas plus loin ! Notre droit et notre\ndevoir sont done d'etudier ces deux hommes. Quelques-uns de no*\nlecieurs s'attendent peut-etre a trouver dans les pages que nous aliens e\"crire on 6cho de la passion que la presse a mise a les juger as\ncommencement de la lutte. Erreur. La lutte est finie ; les Comites\nsont vainqueurs sur toute la ligne. Le moment est venu de faire de\nl'histoire et non du pamphlet.\nIII.\nLes deux adversaires ofueiels des Comites etaient MM. Am&amp;ite\nMartel et A. Olivier, tous deux appartenant a la magistrature attt-\nkapienne.\nUn jour d'election, le peuple avait e*te cherchcr le premier dans\nl'ombre d'une modostc mais honorable place qu'il devait h une lut*^\naussi acharnde que courageuse contre les lacunes d'une education\n.m peril ci elle, et 1'avait eleve* a. la dignite de juge de district. Co\nfaiUeuil dc magistrat qu'il avait sans doute entrevu plus d'uoe feis\ndaus ses rSves etait done devenu une realite, grace a la bagnetia","fullrs":{},"find":"1525.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1524","restrictionCode":"1","cdmfilesize":"429794","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

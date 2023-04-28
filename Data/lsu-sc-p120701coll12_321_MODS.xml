@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 04</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/593</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>593</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/593/json"
+                        timestamp="2017-02-09 16:30:56">{"title":"Page 04","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"H'\n1  4-;\ni\nif\nIBP':;;\nm\nIt. :\nI.'\nHP\n'-\u25a0\u2022i''':\nSOUTH- W ESTEItN   J 0 U R N A L.\nIf\nk\nik\nv, '\nI'\ni\nf\n1\nIS\n\u25a0J-r,\nINDIAN MOUNDS;  OR,  AMERICAN MONUMENTS,\nIN Tun flOUTIMVBST.\nan Essay, Rend before the Jefferson College anel Washington l.yeenm, Ji\nI, ISM, l,v j. W. MomHTB, M. li.\nThe Spaniards, in their conquest of Mexico and Peru, the\nonly civilized countries on tho American continent, at its dis\ncovery, like Omar the Turkish emperor, seemed to burn with\nan unhallowed zeal to destroy every thing in the conquered\ncountries, which might perpetuate the history, and even the\nmemory of the unfortunate nations and empires which they\nsubverted. Not only their gold and silver; but their government, their cities, their temples, their monuments, their arts,\nllieir history, and even their household gods were the objects\nuf their insatiable rapine. Whatever art, or refinement, o\neven learning, which could not be converted into gold, was\ndestroyed with a sacrilegious rapacity that would have shamed\nthe Vandals of Europe.\nHence a mysterious uncertainty rests upon the history ol\nthese mounds and woiks; which arc the relics of an ancient race of men who have once held dominion in the middle and south-western portion of North America: a race of\nmen who have long since become extinct; or who, in lhc\nfifteenth century had degenerated into savages, who retained\nno other knowledge of their ancestors than the most vague\nand unsatisfactory traditions. The only true history which\nexisted of tho American Indians, was doubtless preserved in\ntho archives of Mexico and Peru. These by the rapacious\nand sacrilegious bigots of Spain were consigned to the obli\nvion of a ruthless destruction. Hence the only authentic re\ncords which wo have of nations who once inhabited and held\ndominion in these regions, are the numerous mounds, embankments, and subterranean works, which are annually\ndiscovered by the advance and enterprise of our settlements.\nThese, although faithful records of a race of men who\nonce have existed here, like the hieroglyphics of Egypt\nare written in an unknown language to us: and from which\n-ve can only glean a few incidental fads, by deciphering now\nand then a sign.\nPortions ofthe American continent are doubtless us ancient\nas corresponding portions of the eastern hemisphere; while\nother portions seem to bo of more recent production, either\nfrom the recession of the oceans, or from the action of subterranean fires. Yet even these portions appear to have\nbeen generally occupied by a race of nun who lived long\nIn-fore even the ancestors ofthe Indians found by Europeans\nin the close of the fifteenth century. Whether ihcso monuments have existed for three thousand years, or only for\neight or ten centuries, none can tell: whether they were\nonce enclosed with walls of brick, or were built of unbiirnt\nearth is equally uncertain. One thing is certain, that very\nlew erf them now exhibit any traces of any other construction than common earth, if wo except the relics of the dead\nwhich lie concealed in their sides. What changes they have\nundergone in the lapse of ages none can tell; but from their\nantiquity, the change effected by time upon their external\nsurfaces must be grcat.\nWhen we take into consideration the vast number of\ntumuli, and remains of earth-works which are found through-\nout tho great rallies of the Ohio and Mississippi rivers as\nwell as of their numerous tributaries, wc must admit, that in\nages long past, these regions were peopled by a numerous\nenterprising race of men ; who, although they may nol have'\nlived in cities built of marble, or have erected temples, and\npyramids of granite, have left monuments of their existence\nno less durable than the builders of ancient Babylon. Babylon, with all its walls, its to wers, and temples has disappeared\nand left no record of ils mighty founders, than what has been\npreserved on the page of history. In America the historic\npage has boon destroyed, and not a sentence left; but the imperishable monuments, without number, proclaim tho former\nexistence of a numerous and great people who have kni\"\nceased to exist.\nAs to a knowledge of ihis people, who, or what they were,\nspeculation alone can supply the void left by history. They\nmay have been like the innumerable tribes who inhabit tho\nnorthern parts of Europe and Asia, a nomadic race, of shepherds and warriors, who likewise cultivated the fertile vallies\nto sustain their numerous population ; and although, like the.,\nCossacks, Tartars, and Mongols of Asia, they may have\ndwelt also in cities and towns; still unlike the shepherd\nkings of Egypt, or the immortal builders of Thebes on the\nNile, they were unused to the labors of mines and quarries;\nand unskilled in the art of piling \"P huge masses of granite,\nand imperishable rock. Yet they had their monuments:\nand whether, to commemorate great events; to perpetuate tin:\nmemory of their friends and kings; or to serve as high places for the rites of their religion, they still remain, although\nless magnificent, yet not less durable than the mighty pyramids of Egypt, or the temples and monuments of the hundred-\ngated Thebes. Their cities, which doubtless they had, were;\nof a temporary nature; built of wood and other perishable\nmaterials, which have long since mouldered to earth, and\nforest trees, to tho tenth generation may have waved over\ntheir ruins,\nThe purpose for which these mounds and works were\nerected is also problematical. However, we are led to infer,\nthat they wero erected for various purposes; some for temples ; some for mausoleums; some for common cemeteries:\nsome for monuments , and some for defences. These purposes may be determined by their size, shape, and relative\nposition. Mounds indicating all theso purposes, except tin-\nlast, arc formed over all the level, fertile, nnd habitable regions of the north-western and south-western states; and appear to have been erected without any regard to defensive\noperations. Many of them indeed are located in the most\nissailable situations. Even those which are surrounded by\nembankments of earth, may have been enclosed, to render\nthem more sacred, especially those for general burial places,\nor the mausoleum of their lamented kings and chiefs. Some-\nwhich now exhibit no enclosures, may originally have been\nenclosed with trees, shrubbery and the like, which have dis-\nippeared. Others which exhibit no embankments now, may\nhave been enclosed originally by walls, which have mouldered\ninto dust, and become levelled with tho ground by the same\never active agent which has probably reduced these mounds\nto less than half their original size.","fullrs":{},"find":"594.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"593","restrictionCode":"1","cdmfilesize":"1794572","cdmfilesizeformatted":"1.71 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Transcript</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1308</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1308</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1308/json"
+                        timestamp="2017-01-13 13:22:54">{"title":"Transcript","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM57\nOppellousas 1 Septembre 1860\nMa bonne Soeur Jai gu\u00eat\u00e9 une ocasion\nPour te faire dire d\u2019ansvoyer cherche du plans de\nchou n\u2019antrouvans pas et voulan envoyez t\u00e9s te deman\nder un peu de gr\u00e9se a pr\u00e9t\u00e9 Je lui et dis quil porterais\nton pland de chou et Javais un morcau de gatos et\nQuelque bonbon pour toi. ce maleureu la par a vant\nle Jour Sans rien dire et laise ton plan envoix le\nVieux Lazare le cherch\u00e9 vite quar on a bien de lapen [coup\u00e9]\nA le gard\u00e9 toules Jour il en vien troix ou quatre avec\ndes panier. Je Sais pas Si vous avais autant de pluis\nque nous Je croix que le coton vas tous germ\u00e9 Sur les\npied ; pour comble de bien Jeudis nous avons hu un\npr\u00e8sque [un] Ouragan qui a tous couch\u00e9 le coton et\nle Jeune Maye. ambrace Alfonce et marie pour\nmoi et dis lui quil prend patiance\nJe tembrace de tous moncoeur\nA[se ?] M[er ?] Donato\n2","typa":{},"genera":{},"fullrs":"Volume7\/M57.pdf","find":"1310.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1308","restrictionCode":"1","cdmfilesize":"7710","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

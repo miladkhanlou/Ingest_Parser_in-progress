@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Louisiana State Capitol carte de visite</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>McPherson &amp; Oliver</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1862</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Old State Capitol (Baton Rouge, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>McPherson, William D. (photographer)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Baton Rouge (La.)</topic>
+      <topic>History</topic>
+      <topic>Civil War, 1861-1865</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">The camera stands on River Road looking up toward the west face of the Louisiana State Capitol. The Federal national flag flies from the left turret and Federal troops may be seen around the entrance to the building.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <note type="medium">Albumen prints</note>
+      <extent>2.50" x 4.00" (CDV studio card)</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Historic Images of Baton Rouge from LSU Libraries</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-brt:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana State Capitol, 1862.</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana State Capitol carte de visite (Mss. 4915), Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana, USA.</note>
+   <identifier type="local" displayLabel="Item Number">4915001v</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_BRT/id/23</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2005-10-25</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <collectionSource>IRP</collectionSource>
+      <CONTENTdmData>
+         <alias>LSU_BRT</alias>
+         <pointer>23</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_BRT/23/json"
+                        timestamp="2017-01-11 11:22:41">{"title":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this audio here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html  Mention the \"Item number\" or \"Item URL\" in your request. ","creato":"McPherson &amp; Oliver, photographers","date":"1862","publis":"Old State Capitol (Baton Rouge, La.)--Photographs;McPherson, William D. (photographer);Baton Rouge (La.)--History--Civil War, 1861-1865--Photographs","descri":"The camera stands on River Road looking up toward the west face of the Louisiana State Capitol. The Federal national flag flies from the left turret and Federal troops may be seen around the entrance to the building.","typa":"Image","source":"Albumen prints&lt;br&gt;2.50\" x 4.00\" (CDV studio card)","type":"jpeg","relati":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","contri":"Louisiana State Capitol, 1862.","langua":"IRP","relata":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_BRT.php?CISOROOT=\/LSU_BRT","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.","cite":"Louisiana State Capitol carte de visite (Mss. 4915), Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana, USA.","to":"See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/dupl.html#prices. Mention the \"Item URL\" or \"Item number\" in your request.","identi":"4915001v","item":"See 'reference url' on the navigation bars.","collec":"http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/LSU_BRT","fullrs":{},"find":"24.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2005-10-25","dmmodified":"2005-10-25","dmoclcno":{},"dmrecord":"23","restrictionCode":"1","cdmfilesize":"1276871","cdmfilesizeformatted":"1.22 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

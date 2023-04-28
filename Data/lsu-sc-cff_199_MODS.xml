@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_6</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/630</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-07-23</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>630</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/630/json"
+                        timestamp="2017-01-13 13:22:50">{"title":"Page_6","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"F21\npremier\n[d\u00e9chir\u00e9] les derniers il n\u2019y en aura pas beaucoup [d\u00e9chir\u00e9] un derniers\n[d\u00e9chir\u00e9] en quantit\u00e9 _ Je n\u2019ai pas pu vendre de leg [d\u00e9chir\u00e9] pendant_\nl\u2019eau haute _ mais je crois recommencer la se [d\u00e9chir\u00e9] prochaine\n[rature] Nous vous avons envoy\u00e9 cherch\u00e9 un baril de [d\u00e9chir\u00e9] et un demi de\nriz par Mr Comp\u00e8re _ Nous les attendons ce [d\u00e9chir\u00e9] \u2013ci_\nLa truie de Tante a 7 petits _ il sont [d\u00e9chir\u00e9] eaux_ et pour\nmoi j\u2019ai 29 poulets qui ont d\u00e9ja 2 semaines et 14 autres\nqui viennent d\u2019eclore aujourd\u2019hui et une autre\n\u00e0 Couver sur 17 oeufs_ Ainsi vous voyez j\u2019ai un beau commencement\nde Basse cour _ Je vous assure que pour l\u2019automne prochain\nje dirigerai toute mon attention Vers sur ce point et sur un beau\njardin _ ._\nLorsque vous reviendez vous trouverez ma fille belle \u2013 car elle a\nengraiss\u00e9 et embellie, considerablement _ Elle est si interessante __\ntoujours un sourire sur les l\u00e8vres _ Il faut vous dire que Muni [?]\napprend \u00e0 lire aussi _ Elle de bien bonnes dispositions _ et\nparait aimer cela ___\nDepuis que vous \u00eates partie tante a \u00e9t\u00e9 un peu malade _ il y a\nd\u00e9ja bien pr\u00e8s de deux mois que je ne les aie pas vu. _ J\u2019ai [rature] bien\nenvie, d\u2019aller faire un tour pour les voir tous.\nJe crois qu\u2019il est temps que je finisse mon babil _ qui vous\na probablement ennuy\u00e9 ____ Eliza Azemia et Pavie se joingnent\n\u00e0 moi pour vous faire leurs amities et croyez \u00e0 l\u2019affection de\nCelle qui vous aime\nFanny\nEcrivez-moi si vous ne venez pas de suite ____\nAzemia \u00e0 recu Votre lettre et vous cer [d\u00e9chir\u00e9] dimanche\n6\n7\nF21 [page #6 en travers]\nR\u00e9pondu le 19 Juin 1866","typa":{},"genera":{},"fullrs":{},"find":"631.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-07-23","dmmodified":"2008-07-23","dmoclcno":{},"dmrecord":"630","restrictionCode":"1","cdmfilesize":"1634616","cdmfilesizeformatted":"1.56 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

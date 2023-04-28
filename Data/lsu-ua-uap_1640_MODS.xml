@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Back</title>
+   </titleInfo>
+   <originInfo>
+      <dateCaptured encoding="w3cdtf">2018-08-07</dateCaptured>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photograph Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Parent Item Title">
+         <title>Music and Dramatic Arts Building</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="local" displayLabel="Item Number">A5000B018AF003P006_002</identifier>
+   <extension>
+      <hardwareSoftware displayLabel="Digital Reproduction Information">Scanned with Digibook 1000 at 300 ppi; saved as a TIFF and converted to JPEG2000</hardwareSoftware>
+   </extension>
+   <name type="personal" displayLabel="Digitized by">
+      <namePart>EC</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/fac">Facsimilist</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/en</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2019-02-27</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

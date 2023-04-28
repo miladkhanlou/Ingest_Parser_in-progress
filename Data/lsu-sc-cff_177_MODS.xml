@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>F10</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1172</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1172</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1172/json"
+                        timestamp="2017-01-13 13:22:54">{"title":"F10","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nF 10\nMagnolia 8 ao\u00fbt 1857.\nJe commence par t\u2019embrasser,\ncher enfant, et te demander com-\nment tu es. J\u2019esp\u00e8re que tu as\neu un heureux et agr\u00e9able voyage,\net \u00e0 ton arriv\u00e9e que tu as trouv\u00e9\nta Tante Alice et tes autres Tantes\net Oncles en bonne sant\u00e9 ! Ecris moi\nde suite, cher enfant, et donne\nmoi de tes nouvelles, et dis moi\ntout ce que tu as fait et tout\nce qui s\u2019est pass\u00e9 depuis le soir\nque je t\u2019ai laiss\u00e9 sur le pont de\nce navire qui devait t\u2019ammener\n2\nF 10\nsi loin de ceux qui t\u2019aiment tant.\nJ\u2019ai re\u00e7u ta ch\u00e8re petite lettre\nde \u201cSouth West pass\u201d qui m\u2019a fait\nun grand plaisir.\nDis \u00e0 ton Oncle Robert que ton\npapa a re\u00e7u sa lettre du 10 juillet\net que je le remer\u00e7i infiniment\npour toute les promesses qu\u2019il fait\nde prendre bien soin de toi. Tu\ndois te considerer tr\u00e8s heureux, cher\nenfant, d\u2019aller dans un College\no\u00f9 tu as pr\u00e8s de toi de si bon parents,\nqui t\u2019aiment tant et qui peut etre\nte gateront trop. Dis \u00e0 oncle Robert\nque je lui \u00e9crirai bient\u00f4t et a Oncle\nLinsay, \u00e0 qui je promets une lettre\ndepuis si longtemps.\nJ\u2019ai \u00e9cris \u00e0 ta Tante Alice il y a\n3\nF 10\ndeux semaines, et Mathilde t\u2019a\n\u00e9cris par la m\u00eame occasion. Emma\nt\u00e2che d\u2019apprendre a \u00e9crire bien vite\npour t\u2019\u00e9crire une petite lettre. Toast,\nOtis et Robert, font classe tous les\njours ; le cher petit Bouboux demande\naussi une ardoise pour faire des\ndes sums. Quand on lui demande\no\u00fb est Wille, il r\u00e9pond, \u201cis gone to\nchurch.\u201d Cher enfant il ne com-\n-prend pas ce d\u00e9part ; il est, si\nc\u2019est possible, meilleur que jamais.\nJe te dirai que j\u2019ai \u00e9lev\u00e9, moi\nm\u00eame, trois magnifiques mo-\nquers pour toi, dont un chante\nadmirablement ; je te les apporterai\nl\u2019ann\u00e9e prochaine lorsque nous\nirons tous vous voir. Quelle\n4\nF 10\nf\u00eate\nce sera, n\u2019est-ce pas ! d\u2019\u00eatre tous\nensemble.\nPapa \u00e0 re\u00e7u, il y a quelque temps,\nune lettre de Mr Durrive, il doit\nvenir nous voir avec tous ses\nenfants. Mme Durrive a eu une\npetite fille depuis que tu es parti ;\nje suis la marraine.\nTon cher papa t\u2019embrasse, il est tr\u00e9s\nbien, il t\u2019\u00e9crira la semaine prochaine.\nLes enfants aussi sont tr\u00e9s bien et\nt\u2019embrassent. Miss qui est toujours avec\nnous t\u2019embrasse aussi. Tante Armantine\net Tante Talie t\u2019\u00e9criront bientot. Mary\nest tr\u00e9s bien, elle te fait dire bonjour.\nAdieu cher enfant, embrasse\nta Tante Alice et tes autres Tantes\net Oncles pour nous tous.\nTa maman qui t\u2019aime\nEmma\nSoit bon et Dieu te benira.\n5","typa":{},"genera":{},"fullrs":"Volume5\/F10-0.pdf","find":"1173.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1172","restrictionCode":"1","cdmfilesize":"53808","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

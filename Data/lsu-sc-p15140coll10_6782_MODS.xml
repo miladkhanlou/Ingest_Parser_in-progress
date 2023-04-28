@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 5, Page 29</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2188</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2188</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2188/json"
+                        timestamp="2017-02-03 08:24:48">{"title":"Section 5, Page 29","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"29\n- thus that the trade of the Upper Mississippi will no longer gyrate around  the\nl be returned to the northern cities for the voyage  around the Horn.    A new\n\u25a0ill be opened by which commerce will reach the Pacific almost as soon as it\n11 traverse the Atlantic coast.    It will be relieved from that nautical parade   of\n\"  &lt;- north nearly 2000 miles for a point of departure south, and of then retracing the\n\"'   \"\u201emnu\\ to pass again Hit; latitude of its departure.    No northern enterprise   has\nt tli\"' Peninsula which separates the chain of inland seas and rivers of the West from\n,i . seaboard of the Atlantic.    It has pierced mountains, bridged streams,  levelled\nth Us mighty viaducts the harriers which nature had deemed sufficient for the sepa-\ntion of distant regions. It has reversed the current of trade, and'compelled the\nmighty Mississippi to roll back its refluent commerce to its South. . Cannot the South\n\u25a0utaway the comparatively insignificant filament which divides the Pacific from the\nAtlantic'\nLet this be done, and the consequences to the south-western cities are illimitable.\nThey will exchange, perhaps, a portion of the provision trade, the metals, minerals\nand staples which burden the levee, for the teas and tissues of China and the coffee\nsugar and dye-woods of the tropics.. The importation and sale of the merchandize\nwill be ours. The gold of Oregon and California will pour its Pactolian current, and\nthe Crescent City\u2014the Golden Horn of the New World\u2014will be seated like its\nAsiatic sister, midway between an Eastern and a Western Empire\u2014the mart and mistress of a southern commerce richer far than all the products ofthe frozen North.\nLet the south-western cities add to the results of an interocianic communication the\ntrade ofthe Amazon\u2014the Mississippi of South America. Let them open a communication direct with Southern Europe, and deliver the products of the valley direct,\nwithout the intervention of New York or Liverpool. This system will recover the\ntrade of the Upper .Mississippi, or replace it with a richer one and more profitable.\nBut the recommendation of such a system of improvements involves a propriety of\ndesignating some adequate method of construction. I have always regarded the railroad as a revelation for the Northern States, because it obviates the only defect which\nnature has imposed upon them\u2014that of constant and uninterrupted traul and transportation, and because it renders available fur the construction of the necessary improvements the advantages of location, and the particular character of labour which the\nSouth possesses. Whilst we adopt the purposes of the Northern States, we must adapt\nthe resources within our control to the work to be constructed. The capital of the\n\u2022 orth is almost all available for conversion to any purpose which enterprise may indicate, The capital ofthe South has been, to a great extent, invested in labour, and employed in staple production.\nben the North designs an improvement, a solvent subscription is easily converted\n' oRlinary fiscal devices into the money necessary to construct it. This money is at\ninvested in labor, provisions and in the iron or other materials required. When\nwren proposes to construct an improvement, the problem is to convert the labor\n8upplies in which their capital is invested into the Railroad or other work under-\nR hh^ W^'st ** ^as keen demonstrated by the gentlemam from New Orleans   (Mr.\nMhat the city possesses a very large amount of banking and other capital, and\nexDeV      Convention ha\u00bb been assured that her corporate and private aid may be\nit b V  t0 the leailin\u00a7 improvements destined to bring the interior trade to this city,\nUnthat New Orleans cannot be expected to build all the Railroads of the inte-\nthat it will be difficult to secure individual subscriptions sufficient to complete","fullrs":{},"find":"2189.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2188","restrictionCode":"1","cdmfilesize":"536493","cdmfilesizeformatted":"0.51 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

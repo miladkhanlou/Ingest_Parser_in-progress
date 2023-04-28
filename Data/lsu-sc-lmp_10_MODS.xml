@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Carte du Mexique et de la Floride, des terres angloises et des Isles Antilles, du cours et des environs de la riviere de Mississippi  dressee sur un grand nombre de memoires principalement sur ceux de Mrs. d'Iberville et le sueur i...u; par Guillaume del'Isle; I. Stemmers, senior, sculp</title>
+  </titleInfo>
+   <name displayLabel="Contributor">
+      <namePart>Stemmers, I</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Creator">
+      <namePart>L'Isle, Guillaume de, 1675-1726</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1722</dateCreated>
+      <publisher>Amsterdam, Chez Jean Covens &amp; Corneille Mortier</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Maps</topic>
+      <topic>North America</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>North America</geographic>
+      <geographic>Maps</geographic>
+   </subject>
+   <abstract displayLabel="Description">1 map : and col.; 52 x 65 cm. ; Scale ca. [1:9,750,000]. (W 265*p0*s--W 317*p0*s/N 8*p0*s--N 44*p0*s)</abstract>
+   <note type="content">Relief shown pictorially. Prime meridian:  Ferro. Possibly detached from his Atlas nouveau, v. 2, published by Jean Covens &amp; Corneille Mortier in 1741. No. 29.</note>
+   <typeOfResource>cartographic</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">fr</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Maps of Louisiana Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-lmp:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>G4410 1722 .L57</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">lm000002</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LMP/id/1</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2004-08-13</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LMP</alias>
+         <pointer>1</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LMP/1/json"
+                        timestamp="2017-01-25 09:42:50">{"title":"Carte du Mexique et de la Floride, des terres angloises et des Isles Antilles, du cours et des environs de la riviere de Mississippi  dressee sur un grand nombre de memoires principalement sur ceux de Mrs. d'Iberville et le sueur i...u; par Guillaume del'Isle; I. Stemmers, senior, sculp","creato":"L'Isle, Guillaume de, 1675-1726","contri":"Stemmers, I","date":"1722","publis":"Amsterdam, Chez Jean Covens &amp; Corneille Mortier","subjec":"Maps--North America","geogra":"North America--Maps","biogra":{},"descri":"1 map : and col.; 52 x 65 cm. ; Scale ca. [1:9,750,000]. (W 265*p0*s--W 317*p0*s\/N 8*p0*s--N 44*p0*s)","notes":"Relief shown pictorially. Prime meridian:  Ferro. Possibly detached from his Atlas nouveau, v. 2, published by Jean Covens &amp; Corneille Mortier in 1741. No. 29.","type":"Maps","format":{},"langua":"fr","source":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","covera":"G4410 1722 .L57","rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":{},"to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","catalo":{},"catala":{},"object":"lm000002","identi":"See 'reference url' on the navigation bars.","collec":"Homepage: http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_LMP.php?CISOROOT=\/LMP;   List of Images: http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/LMP","typea":"Maps","genera":"Image","fullrs":{},"find":"64026181862003_lm000002.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2004-08-13","dmmodified":"2010-02-25","dmoclcno":{},"dmrecord":"1","restrictionCode":"1","cdmfilesize":"2278088","cdmfilesizeformatted":"2.17 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Edwin Benedict Letters, 1862-1863</title>
+  </titleInfo>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-benedict</identifier>
+  <name type="corporate" displayLabel="Contributing Repository">
+    <namePart>LSU Libraries. Special Collections</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="yes">text</typeOfResource>
+  <note type="content" displayLabel="Collection Description">Edwin Benedict was a corporal with Company G of the 23rd Connecticut Infantry. The regiment was organized in New Haven, Conn., on November 14, 1862, and mustered out on August 31, 1863. The unit was attached to the defenses of New Orleans and the District of LaFourche, Department of the Gulf.  In this collection of letters to his wife, Mary, of Newtown, Conn., Benedict describes his travels in Louisiana.</note>
+  <abstract displayLabel="Collection Summary">Edwin Benedict was a corporal with Company G of the 23rd Connecticut Infantry, which was attached to the defenses of New Orleans and the District of LaFourche, Department of the Gulf, in 1862 and 1863.  In this collection of letters to his wife, Mary, of Newtown, Conn., Benedict describes his travels in Louisiana.</abstract>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordCreationDate>2020-05-20</recordCreationDate>
+    <recordContentSource authority="local">lsu/cgz</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

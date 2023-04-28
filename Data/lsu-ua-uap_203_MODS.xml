@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Col. David French Boyd</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1885</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Louisiana State University and Agricultural and Mechanical College</topic>
+      <topic>Presidents</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Boyd, David French, 1834-1899</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">Handwritten on back- Taken about 1885 in N.O. Reproduced in 1902, from Washburn's negative #44,718. New Orleans, La.  David Boyd was a professor, superintendent, and the first president of LSU.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Gelatin silver prints; 4.00in x 5.50in</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Folder">
+         <partNumber>Folder 4</partNumber>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>LSU Photograph Collection, 1886-1926</title>
+      </titleInfo>
+      <titleInfo displayLabel="Series">
+         <partName>College Presidents &amp; Faculty</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 6</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.</note>
+   <identifier type="local" displayLabel="Item Number">a50000295</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3117</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-01-13</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3117</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3117/json"
+                        timestamp="2017-02-01 13:52:58">{"title":"Col. David French Boyd","compoa":"1","photog":"Unknown","notes":"Handwritten on back- Taken about 1885 in N.O. Reproduced in 1902, from Washburn's negative #44,718. New Orleans, La.  David Boyd was a professor, superintendent, and the first president of LSU.","biogra":{},"descri":{},"typea":{},"date":"c.1885","publis":"Gelatin silver prints; 4.00in x 5.50in","subjea":"Louisiana State University and Agricultural and Mechanical College--Presidents--Photographs.; Boyd, David French, 1834-1899--Photographs.","geogra":{},"aquisi":"LSU Photograph Collection, 1886-1926","box":"6","folder":"4","series":"College Presidents &amp; Faculty","subser":{},"reposi":{},"type":{},"source":"Louisiana State University Libraries, Special Collections","dates":{},"item":"a50000295","relate":{},"rights":{},"contri":{},"to":"To inquire about ordering copies of these images, email lsudiglib@lsu.edu See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Include the \"Item URL\" in your request. ","catalo":{},"compou":"See 'reference url' on the navigation bars.","ocr":{},"cite":"LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.","collec":"http:\/\/www.lib.lsu.edu\/special\/archives\/digital","fullrs":{},"find":"3401.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2009-01-13","dmmodified":"2009-02-10","dmoclcno":{},"dmrecord":"3117","restrictionCode":"1","cdmfilesize":"298","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

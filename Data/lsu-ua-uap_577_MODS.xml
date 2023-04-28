@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Loose Photograph 9</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Corn</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural exhibitions</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ribbons</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Farm produce</topic>
+   </subject>
+   <abstract displayLabel="Description">Photograph showing cross-section samples of corn.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="citation/reference" displayLabel="References">Compare photograph to the following publication.  Edgerton, C.W. &amp; Spencer, F.W. (1921, August) Selecting Corn for the Fairs. Extension Circular, No. 48, p. 3.  Photograph is captioned, "Fig. 1 - A good and an inferior ear of corn.  Compare the big, deep kernels of the good ear with the short, small kernels of the other."; The following article explains how corn exhibits are created and judged at the State Fair.  Dodson, W.R. &amp; Roy, V.L. (1909, August) Corn. Louisiana Bulletin, No. 118, pp. 15-16.  Retrieved August 4, 2014, from  http://books.google.com/books?id=8e02AQAAIAAJ&amp;pg=RA1-PA121&amp;lpg=RA1-PA121&amp;dq=1909+Louisiana+State+Fair+Premium+Corn+winner&amp;source=bl&amp;ots=-uSG1vQsdi&amp;sig=4_b6BFBW0kw0wlkAjhZh6W5U28&amp;hl=en&amp;sa=X&amp;ei=LkLEU9mRBLSJ8gH_mYGIBQ&amp;ved=0CDMQ6AEwAw#v=onepage&amp;q=1909%20Louisiana%20State%20Fair%20Premium%20Corn%20winner&amp;f=false</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3720</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3720</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3720/json"
+                        timestamp="2017-02-01 13:53:03">{"title":"Loose Photograph 9","compoa":{},"photog":{},"notes":{},"biogra":{},"descri":"Photograph showing cross-section samples of corn.","typea":{},"date":{},"publis":{},"subjea":"Corn.; Agricultural exhibitions.; Ribbons.; Agriculture--Louisiana.; Farm produce.","geogra":{},"aquisi":{},"box":{},"folder":{},"series":{},"subser":{},"reposi":{},"type":{},"source":{},"dates":{},"item":{},"relate":"Compare photograph to the following publication.  Edgerton, C.W. &amp; Spencer, F.W. (1921, August) Selecting Corn for the Fairs. Extension Circular, No. 48, p. 3.  Photograph is captioned, \"Fig. 1 - A good and an inferior ear of corn.  Compare the big, deep kernels of the good ear with the short, small kernels of the other.\"; The following article explains how corn exhibits are created and judged at the State Fair.  Dodson, W.R. &amp; Roy, V.L. (1909, August) Corn. Louisiana Bulletin, No. 118, pp. 15-16.  Retrieved August 4, 2014, from  http:\/\/books.google.com\/books?id=8e02AQAAIAAJ&amp;pg=RA1-PA121&amp;lpg=RA1-PA121&amp;dq=1909+Louisiana+State+Fair+Premium+Corn+winner&amp;source=bl&amp;ots=-uSG1vQsdi&amp;sig=4_b6BFBW0kw0wlkAjhZh6W5U28&amp;hl=en&amp;sa=X&amp;ei=LkLEU9mRBLSJ8gH_mYGIBQ&amp;ved=0CDMQ6AEwAw#v=onepage&amp;q=1909%20Louisiana%20State%20Fair%20Premium%20Corn%20winner&amp;f=false","rights":{},"contri":{},"to":{},"catalo":{},"compou":{},"ocr":{},"cite":{},"collec":{},"fullrs":"Volume167\/LSUAgExt009_Loose Photograph 9.jpg","find":"4004.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2014-08-25","dmmodified":"2014-08-25","dmoclcno":{},"dmrecord":"3720","restrictionCode":"1","cdmfilesize":"1533957","cdmfilesizeformatted":"1.46 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Carmina Burana</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1230</dateCreated>
+      <place>
+         <placeTerm>Bavaria</placeTerm>
+      </place>
+      <publisher>München: Prestel [1970, c1967]</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">The title "Carmina Burana" literally means “songs of Beuren” and was given by Johann Andreas Schmeller to his complete edition (1847) of the poems contained in an early 13th-century German manuscript (discovered in 1803) from the Benedictine abbey of Benediktbeuern, south of Munich.  Since then, the manuscript has been known by that title even though it is now generally agreed that it probably did not originate in Benediktbeuern and may have come from Seckau. The manuscript is perhaps the most important source for Latin secular poetry of the 12th-century goliardic repertory. There are some poems in German, and several of the poems have music written in unheighted neumes, a relatively rare style of notation at the time. In total, the manuscript contains approximately 250 poems.
+
+The pieces, mostly in Latin, with a few in a dialect of Middle High German and Old French, were written by students and clergy around 1230. Most of the poems and songs appear to be the work of Goliards, clergy (mostly students) who lampooned and satirized the Church. The collection preserves the works of a number of poets, including Peter of Blois, Walter of Châtillon, and an anonymous poet referred to as the Archpoet.</abstract>
+   <abstract displayLabel="Contents">Anthology of secular music</abstract>
+   <note type="content" displayLabel="Illustration">Large decorative capitals in red; several full- and half-page illustrations of religious subjects</note>
+   <note type="content" displayLabel="Details">V. 1, Introduction to the Facsimile Edition of the Benediktbeuern Music Manuscript; V. 2, Facsimile</note>
+   <note type="content" displayLabel="Century">13th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Gothic</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Latin; German</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">Bayerische Staatsbibliothek, Munich (https://www.bsb-muenchen.de/index.php )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Rare PA8133 .S8 C283, v. 1-2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">mm00032</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/414</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>414</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/414/json"
+                        timestamp="2017-02-03 14:39:14">{"title":"Carmina Burana","creato":{},"centur":"13th century","date":"ca. 1230","origin":"Bavaria","conten":"Anthology of secular music","illust":"Large decorative capitals in red; several full- and half-page illustrations of religious subjects","script":"Gothic","scribe":"Unknown","curren":"Bayerische Staatsbibliothek, Munich (https:\/\/www.bsb-muenchen.de\/index.php )","descri":"The title \"Carmina Burana\" literally means \u201csongs of Beuren\u201d and was given by Johann Andreas Schmeller to his complete edition (1847) of the poems contained in an early 13th-century German manuscript (discovered in 1803) from the Benedictine abbey of Benediktbeuern, south of Munich.  Since then, the manuscript has been known by that title even though it is now generally agreed that it probably did not originate in Benediktbeuern and may have come from Seckau. The manuscript is perhaps the most important source for Latin secular poetry of the 12th-century goliardic repertory. There are some poems in German, and several of the poems have music written in unheighted neumes, a relatively rare style of notation at the time. In total, the manuscript contains approximately 250 poems.\n\nThe pieces, mostly in Latin, with a few in a dialect of Middle High German and Old French, were written by students and clergy around 1230. Most of the poems and songs appear to be the work of Goliards, clergy (mostly students) who lampooned and satirized the Church. The collection preserves the works of a number of poets, including Peter of Blois, Walter of Ch\u00e2tillon, and an anonymous poet referred to as the Archpoet.","biblio":{},"public":{},"associ":{},"altern":{},"langua":"Latin; German","genres":{},"facsim":"M\u00fcnchen: Prestel [1970, c1967]","extena":"V. 1, Introduction to the Facsimile Edition of the Benediktbeuern Music Manuscript; V. 2, Facsimile","call":"Rare PA8133 .S8 C283, v. 1-2","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00032","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235","fullrs":{},"find":"415.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"414","restrictionCode":"1","cdmfilesize":"567","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

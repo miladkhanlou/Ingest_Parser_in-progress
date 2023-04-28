@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 62</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2591</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2591</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2591/json"
+                        timestamp="2017-02-03 08:23:44">{"title":"page 62","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"The fever began to abate after the middle of October, and by the\n10th of November had disappeared entirely. And in this particular resembled exactly the course of the epidemic of 1853, which\nlasted about 00 days.\nIndeed, I could .1.-cover no db'ierence rn the symptoms and eha-\nBoth observed not only the same laws in their progress, but the\nsame geographical limits within the village, extending as far up\nand down the bayou, and along the public roads, as in 1853, and no\nAs in 1853, it refused to extend itself into the surrounding\ndisease in the village, contracted tho fever, returned home, were\nnursed and attended by their families during the period of their\nwas communicated to a single i\nidividual member of\nthe family,\noutside of the village.\nThis was the case also in th\n\u201e epidemic of 1855.\nThe disease\ncould only be contracted within\nhe limits of the infected district,\nand was not capable of propagati\n\u201e person \"1\nthe country, among those expose\nho contend that the d\nisease could\nblacked  all\nho had had the yel\now fever in\n1853, as well as those who had n\nt.    This is not a fact\nI do not believe a single cas\noccurred in Centre\nille of well\nmarked yellow.fever, during the\npi.lcrnic of 1-55, in the person of\nany one, supposed to have had\nduring the\nepidemic of 1853.   My opportun\no-tly on   this\npoint will certainly not be disc\nuted, as I treated ne\narly all the\ncases in 1853 in the villager, and\nl large majority of th\nmi again irr\n1855.   I know that some few had\ncuries.    But\nwe of fever that occu\n\u25a0reel  during\niw fever; and that\nremittent bilious fever, so plain   thai   ..\nlonlIZtltver'il,T^To\n\/ or another, during t\n,1 in D\u201ei,\n0fInthe family of John Sogers,\nlis wife alone had yel\now fever in","fullrs":{},"find":"2592.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2591","restrictionCode":"1","cdmfilesize":"512406","cdmfilesizeformatted":"0.49 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

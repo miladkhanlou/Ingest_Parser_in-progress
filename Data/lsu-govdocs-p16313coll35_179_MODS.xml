@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Land loss rates. Report 3, Louisiana Coastal Plain</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Dunbar, Joseph B. Britsch, L. D. Kemp, E. Burton.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Contributor">
+      <namePart>United States. Army. Corps of Engineers. New Orleans District.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1992</dateIssued>
+      <publisher>Geotechnical Laboratory (U.S.) Engineer Research and Development Center (U.S.)</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Dredging</topic>
+      <topic>Environmental aspects</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Dredging</topic>
+      <topic>Mississippi River</topic>
+      <topic>Evaluation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Environmental protection</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <note type="content">Technical Report Abstract: Land Loss mapping and rate curve development for 62 quadrangles in the Louisiana Coastal Plain shows that land loss rates and trends vary significantly throughout coastal Louisiana. Land loss rates for each quadrangle were defined for 4 time periods: 1930's to 1956-58, 1956-58 to 1974, 1974 to 1983, and 1983 to 1990. Differences in land loss rates among the individual quadrangles are a function of the geologic and hydrologic setting and the factors which contribute to land loss such as subsidence, storm induced erosion, channelization of streams and rivers, and canal dredging. Of the 62 quadrangles mapped, 9 quadrangles are losing more than 1 percent of their land area each year, and 12 quadrangles are losing between 0.5 and 1.0 percent per year during the 1983 to 1990 period. On a regional scale, the land loss rate for the entire Louisiana Coastal Plain has decreased from an average yearly rate of 41.83 square miles in the 1956-58 to 1974 period to 25.34 square miles during the 1983 to 1990 period. The percentage of land being lost is also decreasing from 0.51 percent per year in the 1956-58 to 1974 period to 0.35 percent per year during the 1983 to 1990 period. The regional land loss rate will probably continue to decrease slowly until a background rate is reached.</note>
+   <note type="content" displayLabel="Category">Land loss</note>
+   <name type="corporate"
+         authority="local"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Government Documents</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-govdocs-p16313coll35:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana Waterways Management Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>
+Available in the Engineer Research &amp; Development Center (EDRC) USACE, Vicksburg, MS http://acwc.sdp.sirsi.net/client/search/asset/1027443</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail diglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll35/id/457</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-11-01</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll35</alias>
+         <pointer>457</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll35/457/json"
+                        timestamp="2017-02-07 15:32:27">{"title":"Land loss rates. Report 3, Louisiana Coastal Plain","date":"1992","creato":"Dunbar, Joseph B. Britsch, L. D. Kemp, E. Burton.","subjec":"Dredging--Environmental aspects--Louisiana.; Dredging--Mississippi River--Evaluation.; Environmental protection--Louisiana;","covera":{},"publis":"Geotechnical Laboratory (U.S.) Engineer Research and Development Center (U.S.)","descri":{},"notes":"Technical Report Abstract: Land Loss mapping and rate curve development for 62 quadrangles in the Louisiana Coastal Plain shows that land loss rates and trends vary significantly throughout coastal Louisiana. Land loss rates for each quadrangle were defined for 4 time periods: 1930's to 1956-58, 1956-58 to 1974, 1974 to 1983, and 1983 to 1990. Differences in land loss rates among the individual quadrangles are a function of the geologic and hydrologic setting and the factors which contribute to land loss such as subsidence, storm induced erosion, channelization of streams and rivers, and canal dredging. Of the 62 quadrangles mapped, 9 quadrangles are losing more than 1 percent of their land area each year, and 12 quadrangles are losing between 0.5 and 1.0 percent per year during the 1983 to 1990 period. On a regional scale, the land loss rate for the entire Louisiana Coastal Plain has decreased from an average yearly rate of 41.83 square miles in the 1956-58 to 1974 period to 25.34 square miles during the 1983 to 1990 period. The percentage of land being lost is also decreasing from 0.51 percent per year in the 1956-58 to 1974 period to 0.35 percent per year during the 1983 to 1990 period. The regional land loss rate will probably continue to decrease slowly until a background rate is reached.","source":"\nAvailable in the Engineer Research &amp; Development Center (EDRC) USACE, Vicksburg, MS http:\/\/acwc.sdp.sirsi.net\/client\/search\/asset\/1027443","catego":"Land loss","contri":"United States. Army. Corps of Engineers. New Orleans District.","type":{},"format":{},"langua":{},"relati":{},"rights":{},"audien":{},"identi":"landlossrates_march1992","fullrs":{},"find":"419.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2013-11-01","dmmodified":"2013-11-01","dmoclcno":{},"dmrecord":"457","restrictionCode":"1","cdmfilesize":"8705288","cdmfilesizeformatted":"8.30 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

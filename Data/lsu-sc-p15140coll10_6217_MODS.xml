@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 291</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1774</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1774</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1774/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 291","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 291 \u2014\nivment   dans  l'ombre ou a graviter autour des stars de la tauroma-\nchie espagnole comme nne humble etoile miageuse autour du soleil.\nLe jour ou il comprit cela, il s'cmbarqua, non pour aller decouvrir\nI'Amerique, car die etait dejk decouvcrte, mais pour aller etadier\nle Mexiquc.\nPeut-etre avait-il In lee campagncs des premiers aventuriers espa-\ngnols et les redts merveillcux de leurs historlens. II est des noms\nqui attirent comme 1'aimant.\nSanta-Maria partit pour le Mexique.\nA Vera-Cruz, il prit le costume du muletier espagnol, avec se?\ngrelots sonuants, ses racachas k molettcs d'argent et son zarape qui\nreniplac.ait le manteau espagnol, mais dont il se drapait, quelques\nsemaines apres, aussi bien que de son manteau de haillons dais les\neampagnes de la Sen d'Urgel. II posa dans les combats de taureaux;\nil fit plus de conquetes avec son lazzo que Fcrnand Cortez n'en\navait fait avec son epee. Le Mexique est, on le sait, une coutre-fa-\ncon de 1'Espagne. Si les fenetres s'entrebaillciit lit-bas, dies s'ou-\nvrent entierement au Mexique, h, la premiere attaque. Les belles\nVera-Cruzunes ne se deiendireiit pas mieux que leur fbrteresse de\nSaint-Jean d'Ulloa ne devait se defendre contre les canons du\nprince do Joinvillc, en 1837.\nPlus tard, il prit part a un de ces nombreux prononciamentos c\\\\xl\neclatent si n-equeniment au Mexique et qui font d'une maladie ex-\nceptionnelle dans les societes regulicres, une maladie chronique de\nce malheureux pays. Santa-Maria sc souvint de son ancien metier\nde partisan ; le routier reprit le fusil et se battit... au profit de qui''.\nil oublia de nous le dire. La politique mcxicaine est ou sphinx qui\npourrait poser des enigmes it tout le monde : depuis dix-huit ans\nque nous sommes en Amcrique, nous n'y avons encore rien compris.\nEnfin, apres avoir prouve son adresse au lazzo dans la tierra ca-\nUente du Mexique, et avoir subi h'ingratitude de nous nc savons plus\ncombien de presidents qu'il avait aide u nommer, il etait venu en\nLouisiane, ancienne colonie mi-francaise et nti-espagnole, ou 'on\nlui avait dit que les traditions ct les mceurs de sa patrie etaient\ntonjours vivantes et oil il esperait mener bonne et joyeusc vie, grace\na son adresse comme toreador.\nLc jour meme\u2014jour ou il nous cntretenait\u2014il devait donner h\nSaint-Martin un  combat de taureaux, annonce par un programme","fullrs":{},"find":"1775.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1774","restrictionCode":"1","cdmfilesize":"396181","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

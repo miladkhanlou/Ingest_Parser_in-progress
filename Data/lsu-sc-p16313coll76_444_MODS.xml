@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Total des Sommes Placées et des Fonds en Caisse, 1857 Mar. 1
+</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes">1857-03-01</dateCreated>
+  </originInfo>
+   <abstract displayLabel="Description">Letter contains financial statement for 1857.</abstract>
+   <note type="content" displayLabel="Summary">Total des Sommes Placées et des Fonds en Caisse au 1er Mars 1857.'
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>1 letter.</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+<languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Doussan family papers, 1827-1872</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll76:collection</url>
+      </location>
+      <titleInfo displayLabel="Series">
+         <partName>II. Financial Papers, 1842-1892</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4800.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>U: 373</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item  is therefore in the public domain.  Permission to reproduce this image must be  requested through the Special Collections Division, Louisiana State University  Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Doussan Family Papers, Mss. 4800, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll76/id/914</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-01-30</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll76</alias>
+         <pointer>914</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll76/914/json"
+                        timestamp="2017-02-08 15:15:59">{"title":"Total des Sommes Plac\u00e9es et des Fonds en Caisse, 1857 Mar. 1\n","creato":{},"date":"1857-03-01","extent":"1 letter.","descri":"Total des Sommes Plac\u00e9es et des Fonds en Caisse au 1er Mars 1857.'\n","donor":"Letter contains financial statement for 1857.","langua":"French.","type":"Text.","subjec":{},"contri":"II. Financial Papers, 1842-1892","addres":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )","findin":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4800.pdf","color":"U: 373","cite":"Doussan Family Papers, Mss. 4800, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana.","rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item  is therefore in the public domain.  Permission to reproduce this image must be  requested through the Special Collections Division, Louisiana State University  Libraries.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Mention the \"\"Item number\"\" or \"\"Item URL\"\" in your request.   ","file":"Jpeg2000","digiti":"Images digitized using a Epson Flatbed Scanner 110000XL and converted from tiff to jpeg2000 with Photoshop software.","source":"See 'reference url' on the navigation bar. ","publis":{},"fullrs":{},"find":"942.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-01-30","dmmodified":"2015-01-30","dmoclcno":{},"dmrecord":"914","restrictionCode":"1","cdmfilesize":"516","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Images digitized using a Epson Flatbed Scanner 110000XL and converted from tiff to jpeg2000 with Photoshop software.</hardwareSoftware>
+  </extension>
+</mods>

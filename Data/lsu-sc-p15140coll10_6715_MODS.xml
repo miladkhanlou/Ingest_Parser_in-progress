@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 12</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2121</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2121</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2121/json"
+                        timestamp="2017-02-03 08:24:45">{"title":"Section 3, Page 12","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"12\nThe subsequent progress of these roads has been ii, a similar ra-\ntio. In freights the Western Road, Massachusetts, had a \u2122.Veiiue of\n$246,351\u2014in 1848, 781,030 ; the Boston and Worcester, i^\n$96,950\u20141848, $123,111 ; Boston and Providence, 1840, $67,950-1\n1848, $123,111; Eastern Road, 1840, 41,837\u20141848, 101,088;\nBoston and Lowell, 1840, $104,569\u20141848, 260,129.\nThe southern roads exhibit results equally gratifying, as the foi-\nlowing win \u00abhow;\nBUSINESS   OF   HOTJTH   CAROLINA   RAIL-ROABS.\nMiles\nPassen-\nBun.      gers.\nFreight\nDown.\nce.pte.\nCotton.   Flour.   Corn\nWheat.lTurpen-\n1834....\n154,000! 26'64\u00a3\n&gt;.-,,-,,u(i!l\n$28,205\n$166,559\n24,567   ....\nlirii.ir,--\n3-1.2S\n89,237\n42,546\n249,754\n31.-lif\n161,160\n\u25a0A0MU\n101,335\n3&gt;',69.;\n271,014\n28,497\n1 .*&gt;:*, (inn\n41,554\n84,956\n53,311\n2*1,2 ir.\n34,39-\nI'lUA',)\n111,027\n52,395\n3-j:i,:i,-i\n35,:: lo\n\u25a0J:':.!..-:'.-'\n37,28::\n129,776\n74,547\n'iv&gt;;&gt;,i~A-&gt;\n52,585\n-;:i:iii..i;\n110,732\n77,771\n388,127\n58,496\n\u2022S.WM*\n35.141\nL115,951\n56,035\n3: so, :.:(.-\n5-1,(ii'M\n\u25a0^c,.&lt;m\nl.'lt.ns!'\n95,876\n4liS,7i.r,\n92,336| ....\nfKS.DKfi\n37,74C\n129.337\n118,52-;\n442,931\n128,047,\t\n54,146\n163,778\n148,701;\n;-)32.ft70\n186,638; ....\nii-j.4:i.-i\n5i;,7.-.-\n179,^\n162,514\n562,296197,657  ....\n589,082 166,271 12,148\nm.i-u-A\n64,136\n172,291\n179,39*:\n48\n!:;:.r,:i!\u00bb\n77,57!:\n201,481\n1P&lt;&gt;,I5*\n656,275,134,30219,04,'-\n{3-1,'iil\n4,087\n3,186\n352,431\n75,ur\n217,071\n;ilf,:Vjri\n800,07:* 274,364 15,447\n201,177\nM,\u00bb07\n5,753\n''\u25a0J.7i:'\n268,485\n353,507\n892,4031339,999; ....\n..      ..  117,351\n310,616\n\u25a0&gt;-f-,:v.\n912,720;284,935j ....\nCalculating the saving in transportation, &amp;c. at 50 per cent., Col.\nGadsden shows an annual gain to the state of $70,000 on passengers,\nand $400,000 on freights, nearly one half million of dollars, upon railroads, whose cost has been $5,699,736, independently of the revenues\nof the road.\nSpeaking of the Baltimore and Ohio Rail-Road, the Rail-Road\nJournal says, \" The immense amount of freight collected on the lines,\nand destined for the sea-board, rendered it almost impossible for the\ncompany with their old arrangements to dispose of it; and as the\ncoal trade grew in importance, it called for greater accommodations\nthan the company were able to give. The amount of passengers\ncarried per annum, 331,170.\nThe Central Rail-Road of Georgia, from Savannah to Macon, exhibits the following:\u2014\nReceipts..\n.1844 $328,424\n.1845 \u25a0-   368,450\n.1847  383,863\n.1848 500,000\nAn official report of the City Council of Savannah says, \"It is perhaps a remarkable fact in the history of this road, that, projected and\ncommenced as it was in the infancy of such improvements, and from a\nport on the sea-coast with a population of white and black of only about\n10,000 persons, to a town distant 190 miles, with only 4,000 persons,\nand through a country almost a wilderness, it should have sustained\nitself amid, all the embarrassments of the times, and without sacrifice\nof capital or credit.\"","fullrs":{},"find":"2122.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2121","restrictionCode":"1","cdmfilesize":"558320","cdmfilesizeformatted":"0.53 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

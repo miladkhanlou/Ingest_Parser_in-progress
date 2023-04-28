@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Runaway in Jail.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001980</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>D.D. Swindall</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1858-08-04</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Plantation on Beouff River, Ms</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1858</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1858-08-12</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Runaway in Jail. WAS COMMITTED to the jail of this parish on the 12th inst., a negro man who says his name is CHANCE, and that he belongs to a Mr. Nathan White, of Mississippi, but ranaway from a Plantation on Beouff River. Said negro is of a dark complexion, tolerably stout built, three or four upper front teeth gone ; no other prominent marks. The negro had in his possession when taken a dugout and gun. The owner is required to come forward, comply with the law and take him away. D.D. Swindall, Jailor. 5-9 tf</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">dark</note>
+   <note type="content" displayLabel="Slave Owner">Nathan White</note>
+   <note type="content" displayLabel="Slave Name (Age)">Chance</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Independent. : (Harrisonburg, La.) 1853-18??</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn88064150/1858-08-04/ed-1/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn88064150</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2114</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-03-16</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2114</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2114/json"
+                        timestamp="2017-02-13 13:33:31">{"title":"RSA00001980","object":"sn88064150","publia":"The Independent. : (Harrisonburg, La.) 1853-18??","date":"1858-08-04","year":"1858","film":"page 2, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn88064150\/1858-08-04\/ed-1\/seq-2\/","unique":"Runaway in Jail.","person":"D.D. Swindall","parish":{},"digita":{},"acknow":"1858-08-12","public":"Nathan White","town":"Plantation on Beouff River, Ms.","relati":"Chance","slave":"M","slavea":"dark","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"Runaway in Jail. WAS COMMITTED to the jail of this parish on the 12th inst., a negro man who says his name is CHANCE, and that he belongs to a Mr. Nathan White, of Mississippi, but ranaway from a Plantation on Beouff River. Said negro is of a dark complexion, tolerably stout built, three or four upper front teeth gone ; no other prominent marks. The negro had in his possession when taken a dugout and gun. The owner is required to come forward, comply with the law and take him away. D.D. Swindall, Jailor. 5-9 tf","subjec":"Fugitive slaves--Louisiana.; Fugitive slaves--Mississippi.; Slavery--Louisiana.; Slavery--Mississippi.; Slaves--Louisiana.; Slaves--Mississippi.;","type":"text","format":"clipping","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001980.jpg","find":"2178.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-16","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"2114","restrictionCode":"1","cdmfilesize":"165530","cdmfilesizeformatted":"0.16 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

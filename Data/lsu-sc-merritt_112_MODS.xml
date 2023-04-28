@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Letter from John Merritt to Perry Smith, 1865 May 4</title>
+   </titleInfo>
+   <name type="personal" displayLabel="Creator">
+      <namePart>Merritt, John</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name type="personal" displayLabel="Addressee">
+      <namePart>Smith, Perry</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1865-05-04</dateCreated>
+      <place>
+         <placeTerm type="text">Washington (D.C.)</placeTerm>
+      </place>
+      <dateCaptured encoding="w3cdtf">2015-04-09</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Soldiers</topic>
+      <topic>Family relationships</topic>
+      <topic>New York (State)</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Washington (D.C.)</geographic>
+      <geographic>History</geographic>
+      <geographic>Civil War, 1861-1865</geographic>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>United States. Army. New York Infantry Regiment, 114th (1862-1865)</namePart>
+      </name>
+   </subject>
+   <abstract displayLabel="Description">Merritt asks Perry Smith to give his father $75 so that his brother will not enlist again. He says he hopes to be home soon, as the war is nearly over. </abstract>
+   <note type="biographical/historical" displayLabel="Biographical Note">John Merritt was a Union soldier from Madison County, New York. He enlisted as a private on August 9, 1862, Company D, 114th Regiment infantry, New York Volunteers.  He served in several Louisiana campaigns. He was probably wounded in the battle of Opequon, Va., September 19, 1864.  He was mustered out on June 8, 1865.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Letters (correspondence)</form>
+      <extent>2 pages</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>John Merritt Letters, 1861-1874</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-merritt:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 4674</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>W:24, Box 1, Folder 3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No Copyright - United States</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright of the original materials in this collection has expired and they are therefore in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">John Merritt Letters, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">4674b01f03022</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/mrj</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-07-13</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

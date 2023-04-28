@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 34</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2141</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2141</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2141/json"
+                        timestamp="2017-02-03 08:24:46">{"title":"Section 3, Page 34","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"34 ADDRESS.\ntained in an elaborate decision in the Supreme Court of Kentucky\n(Talbot vs. Dent, 9 B. Monroe's Reports, p. 536, 538. 1849.) t\u00a3\ncase decides:\n1. The legislature have constitutional authority to grant to town corporation!\npower to tax the property of towns or cities, for the construction of works of\ninternal improvement, for facility of access to, and transportation to and from\nthe town or city. 8 Leigh's Rep. 120 ; 15 Con. Rep. 475 ; Ten. Sup. Court. I\nrail-road to a city is such a work.\n2. Taxation by a local corporation for a local purpose, and tending to promote\nthe local prosperity, is within the scope of the corporate powers of city corporations, when sanctioned by the legislative authority, though not consented\nto by each individual to be affected thereby ; the will of a majority is to govern\nwhen it is referred to the decision of those to be affected.\nThe advantages of such a principle are these : It throws upon real\nestate the onus of those improvements which most certainly and\nspeedily are felt by it in an appreciation of value. It causes all such\nproperty to contribute equally \u2022 and by the distribution of stock into\nsmall parcels, gives the whole community a direct and practical in.\nterest in the results of rail-road improvements, and thus insures greater\nvigilance and responsibility. It renders rail-roads practicable in\nquarters where, from the obstinacy or ignorance of the largest proprietors, they otherwise would not be, and removes from the enterprising the necessity of being at the whole expense of improvements\ngreatly advantageous to the whole public in the long run, though,\nperhaps, immediately unprofitable. It is more unexceptionable than\nmethods of state and corporation loans, or pledged credits, and does\nnot trench upon any principle whose inviolability is essential; since\nunder proper regulation and limitation, there will be little or no\nchance of abuse. In the South-west, the large majority are land proprietors, and must tax themselves at the same time, and in the same\nproportion that they tax others, and men are not generally so fond of\nthe tax collector, that they will willingly and rashly adventure themselves within reach of his rapacious hands. Under this system, property will be altogether as safe and well guarded, as under republican institutions in general.\nFinally, fellow-citizens, the time has come for us to be astir in the\ngreat movements ofthe age, and let us meet together in one general convention for an exchange of views and plans ; for a combination of\nthese, where it is practicable ; for a wider co-operation and a more generous rivalry ; and for heartily pledging each other a bold, vigorous\nand sustained effort throughout all the future, in developing our resources and our power, and in strengthening the bonds of fraternity ana\nof concord between us.\nNew-Orleans invites you here, and, in the awakening spirit of enterprise throughout her limits, tells you that she is in heart with y\u00b0u*\nand will do her whole duty.","fullrs":{},"find":"2142.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2141","restrictionCode":"1","cdmfilesize":"564650","cdmfilesizeformatted":"0.54 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

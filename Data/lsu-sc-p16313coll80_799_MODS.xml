@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Parti Marron.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000608f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">PARTI MARRON DE chez le soussigné, sur le Bayou Courtableau, en cette Paroissie, Mardi dernier, 4 du courant,  un nègre nommé DICK, âgé d'environ 21 ans, taille d'environ 5 pieds 3 pouces, et parlant le français et l'anglais. Cet esclave provient de la succession de feu Don Diègue Alex. Laros Fontenot. Une récompense libérale sera accordée à quiconque les logera dans une des geôles de cet Etat ou le ramènera au soussigné. FELIX GUIBERTEAU. Paroisse St. Landry, 15 Mars, 1856.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 1
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1856-03-29/ed-1/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1856-04-05/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1856-04-12/ed-1/seq-2/;
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1277</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1277</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1277/json"
+                        timestamp="2017-02-13 13:34:16">{"title":"RSA00000608f","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 1\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1856-03-29\/ed-1\/seq-2\/\n","unique":"Parti Marron.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"PARTI MARRON DE chez le soussign\u00e9, sur le Bayou Courtableau, en cette Paroissie, Mardi dernier, 4 du courant,  un n\u00e8gre nomm\u00e9 DICK, \u00e2g\u00e9 d'environ 21 ans, taille d'environ 5 pieds 3 pouces, et parlant le fran\u00e7ais et l'anglais. Cet esclave provient de la succession de feu Don Di\u00e8gue Alex. Laros Fontenot. Une r\u00e9compense lib\u00e9rale sera accord\u00e9e \u00e0 quiconque les logera dans une des ge\u00f4les de cet Etat ou le ram\u00e8nera au soussign\u00e9. FELIX GUIBERTEAU. Paroisse St. Landry, 15 Mars, 1856.\n","subjec":{},"type":{},"format":{},"langua":"French\n","digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1856-04-05\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1856-04-12\/ed-1\/seq-2\/;\n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000608f.jp2","find":"1976.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-03-01","dmoclcno":{},"dmrecord":"1277","restrictionCode":"1","cdmfilesize":"117183","cdmfilesizeformatted":"0.11 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

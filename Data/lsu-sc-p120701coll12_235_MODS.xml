@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 02</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/507</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>507</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/507/json"
+                        timestamp="2017-02-09 16:30:52">{"title":"Page 02","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"146\n10 XI T H - W E S T E R N   J 01) R N A I,\n1-\nfob and to the effluvia from putrid carcases deposited\non 'the extreme western limit of the city.* These, however, we think, were only contingent circumstances, which\nl,ave often occurred to ihe same extent in previous years,\nwithout producing yellow fever: and other epidemics have\nsince prevailed, when all these circumstances did not exist:\nindeed, when those which have been considered most essential\nwere e'ntiiely wanting. We believe il is a miasm which accumulates in these ravines, until they are full to overflowing,\nand in the declivities towards their brinks; and that gentle\nwinds waft it over lo situations which would otherwise be\nhealthy.\nIV. The Epidemic of 182\") commenced \" under the\nhill,\" by a few very malignant cases in and near a certain\nwarehouse at the'landing. The first cases occurred about\nthe 20th of August: and nearly all of them were carried up\ninto thexity after they were attacked, where they died. Several deaths had thus occurred in the upper city, as well as in\nthe lower, previous to the 29th of August, when tho Board\nof Health, upon the reports ofthe Medical faculty, announced\nthe existence of yellow fever as an epidemic, and advised the\ncitizens to disperse; notwithstanding most of the cases were\nascribed to intercourse with the infected district under the\nhill. A great portion of the citizens fled to Washington and\nthe surrounding country; anel for nearly three weeks, but\nfew cases occurred in the upper city, although now cases di:\nly appeared near the landing.! About the 20th and 22d of\nSeptember, after ihe yellow fever hud made its appearance at\nWashington, most of the refugees returned to the city, believing the epidemic to have subsided. After their return,\nthe population ol Natchez amounted to nearly fifteen hundred\nsouls, during the remainder of September and all October.\nAbout the last of September, soon after ihe return of those\nfrom Washington, the disease began again to prevail in the\nupper city with great malignity; and continued its ravage's\nuntil checked by frost nnd cold weather about the 28th o|\nOctober. As the cold weather and winds appeared to have-\nput a stop to the disease, llic inhabitants returned from the\nhaving contracted the infection before they retired. Sevelii]\ncases occurred likewise at Houghton's, one mile south-fast of\nNatchez, near the junction of the two main branches of thc\nbayou.\nThe spring of 1825 was not uncommon in any respect,\nDuring the months of June and July, the weather was agree.\nably diversified with fair weather and wilh showers. Jtily\ntowards the latter part, was, however, rather dry; August\nand September were quite dry, and vegetation began to lan.\nguish for want of duo moisture. The temperature of July\nand August averaged \"il\" at 5 o'clock, A. M., and 91\u00b0 nt -I\no'clock, P. M. The temperature of September averaged\nonly 72\u00b0 at 5 A. M.,nnd $5,&lt;Q at 4, P. M.: although, during\nthe first twenty-two days of that month, the thermometer was\noften up to 91\u00b0 nnd 93* Fahrenheit, as tho extreme heat, and\nthe air often very sultry. During the first ten (lays of October, the mercury was often up to 87\u00b0, 90\u00b0, and 91\u00b0, ns extreme heat.\nThe infected district on the hill, was in the south-west and\nthe south-east pails of the city, to which the generality of\ncases were confined. Dr. Cartwright informs us, that while\nthe yellow fever was raging in I his part of the cilv, the\nnorthern portion of it was free from yellow fever, anil exhibited only a few cases of common bilious fever.\nThe yellow fever of Natchez in 1825, has been ascribed\nto \"spoiled porter,\" and \"sour pork,\" and \"putrid fish, and\nputrid sour croul,\" in a certain warehouse at the landing:\nalso to \"a sunken flat-boat containing a quantity of rotten\ncorn,\" and to other vegetable and animal matters in a putrid\ncondition, in the mini anel stagnant water near the wlinrf, and\nin the cellar of ihe aforesaid warehouse. [Med. Record,\nvol. ix., p. 220', etc.| In the upper city, it was ascribed lo\n\"cily filth in the sewers, alleys, arid back-yards,\" which wis\nsuffered to accumulate, in the city, after the disease first made\nits appearance at the landing.    [ Ibid p. 240.]\nDr. Morrill * ascribed it lo loose earth, thrown up nnd exposed to the sun, in digging down and filling ihe uneven\nstreets in the upper city, and in making an embankment for\ncountry about the first of November, about which time it had a wharf at the landing.    Others have assigned other causes,\nM    &gt;\nbeen so cold as to freeze water. It was, however, not more\nthan four or five days after their return, when new cases began to occur among those who had returned ; and ten or\ntwelve deaths took place between the 5th and 18th of November, exclusively among those who had been absent during the month of October. The infection, no doubt, was destroyed in those houses which had been open and exposed to\nventilation, as well as in the general atmosphere of the city:\nbut in those houses which had been closed for several weeks,\nit was as virulent as at any lime during the epidemic. Had\nthose houses'beer. opened and ventilated for a few days during\nthe cold winds and frosts, no danger would have ensued from\nentering them.\nThe whole number of deaths during the epidemic of 1825,\nin Natchez and its vicinity, from the 20th of August to the\n18th of November, was about one hundred and fifty; of whom\nseveral died in the country after they had fled from the city,\n'Med Record, vol. Ix, p. 5, C, 7, Ax.\ntVlrieMed R,tr . vnl.ix, p.^f,, Sit\nbut in nothing different from the assigned causes of former\nepidemics.\nAs we believe that the causes which have been alleged as\nthe sources of yellow fever miasm or infection, arc insufficient for the production of the epidemics of Natchez, we will\nbriefly state our reasons for entertaining a different opinion\nfrom those above cited. Wo believe that the cause, or esscniiitl\nagent of yellow fever miasm, is beyond our control, and our\nonly safety is to mitigale ils effects, observe ils approach, and\nflee from it. We fear tho public attention and our city authorities have been too much drawn to matters which havo\nno agency in the production of yellow fevers; or at most only a subordinate and contingent agency. As a necessary\nconsequence, they have entertained a fallacious hope that security would result from the removal in time of such causes\nas were supposed to generate the pestilential miasm. They\nhave thus been lured into a false security, which has often\nresulted in their disappointment.    We have no prcconrciv\n\u25a0ed\n'North AinrrOnnJo\na3|M|","fullrs":{},"find":"508.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"507","restrictionCode":"1","cdmfilesize":"1748110","cdmfilesizeformatted":"1.67 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

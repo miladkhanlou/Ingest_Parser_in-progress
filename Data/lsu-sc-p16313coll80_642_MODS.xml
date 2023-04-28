@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>A Runaway in Jail.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000554e</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">A RUNAWAY IN JAIL. WAS committed into the Jail of the Parish of St. Landry, on the 29th August last, 1853, a negroman calling himself Isaac, and saying he belongs to Mr. Ogden, residing on Bayou Bœuf in this Parish. Isaac is of a griffe color, about 40 years old, spare made, 5 feet 10 inches high, speaking English only. The owner is requested to come forward, prove property, pay charges and take him away, otherwise he will be disposed of according to law. CHS. THOMPSON, Jailor. Opelousas, Sept. 3d, 1853.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 4
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-09-03/ed-2/seq-2/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/815</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>815</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/815/json"
+                        timestamp="2017-02-13 13:34:08">{"title":"RSA00000554e","object":"sn 83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 4\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-09-03\/ed-2\/seq-2\/\n","unique":"A Runaway in Jail.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"A RUNAWAY IN JAIL. WAS committed into the Jail of the Parish of St. Landry, on the 29th August last, 1853, a negroman calling himself Isaac, and saying he belongs to Mr. Ogden, residing on Bayou B\u0153uf in this Parish. Isaac is of a griffe color, about 40 years old, spare made, 5 feet 10 inches high, speaking English only. The owner is requested to come forward, prove property, pay charges and take him away, otherwise he will be disposed of according to law. CHS. THOMPSON, Jailor. Opelousas, Sept. 3d, 1853.\n","subjec":{},"type":"text\n","format":"clipping\n","langua":"English\n","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000554e.jp2","find":"879.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-02-24","dmoclcno":{},"dmrecord":"815","restrictionCode":"1","cdmfilesize":"126874","cdmfilesizeformatted":"0.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

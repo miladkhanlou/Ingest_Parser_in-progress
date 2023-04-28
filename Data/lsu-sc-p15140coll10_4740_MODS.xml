@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Address of the commissioners for raising the endowment of the University of the South</title>
+  </titleInfo>
+   <note type="biographical/historical" displayLabel="Biographical Note">Elliott, Stephen, 1806-1866; Polk, Leonidas, 1806-1864.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1859</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>University of the South</topic>
+      <topic>Finance</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Episcopal Church</topic>
+      <topic>Education</topic>
+      <topic>Southern States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Southern States</topic>
+      <topic>Religious life and customs</topic>
+   </subject>
+   <note type="content">General Note: Signed (p. 14): Leonidas Polk, Stephen Elliott, commissioners. General Note: 'Appendix. An act to establish the University of the South': p. [15]-16.</note>
+   <note type="content" displayLabel="Topics">education; southern identity; religion; University of the South</note>
+   <physicalDescription>
+      <form>pamphlet</form>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana &amp; Lower Mississippi Valley Collections</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Civil War Context and Conflict at LSU Libraries</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>LD4980.5 .A5 1859 LARA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Stephen Elliott, Address of the commissioners for raising the endowment of the University of the South (New Orleans: B.M. Norman, 1859)</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/683</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <publicationStatus>published</publicationStatus>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>683</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/683/json"
+                        timestamp="2017-02-03 08:23:01">{"title":"Address of the commissioners for raising the endowment of the University of the South","subjec":"University of the South--Finance.; Episcopal Church--Education--Southern States.; Southern States--Religious life and customs.","descri":"16 p. ; 23 cm.","creato":"Elliott, Stephen.","publis":"New Orleans: B.M. Norman, 1859.","date":{},"year":"1859","format":"pamphlet","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )).","collec":"Louisiana &amp; Lower Mississippi Valley Collections","reposa":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","digitb":"Civil War: Context &amp; Conflict","langua":"en","topics":"education; southern identity; religion; University of the South","cite":"Stephen Elliott, Address of the commissioners for raising the endowment of the University of the South (New Orleans: B.M. Norman, 1859)","notes":"Elliott, Stephen, 1806-1866; Polk, Leonidas, 1806-1864.","notesa":"General Note: Signed (p. 14): Leonidas Polk, Stephen Elliott, commissioners. General Note: 'Appendix. An act to establish the University of the South': p. [15]-16.","source":"LD4980.5 .A5 1859 LARA","box":{},"folder":{},"identi":{},"relati":"18-May-10","findin":"16","catalo":{},"type":"published","full":{},"fullrs":{},"find":"684.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-30","dmmodified":"2012-05-30","dmoclcno":{},"dmrecord":"683","restrictionCode":"1","cdmfilesize":"2354","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <findingAidURL>16</findingAidURL>
+  </extension>
+</mods>

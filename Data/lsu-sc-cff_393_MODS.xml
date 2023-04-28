@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M05</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1189</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1189</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1189/json"
+                        timestamp="2017-01-13 13:22:48">{"title":"M05","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM5\nSt. Charles 7. 7 bre 1825\nMonsieur &amp; ami,\nIl y eut, il est vrai, une estimation faite de latotalit\u00e9 de\nlapropri\u00e9t\u00e9 de Mr.Al. Labranche, situ\u00e9e a la creva\u222bse : mais [tache]\nsi vous vous en rappellez, cette \u00e9valuation me parut [illisible] \u2013\nlorsqu\u2019en 1824 vous fournites votre cautionnement pour la [tache]\ncollection en 1823- Je nommai deux estimateurs qui \u2013\n\u00e9valu\u00e8rent les sept arpens que Mr Al. Labranche consentait\n\u00e0 hypoth\u00e8quer sp\u00e9cialement . vous \u00eates oblig\u00e9 dans faire autant \u2013\npour les 8. arpens qu\u2019il hypoth\u00e8que pour s\u00fbret\u00e9 en\nla collection des taxs [rature] de la paroi\u222bse St. Jn bapt. \u2013\nje vous envoie une [rature] copie du proc\u00e8s-verbal des estimateurs\nde cette paroi\u222bse, elle pourra vous guider pour ceque vous\navez \u00e0 faire \u2013\nJe vous envoie au\u222bsi un certificat de mon hypoth\u00e8que\nSurles 8. arpens . \u2013\nJe vous ai envoy\u00e9 derni\u00e8rement une citation pour\nfaire compara\u00eetre un nomm\u00e9 Eggeries [rature] qui qui \u2013\ndemeure par ce bord-ci, poursuivi \u00e0 la requ\u00eate du [tache]\n2\nM5\nDocteur [Camp ? a\u222bs] [illisible]. vous ne m\u2019en avez pas \u2013\nfait le retour\nJe vous ai adre\u222bs\u00e9 \u00e8galement un ordre \u2013\nd\u2019arrestation contre un nomm\u00e9 Evariste Roubleau,\nque je vous ai fait remettre par Mr. Ma\u222bs\u00e9,\nvous ne m\u2019en avez non plus donn\u00e9 aucune\nnouvelle. \u2013 veuillez me dire ce que vous \u2013\navez fait dans ces deux affaires. \u2013\nJ\u2019adre\u222bse \u00e0 Mr. [Drosier] trois [circulaires]\nlettres de convocation, pour Humphrey Pierre\nTr\u00e9pagnier &amp; Delhomme, priez-le de ma\npart de les faire parvenir leplut\u00f4t \u2013\npo\u222bsible - , vous obligerez \u2013\nVotre tout d\u00e9vou\u00e9 \u2013\nServt. &amp; ami \u2013\nJM. Morel Guiramand","typa":{},"genera":{},"fullrs":"Volume5\/M05.pdf","find":"1190.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1189","restrictionCode":"1","cdmfilesize":"43339","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 10</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2119</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2119</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2119/json"
+                        timestamp="2017-02-03 08:24:45">{"title":"Section 3, Page 10","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"*** ADDRESS.\nGovernor Floyd also presents, in a strong light, the comparative '\ngrowth of Boston.    \"The advancement of Boston is beyond \u00b0u\nample.   The value of her property has increased &amp;*&gt;&amp;\u25a0  A^,114,574,;\n^.^6,646,8^, ^Eem&amp;tm in V irginia.    The popui^^^fc^? J\nhas increased with an equally surprising rapidity.    The popuiauun of ^\nthe state has advanced from 718,592 to 973,715,   an increase on\n255,123.    Every vocation of life has partaken of this prosperity and ]\nthrift.    Agriculture, manufactures, commerce\u2014all branches of industry,  are advancing with an unparalleled rapidity;   and   the future ]\nprospects of Boston continue still to be as brilliant as those of aay ]\nother city in the Union.    That this great increase has been the result ]\nof her railway improvements, is denied by none\u2014no other element 1\nof prosperity than this has been added to those always possessed by 1\nher; and we have therefore a right to infer that from this source ]\nflows the extraordinary tide of wealth.    In 1839, Boston had 167 1\nmiles of rail-road radiating thence in various   directions; in 1850,\nshe is connected with 3,000 miles\u2014one third of which lies within\nthe territory of Massachusetts; 1,350 within the borders of other.j\nNew-England states; and six hundred and fifty in the state of New-J\nYork.    These great works have enlarged the area of country which j\ncontributes to her commerce, probably tenfold, and the effect is xmM\nprecedented.    Her annual manufactures are worth $91,000,000; and\nthe home trade of Boston is estimated to be worth annually the\nimmense sum of $200,000,000.\"\nBaltimore, too, exhibits the effects already of a wise and liberal\nrail-road policy. The Baltimore and Ohio road, though incomplete,\nhas paid a dividend during the past year of more than ten per cent.;\nand such has been the effect produced by it already upon the commercial prosperity of Baltimore, that it is said \" she is now compensated for her subscription of $3,500,000 to the work.\"\nThe increase in the value of real estate in the counties bordering\non the Vicksburgh and Jackson Rail-road has been estimated to be-\nfrom $700,000 to $7,000,000, whilst on the Nashville and Chattel\nnooga road, in four counties, the gain in tho value of taxable property\nhas been $2,554,639.\n\" I confess,\" said Mr. Segur, in an able speech delivered several 1\nyears ago to the Legislature of Virginia, \" that if a canal or rail-road 1\nwere to depend, for the reimbursement of its cost, upon the production usually made at the time of construction, indemnity would 1\nbe out of the question.    But present production forms a very incon- ,\nsiderable portion of the elements of transportation and profit.    Wei\nmust estimate the increased production caused by the improvements\nthemselves, gradually progressing from the ordinary amount to the I\nhighest point to wdiich the means of the state will admit augment*- j\ntion\u2014and that is almost incalculable.    We must take into the estimate the opening of new channels of trade, and the filling up of oldj\nones\u2014the creation of manufactures\u2014the opening of mines\u2014the ex-\npansion of trade in all its ramifications\u2014the rising up of cities\u2014the\ngrowth of population\u2014the increase of traveling resulting from in-1\ncrease of facilities of communication.\"","fullrs":{},"find":"2120.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2119","restrictionCode":"1","cdmfilesize":"552025","cdmfilesizeformatted":"0.53 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

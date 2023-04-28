@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 37</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2566</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2566</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2566/json"
+                        timestamp="2017-02-03 08:23:43">{"title":"page 37","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"invades, is the explanation ..! its e,niei,iun',ent,',lu,i by persons, ueeAs,\nThe poison of yellow fever may be put up or generated in the\ngiving the disease to those who go on board, or- -,,\u25a0,,r the ship ..iter\navoided by the unprotected. Let river steamers go with win.! sails\nand open hatches, and then fear not to enter the hold, even if they\nstarted full of uu infected atmosphere. It cannot remain against a\nten knot breeze.\nThus far, quarantine and no further\u2014for belief in all else is un-\nIL\u2014 Onthe Yellow \/\u25a0;.,.\u00ab\u25a0\u201e\/' Wiiiidiitl.,, i,\u201ed \/\/.- ,\/,\u25a0\/\u201e\/(,,,\u00ab theState of\nMississippi.   By Alfred C. Holt, M. D.\n[The letter of Dr. A. C. nolt, on the yellow fever of Woodville,\n,. re   .. ....... ....'.. ...\nfacts presented by Dr. Holt, together with many others of the same\nkind that have come to my knowledge within tho last three years,\nin this region, appear to me strongly to support this position.    In\nmaintaining the opinion that yellow fever is transportable and com-","fullrs":{},"find":"2567.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2566","restrictionCode":"1","cdmfilesize":"502721","cdmfilesizeformatted":"0.48 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

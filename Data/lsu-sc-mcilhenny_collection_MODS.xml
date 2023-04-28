@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>E.A. McIlhenny Natural History Collection</title>
+  </titleInfo>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-mcilhenny</identifier>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+              <namePart>LSU Libraries. Special Collections</namePart>
+              <role>
+                  <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+              </role>
+          </name> 
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+<physicalDescription>
+  <digitalOrigin>reformatted digital</digitalOrigin>
+</physicalDescription>
+  <note type="content" displayLabel="Collection Description">This collection contains selected items from the E.A. McIlhenny Natural History Collection, a gathering of rare books on flora and fauna begun by Edward Avery McIlhenny (1872-1949), scion of the prominent Louisiana family that has produced the world-famous Tabasco hot pepper sauce since 1868. McIlhenny was also a well-known conservationist who established a bird sanctuary and botanical garden on the family properties at Avery Island, Louisiana. John Stauffer McIlhenny, E.A. McIlhenny’s nephew, donated the natural history portion of his library to LSU In 1971. It has since been further developed and is now one of the most prestigious of its kind, with particular strengths in New World botanical and ornithological illustration.</note>
+  
+  <abstract displayLabel="Collection Summary">This collection contains selected items from the E.A. McIlhenny Natural History Collection, a gathering of rare books on flora and fauna begun by Edward Avery McIlhenny (1872-1949), scion of the prominent Louisiana family that has produced the world-famous Tabasco hot pepper sauce since 1868. McIlhenny was also a well-known conservationist who established a bird sanctuary and botanical garden on the family properties at Avery Island, Louisiana. John Stauffer McIlhenny, E.A. McIlhenny’s nephew, donated the natural history portion of his library to LSU In 1971. It has since been further developed and is now one of the most prestigious of its kind, with particular strengths in New World botanical and ornithological illustration.</abstract>
+  
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <recordInfo>
+    <recordCreationDate>2021-02-09</recordCreationDate>
+    <recordContentSource authority="local">lsu/hcr</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

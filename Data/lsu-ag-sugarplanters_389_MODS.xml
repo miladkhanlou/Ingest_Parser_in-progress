@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>American Protective Tariff League Circular 216</title>
+   </titleInfo>
+   <name type="corporate" displayLabel="Creator">
+      <namePart>American Protective Tariff League</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm type="text">New York (N.Y.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1905-03-19</dateCreated>
+      <dateCaptured encoding="w3cdtf">2015-03-06</dateCaptured>
+   </originInfo>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>American Protective Tariff League</namePart>
+         <namePart>Political activity</namePart>
+         <namePart>United States</namePart>
+      </name>
+   </subject>
+   <abstract displayLabel="Description">The American Protective Tariff League mailed blank cards soliciting the name of a first time voter in the 1906 election.</abstract>
+   <note type="biographical/historical" displayLabel="Biographical Note">The American Protective Tariff League was founded in 1885 by a group of prominent business men.  Based in New York City, the group was founded for "the protection of American Labor and Industry" through opposition to any reductions of high tariffs.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Reply cards.</form>
+      <extent>1 reply card</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Sugar Planters' Association Papers, 1877-1917</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-ag-sugarplanters:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 266, 1492</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>U:212, Box 1a, Folder 4b</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No Copyright - United States</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright of the original materials in this collection has expired and they are therefore in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Louisiana Sugar Planters' Association Papers, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">1492b01af04b007</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/mem</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-05-24</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

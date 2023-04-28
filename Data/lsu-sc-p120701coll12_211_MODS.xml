@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 14</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/500</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>500</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/500/json"
+                        timestamp="2017-02-09 16:30:54">{"title":"Page 14","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"m \u2022\n'J'!.\nill |\nw\n\u25a0\".It's\"\n%\n!' ;J;\u00ab\n\u2022 - ,-,\nill  ',' 'ii\n! &amp;$\u25a0\n\"Il pt.\n124\nS O U T II -WES T E R N J 0 U R N A L\nthe young and fair Victoria\u2014the ruler of an \"empire which\nstretches farther than from \"Ormus to the hid,\" that a plain,\nhumble republican ever asserted that she was out of woman's\nplace of power, while seated on the British throne. Tho Salic\nlaw of France, by virtue of which males only can ascend the\nthrone, is good authority, coming as it does from that gallant\nnation, in favor ofthe foregoing assertion. Indeed, when ihe supreme head ofthe Jewish theocracy, the creator of all worlds\nmil the lawgiver of the universe, gave a reluctant consent,\nmingled with warning, that his chosen people should have a\nking to rule over them, like tho nations round about, he\nspared woman from the unhappiness of wearing a crown.\nEven the first Jewish king was a head and shoulders taller\nthan his brethren, as if physical superiority were essential to\nkingship\u2014more so, indeed, than the legitimate Stupidity descending in some royal families, which might havo been inherited from those animals, which it was the occupation of\nSaul the son of Kish lo sock when they had strayed, anel herd\nwhen he had found them. That same doctrine of legitimacy received a severe cheek by the sacred anointing of David\nas Saul's successor, even in the life time of this hapny hunter of lost quadrupeds,* bul wretchedly unhappy king of Israel. No I Divine benevolence loved too well his \" last\nbest gift to man\" to assign, to her throbbing temples, a crown\n\u2014to eat, like a fiery girdle, into her overtasked and agonizing\nbrain; tho kindness of her heavenly Father was too great lo\ngive to woman, by command, the task of moving in the robes\nof state through halls filled with hollow pretensions,\ncelt, envy, and every base passion that grows with monstrous\nexuberance in the atmosphere of a court. For her is meet\nthe look of undisguised affection, the empire of the heart, the\nquietness of her-sacred home\u2014anil not the fierce and questionable passions of the Russian Catharine\u2014tho sorrows of\nthe broken-hearted Mary, queen of Scots\u2014or tho proud despair of the haughty, yet stricken Elizabeth!\nV\\ ere it not a subject too grave for ridicule, it would be\npleasant to carry out such a rcveision of the order of Nature,\nas the filling of a throne with a female woman, into all the\nconcerns of life. The young and girlish Victoria is, by virtue of her throne, the head of the church, She is to make\nand unmake, bishops. If females, then, arc greater than bishops, they should not only wear bishop's sleeves, but be bish\nops themselves; this is a logical conclusion which might be\ncarried out into the extremes of Fanny Wrightism\u2014such as\nmaking ladies swing the scythe and axe, while; gentlemen\nthreaded ihe needle, worked Iho muslin, and made lawn\nwrappers,\u2014if nol so far as to make the cart draw the horse,\nand the boat propel the steam.\nI have a single apology to make for not entering more\nnet\" tin: detail of tin; elements of Female Influence. One\nmight as well analyze the sunlight; it is every where; not a\nhamlet or a palace nn the round earth but is irradiated by female: influence. Like the atmosphere which girds the world,\nthe broad and ever-present subject repels me from its particulars, while I stand filled with admiration and awe in view of\nits vnstness.\nBut, by no means, is the conclusion correct that there arc\nno prominent anil public spheres of woman's usefulness. The\nhistory of missions and of modern philanthropy abounds tfilh\ninstances of tho moral courage of females, exerted in the; eye.\nof the great world, and amidst the roar of its applause. The\nfirst female American missionary to foreign lands, the sainted\nHarriet Newell, as she sleeps in her lonely grave in the Isle\nof France, could not have had, as she died, the most distant\nconception of the mighty emotion which rolled over the heart\nof Christendom when she fell, provoking thousands to like\nnoble deeds of self-denial, anil moral daring. The beloved\nnames of tho wives of other American missionaries\u2014a Jiul-\nson, who braved the horrors of a Burmese prison, and stood\nby the side of her husband, unappalled in the face of the tyrants and the armies of Hindostan\u2014a Thompson, who clasped her infant to her bosom, while the cannon balls of the\nTurks and their grape shot passed through and crumbled the\nwalls of the dwelling in which she: was sitting, in the midst\nof tin' melancholy and trodden-down Jerusalem, thus carnim.'\nhersedf a grave \"hard by the tomb of David,\"\u2014rise before\nthe mind,\u2014and others as numerous as arc the various wall,!\nof Christian charity, in the bible, tract, and Sunday school\ndepartments of the present day.\nYet, after all, wo conceive that the strongest fortress of female power is in the direct influence which woman exerts on\nthe male character. It was a shrewd remark, ascribed, by\nsome satirist, to a Roman emperor, that his little boy governed the world, for, says he, I govern the world, my wife governs me, and the little boy governs her,\u2014therefore', he governs\nthe world. The balance of power preponderates ever on\nthe side of influence.\n\u00bb\u2022###\u25a0\u2022 \u00bb\nThere is one instance in which, as we conceive, full jus.\nticc has not been done to the character of an American female. She stood almost too near a transcendent and peerless\ncharacter, to have her own peculiar virtues attract the attention they deserve; it was the wife of Washington. The aid\nshe gave him in the formation of his sublime character can\nnever be fully revealed. Much has been ascribed to the\nmother of Washington, yet we never could find good evidence that she did much more for her \"good boy George,\"\nthan Walter Scott said was alone necessary for the education of a boy until ho was ten or twelve years of age\u2014learned him \" to ride, swim, shoot and tell the truth.\" Indeed,\nthe various attempts to elevate the character of the mother of\nWashington, so high above the common order of females,\nsustained even by tlio genius of Mrs Sigourney and Mis.\nHale, would seem to be overstrained and high-wrought\nWhen Lafayette made a pilgrimage to her residence, after\nthe revolutionary war, and was introduced to her in a corn\nfield, leaning on her hoe, her venerable brows overshadowed wilh an overseer's straw hat, the circumstance was trumpeted, through chivalrous France and tho world, as being after Ihe manner of the old Roman matrons. Wc should\nhave preferred that tho mother of our Washington had sustained the nobler character of a Virginian lady.\nBut the wife of Washington was a sweet, accomplished\nbeing.    She moulded and fashioned the mighty mind of her\nsa","fullrs":{},"find":"501.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"500","restrictionCode":"1","cdmfilesize":"1839125","cdmfilesizeformatted":"1.75 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

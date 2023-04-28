@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M28</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1305</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1305</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1305/json"
+                        timestamp="2017-01-13 13:22:47">{"title":"M28","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM28\nSt Jacques le 11 Septembre 1841.\nMon cher Reynes,\nJe suis parti dimanche dernier \u00e0 bord du\nClipper, avec ma femme &amp; mes deux derniers enfans, pour faire un\npetit voyage \u00e0 Baton-Rouge, &amp; ce n\u2019est qu\u2019\u00e0 son retour que Robert a\npu admirer vos faisans. Il me charge de vous adre\u222bser ses remerci-\nmens, pour ce joli cadeau _ Il serait fort agreable de pouvoir\nmultiplier ces beaux oiseaux \u00e0 la Louisiane, mais on dit que cela\nest fin difficile ; nous verrons q ce que nous pourrons faire.\nVous pou\u222bsez beaucoup trop loin le sentiment\nde reconai\u222bsance que vous nous temoignez, pour le leger service\nque nous sommes heureux, ma femme &amp;moi de pouvoir vous\nrendre. Ce que nous faisons pour Emile est si peu de chose\nque cela ne vaut pas la peine d\u2019en parler_ Il a du vous ap-\nprendre qu\u2019il n\u2019a pas pu quitter le college Samedi dernier, quoi-\nque je l\u2019ai envoy\u00e9 chercher deux fois. Aujourd\u2019hui il n\u2019avait pas\n2\nM28\nobtenu un a\u222bsez grand nombre de mentions honorables pour avoir\nDroit \u00e0 une sortie extraordinaire, mais Alfred me dit l\u2019avoir\nlai\u222bs\u00e9 tr\u00e8s bien portant.\nTout va pa\u222bsablement au college; je pense cependant que\nnous gagnerions \u00e0 avoir un censeur. Dites \u00e0 Mr Mazureau, je\nvous prie, que je crois que Ron et lui devraient \u222b\u2019entendre pour\nm\u2019\u00e9crire qu\u2019il faut en nommer un. Je descendrai probable-\nment en ville d\u2019ici \u00e0 une \u222bemaine &amp; nous causerons de cela\nensemble.\nVeuillez me rappeler au \u222bouvenir de votre famille\net me croire bien \u222bincerement\nVotre serviteur &amp; ami\nA.B. Roman","typa":{},"genera":{},"fullrs":"Volume7\/M28.pdf","find":"1307.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1305","restrictionCode":"1","cdmfilesize":"45608","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

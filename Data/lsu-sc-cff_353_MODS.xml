@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M47</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1335</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1335</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1335/json"
+                        timestamp="2017-01-13 13:22:48">{"title":"M47","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM47 [May 13, 1850]\nErmitage, ce 13 Mai 1850\nMa ch\u00e8re Ben\nTonnerre, malediction, Sacr\u00e9 vent!\nQuelles nouvelles m\u2019apporte=t=on de tous c\u00f4t\u00e9s! Que vois-je ! Quel\ntableau de d\u00e9struction [tache], &amp; de d\u00e9solation s\u2019offre \u00e0 mes yeux\neffar\u00e9s en ouvrant ma fen\u00eatre ! R\u00e9veill\u00e9 \u00e0 quatre heures du matin\npar l\u2019intr\u00e9pide Augustin, il m\u2019apprend \u00e0 mon grand d\u00e9plai=\nsir que tout est f\u2026.. voici ces propres paroles: Oui wa ! c\u2019est\ndi vent oui qui cila l\u00e0, l\u2019otte la, l\u2019otte jour necque joujou c\u00f4t\u00e9\nli, tous vous p\u00e9chers, figuiers, tonnelles les y\u00e9s, tous vous bari\u00e8res\nla borne, d\u00e9 en trois arbes dans lal\u00e9e j\u00e9t\u00e9s \u00e0 platte. Ici il\nfit une pause; eh bin, lui dis=je, surpris de ce peut de d\u00e9gat,\ndis \u00e0 l\u2019\u00e9conome d\u2019envoyer dix hommes aux barri\u00e8res, huit\ndans le jardin &amp; autant pour bucher les arbres tomb\u00e9s ; je\nn\u2019avais pas fini ma phrase qu\u2019Augustin qui venait de pren=\ndre respiration me dit : ami vous gros ch\u00eane qui dans la cour\ndivant tomb\u00e9 enhaut bari\u00e8re &amp; la piste- Dam the luck, me\nSuis=je \u00e9cri\u00e9, voil\u00e0 encore de la besogne pour mon ouvrier, il ne\nfinira jamais mes cabanes- Ces paroles \u00e9taient \u00e0 peine sorties\nde ma bouche quand un certain bruit, un de ces h\u00e9ha !\nvint fraper mon oreille \u2013 Quoi, ce n\u2019est pas encore tout ! Ah\npiti mette ! vous pencore conain arien, : plis qui la\nmoichi\u00e9 vous n\u2019\u00e9curie neuf emport\u00e9e, [tache] courir nette\nnous ottes pas capables wa arien \u2013 bardeaux les y\u00e9s, che-vons\nm\u00eames loin dans nous ottes di canes, di fouin la m\u00eame\na pris couvrir tous souches c\u00f4t\u00e9s chimin Mich\u00e9 Nabord \u2013\nUn gros morceau la couverture la Sucrie ou\u00e9tt\u00e9e, et puis nous ottes la\nchimnin c\u00f4t\u00e9 par en haut tomb\u00e9 [rature] a terre \u2013\n2\nM47\n[note verticale dans la marge \u00e0 gauche de la page 1 de l\u2019original :]\nEs=tu bien s\u00fbr de ce que tu viens de m\u2019apprendre, as=tu vu cela toi=m\u00eame ? Eh oui, piti\nmette et quand y va fait bien jour, mo presque a\u222bsur\u00e9 que nous ottes va war l\u2019otte qui\nchose qui baucou plus pire qui \u00e7a \u2013 mouin qui dis vous, mo conin qui di vent cila doitte\ncass\u00e9 tout nous ottes vayant ma\u00efs \u2013 a\u222bsez lui=dis=je, a\u222bsez \u2013 Et en deux temps j\u2019etais sur\nla place &amp; je me\n3\nM47\npersuadais [rature] par mes yeux, entends-tu bien, par mes yeux, car\n\u00ab j\u2019ai vu, dis=je vu, de mes propres yeux vu,\nCe qu\u2019on appelle vu, \u00bb\nQue l\u2019habitation s\u2019en allait au diable - &amp; moi - - - - -\nme recoucher \u2013\nGod ble\u222bs you\nYours truly\nAm. Bringier\nBenjamin Tureaud Esq\nAt Home","typa":{},"genera":{},"fullrs":"Volume7\/M47.pdf","find":"1337.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1335","restrictionCode":"1","cdmfilesize":"55886","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Louisiana Lecompte quadrangle</title>
+  </titleInfo>
+   <name displayLabel="Contributor">
+      <namePart>United States. Mississippi River Commission.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Creator">
+      <namePart>United States. War Dept. Corps of Engineers</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1933</dateCreated>
+      <publisher>Engineer Reproduction Plant, U. S. Army, Washington, D. C.</publisher>
+  </originInfo>
+   <subject authority="lcsh" displayLabel="Coordinates">
+      <cartographics>
+         <coordinates>W0923000; W0921500; N0311500; N0310000; N31°00'00""/W92°15'00""; N31d00'00""/W92d15'00""</coordinates>
+      </cartographics>
+  </subject>
+   <subject authority="lcsh">
+      <topic>Maps</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Lecompte, (La.)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Coastal ecology</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana</topic>
+      <topic>Maps</topic>
+   </subject>
+   <note type="content">21.63x17.49""</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-rjr:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Coastal Ecology, Richard J. Russell Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with the U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Coastal Ecology: Richard J. Russell Collection, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Object File Name">rj000037</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/RJR/id/64</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2004-09-24</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>RJR</alias>
+         <pointer>64</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/RJR/64/json"
+                        timestamp="2016-12-16 15:28:46">{"title":"Louisiana Lecompte quadrangle","creato":"United States. War Dept. Corps of Engineers","contri":"United States. Mississippi River Commission.","publis":"Engineer Reproduction Plant, U. S. Army, Washington, D. C.","subjec":"Maps; Lecompte, (La.); Coastal ecology--Louisiana; Louisiana--Maps;","descri":{},"notes":"21.63x17.49\"\"","date":"1933","covera":"W0923000; W0921500; N0311500; N0310000; N31\u00b000'00\"\"\/W92\u00b015'00\"\"; N31d00'00\"\"\/W92d15'00\"\"","type":"Maps","format":{},"langua":"en","object":"rj000037","source":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with the U. S. copyright laws.","cite":"Louisiana Coastal Ecology: Richard J. Russell Collection, LOUISiana Digital Library, Baton Rouge, La.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_RJR.php?CISOROOT=\/RJR","typea":{},"fullrs":{},"find":"77624172492004_rj000037.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2004-09-24","dmmodified":"2004-09-24","dmoclcno":{},"dmrecord":"64","restrictionCode":"1","cdmfilesize":"321203","cdmfilesizeformatted":"0.31 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

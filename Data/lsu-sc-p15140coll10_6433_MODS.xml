@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>page 24</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1947</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1947</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1947/json"
+                        timestamp="2017-02-03 08:23:55">{"title":"page 24","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"24\nthat \" the body is more concerned in them than\nthe mind.\"\nThe Mechanic Arts had not been properly\nunderstood. Otherwise, how could they have\nbeen despised, when their effect is to raise man\nalmost into a God, by giving him empire over\nmatter! Is it not sufficient for their rehabilitation, that their end is the greatest comfort and\nhappiness of the human race ? Is not the evidence of their intellectual essence in the mere\nfact that they make inanimate matter instinct as\nit were with life, that they appropriate to the\nuse of man the plastic powers that lie latent in\nthe womb of nature, and that they convert its\nsubstances, apparently the most worthless and\ncommon, into such gorgeous or delicate articles\nas may adorn a lady's hrow or a monarch's\nthrone. In the progressive discoveries by which\n. the boiling water, bubbling up in a barbarian's\ncaldron\u2014the light and damp smoke it emitted\u2014\nand the rough metal which contained it\u2014were\ntransformed into the complicated agent of\npower which we possess in the steam engine, is\nthere not as magnificent E\u00bb manifestation of intellect as in the most celebrated productions of\nthe Fine Arts?\nI have said that all the Arts belong to the","fullrs":{},"find":"1948.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1947","restrictionCode":"1","cdmfilesize":"449722","cdmfilesizeformatted":"0.43 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

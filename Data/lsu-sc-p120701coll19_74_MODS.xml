@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Cable lives again in story by Arlin Turner, circa 1956.</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Wilson, Pen.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1956</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Turner, Arlin. George W. Cable</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cable, George Washington, 1844-1925</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1956</temporal>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>1 p.</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p120701coll19%3Acollection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Emma T. Stafford Sidonie de la Houssaye Collection (Mss. 1445)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/1445.pdf</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Sidonie de la Houssaye Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location">Louisiana State University: LSU Libraries</physicalLocation>
+      <url displayLabel="Institution Web Site">http://lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>U:104, Folder 1:2; MF:S, Reel 1.</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication.html</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Emma T. Stafford Sidonie de la Houssaye Collection, Mss. 1445, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">m1445f1.2s02</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll19/id/8541</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-09</recordChangeDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-05-13</recordCreationDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll19</alias>
+         <pointer>8541</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll19/8541/json"
+                        timestamp="2017-02-09 16:47:08">{"title":"Cable lives again in story by Arlin Turner, circa 1956.","creato":"Wilson, Pen.","contri":{},"date":"circa 1956","dates":"1956","descri":"1 p.","langua":"en","type":"text","geogra":"Louisiana","subjec":"Turner, Arlin. George W. Cable.; Cable, George Washington, 1844-1925.","notes":{},"source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","reposa":"Emma T. Stafford Sidonie de la Houssaye Collection (Mss. 1445)","locati":"U:104, Folder 1:2; MF:S, Reel 1.","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/1445.pdf","cite":"Emma T. Stafford Sidonie de la Houssaye Collection, Mss. 1445, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","item":"m1445f1.2s02","itema":"See 'reference url' on the navigation bars.","relati":"http:\/\/cdm120701.cdmhost.com\/cdm4\/index_p120701coll19.php?CISOROOT=\/p120701coll19","catlog":{},"publis":{},"format":{},"identi":{},"covera":{},"coverb":{},"catalo":{},"object":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"fullrs":{},"find":"8877.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2009-05-13","dmmodified":"2009-08-24","dmoclcno":{},"dmrecord":"8541","restrictionCode":"1","cdmfilesize":"1967987","cdmfilesizeformatted":"1.88 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Maps of Louisiana Collection</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;This collection consists of historically important original maps associated with the French colonization of the territory of Louisiana, and the Louisiana Purchase. Maps included were created by Nicholas de Fer, Guillaume de L'Isle (1675-1726), Jacques Nicholas Bellin (1703-1772), Le Page du Pratz (d. 1775), Jean Baptiste Bourguignon d'Anville (1697-1782), Jan Jansson (1588-1664), Jean Baptiste Nolin (1686-1762), Guillaume Danet, William Faden (1750?-1836), Abraham Ortelius (1527-1598), and others. They are contained within LSU Libraries' Special Collections.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Geographically, the maps trace the exploratory voyages of Pierre Le Moyne d'Iberville (1661-1706), beginning in France, continuing to Saint Domingiue, Cuba, the northern coast of the Gulf of Mexico, up the Mississippi River to the Village of Natchez, back to the Dry Tortugas, and concluding with the Bahama Passage.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Historically, these selected maps document the leading role of the French in deriving the first accurate maps of the New World. These voyages were part of the French effort to 1) accurately remeasure the shape of the globe from north to south, 2) systematically determine accurate longitudes from astronomical observations associated with the opening of the Paris observatory in 1672, and 3) explore the world. Because of this scientific undertaking, Guillaume de L'Isle is known as the first modern cartographer, Jean Baptiste Bourguignon d'Anville is credited with facilitating European penetration of Africa and of North America through the Great Lakes, and Jacques Nicholas Bellin is associated with the first modern hydrographic surveys and sea-atlases of the world. (Skelton, 1958)&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;As Louisiana is on the eve of the tricentennial of d'Iberville's founding of the colony of Louisiana, and near the eve of the bicentennial of the Louisiana Purchase, the presentation of these maps online is a timely contribution by Louisiana State University to the commemeration of these historical events. The maps are of immense ecological, historical, and social interest, and constitute a unique interdisciplinary online resource.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The French Colonization of Louisiana and Louisiana Purchase Map Collection was coordinated and selected by Dr. Richard E. Condry, Associate Professor, Coastal Fisheries Institute, Louisiana State University.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Visit the David Rumesy Collection to search for and view additional, historical maps.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Skelton, R. A. 1958. Cartography, in A HISTORY OF TECHNOLOGY. ed. C. Singer, E. J. Holmyard, A. R. Hall, and T. I. Williams. Vol 4: 596-628.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Historic maps from the French Colonization of Louisiana and Louisiana Purchase Map Collection.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-lmp</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LMP</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LMP</identifier>
+</mods>

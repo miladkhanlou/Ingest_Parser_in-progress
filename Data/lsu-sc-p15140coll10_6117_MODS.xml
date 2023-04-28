@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 186</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1671</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1671</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1671/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 186","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 186 \u2014\ngrandissaienfc a la grace de Dieu ; car, sauf les annees d'une seche-\nresse exceptlonnelle, ils avaient toujours 1'cau du ciel en abondance\net de 1'herbe jusqu'au poitrail.\nLes voleurs de cette paroisse devaient s'attacher ii la proie ia\nplus abondante et la plus facile ; ii celle qui rapportait tant d'argent, et dont la conquete faisait si pen suer.\nAussi est-il facile de deviner ee que peut etre la chronique d'un\nComite de Vigilance, au milieu de ce peuple de bergers. Sauf deux\nou trois exceptions, assez dramatiques, ce ne sont qu'expulsions pour\nvols et pour parjures, et c'est tout simple.\nPour que bs bohemiens du Yermillon pussent continuer leurs\ndepredations sans avoir rien a craindre de la justice, il liillait qu'ils\neussent it leur service une armee de temoins, toujours prete a se\nparjurer.\nNftts constatons done simplement et en peu de mots quelques expulsions :\n1. Thertule Broussard, d'une famille et d'une parente de gentils-\nhommes, pour avoir fait voler une vache a. Mine Joe Leblanc\u2014\nBanni.\n2. Clerville Boudreau, pour vol d'un bceuf, de complicite avec\nBeiisaire Normaud\u2014Banni.\n3. Emilc Landry, pour signature des listes des Anti-Vigilants, de-\nchirees a la Queue Tortue. lc 3 septeinbre 18o9\u2014Fouette et banni.\nLes vole vulgaires, enjolives de toutcs-leurs circonstances comme\nd'autant d'arabesques, ne seraient pas d'un bien grand interet pour\nle plus grand nombre de ceux qui nous feront rhonneur denous lire.\n. \u2014Passons.\nVILEOR THIBODEAtf\n11 y a quelques semaines, une scene etrange ec passait k la Cote-\nCeiee, dans uue maison oii nous entrons souvent, et toujours avec\nplaisir, et d'oii nous sortons toujours h, regret. Cette maison est ha-\nbitee par uu vieillard et par une femme, dont le coiur est reste si\nbon et la voix si douce et si jeune, qu'on ecoute ce que disent ses\nJ","fullrs":{},"find":"1672.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1671","restrictionCode":"1","cdmfilesize":"413447","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

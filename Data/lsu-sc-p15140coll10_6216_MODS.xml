@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 290</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1773</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1773</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1773/json"
+                        timestamp="2017-02-03 08:23:19">{"title":"Page 290","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 290 \u2014\nt'estime  de ses  camarades. Toute superiorite inspire Ia crainte, et\ncelle de  Santa-Maria etait incontestable, meme dans  un pays out\"\ntout le monde lasse bien.\nII fut done spldat trois ans ;\u2014guerroyant avec les Carlistes ; lan-\n\u25a0jant son lazzo mieux qu'un Indicn n'a lance une fleche ; un peu\ncoutrebandier sur la frontiere francaise, lorsque\u2014et cela arrivait\nsouvent\u2014lc3 deux partis signaient une treve ou se tenaient, san3\ncause connuc, eioignes I'un de l'autre.\nLorsque la trahison de Maroto eut tue la cause carliste\u2014cette\ncause du droit divin k laquelle notre hero'fque Garibaldi donne le\ndernier coup de pied an moment oil nous ecrivons ces lignes, Sauta-\nMaria jeta son berret Catalan aux orties et se fit toreador.\nToreador 1 e'est-a-dire domptcur de l'animal qui resume le mieux\nla force unie a, I'instinct 1 domptcur d'une bete qui se presente au\ncombat comme un Cid Campeador u. quatre pattcs et qui tue ou se\nfait tuer.\nCette dangereusc profession allait d'autant mieux air jeune Santa-\nMaria qu'elle jouit en Espagne des memes privileges que chez nous\ncelle\"d'artiste. Au toreador les belles filles 1 les bouquets jetesdes\nbalcons 1 les ceiUadcs d'amour! Its mots meiodicux murmures a tra-^\nvers les jalousies ! Le toreador est l'artiste de ce pays qui n'a pas\nd'artistes, bien qu'il ait eu son Calderon de la Barca. II est la Rachel et le Talma de 1'Espagne.\nII passa ainsi quelques anises, courant les aventures et passant\npar toutes les filieres du vagabondage ; tantot riche comme s'il\navait pris ;t l'abordage un gallion et jetant alors sdn argent k tous\nles fandangos avec la generosite d'un Buckingham ; tantot sechauf-\nfant au soleil comme un Mzard et vivant, au jour le jour, d'une tortilla ou d'une cigarette. Cette vie, nous n'avons pas besoin de le\ndire, avait pour lui des agrenients sans nombre. Si le vagabondage\nn'existait pas, les bohemiens de 1'Espagne I'auraient invente.\nDu reste, lui qui n'etait pas de premiere force au noble jeu des\ncombats de taureaux\u2014lui qui, sauf son adresse au lazzo, etait aux\nvrais toreadors ce qu'une comparse est ;t nne prima-donna, il avait\ntrouve dans sa carriere des mailres que 1'Espagne acclame et que\nJa reine applaudit cllc-me'mc de ses mains blanches. II s'etait heurte\na, Montez, Vespada de la tauromachie, et ix tant d'autres artistes\nemiuents, qu'il avait compris qu'il etait condamne a rester cternel-","fullrs":{},"find":"1774.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1773","restrictionCode":"1","cdmfilesize":"428694","cdmfilesizeformatted":"0.41 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

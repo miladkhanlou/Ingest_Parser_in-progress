@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M21</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1193</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1193</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1193/json"
+                        timestamp="2017-01-13 13:22:52">{"title":"M21","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM21\nHy. Fois. . de Peytavin\nVS\nJ.M. Malard\nsoit signif\u00e9 ainsi\nqu\u2019il est requis\nLe 5 Decembre 1812.\nA.D. Tureaud\nJuge\n2\nM21\na lhonnorable a.d. tureaud juge du cinqui\u00e8me district senatorial\nMonsieur\nenviron dix jour apres que j\u2019eus eu notification de la sentence rendue en\nma faveur contre le Sr. jean mallard qui le condamne a me payer la somme de cent\nvingt et un escalin formant la balance due sur un billet de trois cent dix sept\npiastres et un escalin consenti par le dt Sr. jean mallard. le dt sieur mallard--\nme montrer une petition par la quelle il vous demandait du tems pour payer\noffvatat [?] soixante piastres a compte disant quil n\u2019avait pas davantage d\u2019argent.\nje consenti par bonte dame a les accepter sur la promesse quil me fit quil\nme payerais le surplus le plustot qu\u2019il lui serait possible, je joignit a ces 60ps\n14 piastres et demi d\u2019un compte particullier que je lui devais et je lui en delivrai\nres\u00e7u de meme que des comptes du Sr guichau\u00ff [ ?], jai \u00e9crit depuis au Sr mallard_\nafin qu\u2019il finisse de me solder commil m\u2019a repondu fort sechement quil etait\n\u222bans argent et quil ne savait pas m\u00eame a qui en demander. cette reponse n\u2019etant\npas satisfaisante ayant des engagement a remplir [?] je vous prie de faire\nmetre la dite sentence a execution et de joindre au compte deja fait les comptes\nc\u00ff joint qui n\u2019ont pas et\u00e9 pay\u00e9, et qu le Sr mallard a avanc\u00e9, avoir pay\u00e9 [rature]\neux [rature] mrs reynaud et peytavin en acompte de son billet de 319pts et un escalin,\nles quels billet ce montent a la somme de trente et une piastres et quatre escalins\n3\nM21\nmais comme le sr mallard ne les a port\u00e9 que pour la somme de vingtet [rature] une\npiastres je [rature] n\u2019en reclame pas davantage. ainsi il faut ajouter ces 21pts\nala somme stipule\u00e9 par la sentence qui est de . . 120 ; 1\ncequi forme . . . . . . . 141 1\nres\u00e7u a compte . . . . . . . 74 : 4\nreste du par le Sr mallard 66 : 5\nje vous prie m r d\u2019ordonner que cette somme me soit paye\u00e9 en \u00ff joingnant\nles interest conformement a la loi. de cet acte de justice je serai tres reconnaissant\nj\u2019ai lhonneur detre\nMonsieur votre tres obeissant serviteur\nLe Meu depeytavin\nparroisse st jaques le 3 Xbre 1812","typa":{},"genera":{},"fullrs":"Volume5\/M21-0.pdf","find":"1194.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1193","restrictionCode":"1","cdmfilesize":"45930","cdmfilesizeformatted":"0.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

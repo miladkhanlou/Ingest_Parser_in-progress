@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_1</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1036</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-12</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1036</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1036/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"Page_1","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M23\nTriplicata ce 5. mars 1801\npar quelle fatalit\u00e9e, mon bon ami, faut il que je ne recoive\nplus de tes nouvelles, depuis plus de deux ans je n\u2019ais re\u00e7u\nqu\u2019une Seule lettre de toi ou tu me marque m\u2019avoir appris\npar tes precedentes, que je n\u2019ais pas re\u00e7u, La mort de notre respecta\n=ble mere, je t ais ecris de La Nelle orl\u00e9an en juillet 99, que j\u2019\u00e9tois\nde?cendus avec ma famille, que ma femme \u00e9toit de?cendus pour y faire\nCes couches, et qu\u2019elle m\u2019avoit fait une petite fille, je t\u2019ais marqu\u00e9\na mon d\u00e9part tout ce que me coutait ce malheureux voyage, que\nj\u2019avois eu Le malheur de perdre ma femme cinq Semaines apres\n\u00eatre acouch\u00e9e, j\u2019ais aussi perdus mon domestique quatre jours apres Sa\nmaitre??e, cette fievre jaune, comme on La nomme ici, ou pe?te \u00e9toit\nSi terrible qu\u2019en m\u2019en retournent tous les n\u00e9gres qui \u00e9toit venus me\nchercher avec mon bateau, ont eu cette cruelle maladie, et j\u2019en ais perdus\ndeux, juge, mon bon ami, de L\u2019\u00e9tat ou je devois \u00eatre, et de mon\ninquietude avec tous mes enfants arret\u00e9 par mes rameurs malades a\nvingt lieu de ches moi, a moitie du chemin, heureu?ement que j\u2019\u00e9tois ches\nun ami qui n\u2019a pas craint d\u2019\u00e9tre infect\u00e9 lui mesme et m\u2019a re\u00e7u,\nCette cruelle maladie a fait Les plus grand ravage a La nouvelle orl\u00e9an\ncette ann\u00e9e La, heureu?ement elle n\u2019a pas gagn\u00e9 dans La campagne ; S\u2019est\nLa mesme maladie qui a fait tant de ravage a L\u2019am\u00e9rique du nort,\nSurtout a philadelphie [rature] tu en a Surement entendus parler.\nje te marquois qu\u2019apres Le malheur que je venois d\u2019\u00e9??uyer ici, je\nne pouvois plus m\u2019y Souffrir, que Le pays m\u2019\u00e9toit in?uportable, que je\nvoulois ab?olument m\u2019en retirer, que je n\u2019attendois que ta repon?e pour partir\nje Suis dans Les mesme intentions, et d\u2019apres ce que tu me marqueras,\nje vendres ma propri\u00e9t\u00e9 ici. par Les nouvelles que nous recevons\nil parroit que depuis Le changement de gouvt. vous \u00eates beaucoup plus tran\n=quille, plusieurs per?onnes ont re\u00e7u des nouvelles de france, il n\u2019y a que\nmoi qui ne peut en recevoir [tache].\nLe chef de La ju?tice a recommenc\u00e9 \u00e0 me tourmenter pour que\n1","typa":{},"genera":{},"fullrs":{},"find":"1037.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-12","dmmodified":"2008-09-12","dmoclcno":{},"dmrecord":"1036","restrictionCode":"1","cdmfilesize":"2911011","cdmfilesizeformatted":"2.78 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

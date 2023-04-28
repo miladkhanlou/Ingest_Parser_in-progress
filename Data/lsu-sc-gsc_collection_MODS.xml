@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>G. H. Suydam Photograph Album</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The collection contains commercial photographs of twelve (12) scenes of Baton Rouge and eight (8) photographs of ships of the West Gulf Blockading Squadron (Admiral Farragut's fleet) on the Mississippi River at Baton Rouge. Captain G. H. Suydam of the 162nd New York Volunteers Infantry, U.S.A., secured these during his service with the Federal Army at Baton Rouge in the Spring of 1863. Three (3) of the images have the McPherson and Oliver back stamp.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Most of the photographs have handwritten memoranda on the back (verso) identifying the images on the front (recto). These memoranda have been transcribed directly from the versos as captions for the images. Notes created in house have been used for any images without memoranda.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;The collection also includes: a copy of the Natchitoches (La.) Union, January 29, 1863; a copy of The New Orleans Times, April 15, 1864; a copy of the Freemasons' Monthly Magazine, vol. IV, no. 8, June 1, 1845.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;Commercial photographs of twelve Baton Rouge buildings (e.g., the Louisiana State Capitol and the Deaf, Dumb and Blind Asylum) and street scenes and eight photographs of Admiral David G. Farragut's fleet on the Mississippi River. Memoranda handwritten on the reverse side of the photographs identify the Federal camp, headquarters of the generals, the provost marshall's office, and the general hospital; scenes at the grounds of the Baton Rouge Arsenal; and gunboats (e.g., the "Essex") and other vessels of Farragut's fleet.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-gsc</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_GSC</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_GSC</identifier>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 13</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1501</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1501</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1501/json"
+                        timestamp="2017-02-03 08:23:10">{"title":"Page 13","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 13 \u2014\nElle existait, comme Dieu existe, comme le soleil nous gclaire.\nNous ajouterons mSfee qu'elle existe encore, mais broyee, mutilec,\nrompue. par le fouet improvable ct les condamnations a Pexil ren-\ndues par les comites.\nDu reste son organisation, son esprit, ses tendances, ce qu'elle a\nl'ait, ce qu'elle se proposait de (\"aire, tout ressortira plus loin, avec\nun terrible relief, dans les pages de cette brochure, empruntees aux\nlivres des comites, Teste's secrets jusqu'a present.\nOn comprend ce qu'avait de formidable cette association ayaut\nses cadres comme les armees reguliercs, depuis ses generaux et leurs\n6tats-mcjors tous enregimentes pour le vol sur une large echelle, jus-\nqu'aus soldats, gent besogncuse qui, apres une expedition aventu-\nreuse, se content-ait d'unc miette touibee de la table des capitaines...,\nun bceuf, une vache, quelque chose qu'elle put mettre sous la dent.\nLe rideau est leve, les voici en scene.\n\u2022 . VIII.\nLi programme de cette armee n'avait qu'uu mot, un seal, mais\nd'uue signification terrible : Le Vol !!!\nLes hounetes gens essaient de marcher a la fortune, ou tout an\nmoins au bien-etre, par le commerce, Pagriculture, le barreau. la\nme'decine, par toutes les voics .que le travail sanctifie.\nLes bandits y marchaieut, eux, par une voie tortueuse, pleine\nd'embuches et de dangers dans les pays qui ont une justice et des\ngendarmes, mais unie et sure comme un grand chciniu, la ou la justice n'existe que dans les dietionnaires : ils y marchaieut par le vol.\nLeur apport social etait zeko ; tout leur etait bene\"iice. Leur;.\nmaisons de commerce devaicnt abonder e*videunnent en commis.\nLeur programme etait le vol, avons-nous dit; comment le prati-\nquaicnt-ils: \u25a0&gt;\nEh mou Dieu! franchement, bardiment, la nuit, le jour, en plem\nsoleil. par les belles nuits d'e\"te et meme par les nuits sans lune.\nQue leur importait, du reste ? La Justice etait une pauvre aveugle\nqui n'avait pas meme un chten pour la conduire ; et, pour la topographic des chemius attakapiens- ils auraient pu en remontrer au\ngeographe leplus savant.\nQue voulaieut-ils ?","fullrs":{},"find":"1502.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1501","restrictionCode":"1","cdmfilesize":"435513","cdmfilesizeformatted":"0.42 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

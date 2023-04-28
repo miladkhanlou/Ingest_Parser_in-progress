@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 10</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/407</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>407</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/407/json"
+                        timestamp="2017-02-09 16:30:59">{"title":"Page 10","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"8 0\nUTII-WESTERM JOURNAL.\nI\nof our modern topography. Hence, alter establishing a depot\nat the bay of Achusi, ihe modern Pensacola, and concerting\ncommunications with his noble wife, whom he had leftni\ncharge of his government, at Havana, ho proceeded into the\ninterior.\nWithout expatiating on ihe desperate and gallant contests\nbetween tho native sons (,r the forest, (most probably the ancestors of the Seminole?,) and their warlike invaders, I wil\nbarely select a few of the most prominent and interesting\npoints, which have been identified in this, the boldest ofthe\nEuropean explorations of Alabama, Mississippi ami Arkansas.\nTusculuza, or Tuscaloosa, as it is now wiitti n, is first |-\ned. Ho was, says ihe Peruvian historian, \"on\npolitic,  proud and  warlike  of tho native\n(sen\nof tin mo!\n:ains of th\nHe has left his name indelibly stamped in a river.\nil\nsouth\nand the capital of tho neighboring State of Alabama. Hisj\nterritories must have comprised a great part of what arc now\nihe Slates of Alabama and Mississippi,\nThe Spaniards entered li:s town of Mauvila, (evidently\nthe origin of .Mobile.) which is supposed lo have stood aboul\nthe junction of the Tombeckbce with the Alabama river.\nHere was the scene of ono of the bloodiest battles between\nthe native's and their invaders. Theruinsof this town.sacked\nand burned by the Spaniards, bi came the tomb of th- heroic\nchief of Tuscaloosa, and \"several ,1, msands of his subjects.\nThe plain around the town was stren n w''\nhollies.    Within the walls, tlio streets wc\ndead.\"    \" In one building a thousand per,\nDames,\" \"a greater part of them femali\npensation for this demoniac havoc, i!:.:t ils\ntin Iy escape from tin- calamities tbey had bro\ndistant shores.    Eighty two Spaniards, c\narmor of sleel, porished, and forty-two S\niho Mississippi, lo Little Prairie,the Salines and Hoi Springs\nof Waslnlta, the Spanish Captain reached the country about\nthe mouth of Red river. Here he sent out a party to exploit)\nthe country farther to the south, The frequent bayous, the\nimpassable cancbrakes, and the dense woods, permitted them\nlo proceed but 40 miles in eight days; thus obstructed, the\nparty returned wilh the disheartening intelligence they had\nprocured. This disappointment, added to the sorrows of bis\nwhole career in these regions, so different from his fate oa\ntho n-olden coast of Peru, and a defiance sent him by a\ntribe of Indians near Natchez, completed the work of melancholy, and broke the heart of Do Soto. He fell a prey lo a\nmonal disorder; and to conceal the body of the dauntless as-\nsoci iteof Pizarro, the governor of Cuba and ihe first explo-\nn r of these south-western regions, \"the corpse, wrapped in a\nmile and in the silliness of midnight, was silently sunk in\nthe Mississippi,\" Thus tho discoverer \"of the Mississippi\nslept beneath its waters. \"Ho had crossed the continent in\nsearch of gold,\" says the eloquent and most learned Bancroft,\n\"and had found nothingso remarkable as his burial place.\"\nThree hundred, out of one thousand, who had embarked\nwilh He Soto, alone lived to return to Mexico and to his\nheartbroken wife, the noble Eobadilla.\nIl III\nire than 2,500\nbio\n:ked up by the\n\u25a0IIS 1\nerished in ihi\nt is some com-\n::::!.'\nii'S (lid no! i n-\nIcon\njht upon these\ndi\ns lb- v were i:\nl.li, 1\nmill\nkilled by tho Indians, and mourned, \"says thes m\n\" ,t* if tin y had Ijivn so many li llo\nnnd slore-s of the Spaniards were ,\nthe 'own.    The next point reach \u2022\nmediate interest to us, is the provim\nChickasaw,    This is supposed to luce been in the upper part\nof this State, on tho western bank of the Fazoo, about 240\nmiles north-west of .Mobile.   Here the Spaniards experienced\nn desperate night attack from the Indians, losing many of tl\nmen and more of I!u ir horses, then unknown in Air\nami so precious lo the invaders.\nAfter many similar adventures, all testifying to  t!\ndaunted bravery and persevering fortitud\nSpanish party came in  sight'of the Mi\nGrande,  a.s they called ii.    Below tho lowest CI\nBluli; ihe present sito of Memphis, just ten miles a\nnorthern limits of this State, isan ancient and convenient pas-\nsage over the great river.*    Hero  Do Soto is supposed lo\nhave crossed  the Mississippi, and   left tlio  territory of our\n.-Nit,-.    It does not comport wilh the purpose of this discourse\nlo follow this gallant, but unfortunate wanderer beyond the\nlimits of the Mississippi.    [ \u201e il] barely mention, that, after\npenctialiini!-to the highlands of White river, 200 miles from\nbtu j!\u00bbju; litj itu.os iiL&gt;0Ti\" (|,\nBHITISH SCIENTIFIC ASSOCIATION.\n[The reader will take nn interest in the following letter,\nfrom a gentleman of eminent scientific and professional attainments, ol Boston, now in England, describing the proceedings\nof the Association for the promotion of Science, of which lie\nwas admitted a member, at their late meeting in Liverpool.!\nLiverpool, Sept. 20, 1837.\nMy dear Sir\u2014The British Association for the Promotion\no! Science, of which you wish sumo account, has just terminated ils session; and the interest and advantage I have ex-\nperienccd in thesi meetings, lead me to attend gladly to your\nTho baggage \"''s'l-    The  Association was established, you  know, aboul\nisumcu in ihe flames of seven years since,  for the purpose of bringing together tlio\niy the expedition, of im- cultivators of science from all parts of ihe British empire, of\nand town of Chichza or enabling them by comparing each other's labors, to derive\nmutual improvement, and thus to inspire tho whole with fresh\nzeal in their respective pursuits.\nThe meeting was lo open on tho 11th : but I was advised lo\nattend before that time\u2014therefore reached here on the 8th\nand found a large number of tho society already here, nnd ihe\ngeneral committee in session. To this body my application\nfor admission to the Association was made; and being duly recommended, I was not only admitted, but received a strangtft\nticket, which enabled mo to visit all the institutions and attend\nall ilie dim, is and festivals without expense. The gentleman\nwho procured my lick, l, on my signing the book of the Association, made an apology for entering me as a foreigner,\nwhich was necessary to obtain a free ticket; for he said \"it an\nnot the custom in England to consider Americans as foreign\nen.\" This 1, d me to recollect, that an English gentleman\nsaid to me some weeks before, that the English were much annoyed m the United Stales on being cnlU foreigner. Alter-\nwards, when I had occasion to make some remarks at one of\nthe meetings ofthe Association, I introduced them by an expression of that diffidence which a stranger would naturoll;\nto\nin the native,\n!'i, on tin\nnn-\nrica,\n: in-\ni, the\nRio\nisaw\n0 the\n\u25a0uppoaod t&gt;\/ Mr, Nuilalla, it tii","fullrs":{},"find":"408.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"407","restrictionCode":"1","cdmfilesize":"1854470","cdmfilesizeformatted":"1.77 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 85</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1570</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1570</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1570/json"
+                        timestamp="2017-02-03 08:23:12">{"title":"Page 85","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 85 \u2014\nM.  Wickliffe  dtait venu visiter les Attakapas, accomp&amp;gnd de\nW. Grivot, adjudant-gdneral des milices de notre Etat.\nCes messieurs vhirent-ils officiellement ou comme touristes ? Nous\nne saurions le dire; mais quoi qu'il en soit, ils s'en retournerent\n\u25a0somme ils dtaient venus.\nNous pouvons, dans tous lea cas, affirmer une chose : c'est que les\nchefs des Comitds, qu'ils virent dans leur voyage, n'avaient fait,\nni une sevde promesse ni une seule concession.\nLe lendemain d'une victoire, on no cldsarme pas.\nQuelques jours apres, le St. Marc Darby, steamboat commando\npar deux des officiers les plus populaires aux Attakapas, le capitaine\nSmith ct Titus Gardemal, un de nos amis les plus intelligents et les\nplus aimds, partit de la baie Berwick pour Saint-Martin, avec do\nnombreux passagers, au nombre desquels so trouvait un des bandits\nexpulsds de la Cote-Gelee.\nOe bandit dtait Bernard Lacouture.\n\"Oii allez-vous ? demanda a Bernard Lacouture un Vigilant de\nSaint-Martin qui sc trouvait &amp; bord du St-Marc Darby.\n\u2014A la Cote-Gelde, parbleu !\n\u2014Mais le Comitd vous arretera et, comme vous etes eu rupture\ntie ban, vous infligera le fouet, et peut-etre quelque chose de pire.\n\u2014Le Comitd I.... il n'osera pas toucher a un cheveu de- ma fete.\n\u2014Pourquoi? fit le Vigilant avec dtonnement.\n\u2014Parce que je rentre a la Cote-Gelde sou3 la protection du Gouverneur.\"\nEt le banni tira de sa poche un article du Coarrier de la Houi-\nsiane, que nous avons entre les mains, et qui aunoncait que le Gouverneur, dans sa rdcentc visite aux Attakapas, avait obtenu dea\nthefs des Comites que les bannis seraient rappeles.\n\" Mais, malbeurcux, lui dit le Vigilant, cet article n'est qu'une\nlongue erreur, d'autant plus inexplicable que le Courrier est favorable a. la cause des Vigilants. L'derivain du Courrier a dtd trompe.\nAucun banni n'est rappeld. Aucune concession n'a dtd faite. Nos\nparoisses vous sont fermees\u2014et vous serez broyd, si von3 y venez.\"\nIjC bandit rdpondit qu'il savait lire,\u2014qu'il connaissait la valeur\n&lt;\".es inota\u2014qu'il voulait rentrer au grand jour sur le sol qu'on lui\navait retranchd,\u2014qu'il sou tour, il demanderait nn comptesdvere U\n*cux qui l'avaient frappd d'ostracisme &amp;c, &amp;c.","fullrs":{},"find":"1571.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1570","restrictionCode":"1","cdmfilesize":"398774","cdmfilesizeformatted":"0.38 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

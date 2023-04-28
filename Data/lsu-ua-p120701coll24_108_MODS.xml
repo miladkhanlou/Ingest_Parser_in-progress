@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>LSU vs Auburn seismogram, October 08, 1988</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <namePart>Louisiana State University (Baton Rouge, La.). Center for Coastal, Energy &amp; Environmental Resources.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1988-10-08</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Louisiana State University (Baton Rouge, La.). Center for Coastal, Energy &amp; Environmental Resources</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana State University (Baton Rouge, La.)</topic>
+      <topic>Football</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Auburn University</topic>
+      <topic>Football</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Earthquakes</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Earthquake intensity</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <abstract displayLabel="Description">Seismogram recorded in the Howe-Russell Geoscience Complex during the Louisiana State University vs. Auburn University football game on October 8, 1988. Trailing by six points, LSU quarterback Tommy Hodson threw a touchdown pass to tailback Eddie Fuller on fourth down with 1:47 remaining in the game. The eruption of the crowd registered on the seismograph, shaking the ground as much as a small earthquake.</abstract>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-p120701coll24:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Print Materials Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Examination and reproduction are governed by state and federal public records laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll24/id/323</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-10-14</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll24</alias>
+         <pointer>323</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll24/323/json"
+                        timestamp="2017-02-10 11:10:03">{"title":"LSU vs Auburn seismogram, October 08, 1988","creato":"Louisiana State University (Baton Rouge, La.). Center for Coastal, Energy &amp; Environmental Resources.","contri":{},"subjec":"Louisiana State University (Baton Rouge, La.). Center for Coastal, Energy &amp; Environmental Resources.;\nLouisiana State University (Baton Rouge, La.)--Football.;\nAuburn University--Football.;\nEarthquakes--Louisiana--Baton Rouge.;\nEarthquake intensity--Louisiana--Baton Rouge.","descri":"Seismogram recorded in the Howe-Russell Geoscience Complex during the Louisiana State University vs. Auburn University football game on October 8, 1988. Trailing by six points, LSU quarterback Tommy Hodson threw a touchdown pass to tailback Eddie Fuller on fourth down with 1:47 remaining in the game. The eruption of the crowd registered on the seismograph, shaking the ground as much as a small earthquake.","notes":{},"publis":{},"date":"1988\/10\/08","type":{},"series":{},"format":{},"identi":"See 'reference url' on the navigation bars.","source":{},"langua":{},"relati":{},"covera":{},"coverb":{},"rights":"Physical rights are retained by the LSU Libraries. Examination and reproduction are governed by state and federal public records laws.","catlog":{},"catalo":{},"object":{},"plugin":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"collec":"http:\/\/www.lib.lsu.edu\/special\/archives\/digital","fullrs":{},"find":"324.tif","dmaccess":{},"dmimage":{},"dmcreated":"2009-10-14","dmmodified":"2009-10-14","dmoclcno":{},"dmrecord":"323","restrictionCode":"1","cdmfilesize":"1250588","cdmfilesizeformatted":"1.19 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

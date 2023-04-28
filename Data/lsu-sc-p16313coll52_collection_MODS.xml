@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Louisiana Images from the Standard Oil Collection, Univ. of Louisville</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;This collection contains Louisiana images from the University of Louisville Libraries Special Collections and Archives &lt;a href="http://digital.library.louisville.edu/cdm/landingpage/collection/sonj" target="_blank"&gt; Standard Oil New Jersey Collection&lt;/a&gt;. The University of Louisville generously provided LSU Libraries permission and some digital surrogates of Louisiana-related images in this important collection. Researchers Don Davis and Carl Brasseaux digitized the remainder of the Louisiana images on-site in Louisville.&lt;br /&gt;&#xD;
+&lt;br /&gt;&#xD;
+Through this collaborative effort, LSU Libraries is happy to provide access to these unique images of people and places around Standard Oil sites in Louisiana between 1943-1950. For permission to use the images or for high resolution versions of images in this digital collection, please contact the University of Louisville Libraries and reference specific information associated with each image.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">&lt;p&gt;This collection contains Louisiana images from the University of Louisville Libraries Special Collections and Archives Standard Oil New Jersey Collection. Through a collaborative effort, LSU Libraries is able to provide access to these unique images of people and places around Standard Oil sites in Louisiana between 1943-1950.&lt;/p&gt;</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-p16313coll52</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/p16313coll52</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/p16313coll52</identifier>
+</mods>

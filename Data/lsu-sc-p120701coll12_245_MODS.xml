@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 12</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/517</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>517</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/517/json"
+                        timestamp="2017-02-09 16:30:53">{"title":"Page 12","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"15(3\nSOUTH-WESTERN JOURNAL.\n&gt; :i\nSONNETS ON CHARACTER.\nFrom !hc Ml No. of lh\u00abU SM^V-incind Dcinocreilic Rcvlo*\nWASHINGTON.\nFrom sally youth inured lo manly arts,\nTo curb llic steed, explore the palhlcss wood,\nAnd court ihe dangers of the field and flood ;\nIn shape, mien, manners, prowess, solid parts,\nA man complete; wilh choices! gills endowed,\nTo guide Ihe battle, and lo rule Ihe Stale,\nTo bless his country,and lo stamp him Gueat,\nThe world extolled and Kings in homage bowed !\nRetired from public cares, serenely wise,\nNo morbid hankering for dcparied sway,\nE'er dimmed the lustre of his closing day;\nBut ripe ia virtue, ready for the skies,\nHe lived\u2014he died.   Oh, who his worth can trace,\nPride of our laud, and glory of our race\n13. F, B.\nNAPOLEON.\nGenius, decision, energy, combined\nWith matchless skill in war's destructive art,\nBy these a stripling chief, he \" got the start\nOf ibis majestic world ; \" his riper mind\nLaw, order, industry, to France restored;\nBat false to freedom, dead to Hue renown,\nHe claims,assumes, and wears a despol's crown;\nDiscards for power the wife he once adored;\nTreads right in dust, makes frcebirn thought a slave,\nAnd not content with Europe's proudest throne\nAnd fairest realms, for conquest he must brave\nNature herself, within her frozen zone;\nAnd now, just doom, twice exiled, none to save,\nOf all bereft, he pines and dies alone !\n  ibj^l\n-f! F. Duller, Attornoy Genera] of the United Slates.\nTHE EPOCHS OF INVENTION.\nEtlracle.l from Professor Draper's Lecture In Hampden Sidney C'eillece.\nAt the close of the thirteenth century, the human intellect\nawoke from its sleep. The Monk of Pisa, who invented\nspectacles\u2014a most divine invention\u2014which gave sight to the\nblind, may be said, without any exaggeration, lo have furnished eyes to tho soul, as well as the body. Shall we ascribe too much importance to this invention, if we impute to\nit the effect of drawing men's thoughts from the crudities of\nthe metaphysical dogmas of the schools, to an investigation\nof the eternal truths of nature ? It led the way to the bright\ncareer of discovery and invention. The magnetic needle\ncame into common use, and the mariner, trusting to this mys\nterious guide, boldly crossed the broadest seas; the ships of\nthe enterprising Venetians, passing beyond the utmost bourn\ndary of geographical knowledge, brought home the strange\nstory of the discovery of Greenland and its desolate inhabitants. The lucubrations of the alchemists, too, were a lent\nto develope a capital result, not indeed the making of gold,\nbut a result whose effect was lo destroy forever the distinction'\nof physical power: the savage was no Ion-,.,. ,\u201e [.j,,,,,,,],\nover the civilized man, nor were the works of art or of science ever again to be endangered by an irruption of ignorant\nbarbarians.    The power of man, his mere physical powcrjgavea new world\nwas indefinitely exalted, and the force which nature bad denied him in making him one of the weakest of creatures, mil\ncompensated by science more than a thousand fold, when she\ngave him gunpowder. To this period, too, wc are to refer\nanother invention of vast benefit\u2014the mode of consuming\npit coal\u2014an invention which has exercised an immense influ,\nenco over the condilion of nations, and lo which the country\nfrom whence we all draw our descent, mainly owes her position in arts and arms.\nNext came the great epoch. Gunpowder had given to\nman a kind of earthly omnipotence : printing was to give his\nworks immortality, to difiuse throughout all the ramification!\nof society, the knowledge that had been hoarded tip by a far\nNo more might the philosopher fear that his labors, in the\nconflicting interests of nations, or passions of party, should\nbe lost. Civilized man could spread out and perpetuate his\nintellectual productions. If there be any great landmark in\nihe history of the earth\u2014anything that points out the distinct character of one age from another, surely it is to be nut\nwith in these great discoveries. We are not to suppose, ihat\nmen now possess more ability than at earlier ages; at a remote\nperiod, the Chaldeans had discovered the true system of the\nworld, and had built up theories which we are now confirming. They wanted, however, the physical powers to disseminate their knowledge, and to protect themselves from the destruction that menaced them from more ignorant nations.\nBofore the invention of priming and gunpowder, the world's\nhistory was a perpetual squabble of one prince with another,\none nation with its rival. With a few exceptions, its philosophy was a vain show, a thing not applicable to the comforis\nor purposes of life. Notions of military glory made conquest\nthe end of human ambition and of human happiness; and he\nwho had murdered most, and burned most, and ruined most,\nand pillaged most, was the greatest man: it was a conquest\nof man over his fellow, a conquest not less disgraceful to the\nvanquished than to tho victor. Instead of subduing nature,\nand thereby raising the standard of power and wisdom, nil\nthe bad passions that can be engendered in the breast of mortals bore sway, and rapine and murder required no apology,\nprovided the scale on which they were carried was sufficiently large-. How greatly changed was tho world at ihe epoch\nof which I speak ; men began to find out, that there were other ways to be powerful without the destruction of their rivals,\nand that to conquer nature with her own weapons, wiisthe\nonly mode to be truly great. And now for a while the results of successful experiment followed each other with rapid-\nity, not only in those giant discoveries which had regenerated\nthe world, but also in the arts of peace, the arts that adorn civilized life. The construction of maps and charls, which jni\nintroduced, tended in no small degree to hasten the discovery\nof America. Engraving on copper gave a new impulse 10\npainting, and secured faithful representations of natural objects, where words anel printing might fail to describe them\nNavigation felt ibc great improvements that astronomy, mag-\nnctism, geography, and printing had bestowed. Vascoihi\nGama doubled the Cape of Good Hope, and anchored hit\nships in the Indian seas; and to Castile and Leon, Columbia","fullrs":{},"find":"518.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"517","restrictionCode":"1","cdmfilesize":"1906756","cdmfilesizeformatted":"1.82 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M74</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1332</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1332</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1332/json"
+                        timestamp="2017-01-13 13:22:52">{"title":"M74","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM74\nAsile ste Marie 3\u00e8me Distr. Nouvelle-Orl\u00e9ans \u2013 6 Nov. 1875\nMonsieur A. de la Peichardi\u00e8re\nJefferson College\nMon cher Monsieur et Ami,\nJe suis d\u00e9ja quinze jours\nen retard pour r\u00e9pondre \u00e0 votre aimable\nlettre du vingt-quatre Octobre ; Veuillez avoir\nla bont\u00e9 de m\u2019excuser s\u2019il vous plait.\nSans avoir \u00e9t\u00e9 r\u00e9ellement malade, je me\nsuis cependant trouv\u00e9 assez s\u00e9rieusement\nindispos\u00e9 tous ces derniers jours et ma\nparesse en a profit\u00e9 pour dormir.\nJe n\u2019ai pas eu l\u2019honneur de voir le\nR\u00e9v.P\u00e8re Pr\u00e9sident du coll\u00e8ge, pendant son s\u00e9jour\nen ville, et cela m\u2019a fait maugr\u00e9er une fois\nde plus contre la trop grande distance entre\nl\u2019asile et le quartier des affaires, car je sais\nque cet inconv\u00e9nient me prive parfois de visites\nqui me seraient tr\u00e8s agr\u00e9ables.\n2\nM74\nN\u2019en dites pas moins au R\u00e9v. P\u00e8re Bigot, si\nl\u2019occasion s\u2019en pr\u00e9sente, que je me sens tout fier\net tr\u00e8s honor\u00e9 de ses charitables appr\u00e9ciations.\nMais quant \u00e0 ce qui vous concerne personnellement,\nmon cher Monsieur et ami, de gr\u00e2ce tr\u00e9ve de\nremerciments, vous n\u2019avez rien \u00e0 envoyer sous\nce rapport, vous ne devriez que recevoir en vue de\ntous les beaux articles, que vous nous avez fait\nparvenir depuis plusieurs mois. Quel malheur\nque vous n\u2019ayiez pas la direction du journal !...\nJe suis s\u00f9r que \u00e7a irait\u2026\u2026. Mais c\u2019est \u00e9gal\nvous continuerez, n\u2019est ce pas, et l\u2019on finira bien\npar se d\u00e9barrasser du petit Lutton.\nSans vouloir vous g\u00eaner dans le choix de vos\nsujets, je me permettrai, en bon ami, de vous prier\nde remettre \u00e0 un peu plus tard l\u2019\u00e9tude sur la\nfranc-ma\u00e7onnerie. Qui sait, si au retour de\nMgr Perch\u00e9, nous ne pourrions pas nous servir\nde ces m\u00eames articles pour d\u00e9molir cette pierre\nd\u2019achoppement, je veux dire, Mr Lutton, qui n\u2019est\nnullement populaire, et qui aura peut-\u00e8tre un peu\n3\nM74\nperdu de son influence aupr\u00e8s de sa Grandeur !\nDu reste, suivez votre jugement, c\u2019est le\nplus simple.\nMr Lafargues qui a d\u00f9 vous envoyer des\nnum\u00e8ros du 22 et du 30 Octobre, vous fera parvenir\nsous peu [rature] un Catalogue et des livres qu\u2019il re\u00e7oit\nen ce moment. Il go\u00f9te fort les articles sur les livres,\nmais comme sa religion ne va pas, je crois, jus qu\u2019au\nconfessionnal, je suppose que des attaques virulentes\ncontre les catholiques de gros calibre, ne lui vont\nqu\u2019\u00e0 moiti\u00e9. Ce n\u2019est l\u00e0 cependant qu\u2019un jugement\ntintamarre de ma part et je vous le donne pour\nce qu\u2019il vaut, uniquement afin de vous montrer \u00e0 qui\nl\u2019on a affaire dans cette gal\u00e8re.\nMais ne soyons pas trop m\u00e9chants.\nPriez pour moi quelquefois, cher monsieur\net ami et soyez s\u00fbr qu\u2019\u00e0 la sainte messe\nj\u2019offrirai vos voeux et vos esp\u00e8rances au\nsacr\u00e8 coeur de J\u00e9sus, par les mains de Joseph et de Marie\nTout \u00e0 Vous\nL. A. Chass\u00e9\npr.","typa":{},"genera":{},"fullrs":"Volume7\/M74.pdf","find":"1334.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1332","restrictionCode":"1","cdmfilesize":"10338","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

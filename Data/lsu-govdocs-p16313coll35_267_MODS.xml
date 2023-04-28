@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <nonSort>The</nonSort>
+      <title>problem of the Mississippi</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Haupt, Herman, 1817-1905.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1904</dateIssued>
+      <publisher>New Orleans, 1904?</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Floods</topic>
+      <topic>Mississippi River</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Flood control</topic>
+      <topic>Mississippi River</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Floods</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Autographs</topic>
+   </subject>
+   <note type="content">Cover title; Reprint from the Gulf Ports Marine Journal, New Orleans, La.; Librarys copy has authors autograph on p. [2].</note>
+   <note type="content" displayLabel="Category">flood control</note>
+   <physicalDescription>
+      <extent>27 p. ; 23 cm.</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="local"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Government Documents</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-govdocs-p16313coll35:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana Waterways Management Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>TC425 .M6 H3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail diglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll35/id/60</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-05-10</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll35</alias>
+         <pointer>60</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll35/60/json"
+                        timestamp="2017-02-07 15:32:19">{"title":"The problem of the Mississippi","date":"1904","creato":"Haupt, Herman, 1817-1905.","subjec":"Floods--Mississippi River; Flood control--Mississippi River; Floods--Louisiana; Autographs","covera":{},"publis":"New Orleans, 1904?","descri":"27 p. ; 23 cm.","notes":"Cover title; Reprint from the Gulf Ports Marine Journal, New Orleans, La.; Librarys copy has authors autograph on p. [2].","source":"TC425 .M6 H3","catego":"flood control","contri":{},"type":{},"format":{},"langua":{},"relati":{},"rights":{},"audien":{},"identi":{},"fullrs":{},"find":"61.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2013-05-10","dmmodified":"2013-05-10","dmoclcno":{},"dmrecord":"60","restrictionCode":"1","cdmfilesize":"2226893","cdmfilesizeformatted":"2.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

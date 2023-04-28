@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 10</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/460</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>460</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/460/json"
+                        timestamp="2017-02-09 16:31:00">{"title":"Page 10","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"\u25a0 S i -\u25a0;:\n1 'i'.-i-'\nill\n:\u25a0\u25a0!,\u00a3\ni'-'\n\u25a0\nIf-\n\u25a0\nSOUTH-WESTERN   JOURNAL.\nThe Goddess saw th' unequal conflict waged,\nAnd thither winged her way, with quickened flight.\nShe came, and on poised wings, stayed graciously,\nIn mercy hovering o'er our fathers' homes 1\nThey saw her on that day, yet deep engraven\nOn glowing hearts, to freedom consecrate,\nWhen they in council and debate were met,\nOn measures of defence against the foe ;\nAnd published to the world, this changeless truth,\n\" That all are born, and should of right be free,\"\nAnd wrote it, -with iheir names, upon a page,\nNow far the brightest page of history,\nAnd fortune, life, and sacred honor pledged,\nTo vindicate the act, and seal that deed:\nThey saw her on that day, and look her home-\nNo more she lives an exiled wanderer I\nShe reigns!   Our nation's mild Divinity 1\nHer ensign raised on high, emblem of peace.\nThat ensign!   Know ye il, my countrymen I\nUnder its auspices, benign and sure,\nOur fathers marched lo victory and fame.\nIt waved in triumph o'er them, when they met\nThe foe on Lexington's embattled plains;\nAnd when at Concord, Bunker Hill, and York,\nThey would have bound their fetters, Britain's hordes,\nAnd struck our Eagle from his towering height,\nDishonored in Ihe dust, like that of old,\nAnd now it waves its folds to every breeze,\nAbove the nation's columned capilol 1\nThai ensign!   Kno w ye it, my countrymen!\nIt is the blue, star-spangled Banner!\nNatchez, February 10,1838.\nS. A, H.\nREVIEW.\nHistorical causes an.l Effects, from tin. Fall of the Roman Empire, -ITU, lo tho\nReformation, 1517, Iiy Wm. Sullivan, Fellow of ilic American Academy of\nArts and Bctsnces j Member of tho Massachusetts Historical Society, dec. etc\n111.Ml.II.    [.)&gt;. 111:.,  Ill I'-lnin.\nThis volume contains the elements of the history of the\ncivilized world for upwards of ten centuries. Compared\nwith the present state of society, this long period presents\nscenes of barbarism and violence, full of wars and desolation,\nwith occasional exhibitions of extraordinary genius, and with\nhere and there brief and limited seasons of rest and refinement. But the reader will perceive, that it comprehends too\nlarge a field of action within its narrow limits, to admit of a\nprofound and regular deduction of causes and effects, and a\nfull delineation of the characters and motives of the actors.\nThe remark of the author, in reference to the history of\nFrance, from the year 1000 to 1500, seems to describe the\ncharacter of his work, nnd is a fair specimen of his manner.\n\" Discouraging as these elements may be,\" he says, \"we are\nto find in these five centuries, the causes of the great changes\nwhich have since taken place in the political, social, and religious condition of society. The labor which is now intended,\nis to search out these causes, and to discern how that power\nhas been exerted, which the Author of our being bestowed to\nimprove and benefit the human race. It will be seen that\ndiscoveries and inventions, which have been proved to be most\nuseful and permanent, were the product of solitary genius or\nof accident, and that those who have thus benefited the world,\ndid not even imagine tho consequences of their acts. It will\nbe seen also, that the efforts of the wisest and most powerful\nAii\namong men, have often led to results of the most mischievous\ncharacter. And, again, that some of the ablest conductors\nof human affairs, who intended nothing but their own ag.\ngrandizement, undesignedly introduced important meliora.\ntions of society. Such facts humble the pride of man, while\nthey raise his thoughts to tho great Disposer of events, who\nbrings forth, in his own time and manner, in the long series\nof ages, his own beneficent purposes.\"\u2014p. 212.\nMr. Sullivan has not restricted himself to a minute enumeration of events, in an exact chronological order, nor docs\nthe work belong to the class of annals, He describes the\ngeographical situation of countries, and fixes the relative position of celebrated cities; and while attentive to dates, and to\ntho progress of history, he marks the distinguished eras and\nthe renowned actors with more or less brevity, as suits his\ntaste or convenience. Occasionally, he leaves the series of\nevents, and indulges in a more ample discussion. The reader\nwill find a valuable account of the Feudal System, a condensed\nview of the usurpation and triumph of the Papal authority,\nsketches of the origin and progress of the Canon and Civil\nLaw, with occasional illustrations of the advancement of arts\nand literature, and of the struggles for political freedom in\ndifferent ages and nations.\nThe sketches which tho author gives of Charlemagne, of\nLouis the eleventh of France, of Ferdinand and Isabella of\nSpain, of the origin of the League of the Swiss Cantons, of\nVenice, of the Mahometan imposture, and the Note on the\ndifferences of the Greek and Roman Churches, are favorable\nspecimens of his talents as a writer, and, like springs of water in a great extent of desert, make every thing green and\nfresh in their neighborhood.\nTho author, inhaling the spirit of the best writers, and\navailing himself of their learned industry, has drawn his\nmaterials from the most authentic sources.\u2014His style is simple and clear, without a studied effort after profound observation or ornament. To write well requires labor, and a careful pruning of useless words and redundant sentiments. Hii\nmoral and political remarks, which display the mind of ihe\nwriter, possess much merit, nnd will not fail to be remembered. His work is tho production of n scholar, retired, after\nmuch experience of life, from the strife of a laborious profession, and occupying his leisure with the pursuits of literature, the fruits of which he is desirous to communicate to others. It may be read, we think, with profit to all, although the\ncourse of events is so rapid, that it is a somewhat severe task\nto the memory to keep up the chain ; but it is designed particularly for the young, and is well calculated to form their\ntaste for the study of history.\nThose who read history merely to learn the chain of events,\nthe characters of the actors, and to be able to shine in convei-\nsation, study to some purpose, but not to the best. The historian is the moral and political instructor of mankind. It\"\nin his pages, that the philosopher may learn the lessons of\nexperience, and what is fit and becoming in the great. He\nshould therefore be endowed with extraordinary talents and\nvirtues. While recording the events which he celebrates, he\nshould bo able to trace the causes with lucid order. He shouW\npossess a deep knowledge of human motives, to be able to tfo'","fullrs":{},"find":"461.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"460","restrictionCode":"1","cdmfilesize":"1895834","cdmfilesizeformatted":"1.81 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

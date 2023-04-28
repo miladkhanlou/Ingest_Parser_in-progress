@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Was brought to the City Police Jail.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001544</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Henry Durel</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1859-03-28</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Memphis, Tenn</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1859</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1859-03-23</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">WAS brought to the City Police Jail on the 23d of March, the black boy GEORGE. Says he belongs to Mr. James Cook, who lives in Memphis, Tennessee; he is 5 feet 3 inches high, and has a scar on the forehead, and one on the right side of the cheek. The owner will call and claim his property according to law. E. PLANCHARD, Keeper of City Police Jail. Registered March 5, 1859. HENRY DUREL, For Comptroller. m7 15t</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black</note>
+   <note type="content" displayLabel="Slave Owner">Mr. James Cook</note>
+   <note type="content" displayLabel="Slave Name (Age)">George</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 6, column 4</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent. ([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-03-28/ed-1/seq-6/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-03-29/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-03-31/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-01/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-02/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-05/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-06/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-07/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-08/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-09/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-11/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-12/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-13/ed-1/seq-6/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1859-04-15/ed-1/seq-6/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1588</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1588</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1588/json"
+                        timestamp="2017-02-13 13:33:00">{"title":"RSA00001544","object":"sn82015753","publia":"New Orleans daily crescent. ([New Orleans, La.]) 1851-1866","date":"1859-03-28","year":"1859","film":"page 6, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-03-28\/ed-1\/seq-6\/","unique":"Was brought to the City Police Jail.","person":"Henry Durel","parish":{},"digita":{},"acknow":"1859-03-23","public":"Mr. James Cook","town":"Memphis, Tenn.","relati":"George","slave":"M","slavea":"black","slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"WAS brought to the City Police Jail on the 23d of March, the black boy GEORGE. Says he belongs to Mr. James Cook, who lives in Memphis, Tennessee; he is 5 feet 3 inches high, and has a scar on the forehead, and one on the right side of the cheek. The owner will call and claim his property according to law. E. PLANCHARD, Keeper of City Police Jail. Registered March 5, 1859. HENRY DUREL, For Comptroller. m7 15t","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-03-29\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-03-31\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-01\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-02\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-05\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-06\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-07\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-08\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-09\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-11\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-12\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-13\/ed-1\/seq-6\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1859-04-15\/ed-1\/seq-6\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001544.jpg","find":"1640.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1588","restrictionCode":"1","cdmfilesize":"51878","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

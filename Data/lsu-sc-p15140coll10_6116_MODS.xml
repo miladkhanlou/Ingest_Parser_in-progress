@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 185</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1670</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1670</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1670/json"
+                        timestamp="2017-02-03 08:23:15">{"title":"Page 185","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 185 \u2014\nde la cuisine, de front et avec un egal ernpressemcnt vers la rive,\npareils a deux f'rcres qui auraient jonte ii qui arriverail; le premier\nau bain ; puis so jeter dan\u00b0 l'abime qui sembla s'ouvrir un instant\npour les recevoir et se referma ensuite en les recouvrant comme un\nlinccul.\nMalgre les reelicrches les plus actives, on ne retrouva que deux\nea.laviTs... deux ca'davres unis encore dans la mort, a laquelle ils\navaient du reste couru fratemellement\nC'etait la une dc ces vengeances noires et terribles que les negres ont aecomplies plus d'une fois dans nos Etats ii esclaves.\nlis s'etaient suicides pour appauvrir leur maitres'se de trois mille\npiastrcs. Le vrai coupable. le veritable auteur de leur mort, c'etait\nevidemment Apcher. qui les avait excites au marronnage. tin vagabondage, a la haine du travail, et qui les avait fait travailler chez\nlui par 1'appftt du whiskey, appilt qui a deja inspire tant de crimes\na la race al'ricaine.\n\u2022' A l'exil. le voleur de negres 1 \"\nTel fut le mot repete de tons.\nDeux Comites (Cote-Gelee ct Vermilion) lui signlfierent un or-\ndre de banni^cmeut.\nAu Texas, on 1'aurait accroche au premier arbre qui aurait\nctendu ses b-jPaoebea sur ia route ; ici, on l'invita a, aller etudicr les\ninceurs et les continues de quelque nation etrangere.\nLes Comites ne sont-pas ce que les a faits certaine presse : de=\nbuveurs de sun'r.\nVOLS SUE VOLS\nLaparoisssc Yermillon est, nons le repetons, composee d'ime population de pastern-?, campee plutot qu'etablic dans de magnifiques\nprairies\u2014les dernieres peut-etre qui restent en Louisiane\u2014et con-\nsacrant toute son energie et son activite a l'eieve des animaux.\nLes animaux semblaicnt se preter, pour ainsi dire, eux-memes\naux esperances plucees snr leurs tetes. Des frontieres des paroisses\nLafayette  et   Saint-Martin jusqu'a la  mer,  ils vagabondaient et","fullrs":{},"find":"1671.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1670","restrictionCode":"1","cdmfilesize":"413078","cdmfilesizeformatted":"0.39 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

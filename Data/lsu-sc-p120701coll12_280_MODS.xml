@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 13</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/552</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>552</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/552/json"
+                        timestamp="2017-02-09 16:30:52">{"title":"Page 13","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"The Committee congratulate the citizens of Natchez, on\nthe possession of an institution of so much present worth, and\nwhich may he rendered so extensively beneficial in its effects.\nAnd they would earnestly recommend that efforts be made as\nwon as h can conveniently bo done, for its enlargement, and\nfor its establishment on some permanent basis.\nJohn II. Van Court\nDavid C.  Paoe,\nEi.ias It.  Pouter,\n(!. V. II. Forres,\nC. G. Fousiiby,\nS. II. B. Black,\nJohn Ker,\nBenjamin Chase,\nSam'l. V. Marshall.\nHay iist, 13118.\nSOUTH-WESTERN JOURNAL.\n180\nExamining\nt    Committee\nNtlekie, .1\nHaving I\nexaminatior\niron\nwhi\nh  has\nhop\nI lb\nlion,\nnnd co\nd and\n'en prevented from attending the whole of the\nof Mr. Dinner's Academy, I have not thought\nlign the above report.    But as a member of the\nI cannot forbear expressing my entire satisfi\nii id\n; uner, for\nnaio educ ition, end for the encouraging success\nalready crowned their end -avers.    It is to be\nin nts and guardians will patronize this institu-\nipi rate with the Principal, in giving it an estab-\n\u25a0 . a, merit character.    Let it not be said, that so\nflbrt I. is proved abortive through the hike-\nI  indifference of tho friends ol female educa-\ntth Wi St.   My best wisllbs arc for the complete\nin   il i ion. S. G. Winchester.\n; '  1 38,\nflourishing to be covered by the dust and cobwebs of time, a\nfuture object of antiquarian investigation.\nKnowing the fecundity of the valley of the Mississippi in\nIndian antiquities, the American Antiquarian Society has\never had an eye lo the west and south-west\u2014eagerly soliciting all authentic information in relation to tho numerous and\npowerful tribes, whose thousands once trod the vale of the\nRather of Waters,\" and whoso traces of power still exist\nin Ihe imperishable mounds which abound in our vicinity.\nHow much the desires ofthis distant society, expressed\nthrough the communications of its secretary and librarian,\nhave contributed towards forming the determination in our\ncinityto investigate, by actual examination, the subject of\nIndian antiquities, it is not for us lo say\u2014although wo would\ngladly wish iho same influence could reach every section of\nour country, where an Inehan mound or tradition still lingers.\nOn the 18th of May, 1838, a parly of literary and scientific gentle men proceeded from Natchez to the river bottom\ng my entire satisfi c-|b\u201etwcen lhc ,,,.,,, nm, ,,\u201e. ,,.,.,,. of t|u, Mj8sissjppi) nbol)t lhrcu\nI believe that great credit is due nnd \u201e Jla\u201e- miles bolow [ht, th    fcf ,hc     ^ rf mmin\n''I ing two square mound,, that rise from eleven to sixteen feet\nabove tho bottomon which they are based. The mounds are\nnearly a mile from the river, and about one-eighth of a mile\nfrom tho inland bluff. They stand twenty-three perches apart,\nranging,north and south with each other, the larger being\nfour perches square, and the other half that size, and five or\nsix feet less in height.\nAn excavation was made in the centre of lhc smaller ono\nto tho depth of eleven feet, through aluminous earths, evidently heaped up from the surrounding surface, At thin\ndepth were found the indisputable evidences of river depos-\nlites, an 1 indications of haling reached the river level. Numerous pieci ; of Indian pottery were, found, while digging\nto that depth. As the mat -rials of bolh structures were similar, no excavation wad made in the larger mound.\nA river bottom lake is now in existence, about two hundred perches north of the se mounds, and probably once overflowed the plain on which the mounds are now found. The\nsupposition is, that these mounds, once surrounded by water,\nwere places of refuge to which the mound builders retreated\nto be more secure against surprise in time of war\u2014the waters\nof the lake serving as a fosse, and the mounds as ramparts.\nHad a rampart alone been the object, the adjacent bluff would\nhavo furnished one more lofty, yet less inaccessible.\nOn the 28th of May, ten days subsequent, a larger company of gentlemen, about twenty-live in number, repaired to\nthe great mound in Selserlown.\nThe distance of this mound from Natchez is about ten\nmiles, bearing east north east. The road is the one leading\nto Fayette through Selsertown. Leaving the village of\nWashington, and passing the residence of W. P. Mellon,\nEsq. on tho right, a mile and a half from the latter placo\nbrought the company in view of the majestic mound, lifting\nits warlike bastions and tower in broad outline about a mile\nto the left of the main road to Selsertown. Turning down a\nlane at right angles to the great road, the plantation of Walter Irvine, senior, Esq. of Natchez, was reached\u2014on which,\nJOURNAL.\nK ti rCHEZ,  MA'S\" 30,   1838.\nmonthly  Pi \u2022'.: u'ation.\u2014 During the summer months,\nlor tho I convenience, tho South-Western Journal will\nbapubli . i in double numbers\u2014thirty-two pages stitched\nlogelhi r, 'J his arrangement will commence with the month\nof June, both numbers for which month will appear in one\ncover about the 20th.\nAntiquarian Researches\u2014Indian Mounds. There\nhas, of late, I n more than usual interest felt by the educated\n'\u25a0' Kicnti ,- portion of out- South-Western community in\nlap subject of Indian antiquities. This interest is the reflex\n001,011 of a still stronger anxiety felt in the older communi-\nlies of our country on the same subject. Long has tho American Amiqii trian Society, located in Worcester, Massachusetts,\nandhaving learned and influential members and correspondents scattered throughout the country, labored zealously in\n'he field of American antiquities. The published reports of\n\"us society are voluminous and filled with the most important facts; their library and cabinet abound with all they\nhave been able to collect, through years of industrious re-\nMarch, aided by liberal funds and the effective patronage of\n'hatpatriaroh of antiquarians and typographers, Isaiah Tno-\nM*Si now gathered to his fathers, with a fame too green and\n! ,\n\u2022':\u25a0 I\nA\n~=~    '\u25a0","fullrs":{},"find":"553.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"552","restrictionCode":"1","cdmfilesize":"1863545","cdmfilesizeformatted":"1.78 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 31</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/1518</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>1518</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/1518/json"
+                        timestamp="2017-02-03 08:23:10">{"title":"Page 31","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"\u2014 31 \u2014\net de virilite*. Cceur chaud, nature meridionale, medaille frappee au\nmeilleur coin de ce type cre*ole qui va s'absorbant chaque jour dans\nles flots de la population americaine, ce jenne homme allait se\nreveiller ccrivain, comme certaines natures d'elite se revcillent pcin-\ntres, poetes, sculpteurs, au sortir des langes.\u2014Logicien implacable,\nil allait faire la guerre a coups d'arguments, a coups dc raisons que\nles adversaires des comites n'ont pas encore refutees a Pheure mi\nnous ecvivons ces lignes. Alcee Judice etait l'artilleur de la guerre\nque les Comites allaient commencer.\njjEcho de Lafayette et le Courrier des Opelousas avaient tous\ndeux Phonneur d'etre les organes de la de*mocratie dans deux paroisses riches, populeuses, et bien que les Comites fussent composes\nd'hommes pris dans les deux partis, qu'une question de inoralite publique avait reunis sous la meme bannierc, la presse democratique\ndes Attakapas etait venue a eux a bras ouverts, tandis que la presse\nopposante s'Stait renfermee dans une neutrality hargneuse, et que\nles amis de cette presse commeuclient deja dans Pombre une opposition qui, pareille a la montagne en mal d'enfant, n'a produit que\nle plus ridicule des avortements.\nII.\nLa chanson avait aussi porte son tribut au mouvement.\nLa poesie chantee,\u2014cette poesie aimee du peuple parce qu'elle\n. parle a la fois a son intelligence et a ses oreilles,\u2014est a nos yeux\nun des plus puissants leviers des ames aux jours de danger, de\nguerre ou d'insurrection. La Marseillaise,\u2014ce cbef-d'eeuvre inimitable de la poesie chantee,\u2014fut, dit-on, pour bcaucoup dans les premieres victoires de la republique franchise, en ] 792. A. Jemmapes\net a Valmy, ses strophes enflammees dominerent Porchestre de\nPartillerie et dc la fusillade. Ce fut un concert chantepar un chceur\nde quarante mille hommes et, le soir de la bataille, il tonna encore\nautour du jeune drapeau tricolore, qui venait de cueillir sa premiere\ncouronne de triomphe.\nLa chanson vint encore en aide aux Comites, comme elle viendra\ntoujours en aide a tout ce qui est protestation contre un crime ou un\nabus. Douce aux malheureux, impitoyable aux sots et aux merchants,\nuraie de la mansarde du peuple plus que des palais des grands, cei-","fullrs":{},"find":"1519.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"1518","restrictionCode":"1","cdmfilesize":"419574","cdmfilesizeformatted":"0.40 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

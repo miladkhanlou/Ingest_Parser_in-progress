@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>General O.B. Johnson oral history interview</title>
+  </titleInfo>
+   <name displayLabel="Interviewee">
+      <namePart>Johnson, Oris B., 1920-1999</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Interviewer">
+      <namePart>Foster, Adele</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+      </role>
+  </name>
+   <note type="biographical/historical" displayLabel="Biographical Note">General O. B. Johnson served as a pilot in the U.S. Army Air Corps in Europe during World War II. He supervised the development of advanced fighter aircraft and their implementation during the Korean War. He later commanded the Washington Area Air Defense Sector, the 14th Aero Space Force, and the 313th Air Division. After retiring from the Air Force in 1973, Johnson served in several positions in the Shreveport city government and as undersecretary of public safety under the Treen administration.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1997</dateCreated>
+  </originInfo>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Johnson, Oris B.,</namePart>
+         <namePart>1920-1999</namePart>
+         <namePart>Interviews</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Army</namePart>
+         <namePart>Air Corps</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Air Force</namePart>
+         <namePart>Washington Area Air Defense Sector</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Air Force</namePart>
+         <namePart>Aero Space Force, 14th</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Air Force</namePart>
+         <namePart>Air Division, 313th</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Imperial Defense College</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1939-1945</topic>
+      <topic>Europe</topic>
+      <topic>Aerial operations, American</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1939-1945</topic>
+      <topic>Europe</topic>
+      <topic>Aerial operations, British</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Korean War, 1950-1953</topic>
+      <topic>Aerial operations, American</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Vietnam War, 1961-1975</topic>
+      <topic>Aerial operations, American</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cold War</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Generals' spouses</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Shreveport (La.)</geographic>
+      <geographic>Politics and government</geographic>
+      <geographic>20th century</geographic>
+   </subject>
+   <abstract displayLabel="Description">Johnson discusses his family, childhood, education, and teaching in high school; his flight training and service with the Army Air Corps in the United States and Europe during World War II; his postwar assignments including commanding the Washington Area Air Defense Sector and the 14th Aero Space Force; attending the Imperial Defense College in London; early events in the Cold War; the contribution of his wife to his career; his involvement with the Korean and Vietnam Wars; and his government service in Shreveport.</abstract>
+   <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/military/Johnson_OB.abs.pdf</abstract>
+   <note type="content">This collection includes materials accessioned as Mss. 4700.0821.; A digital version of the transcript (pdf) exists for duplication purposes.; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room.; Interview conducted by Adele Foster.</note>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>3 sound cassettes (3.5 hours); Transcript (140 leaves)</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no94017348"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisianans in the Military Oral History Project</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series">
+         <title>T. Harry Williams Center for Oral History military series</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-military:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Library: Oral History</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">General O.B. Johnson Oral History Interview, Mss. 4700.0821, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

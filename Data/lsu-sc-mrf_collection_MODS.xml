@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+      <title>Mississippi River Flood of 1927 Photograph Album</title>
+  </titleInfo>
+  <name type="corporate"
+        authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names"
+        valueURI="http://id.loc.gov/authorities/names/no2015036095"
+        displayLabel="Contributing Repository">
+     <namePart>LSU Libraries. Special Collections</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+     </role>
+  </name>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note type="content" displayLabel="Collection Description">&lt;p&gt;The Mississippi River Flood of 1927 Album is a visual record of one of the worst natural disasters to occur in the U. S. The flood took the lives of thousands, made refugees of hundreds of thousands, and caused vast destruction. The photo album was prepared for O. K. Allen (1882-1936), Chairman, Louisiana Highway Commission and later Governor, and presumably used for securing Federal disaster aid. This album became the property of George Cobb Everett (1885-1946) who served on the LSU Board Supervisors and was member of the committee sent to Washington, D. C. in 1927 to secure federal funds for rebuilding destroyed roads and bridges. Most of the photographs are identified as the work of Baton Rouge photographer Jasper G. Ewing. Some of the photographs were published in the Fourth Biennial Report of the Louisiana Highway Commission of the State of Louisiana, 1926-1928 (TE 24 L8A2).&lt;/p&gt; &lt;p&gt;The album contains 214 black and white photographs showing flood damage to roads, bridges, and buildings primarily in the Atchafalaya River region and the town of Melville, Louisiana. The photos include depictions of repair crews, levees, barges, crevasses, and railroads. Some photos pre-date the flood and a few depict scenes from non-flooded areas. The album includes a photostatic copy of the first check for one-half the amount of federal disaster money paid to Louisiana and a newspaper clipping concerning Louisiana's implementation of the first gasoline tax.&lt;/p&gt;</note>
+  <abstract displayLabel="Collection Summary">A visual record of one of the worst natural disasters to occur in the U. S. The flood took the lives of thousands, made refugees of hundreds of thousands, and caused vast destruction. The photo album was prepared for O. K. Allen (1882-1936), Chairman, Louisiana Highway Commission and later Governor, and presumably used for securing Federal disaster aid.</abstract>
+  <identifier type="local" displayLabel="Collection ID">lsu-sc-mrf</identifier>
+  <identifier type="local" displayLabel="Migrated From (Search)">http://louisianadigitallibrary.org/cdm/search/collection/LSU_MRF</identifier>
+  <identifier type="local" displayLabel="Migrated From (Landing Page)">http://louisianadigitallibrary.org/cdm/landingpage/collection/LSU_MRF</identifier>
+</mods>

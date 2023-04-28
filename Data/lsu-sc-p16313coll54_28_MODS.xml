@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Portrait of an unidentified African
+American woman</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+      <namePart>Dambly Bros. (Studio: St. Cloud, Minn.)</namePart>
+   </name>
+   <originInfo>
+      <dateIssued point="start" keyDate="yes">1890</dateIssued>
+      <dateIssued point="end">1899</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">1 photographic print on cabinet card</note>
+      <extent>10 x 15 cm</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+<namePart>LSU Libraries. Special Collections</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Mingo Family African American Photographs, 1887-1955</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll54:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/5113.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>65:01:00</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Mingo Family African American Photographs, Mss. 5113, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">511308</identifier>
+   <identifier type="uri" invalid="yes" displayLabel="Migrated From">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll54/id/40</identifier>
+   <recordInfo>
+      <recordCreationDate>2014-01-13</recordCreationDate>
+      <recordChangeDate>2018-11-16</recordChangeDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll54</alias>
+         <pointer>40</pointer>
+         <dmGetItemInfo timestamp="2016-07-22 07:43:32" mimetype="application/json" source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll54/40/json">{"title":"Portrait of an unidentified African\nAmerican woman","creato":"Dambly Bros. (Studio: St. Cloud, Minn.)","date":"1890-1899","descri":"1 photographic print on cabinet card; 10 x 15 cm","notes":{},"type":"image","subjec":"African Americans--Photographs.","contri":"Mingo Family African American Photographs, 1887-1955","identi":"65:01:00","publis":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":"Finding Aid: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/5113.pdf","source":"Mingo Family African American Photographs, Mss. 5113, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","relati":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","langua":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the 'Item number' or 'Item URL' in your request.","a":"511308","covera":"See \"reference url\" on the navigation bar.","coverb":{},"object":{},"fullrs":{},"find":"41.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-01-13","dmmodified":"2014-05-13","dmoclcno":{},"dmrecord":"40","restrictionCode":"1","cdmfilesize":"1009480","cdmfilesizeformatted":"0.96 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

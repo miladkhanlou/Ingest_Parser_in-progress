@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Negres en Prison.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000551f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">NEGRES EN PRISON. Il a été conduit à la geôle, le 4 juin, deux nègres, un se disant nommé Ned, et âgé de 50 ans, ayant 5 pieds, 7 pouces de  auteur, ayant une dent de devant qui lui manque, sans autres marques apparentes. L'autre négre a environ 5 pieds, 9 pouces de hauteur, il dit qu'il a 31 ans. Les dits nègres prétendent être partis marrons de l'habitation de Mr. Jules, Mossy, située sur le Bayou Têche entre la Nouvelle-Ibérie et Franklin. Le propriétaire des dits esclaves est requis de venir les réclamer  et payer les frais. J. H. COLE, Dép. Shérif. Calcasieu, 11 Juin 1853.
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 6
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-06-11/ed-1/seq-1/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-06-18/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-06-25/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1853-07-02/ed-1/seq-1/; 
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/807</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>807</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/807/json"
+                        timestamp="2017-02-13 13:34:07">{"title":"RSA00000551f","object":"sn 83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 1, column 6\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-06-11\/ed-1\/seq-1\/\n","unique":"Negres en Prison.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"NEGRES EN PRISON. Il a \u00e9t\u00e9 conduit \u00e0 la ge\u00f4le, le 4 juin, deux n\u00e8gres, un se disant nomm\u00e9 Ned, et \u00e2g\u00e9 de 50 ans, ayant 5 pieds, 7 pouces de  auteur, ayant une dent de devant qui lui manque, sans autres marques apparentes. L'autre n\u00e9gre a environ 5 pieds, 9 pouces de hauteur, il dit qu'il a 31 ans. Les dits n\u00e8gres pr\u00e9tendent \u00eatre partis marrons de l'habitation de Mr. Jules, Mossy, situ\u00e9e sur le Bayou T\u00eache entre la Nouvelle-Ib\u00e9rie et Franklin. Le propri\u00e9taire des dits esclaves est requis de venir les r\u00e9clamer  et payer les frais. J. H. COLE, D\u00e9p. Sh\u00e9rif. Calcasieu, 11 Juin 1853.\n","subjec":{},"type":"text\n","format":"clipping\n","langua":"French\n","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-06-18\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-06-25\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1853-07-02\/ed-1\/seq-1\/; \n","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000551f.jp2","find":"871.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-02-24","dmoclcno":{},"dmrecord":"807","restrictionCode":"1","cdmfilesize":"113485","cdmfilesizeformatted":"0.11 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

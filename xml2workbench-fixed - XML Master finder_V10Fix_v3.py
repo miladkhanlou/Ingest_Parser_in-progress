@@ -120,7 +120,7 @@ def get(directory):
     sorted = DF.sort_values("Repeated", ascending=False)
     sorted.to_csv("output_Test.csv", index=False)
 
-#We have the all tags and attributes used in institution by now! Now we can use them tot check for errors #############################################################################
+#We have the all tags and attributes used in institution by now! Now we can use them to check for errors #############################################################################
 
     ##TEST###
     print("Number of all xml Paths ------------------------------ {}".format(len(paths)))

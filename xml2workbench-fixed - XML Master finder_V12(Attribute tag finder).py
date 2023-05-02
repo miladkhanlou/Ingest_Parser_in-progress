@@ -57,8 +57,8 @@ def get(directory):
         if file.endswith(".xml"):
             parseAll("Data/{}".format(file))
     ## Appending the Attributes which are keys of the clearAttribs to the list of all Attributes which is att
-    for j in clearAttribs.keys():
-        att.append(j)
+    for clearAttribs in clearAttribs.keys():
+        att.append(clearAttribs)
     ## Appending the Tags which are keys of the clearTags to the list of all Tags which is tg
     for a in clearTags.keys():
         tg.append(a)

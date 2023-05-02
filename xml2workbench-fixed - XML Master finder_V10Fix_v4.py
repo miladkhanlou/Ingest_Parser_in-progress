@@ -8,12 +8,6 @@ import re
 import ntpath
 import pandas as pd
 
-# ns = {'':'http://www.loc.gov/mods/v3'}
-# mods_to_vocab = {
-#     'corporate': 'corporate_body',
-#     'personal': 'person',
-#     'conference': 'conference'
-# }
 paths = []
 listAtrib = ['displayLabel', 'authority', 'keyDate', 'type', 'encoding', '{http://www.w3.org/1999/xlink}href', 'mimetype', 'point', 'collection', 'qualifier', 'timestamp', '{http://www.w3.org/2001/XMLSchema-instance}schemaLocation', 'usage', 'authorityURI', 'lang', 'unit', 'version', 'ID'] 
 listTag = ['mods', 'titleInfo', 'title', 'name', 'namePart', 'role', 'roleTerm', 'originInfo', 'publisher', 'dateIssued', 'subject', 'topic', 'typeOfResource', 'relatedItem', 'location', 'url', 'physicalLocation', 'holdingSimple', 'copyInformation', 'shelfLocator', 'accessCondition', 'recordInfo', 'recordOrigin', 'recordCreationDate', 'recordChangeDate', 'languageOfCataloging', 'languageTerm', 'part', 'detail', 'caption', 'number', 'nonSort', 'abstract', 'place', 'placeTerm', 'dateCaptured', 'physicalDescription', 'form', 'extent', 'internetMediaType', 'digitalOrigin', 'language', 'subLocation', 'note', 'identifier', 'recordContentSource', 'extension', 'CONTENTdmData', 'alias', 'pointer', 'dmGetItemInfo', 'dateCreated', 'geographic', 'imageBitDepth', 'digitizedBy', 'cataloger', 'extentArchival', 'colorMode', 'imageResolution', 'edition', 'frameSize', 'creditLine', 'genre', 'partNumber', 'partName', 'hiddenDescription', 'collectionSource', 'hardwareSoftware', 'description', 'affiliation', 'cartographics', 'coordinates', 'imageManipulation', 'subTitle', 'temporal', 'hierarchicalGeographic', 'continent', 'country', 'province', 'region', 'county', 'city', 'citySection', 'fileSize', 'digitalReproduction', 'publicationStatus', 'ASERLsubmission', 'findingAidURL', 'dateOther', 'list', 'transcript', 'occupation'] 
@@ -112,19 +106,14 @@ def get(directory):
     print(len(xml_paths['XMLPath']))
     print(len(xml_paths['errors']))
     print(xml_paths['errors'])
+    print("Number of all xml Paths ------------------------------ {}".format(len(paths)))
+    print("Number of all Unique Paths ------------------------------{}".format(len(pathsToWrite)))
 
-
-
-
+    ## WRITE TO CSV
     DF = pd.DataFrame(xml_paths)
     sorted = DF.sort_values("Repeated", ascending=False)
     sorted.to_csv("output_Test.csv", index=False)
 
-#We have the all tags and attributes used in institution by now! Now we can use them to check for errors #############################################################################
-
-    ##TEST###
-    print("Number of all xml Paths ------------------------------ {}".format(len(paths)))
-    print("Number of all Unique Paths ------------------------------{}".format(len(pathsToWrite)))
     
 ##########################################################################################
 def run():

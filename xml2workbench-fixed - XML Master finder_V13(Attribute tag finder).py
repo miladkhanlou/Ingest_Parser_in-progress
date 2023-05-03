@@ -15,7 +15,8 @@ allTags = [] #NEW (All Tags)
 allAtrrib = [] #NEW (All Attributes)
 clearTags = {} #NEW (Unique TagNames with the number of repitation in a dictionary)
 clearAttribs = {} #NEW (Unique Attribute with the number of repitation in a dictionary)
-att = [] #NEW (Final Unique attributes)
+att = [] #NEW (Final Unique attributes with frequencies)
+
 tg = [] #NEW (Final Unique Tags)
 
 #Date & Time
@@ -62,15 +63,19 @@ def get(directory):
     ## Appending the Attributes which are keys of the clearAttribs to the list of all Attributes which is att
     for clearAttribs_keys,clearAttribs_values in clearAttribs.items():
         att.append([clearAttribs_keys,clearAttribs_values])
-
+        
     ## Appending the Tags which are keys of the clearTags to the list of all Tags which is tg
     for clearTags_keys,clearTags_values in clearTags.items():
         tg.append([clearTags_keys,clearTags_values])
 
     ## Write to the text file
     with open("Output/Tag_Attribute-{}.txt".format(end), 'w') as f:
-        f.write("#{} ATTRIBUTES --> {} \n \n".format(len(att), att))
-        f.write("#{} TAGS --> {} \n".format(len(tg), tg))
+        f.write("#{} List of attributes and Frequency:\n{} \n \n".format(len(att), att))
+        f.write("List of attributes:\n{} \n".format(list(i[0] for i in att)))
+        f.write("\n------------------------------------------------------------------------------------------\n \n".format(len(att), list(i[0] for i in att)))
+        f.write("#{} List of Tags and Frequency:\n{} \n \n".format(len(tg), tg))
+        f.write("List of Tags:\n{} \n \n".format(list(i[0] for i in tg)))
+
 
 
     ## We have the all tags and attributes used in institution by now! Now we can use them tot check for errors:

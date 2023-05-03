@@ -88,7 +88,7 @@ def get(directory):
     files.sort()
     for file in files:
         if file.endswith(".xml"):
-            toList("Tests/DataTestXML/{}".format(file))
+            toList("{}/{}".format(directory, file))
     ## WRITING 'COUNTER', 'DUPLICATIONS' TO COLUMNS ##
     for k,v in pathsToWrite.items():
         xml_paths["Repeated"].append(v)
@@ -117,7 +117,7 @@ def get(directory):
     
 ##########################################################################################
 def run():
-    directory = 'Tests/DataTestXML'
+    directory = 'Tests/DataTest'
     data = get(directory)
     return data
 run()

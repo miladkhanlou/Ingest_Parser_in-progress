@@ -17,8 +17,10 @@ clearTags = {} #NEW (Unique TagNames with the number of repitation in a dictiona
 clearAttribs = {} #NEW (Unique Attribute with the number of repitation in a dictionary)
 att = [] #NEW (Final Unique attributes)
 tg = [] #NEW (Final Unique Tags)
+
+#Date & Time
 now = datetime.now()
-start = now.strftime("%H:%M:%S")
+end = now.strftime("%H:%M:%S")
 ######################################### Parse each XML #########################################
 def parseAll(filename):
     pathName = []
@@ -29,7 +31,8 @@ def parseAll(filename):
             allTags.append(b.tag.split("}")[1])
             if len(b.attrib) > 0:
                 allAtrrib.append(list(b.attrib.keys())[0])
-    ##clearTags = {Attribute_Name : Number of repitation}
+
+    ##clear tags = {Attribute_Name : Number of repitation}
     tagCheck = []
     for TGs in allTags:
         key = TGs
@@ -39,7 +42,7 @@ def parseAll(filename):
         else:
             clearTags[key] += 1
 
-    ##clearAttribs = {Attribute_Name : Number of repitation}
+    ##clear attributes = {Attribute_Name : Number of repitation}
     attribCheck = []
     for att in allAtrrib:
         keys = att
@@ -55,21 +58,22 @@ def get(directory):
     files.sort()
     for file in files:
         if file.endswith(".xml"):
-            parseAll("Data/{}".format(file))
+            parseAll("Tests/DataTest/{}".format(file))
     ## Appending the Attributes which are keys of the clearAttribs to the list of all Attributes which is att
-    for clearAttribs_keys, clearAttribs_values in clearAttribs.items():
-        att[clearAttribs_keys] = clearAttribs_values
-        # att.append(clearAttribs)
+    for clearAttribs_keys,clearAttribs_values in clearAttribs.items():
+        att.append([clearAttribs_keys,clearAttribs_values])
+
     ## Appending the Tags which are keys of the clearTags to the list of all Tags which is tg
-    for a in clearTags.keys():
-        tg.append(a)
+    for clearTags_keys,clearTags_values in clearTags.items():
+        tg.append([clearTags_keys,clearTags_values])
+
     ## Write to the text file
-    with open("Output/Tag_Attribute.txt", 'w') as f:
+    with open("Output/Tag_Attribute-{}.txt".format(end), 'w') as f:
         f.write("#{} ATTRIBUTES --> {} \n \n".format(len(att), att))
         f.write("#{} TAGS --> {} \n".format(len(tg), tg))
 
 
-    ## We have the all tags and attributes used in institution by now! Now we can use them tot check for errors 
+    ## We have the all tags and attributes used in institution by now! Now we can use them tot check for errors:
     ## TEST
     print("#{} ATTRIBUTES --> {} \n".format(len(att), att))
     print("#{} TAGS --> {} \n".format(len(tg), tg))
@@ -81,13 +85,11 @@ def get(directory):
     print(clearAttribs)
 
     ## Print the current time
-    end = now.strftime("%H:%M:%S")
-    print(start)
     print(end)
 
 ######################## Final Run ########################
 def run():
-    directory = 'Data'
+    directory = 'Tests/DataTest/'
     data = get(directory)
     return data
 run()

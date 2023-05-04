@@ -1,0 +1,14 @@
+#12 List of attributes and Frequency:
+[['type', 803], ['displayLabel', 953], ['authority', 492], ['keyDate', 87], ['invalid', 84], ['mimetype', 84], ['source', 84], ['timestamp', 84], ['qualifier', 24], ['authorityURI', 47], ['valueURI', 47], ['{http://www.w3.org/1999/xlink}href', 23]] 
+ 
+List of attributes:
+['type', 'displayLabel', 'authority', 'keyDate', 'invalid', 'mimetype', 'source', 'timestamp', 'qualifier', 'authorityURI', 'valueURI', '{http://www.w3.org/1999/xlink}href'] 
+
+------------------------------------------------------------------------------------------
+ 
+#50 List of Tags and Frequency:
+[['mods', 1043], ['titleInfo', 1129], ['title', 1132], ['part', 62], ['detail', 125], ['caption', 125], ['number', 125], ['name', 86], ['namePart', 86], ['role', 86], ['roleTerm', 149], ['originInfo', 86], ['publisher', 62], ['dateIssued', 62], ['subject', 228], ['topic', 621], ['abstract', 62], ['typeOfResource', 86], ['note', 133], ['relatedItem', 86], ['location', 197], ['url', 173], ['physicalLocation', 173], ['holdingSimple', 86], ['copyInformation', 86], ['shelfLocator', 86], ['accessCondition', 173], ['identifier', 108], ['recordInfo', 86], ['recordCreationDate', 86], ['recordChangeDate', 86], ['recordOrigin', 86], ['extension', 86], ['CONTENTdmData', 86], ['alias', 84], ['pointer', 84], ['dmGetItemInfo', 84], ['dateCreated', 24], ['physicalDescription', 23], ['form', 23], ['internetMediaType', 23], ['subLocation', 23], ['digitalReproduction', 23], ['NEWWWWWW', 0], ['LOLOLO', 0], ['aaaaaaaaaa', 0], ['Tarlan', 0], ['COFFEE', 0], ['Milad', 0], ['Fariddddd', 0]] 
+ 
+List of Tags:
+['mods', 'titleInfo', 'title', 'part', 'detail', 'caption', 'number', 'name', 'namePart', 'role', 'roleTerm', 'originInfo', 'publisher', 'dateIssued', 'subject', 'topic', 'abstract', 'typeOfResource', 'note', 'relatedItem', 'location', 'url', 'physicalLocation', 'holdingSimple', 'copyInformation', 'shelfLocator', 'accessCondition', 'identifier', 'recordInfo', 'recordCreationDate', 'recordChangeDate', 'recordOrigin', 'extension', 'CONTENTdmData', 'alias', 'pointer', 'dmGetItemInfo', 'dateCreated', 'physicalDescription', 'form', 'internetMediaType', 'subLocation', 'digitalReproduction', 'NEWWWWWW', 'LOLOLO', 'aaaaaaaaaa', 'Tarlan', 'COFFEE', 'Milad', 'Fariddddd'] 
+ 

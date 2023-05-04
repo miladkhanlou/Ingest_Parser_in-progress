@@ -8,9 +8,15 @@ import re
 import ntpath
 import pandas as pd
 
-paths = []
-listAtrib = ['displayLabel', 'authority', 'keyDate', 'type', 'encoding', '{http://www.w3.org/1999/xlink}href', 'mimetype', 'point', 'collection', 'qualifier', 'timestamp', '{http://www.w3.org/2001/XMLSchema-instance}schemaLocation', 'usage', 'authorityURI', 'lang', 'unit', 'version', 'ID'] 
-listTag = ['mods', 'titleInfo', 'title', 'name', 'namePart', 'role', 'roleTerm', 'originInfo', 'publisher', 'dateIssued', 'subject', 'topic', 'typeOfResource', 'relatedItem', 'location', 'url', 'physicalLocation', 'holdingSimple', 'copyInformation', 'shelfLocator', 'accessCondition', 'recordInfo', 'recordOrigin', 'recordCreationDate', 'recordChangeDate', 'languageOfCataloging', 'languageTerm', 'part', 'detail', 'caption', 'number', 'nonSort', 'abstract', 'place', 'placeTerm', 'dateCaptured', 'physicalDescription', 'form', 'extent', 'internetMediaType', 'digitalOrigin', 'language', 'subLocation', 'note', 'identifier', 'recordContentSource', 'extension', 'CONTENTdmData', 'alias', 'pointer', 'dmGetItemInfo', 'dateCreated', 'geographic', 'imageBitDepth', 'digitizedBy', 'cataloger', 'extentArchival', 'colorMode', 'imageResolution', 'edition', 'frameSize', 'creditLine', 'genre', 'partNumber', 'partName', 'hiddenDescription', 'collectionSource', 'hardwareSoftware', 'description', 'affiliation', 'cartographics', 'coordinates', 'imageManipulation', 'subTitle', 'temporal', 'hierarchicalGeographic', 'continent', 'country', 'province', 'region', 'county', 'city', 'citySection', 'fileSize', 'digitalReproduction', 'publicationStatus', 'ASERLsubmission', 'findingAidURL', 'dateOther', 'list', 'transcript', 'occupation'] 
+# #Source of truth to find misspellings and typos for Tests/DataTest:
+# listAtrib = ['type', 'displayLabel', 'authority', 'keyDate', 'invalid', 'mimetype', 'source', 'timestamp', 'qualifier', 'authorityURI', 'valueURI', '{http://www.w3.org/1999/xlink}href']  
+# listTag = ['mods', 'titleInfo', 'title', 'part', 'detail', 'caption', 'number', 'name', 'namePart', 'role', 'roleTerm', 'originInfo', 'publisher', 'dateIssued', 'subject', 'topic', 'abstract', 'typeOfResource', 'note', 'relatedItem', 'location', 'url', 'physicalLocation', 'holdingSimple', 'copyInformation', 'shelfLocator', 'accessCondition', 'identifier', 'recordInfo', 'recordCreationDate', 'recordChangeDate', 'recordOrigin', 'extension', 'CONTENTdmData', 'alias', 'pointer', 'dmGetItemInfo', 'dateCreated', 'physicalDescription', 'form', 'internetMediaType', 'subLocation', 'digitalReproduction'] 
+
+#Source of truth to find misspellings and typos for Tests/LDLContent:
+listAtrib = ['displayLabel', 'authority', 'type', 'keyDate', 'authorityURI', 'valueURI', '{http://www.w3.org/1999/xlink}href', 'qualifier']
+listTag = ['mods', 'titleInfo', 'title', 'name', 'namePart', 'role', 'roleTerm', 'originInfo', 'publisher', 'dateIssued', 'subject', 'topic', 'typeOfResource', 'relatedItem', 'location', 'url', 'physicalLocation', 'holdingSimple', 'copyInformation', 'shelfLocator', 'accessCondition', 'recordInfo', 'recordOrigin', 'recordCreationDate', 'recordChangeDate', 'languageOfCataloging', 'languageTerm', 'part', 'detail', 'caption', 'number', 'nonSort', 'abstract'] 
+
+paths = [] #paths that will be written
 errors = [] #Attribute and Tag Errors
 ############################################################
 Tag_errors = [] #We can have 2 columns for errors
@@ -19,7 +25,7 @@ Attrib_errors = [] #We can have 2 columns for errors
 ###### FIXING NOT GETTING ALL THE ATTRIBUTES BECAUSE OF THE WAY I WRITEN THE CODE INCOMPELETE ######
 def parseAll(filename):
     pathName = []
-    print("Parsing ---------------------------------------- {}".format(filename.split('/')[1])) ## IF FOLDER WITHIN FOLDER => CHANGE THE INDEX NUMBER
+    print("Parsing ---------------------------------------- {}".format(filename.split('/')[2])) ## IF FOLDER WITHIN FOLDER => CHANGE THE INDEX NUMBER
     root = ET.iterparse(filename, events=('start', 'end'))
     for a,b in root:
         if a == 'start':
@@ -57,9 +63,8 @@ def parseAll(filename):
                     continue
         else:
             pathName.pop()
-    # for i in pathName:
-    #     paths.append(i)
     return(pathName)
+
 ##########################################################################################
 pathsToWrite= {}
 ## DUPLICATION HANDELING AND COUNT INTO A DICTIONARY ##
@@ -112,12 +117,12 @@ def get(directory):
     ## WRITE TO CSV
     DF = pd.DataFrame(xml_paths)
     sorted = DF.sort_values("Repeated", ascending=False)
-    sorted.to_csv("output_Test.csv", index=False)
+    sorted.to_csv("Output/csv/output_{}.csv".format(directory.split('/')[-1]), index=False)
 
     
 ##########################################################################################
 def run():
-    directory = 'Tests/DataTest'
+    directory = 'Tests/LDLContent'
     data = get(directory)
     return data
 run()

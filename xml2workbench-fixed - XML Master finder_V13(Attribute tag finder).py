@@ -25,13 +25,15 @@ end = now.strftime("%H:%M:%S")
 ######################################### Parse each XML #########################################
 def parseAll(filename):
     pathName = []
-    print("Parsing ---------------------------------------- {}".format(filename.split('/')[1]))
+    print("Parsing ---------------------------------------- {}".format(filename.split('/')[2]))
     root = ET.iterparse(filename, events=('start', 'end'))
     for a,b in root:
         if a == 'start':
             allTags.append(b.tag.split("}")[1])
             if len(b.attrib) > 0:
-                allAtrrib.append(list(b.attrib.keys())[0])
+                attrib_list = b.attrib
+                for k,v in attrib_list.items():
+                    allAtrrib.append(k)
 
     ##clear tags = {Attribute_Name : Number of repitation}
     tagCheck = []
@@ -59,7 +61,7 @@ def get(directory):
     files.sort()
     for file in files:
         if file.endswith(".xml"):
-            parseAll("Tests/DataTest/{}".format(file))
+            parseAll("{}/{}".format(directory,file))
     ## Appending the Attributes which are keys of the clearAttribs to the list of all Attributes which is att
     for clearAttribs_keys,clearAttribs_values in clearAttribs.items():
         att.append([clearAttribs_keys,clearAttribs_values])
@@ -69,7 +71,7 @@ def get(directory):
         tg.append([clearTags_keys,clearTags_values])
 
     ## Write to the text file
-    with open("Output/Tag_Attribute-{}.txt".format(end), 'w') as f:
+    with open("Output/txt/Tag_Attribute-{}.txt".format(directory.split("/")[-1]), 'w') as f:
         f.write("#{} List of attributes and Frequency:\n{} \n \n".format(len(att), att))
         f.write("List of attributes:\n{} \n".format(list(i[0] for i in att)))
         f.write("\n------------------------------------------------------------------------------------------\n \n".format(len(att), list(i[0] for i in att)))
@@ -80,21 +82,19 @@ def get(directory):
 
     ## We have the all tags and attributes used in institution by now! Now we can use them tot check for errors:
     ## TEST
-    print("#{} ATTRIBUTES --> {} \n".format(len(att), att))
-    print("#{} TAGS --> {} \n".format(len(tg), tg))
+    print("#{} List of attributes and Frequency:\n{} \n \n".format(len(att), att))
+    print("#{} List of Tags and Frequency:\n{} \n \n".format(len(tg), tg))
     print("- - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-    print("clean Tags ------------------------------{}".format(len(clearTags)))
-    print(clearTags)
+    print("clean Tags ------------------------------{}:{}".format(len(clearTags),clearTags))
     print("- - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-    print("clean attribs ------------------------------{}".format(len(clearAttribs)))
-    print(clearAttribs)
+    print("clean attribs ------------------------------{}:{}".format(len(clearAttribs),clearAttribs))
 
     ## Print the current time
     print(end)
 
 ######################## Final Run ########################
 def run():
-    directory = 'Tests/DataTest/'
+    directory = 'Tests/LDLContent'
     data = get(directory)
     return data
 run()

@@ -1,0 +1,14 @@
+#7 List of attributes and Frequency:
+[['type', 5], ['displayLabel', 3], ['Shape', 0], ['identify', 0], ['authority', 1], ['authorityURI', 1], ['valueURI', 1]] 
+ 
+List of attributes:
+['type', 'displayLabel', 'Shape', 'identify', 'authority', 'authorityURI', 'valueURI'] 
+
+------------------------------------------------------------------------------------------
+ 
+#13 List of Tags and Frequency:
+[['mods', 0], ['identiiifwier', 0], ['identifier', 2], ['identifierS', 0], ['part', 0], ['detail', 0], ['caption', 0], ['number', 0], ['title', 0], ['name', 0], ['namePart', 0], ['role', 0], ['roleTerm', 0]] 
+ 
+List of Tags:
+['mods', 'identiiifwier', 'identifier', 'identifierS', 'part', 'detail', 'caption', 'number', 'title', 'name', 'namePart', 'role', 'roleTerm'] 
+ 

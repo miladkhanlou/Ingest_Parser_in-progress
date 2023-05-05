@@ -9,6 +9,7 @@ import re
 import ntpath
 import pandas as pd
 from datetime import datetime
+import argparse
 
 ####################################### Default Variables #######################################
 allTags = [] #NEW (All Tags)
@@ -16,8 +17,12 @@ allAtrrib = [] #NEW (All Attributes)
 clearTags = {} #NEW (Unique TagNames with the number of repitation in a dictionary)
 clearAttribs = {} #NEW (Unique Attribute with the number of repitation in a dictionary)
 att = [] #NEW (Final Unique attributes with frequencies)
-
 tg = [] #NEW (Final Unique Tags)
+
+# create the parser, add an argument for the input directory, parse the command line arguments
+parser = argparse.ArgumentParser(description='Attribute and Tag finder for all the collections')
+parser.add_argument('input_directory', type=str, help='Path to the input directory')
+args = parser.parse_args()
 
 #Date & Time
 now = datetime.now()
@@ -94,7 +99,8 @@ def get(directory):
 
 ######################## Final Run ########################
 def run():
-    directory = 'Tests/LDLContent'
+    # directory = 'Tests/LDLContent'
+    directory = args.input_directory
     data = get(directory)
     return data
 run()

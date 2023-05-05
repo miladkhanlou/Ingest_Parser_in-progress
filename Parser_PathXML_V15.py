@@ -7,22 +7,22 @@ from os import listdir, sep, path
 import re
 import ntpath
 import pandas as pd
+import argparse
 
-# #Source of truth to find misspellings and typos for Tests/DataTest:
-# listAtrib = ['type', 'displayLabel', 'authority', 'keyDate', 'invalid', 'mimetype', 'source', 'timestamp', 'qualifier', 'authorityURI', 'valueURI', '{http://www.w3.org/1999/xlink}href']  
-# listTag = ['mods', 'titleInfo', 'title', 'part', 'detail', 'caption', 'number', 'name', 'namePart', 'role', 'roleTerm', 'originInfo', 'publisher', 'dateIssued', 'subject', 'topic', 'abstract', 'typeOfResource', 'note', 'relatedItem', 'location', 'url', 'physicalLocation', 'holdingSimple', 'copyInformation', 'shelfLocator', 'accessCondition', 'identifier', 'recordInfo', 'recordCreationDate', 'recordChangeDate', 'recordOrigin', 'extension', 'CONTENTdmData', 'alias', 'pointer', 'dmGetItemInfo', 'dateCreated', 'physicalDescription', 'form', 'internetMediaType', 'subLocation', 'digitalReproduction'] 
 
-#Source of truth to find misspellings and typos for Tests/LDLContent:
+####################################### Default Variables #######################################
+
+#Source of truth to find misspellings and typos for Tests/LDLContent (at the final stage we are gpoing to read from txt file instead of copy and pasting the Tags and Attributes):
 listAtrib = ['displayLabel', 'authority', 'type', 'keyDate', 'authorityURI', 'valueURI', '{http://www.w3.org/1999/xlink}href', 'qualifier']
 listTag = ['mods', 'titleInfo', 'title', 'name', 'namePart', 'role', 'roleTerm', 'originInfo', 'publisher', 'dateIssued', 'subject', 'topic', 'typeOfResource', 'relatedItem', 'location', 'url', 'physicalLocation', 'holdingSimple', 'copyInformation', 'shelfLocator', 'accessCondition', 'recordInfo', 'recordOrigin', 'recordCreationDate', 'recordChangeDate', 'languageOfCataloging', 'languageTerm', 'part', 'detail', 'caption', 'number', 'nonSort', 'abstract'] 
 
 paths = [] #paths that will be written
 errors = [] #Attribute and Tag Errors
-############################################################
 Tag_errors = [] #We can have 2 columns for errors
 Attrib_errors = [] #We can have 2 columns for errors
-############################################################
-###### FIXING NOT GETTING ALL THE ATTRIBUTES BECAUSE OF THE WAY I WRITEN THE CODE INCOMPELETE ######
+
+####################################### Get unique Paths with frequency of them #######################################
+
 def parseAll(filename):
     pathName = []
     print("Parsing ---------------------------------------- {}".format(filename.split('/')[2])) ## IF FOLDER WITHIN FOLDER => CHANGE THE INDEX NUMBER
@@ -65,7 +65,7 @@ def parseAll(filename):
             pathName.pop()
     return(pathName)
 
-##########################################################################################
+####################################### only write the unique Paths to a dictionary #######################################
 pathsToWrite= {}
 ## DUPLICATION HANDELING AND COUNT INTO A DICTIONARY ##
 def toList(ntpath):
@@ -81,8 +81,8 @@ def toList(ntpath):
             pathsToWrite[key] += 1
     return pathsToWrite
 
-##########################################################################################
-## WRITING 'ERRORS', 'COUNTER', 'DUPLICATIONS' TO COLUMNS ## 
+####################################### WRITING 'ERRORS', 'COUNTER', 'DUPLICATIONS' TO COLUMNS #######################################
+
 def get(directory):
     xml_paths = {
         "Repeated": [],
@@ -119,10 +119,14 @@ def get(directory):
     sorted = DF.sort_values("Repeated", ascending=False)
     sorted.to_csv("Output/csv/output_{}.csv".format(directory.split('/')[-1]), index=False)
 
-    
-##########################################################################################
+####################################### Run according to an input directory #######################################
+
 def run():
-    directory = 'Tests/LDLContent'
+    # create the parser, add an argument for the input directory, parse the command line arguments
+    parser = argparse.ArgumentParser(description='Attribute and Tag finder for all the collections')
+    parser.add_argument('input_directory', type=str, help='Path to the input directory')
+    args = parser.parse_args()
+    directory = args.input_directory
     data = get(directory)
     return data
 run()

@@ -30,17 +30,15 @@ TGs = []
 ATTs = []
 # create the parser, add an argument for the input directory, parse the command line arguments
 parser = argparse.ArgumentParser(description='Attribute and Tag finder for all the collections')
-parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory')
-parser.add_argument('-at', '--at_directory', type=str, help='Path for getting attributes and tags')
-parser.add_argument('-o', '--output_directory', type=str, help='Path to the output csv')
-parser.add_argument('-o', '--output_attribsTags', type=str, help='Path to the output attribute and tag list text file')
-
+parser.add_argument('-at', '--at_directory', type=str, help='Path for getting attributes and tags', required=True)
+parser.add_argument('-ot', '--output_attribsTags', type=str, help='Path to the output attribute and tag list text file', required=False)
+parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory', required=True)
+parser.add_argument('-o', '--output_directory', type=str, help='Path to the output csv', required=True)
 args = parser.parse_args()
 
-
-
-#******************** First Part | Parse all the tags and attributes ********************#
-################## Parse each XML ##################
+#<<<<<<<<<<<<<<<<< PART I: Parse xmls and get attribute and tags and write to text file >>>>>>>>>>>>>>>>>>>>>#
+#****************** OPTION 1 | Parse xmls and get all the tags and attributes ******************#
+# 1. Parse each XML 
 def AttTag(filename):
     pathName = []
     print("Parsing ---------------------------------------- {}".format(filename.split('/')[1]))
@@ -73,7 +71,7 @@ def AttTag(filename):
         else:
             clearAttribs[keys] += 1
 
-################## From running the function to Write the results ##################
+#2. Triger the function to Write the unique tags and attributes to text file
 def write(directory):
     files = listdir(directory)
     files.sort()
@@ -82,22 +80,20 @@ def write(directory):
             AttTag("{}/{}".format(directory,file))
     ## Appending the Attributes and frequencey of duplication which are keys and values to a nested list called 'att'
     for clearAttribs_keys,clearAttribs_values in clearAttribs.items():
-        att.append([clearAttribs_keys,clearAttribs_values])
+        att.append([clearAttribs_keys,clearAttribs_values]) #having unique ones with the duplication number for LDL review perpuse
 
     ## Appending the Tags and frequencey of duplication which are keys and values to a nested list called 'tg'
     for clearTags_keys,clearTags_values in clearTags.items():
-        tg.append([clearTags_keys,clearTags_values])
+        tg.append([clearTags_keys,clearTags_values]) #having unique ones with the duplication number for LDL review perpuse
+    
+    #ATTs and TGs are just the names processing perpuse
     for each in att:
         ATTs.append(each[0])
     for Tags in tg:
         TGs.append(Tags[0])
-    print("attribs: {}".format(ATTs))
-    print("tags{}".format(TGs))
-    
 
-#********** Extra: Info about tags and attributes in each Institution **********#
-def tag_attribsInfo(toCSV):
-    with open("{}.txt".format(args.output_directory), 'w') as f:
+#****************** OPTION 2: Write Info about tags and attributes in each Institution to text file for LDL review perpuse
+    with open("{}.txt".format(args.output_attribsTags), 'w') as f:
         f.write("#{} List of attributes and Frequency:\n{} \n \n".format(len(att), att))
         f.write("List of attributes:\n{} \n".format(list(i[0] for i in att)))
         f.write("\n------------------------------------------------------------------------------------------\n \n".format(len(att), list(i[0] for i in att)))
@@ -105,11 +101,14 @@ def tag_attribsInfo(toCSV):
         f.write("List of Tags:\n{} \n \n".format(list(i[0] for i in tg)))
 
 
-
-#********** Part Two | Get the XML Path and check for spelling and errors in each xml path **********#
+############################################################################################################################################################################################################################################################
+#<<<<<<<<<<<<<<<<<  Part II: Get the XML Path , check for spelling and errors in each xml path according to Part1 >>>>>>>>>>>>>>>>>>>>>#
+#****************** OPTION 3: Parse xmls and get all the xml Paths ******************#
 def parseAll(filename):
+    print('ATTS ----> {}'.format(ATTs))
+    print('TGs ----> {}'.format(TGs))
     pathName = []
-    print("Parsing ---------------------------------------- {}".format(filename.split('/')[2])) ## IF FOLDER WITHIN FOLDER => CHANGE THE INDEX NUMBER
+    print("Parsing ---------------------------------------- {}".format(filename.split('/')[-1])) ## IF FOLDER WITHIN FOLDER => CHANGE THE INDEX NUMBER
     root = ET.iterparse(filename, events=('start', 'end'))
     for a,b in root:
         if a == 'start':
@@ -123,23 +122,24 @@ def parseAll(filename):
                     atribValues.append(j)    #Fixing not printing all the attributes Values
                     WriteAttributes.append([i,j]) #write as a list as we go into each attribute
 
-            ### 1) check for any miss-speling in tags and attributes
-                    if attributes not in ATTs:
-                        errors.append(a) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Attrib_errors
+            ### A1) check for any miss-speling in tags and attributes
+                    if i not in ATTs:
+                        # errors.append(', '.join("{}".format(a[0]) for a in WriteAttributes)) #USED JOIN INSTEAD OF FORMAT
+                        errors.append(i) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Attrib_errors
                     if b.tag.split("}")[1] not in TGs:
                         errors.append(b.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
                     else:
                         continue
-            ### 2) Print the xmlPath                
+            ### A2) Print the xmlPath                
                 pathName.append("{} [{}]".format(b.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
                 yield '/'.join(pathName)
 
             if len(b.attrib) == 0:
-            ### 1) Print the xmlPath                
+            ### B1) Print the xmlPath                
                 pathName.append("{}".format(b.tag.split("}")[1], b.attrib))
                 yield '/'.join(pathName)
 
-            ### 2) check for any miss-speling in tags(No attributes as these are tags with no attrib)               
+            ### B2) check for any miss-speling in tags(No attributes as these are tags with no attrib)               
                 if b.tag.split("}")[1] not in TGs:
                     errors.append(b.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
                 else:
@@ -148,23 +148,31 @@ def parseAll(filename):
             pathName.pop()
     return(pathName)
 
-################## only write the unique Paths to a dictionary ##################
+################## unique Paths unique errors ##################
 pathsToWrite= {}
+uniqueErrors = []
 ## DUPLICATION HANDELING AND COUNT INTO A DICTIONARY ##
 def toList(ntpath):
-    for i in parseAll(ntpath):
-        paths.append(i)
+    #a. Handeling Duplicated Errors in attributes and tags
+    for err in errors:
+        if err not in uniqueErrors:
+            uniqueErrors.append(err)
+        else:
+            continue
+
+    #b. Getting tags , Handling Duplicated paths      
+    for ps in parseAll(ntpath):
+        paths.append(ps)
     check = set()
     for p in paths:
-        key = p
         if p not in check:
             check.add(p)
-            pathsToWrite[key] = 1
+            pathsToWrite[p] = 1
         else:
-            pathsToWrite[key] += 1
+            pathsToWrite[p] += 1
     return pathsToWrite
 
-################## WRITING 'ERRORS', 'COUNTER', 'DUPLICATIONS' TO COLUMNS ##################
+#****************** OPTION 3: Write to csv ******************#
 def get(Pathdirectory):
     xml_paths = {
         "Repeated": [],
@@ -183,11 +191,12 @@ def get(Pathdirectory):
 
     ## WRITING 'ERRORS' TO A COLUMN ACCORDING TO EACH ROW IN xml_paths ##
     for xmls in xml_paths['XMLPath']:
-        x = ''
-        for errs in errors:
+        x = []
+        for errs in uniqueErrors:
             if errs in xmls:
-                x = errs
-        xml_paths['errors'].append(x)
+                x.append(errs)
+        xml_paths['errors'].append(", ".join(xs for xs in x))
+
 
     ## TEST:
     print(len(xml_paths['XMLPath']))

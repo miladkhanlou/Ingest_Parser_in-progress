@@ -1,0 +1,14 @@
+#7 List of attributes and Frequency:
+[['displayLabel', 8], ['authority', 12], ['type', 10], ['keyDate', 0], ['authorityURI', 1], ['valueURI', 1], ['{http://www.w3.org/1999/xlink}href', 0]] 
+ 
+List of attributes:
+['displayLabel', 'authority', 'type', 'keyDate', 'authorityURI', 'valueURI', '{http://www.w3.org/1999/xlink}href'] 
+
+------------------------------------------------------------------------------------------
+ 
+#30 List of Tags and Frequency:
+[['mods', 2], ['titleInfo', 3], ['title', 4], ['name', 2], ['namePart', 2], ['role', 2], ['roleTerm', 4], ['originInfo', 0], ['dateIssued', 0], ['subject', 4], ['topic', 12], ['typeOfResource', 0], ['relatedItem', 0], ['location', 1], ['url', 0], ['part', 1], ['detail', 1], ['caption', 0], ['number', 0], ['physicalLocation', 1], ['holdingSimple', 0], ['copyInformation', 0], ['shelfLocator', 0], ['accessCondition', 1], ['recordInfo', 0], ['recordOrigin', 0], ['recordCreationDate', 0], ['recordChangeDate', 0], ['languageOfCataloging', 0], ['languageTerm', 0]] 
+ 
+List of Tags:
+['mods', 'titleInfo', 'title', 'name', 'namePart', 'role', 'roleTerm', 'originInfo', 'dateIssued', 'subject', 'topic', 'typeOfResource', 'relatedItem', 'location', 'url', 'part', 'detail', 'caption', 'number', 'physicalLocation', 'holdingSimple', 'copyInformation', 'shelfLocator', 'accessCondition', 'recordInfo', 'recordOrigin', 'recordCreationDate', 'recordChangeDate', 'languageOfCataloging', 'languageTerm'] 
+ 

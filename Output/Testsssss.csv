@@ -1,0 +1,16 @@
+Repeated,errors,XMLPath
+1,,mods
+1,,mods/identiiifwier
+1,,"mods/identifier [@type = 'local', @displayLabel = 'Item Number']"
+1,,"mods/identifierS [@type = 'local', @displayLabel = 'Item Number']"
+1,identifierrrrrr,"mods/identifierrrrrr [@Shape = 'local', @displayLabel = 'Item Number']"
+1,,"mods/identifier [@type = 'isbn', @identify = 'ISBN']"
+1,,mods/part
+1,,mods/part/detail [@type = 'Volume']
+1,,mods/part/detail [@type = 'Volume']/caption
+1,,mods/part/detail [@type = 'Volume']/number
+1,titlesss,mods/part/detail [@type = 'Volume']/titlesss
+1,namea,"mods/namea [@type = 'corporate', @displayLabel = 'Contributing Repository', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names.html', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095']"
+1,namea,"mods/namea [@type = 'corporate', @displayLabel = 'Contributing Repository', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names.html', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095']/namePart"
+1,namea,"mods/namea [@type = 'corporate', @displayLabel = 'Contributing Repository', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names.html', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095']/role"
+1,namea,"mods/namea [@type = 'corporate', @displayLabel = 'Contributing Repository', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names.html', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095']/role/roleTerm [@type = 'textsss', @authority = 'marcrelator', @authorityURI = 'http://id.loc.gov/vocabulary/relators', @valueURI = 'http://id.loc.gov/vocabulary/relators/rps']"

@@ -25,17 +25,16 @@ Attrib_errors = [] #We can have 2 columns for errors
 
 def parseAll(filename):
     pathName = []
-    print("Parsing ---------------------------------------- {}".format(filename.split('/')[2])) ## IF FOLDER WITHIN FOLDER => CHANGE THE INDEX NUMBER
+    print("Parsing ---------------------------------------- {}".format(filename.split('/')[-1])) ## IF FOLDER WITHIN FOLDER => CHANGE THE INDEX NUMBER
     root = ET.iterparse(filename, events=('start', 'end'))
     for a,b in root:
         if a == 'start':
             attribs = [] 
             atribValues = []
             WriteAttributes  = []
-            attrbutes = b.attrib
-            tagInXML = b.tag
-            if len(attrbutes) > 0:
-                for i,j in attrbutes.items():
+            attributes = b.attrib
+            if len(attributes) > 0:
+                for i,j in attributes.items():
                     attribs.append(i)     #Fixing not printing all the attributes
                     atribValues.append(j)    #Fixing not printing all the attributes Values
                     WriteAttributes.append([i,j]) #write as a list as we go into each attribute

@@ -1,0 +1,31 @@
+atributes,atributes frequency,tags,tags frequency
+displayLabel,8,mods,2
+authority,12,titleInfo,3
+type,10,title,4
+keyDate,0,name,2
+authorityURI,1,namePart,2
+valueURI,1,role,2
+{http://www.w3.org/1999/xlink}href,0,roleTerm,4
+NONE, ,originInfo,0
+NONE, ,dateIssued,0
+NONE, ,subject,4
+NONE, ,topic,12
+NONE, ,typeOfResource,0
+NONE, ,relatedItem,0
+NONE, ,location,1
+NONE, ,url,0
+NONE, ,part,1
+NONE, ,detail,1
+NONE, ,caption,0
+NONE, ,number,0
+NONE, ,physicalLocation,1
+NONE, ,holdingSimple,0
+NONE, ,copyInformation,0
+NONE, ,shelfLocator,0
+NONE, ,accessCondition,1
+NONE, ,recordInfo,0
+NONE, ,recordOrigin,0
+NONE, ,recordCreationDate,0
+NONE, ,recordChangeDate,0
+NONE, ,languageOfCataloging,0
+NONE, ,languageTerm,0

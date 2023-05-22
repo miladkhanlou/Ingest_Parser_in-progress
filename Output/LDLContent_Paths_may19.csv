@@ -1,0 +1,52 @@
+Repeated,errors,XMLPath
+3000,,mods
+3000,,mods/titleInfo/title
+3000,,mods/titleInfo
+801,,mods/subject [@authority = 'lcsh']/topic
+309,,mods/subject [@authority = 'lcsh']
+98,,mods/relatedItem [@type = 'host']/part
+96,,"mods/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+96,,mods/name [@displayLabel = 'Contributor']
+96,,"mods/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+96,,mods/name [@displayLabel = 'Contributor']/namePart
+96,,mods/name [@displayLabel = 'Contributor']/role
+53,,"mods/accessCondition [@displayLabel = 'Contact Information', @type = 'use and reproduction']"
+53,,mods/location/holdingSimple
+53,,mods/location/holdingSimple/copyInformation
+53,,mods/location/holdingSimple/copyInformation/shelfLocator
+53,,"mods/accessCondition [@displayLabel = 'Rights', @type = 'use and reproduction']"
+53,,mods/recordInfo/recordCreationDate
+53,,mods/recordInfo
+53,,mods/recordInfo/recordOrigin
+53,,"mods/location/physicalLocation [@authority = 'oclcorg', @displayLabel = 'OCLC Member Symbol']"
+53,,mods/recordInfo/languageOfCataloging
+53,,"mods/recordInfo/languageOfCataloging/languageTerm [@authority = 'iso639-2b', @type = 'code']"
+53,,mods/recordInfo/recordChangeDate
+53,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lib.lsu.edu']"
+53,,mods/location
+53,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role"
+53,,mods/relatedItem [@type = 'host']/location/url [@displayLabel = 'Relation']
+53,,mods/typeOfResource
+53,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']"
+53,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/namePart"
+53,,mods/originInfo
+53,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role/roleTerm [@authority = 'marcrelator', @authorityURI = 'http://id.loc.gov/vocabulary/relators', @type = 'text', @valueURI = 'http://id.loc.gov/vocabulary/relators/rps']"
+53,,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']
+53,,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/title
+53,,mods/relatedItem [@type = 'host']/location
+53,,mods/relatedItem [@type = 'host']
+52,,mods/originInfo/dateIssued [@keyDate = 'yes']
+49,,mods/relatedItem [@type = 'host']/part/detail
+49,,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']/number
+49,,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']/caption
+49,,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']
+49,,mods/relatedItem [@type = 'host']/part/detail/title
+43,,mods/name [@displayLabel = 'Author']/namePart
+43,,mods/name [@displayLabel = 'Author']
+43,,mods/name [@displayLabel = 'Author']/role
+43,,"mods/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+43,,"mods/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+37,,mods/originInfo/publisher
+15,,mods/titleInfo/nonSort
+1,,mods/abstract [@displayLabel = 'Description']
+1,,"mods/originInfo/dateIssued [@keyDate = 'yes', @qualifier = 'questionable']"

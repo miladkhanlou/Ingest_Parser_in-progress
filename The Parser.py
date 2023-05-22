@@ -72,12 +72,13 @@ def AttTag(filename):
             clearAttribs[keys] += 1
 
 #2. Triger the function to Write the unique tags and attributes to text file
-def write(directory):
+def write(directory): 
     files = listdir(directory)
     files.sort()
     for file in files:
         if file.endswith(".xml"):
             AttTag("{}/{}".format(directory,file))
+            
     ## Appending the Attributes and frequencey of duplication which are keys and values to a nested list called 'att'
     for clearAttribs_keys,clearAttribs_values in clearAttribs.items():
         att.append([clearAttribs_keys,clearAttribs_values]) #having unique ones with the duplication number for LDL review perpuse
@@ -93,12 +94,30 @@ def write(directory):
         TGs.append(Tags[0])
 
 #****************** OPTION 2: Write Info about tags and attributes in each Institution to text file for LDL review perpuse
-    with open("{}.txt".format(args.output_attribsTags), 'w') as f:
-        f.write("#{} List of attributes and Frequency:\n{} \n \n".format(len(att), att))
-        f.write("List of attributes:\n{} \n".format(list(i[0] for i in att)))
-        f.write("\n------------------------------------------------------------------------------------------\n \n".format(len(att), list(i[0] for i in att)))
-        f.write("#{} List of Tags and Frequency:\n{} \n \n".format(len(tg), tg))
-        f.write("List of Tags:\n{} \n \n".format(list(i[0] for i in tg)))
+    data = {
+        'atributes': [],
+        'atributes frequency' : [],
+        'tags': [],
+        'tags frequency': []
+    }
+    
+    for atts in att:
+        data['atributes'].append(atts[0])
+        data['atributes frequency'].append(atts[1])
+    
+    for tgs in tg:
+        data['tags'].append(tgs[0])
+        data['tags frequency'].append(tgs[1])
+
+    df_attTG = pd.DataFrame(data)
+    df_attTG.to_csv("{}.csv".format(args.output_attribsTags))
+
+    # with open("{}.txt".format(args.output_attribsTags), 'w') as f:
+    #     f.write("#{} List of attributes and Frequency:\n{} \n \n".format(len(att), att))
+    #     f.write("List of attributes:\n{} \n".format(list(i[0] for i in att)))
+    #     f.write("\n------------------------------------------------------------------------------------------\n \n".format(len(att), list(i[0] for i in att)))
+    #     f.write("#{} List of Tags and Frequency:\n{} \n \n".format(len(tg), tg))
+    #     f.write("List of Tags:\n{} \n \n".format(list(i[0] for i in tg)))
 
 
 ############################################################################################################################################################################################################################################################
@@ -174,16 +193,20 @@ def toList(ntpath):
 
 #****************** OPTION 3: Write to csv ******************#
 def get(Pathdirectory):
-    xml_paths = {
+#Output to csv separate function
+    xml_paths = {   
         "Repeated": [],
         "errors": [],
         "XMLPath": [] 
     }
+
+    #Write this as function like load xml mods
     files = listdir(Pathdirectory)
     files.sort()
     for file in files:
         if file.endswith(".xml"):
             toList("{}/{}".format(Pathdirectory, file))
+            
     ## WRITING 'COUNTER', 'DUPLICATIONS' TO COLUMNS ##
     for k,v in pathsToWrite.items():
         xml_paths["Repeated"].append(v)
@@ -211,12 +234,12 @@ def get(Pathdirectory):
     sorted.to_csv("{}.csv".format(args.output_directory), index=False)
 
 ######################## Final Run: Get Attributes and Tag list | Get xml Paths | Found errors with comparing attribute & tags with xml paths  ########################
-def run():
+def main():
     directory = args.at_directory #get all the tgas and attributes
     data = write(directory) #By now we have two lists of tags and attributes
     Pathdirectory = args.input_directory #get xpaths and check each one with attribute and tags
     run = get(Pathdirectory)
     return run
-run()
+main()
 
 

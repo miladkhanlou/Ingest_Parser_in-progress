@@ -1,0 +1,93 @@
+atributes,atributes frequency,tags,tags frequency
+displayLabel,563462,mods,120991
+authority,326369,titleInfo,198589
+type,545212,title,191624
+keyDate,29553,name,75311
+authorityURI,77074,namePart,78008
+valueURI,77100,role,69575
+{http://www.w3.org/1999/xlink}href,37731,roleTerm,95995
+qualifier,5812,originInfo,31596
+encoding,13882,publisher,9355
+invalid,38997,dateIssued,12792
+mimetype,38997,subject,83815
+source,38997,topic,132842
+timestamp,38997,typeOfResource,42726
+point,5606,relatedItem,54530
+collection,100,location,110268
+{http://www.w3.org/2001/XMLSchema-instance}schemaLocation,1934,url,68468
+usage,271,physicalLocation,82954
+lang,101,holdingSimple,25895
+unit,1149,copyInformation,25895
+version,1931,shelfLocator,10207
+ID,0,accessCondition,74313
+{http://www.w3.org/XML/1998/namespace}lang,0,recordInfo,52018
+NONE, ,recordOrigin,42495
+NONE, ,recordCreationDate,51923
+NONE, ,recordChangeDate,44220
+NONE, ,languageOfCataloging,44415
+NONE, ,languageTerm,64638
+NONE, ,part,11613
+NONE, ,detail,15294
+NONE, ,caption,7807
+NONE, ,number,11695
+NONE, ,nonSort,4153
+NONE, ,abstract,19847
+NONE, ,place,6089
+NONE, ,placeTerm,6089
+NONE, ,dateCaptured,7401
+NONE, ,physicalDescription,35371
+NONE, ,form,12400
+NONE, ,extent,11594
+NONE, ,internetMediaType,32810
+NONE, ,digitalOrigin,11373
+NONE, ,language,13382
+NONE, ,subLocation,22939
+NONE, ,note,80341
+NONE, ,identifier,77392
+NONE, ,recordContentSource,11018
+NONE, ,extension,41899
+NONE, ,CONTENTdmData,39021
+NONE, ,alias,38997
+NONE, ,pointer,38997
+NONE, ,dmGetItemInfo,38997
+NONE, ,dateCreated,19592
+NONE, ,geographic,10523
+NONE, ,imageBitDepth,456
+NONE, ,digitizedBy,2428
+NONE, ,cataloger,1986
+NONE, ,extentArchival,223
+NONE, ,colorMode,456
+NONE, ,imageResolution,456
+NONE, ,edition,111
+NONE, ,frameSize,20
+NONE, ,creditLine,17
+NONE, ,genre,11397
+NONE, ,partNumber,6869
+NONE, ,partName,3419
+NONE, ,hiddenDescription,496
+NONE, ,collectionSource,1906
+NONE, ,hardwareSoftware,4835
+NONE, ,description,1211
+NONE, ,affiliation,280
+NONE, ,cartographics,1165
+NONE, ,coordinates,1165
+NONE, ,imageManipulation,276
+NONE, ,subTitle,275
+NONE, ,temporal,5232
+NONE, ,hierarchicalGeographic,5574
+NONE, ,continent,57
+NONE, ,country,55
+NONE, ,province,2
+NONE, ,region,1925
+NONE, ,county,2
+NONE, ,city,1913
+NONE, ,citySection,1630
+NONE, ,fileSize,232
+NONE, ,digitalReproduction,481
+NONE, ,publicationStatus,114
+NONE, ,ASERLsubmission,5
+NONE, ,findingAidURL,35
+NONE, ,dateOther,99
+NONE, ,list,1149
+NONE, ,transcript,12
+NONE, ,occupation,18

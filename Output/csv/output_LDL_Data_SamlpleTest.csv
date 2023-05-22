@@ -1,0 +1,70 @@
+Repeated,errors,needed,field_name,XMLPath
+119772,,No,,mods/subject [@authority = 'lcsh']/topic
+119057,,Yes,,mods
+118747,,No,,mods/titleInfo/title
+118747,,Yes,,mods/titleInfo
+58770,,Yes,,mods/relatedItem [@type = 'host']/location
+54087,,Yes,,mods/subject [@authority = 'lcsh']
+51150,,No,,mods/relatedItem [@type = 'host']
+50084,,No,,mods/recordInfo
+49643,,No,,mods/relatedItem [@type = 'host']/location/url [@displayLabel = 'Relation']
+47597,,No,,mods/location
+44529,,Yes,,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']
+44529,,No,,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/title
+44219,,Yes,,mods/recordInfo/recordChangeDate
+44043,,Yes,,mods/recordInfo/recordCreationDate
+42481,,No,,mods/recordInfo/languageOfCataloging
+42111,,No,,"mods/recordInfo/languageOfCataloging/languageTerm [@type = 'code', @authority = 'iso639-2b']"
+41898,,Yes,,mods/extension
+40691,source,Yes,,mods/typeOfResource
+40562,,Yes,,mods/recordInfo/recordOrigin
+39379,,No,,"mods/accessCondition [@type = 'use and reproduction', @displayLabel = 'Contact Information']"
+39020,,Yes,,mods/extension/CONTENTdmData
+38996,,No,,mods/extension/CONTENTdmData/alias
+38996,,No,,mods/extension/CONTENTdmData/pointer
+38436,invalid,Yes,,"mods/identifier [@displayLabel = 'Migrated From', @invalid = 'yes', @type = 'uri']"
+38231,,Yes,,"mods/location/physicalLocation [@authority = 'oclcorg', @displayLabel = 'OCLC Member Symbol']"
+32979,,Yes,,mods/physicalDescription
+32615,,Yes,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lib.lsu.edu']"
+30877,,Yes,,mods/physicalDescription/internetMediaType
+29602,,No,,mods/originInfo
+25893,,Yes,,mods/location/holdingSimple
+25893,,Yes,,mods/location/holdingSimple/copyInformation
+25292,valueURI,Yes,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']"
+25292,valueURI,Yes,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']/role"
+25292,valueURI,Yes,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']/namePart"
+25292,valueURI,Yes,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']/role/roleTerm [@type = 'text', @authority = 'marcrelator', @authorityURI = 'http://id.loc.gov/vocabulary/relators', @valueURI = 'http://id.loc.gov/vocabulary/relators/rps']"
+22937,,Yes,,mods/location/holdingSimple/copyInformation/subLocation
+21988,,Yes,,"mods/accessCondition [@type = 'use and reproduction', @displayLabel = 'Rights']"
+20675,,Yes,,"mods/note [@type = 'preferred citation', @displayLabel = 'Cite As']"
+15500,,Yes,,mods/abstract [@displayLabel = 'Description']
+15282,,Yes,,"mods/identifier [@type = 'local', @displayLabel = 'Item Number']"
+11449,,Yes,,mods/language
+10929,,No,,"mods/subject [@authority = 'lcsh', @displayLabel = 'Subject - Topic']/topic"
+10444,,No,,mods/physicalDescription/extent
+10206,,No,,mods/location/holdingSimple/copyInformation/shelfLocator
+9997,,No,,mods/originInfo/dateCreated [@keyDate = 'yes']
+9911,,Yes,,mods/originInfo/dateIssued [@keyDate = 'yes']
+9441,,Yes,,mods/physicalDescription/digitalOrigin
+9356,,Yes,,mods/originInfo/publisher
+9127,,Yes,,mods/relatedItem [@type = 'host']/location/url [@displayLabel = 'Repository Collection Guide']
+8317,,Yes,,mods/note [@type = 'content']
+7806,,Yes,,"mods/name [@type = 'personal']/role/roleTerm [@type = 'code', @authority = 'marcrelator']"
+7806,,Yes,,mods/name [@type = 'personal']
+7806,,Yes,,"mods/name [@type = 'personal']/role/roleTerm [@type = 'text', @authority = 'marcrelator']"
+7806,,Yes,,mods/name [@type = 'personal']/role
+7805,,Yes,,mods/name [@type = 'personal']/namePart
+7762,,Yes,,mods/location/physicalLocation [@displayLabel = 'Physical Location']
+7761,,Yes,,mods/location/url [@displayLabel = 'Institution Web Site']
+7734,,Yes,,mods/language/languageTerm [@type = 'code']
+6838,,Yes,,mods/physicalDescription/note [@type = 'medium']
+6437,,Yes,,mods/physicalDescription/form [@authority = 'aat']
+6192,,Yes,,"mods/name [@displayLabel = 'Photographer']/role/roleTerm [@type = 'text', @authority = 'marcrelator']"
+6192,,No,,mods/name [@displayLabel = 'Photographer']
+6192,,No,,mods/name [@displayLabel = 'Photographer']/namePart
+6192,,No,,mods/name [@displayLabel = 'Photographer']/role
+6192,,No,,"mods/name [@displayLabel = 'Photographer']/role/roleTerm [@type = 'code', @authority = 'marcrelator']"
+6089,,No,,mods/originInfo/place
+6009,,No,,mods/language/languageTerm [@type = 'text']
+5989,,No,,mods/recordInfo/recordContentSource [@authority = 'local']
+5946,,No,,mods/recordInfo/recordCreationDate [@encoding = 'w3cdtf']

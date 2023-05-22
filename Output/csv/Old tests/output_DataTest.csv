@@ -1,0 +1,165 @@
+Repeated,errors,XMLPath
+1044,,mods
+1043,,mods/titleInfo/title
+1043,,mods/titleInfo
+618,,mods/subject [@authority = 'lcsh']/topic
+229,,mods/subject [@authority = 'lcsh']
+111,,mods/relatedItem [@type = 'host']/location
+87,,mods/location/holdingSimple/copyInformation
+87,,mods/relatedItem [@type = 'host']
+87,,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/title
+87,,mods/typeOfResource
+87,,mods/location
+87,,"mods/location/physicalLocation [@authority = 'oclcorg', @displayLabel = 'OCLC Member Symbol']"
+87,,mods/location/holdingSimple
+87,,mods/originInfo
+87,,mods/location/holdingSimple/copyInformation/shelfLocator
+87,,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']
+87,,mods/recordInfo
+87,,mods/recordInfo/recordCreationDate
+87,,mods/recordInfo/recordChangeDate
+87,,mods/recordInfo/recordOrigin
+87,,mods/extension
+87,,mods/extension/CONTENTdmData
+87,,mods/relatedItem [@type = 'host']/location/url [@displayLabel = 'Relation']
+86,,"mods/accessCondition [@type = 'use and reproduction', @displayLabel = 'Contact Information']"
+85,,mods/extension/CONTENTdmData/alias
+85,,mods/extension/CONTENTdmData/pointer
+85,,"mods/identifier [@displayLabel = 'Migrated From', @invalid = 'yes', @type = 'uri']"
+63,,mods/part/detail [@type = 'issue']/caption
+63,,mods/part/detail [@type = 'issue']
+63,,mods/originInfo/dateIssued [@keyDate = 'yes']
+63,,mods/location/physicalLocation [@displayLabel = 'Physical Location']
+63,,mods/location/url [@displayLabel = 'Institution Web Site']
+63,,mods/originInfo/publisher
+63,,mods/abstract [@displayLabel = 'Description']
+63,,mods/part
+63,,mods/name [@displayLabel = 'Author']/role
+63,,mods/part/detail [@type = 'volume']
+63,,mods/part/detail [@type = 'volume']/caption
+63,,mods/name [@displayLabel = 'Author']/namePart
+63,,mods/name [@displayLabel = 'Author']
+63,,mods/part/detail [@type = 'issue']/number
+63,,mods/part/detail [@type = 'volume']/number
+62,,"mods/note [@type = 'ownership', @displayLabel = 'Source']"
+62,,"mods/accessCondition [@type = 'restriction on access', @displayLabel = 'Rights']"
+62,,"mods/name [@displayLabel = 'Author']/role/roleTerm [@type = 'code', @authority = 'marcrelator']"
+62,,"mods/name [@displayLabel = 'Author']/role/roleTerm [@type = 'text', @authority = 'marcrelator']"
+24,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']/namePart"
+24,,mods/extension/digitalReproduction
+24,,"mods/identifier [@type = 'local', @displayLabel = 'Item Number']"
+24,,"mods/note [@type = 'preferred citation', @displayLabel = 'Cite As']"
+24,,"mods/accessCondition [@type = 'use and reproduction', @displayLabel = 'Rights']"
+24,,mods/location/holdingSimple/copyInformation/subLocation
+24,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lib.lsu.edu']"
+24,,mods/relatedItem [@type = 'host']/location/url [@displayLabel = 'Repository Collection Guide']
+24,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']/role/roleTerm [@type = 'text', @authority = 'marcrelator', @authorityURI = 'http://id.loc.gov/vocabulary/relators', @valueURI = 'http://id.loc.gov/vocabulary/relators/rps']"
+24,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']/role"
+24,,"mods/originInfo/dateCreated [@qualifier = 'questionable', @keyDate = 'yes']"
+24,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']"
+24,,mods/physicalDescription/internetMediaType
+24,,mods/physicalDescription/form
+24,,mods/physicalDescription
+24,,mods/note [@type = 'content']
+24,,mods/physicalDescription/note [@type = 'medium']
+4,LOLOLO,mods/LOLOLO [@authority = 'lcsh']/topic
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/83/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/21/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/71/json', @timestamp = '2016-12-19 13:56:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/77/json', @timestamp = '2016-12-19 13:56:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2691/json', @timestamp = '2017-05-16 10:04:51']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/47/json', @timestamp = '2016-12-19 13:56:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2154/json', @timestamp = '2017-05-16 10:05:00']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3621/json', @timestamp = '2017-05-16 10:05:41']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3797/json', @timestamp = '2017-05-16 10:05:11']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/10/json', @timestamp = '2016-12-19 13:56:53']"
+1,Milad,mods/Milad
+1,NEWWWWWW,mods/NEWWWWWW
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/58/json', @timestamp = '2016-12-19 13:56:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/39/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/78/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/41/json', @timestamp = '2016-12-19 13:56:52']"
+1,Fariddddd,mods/Fariddddd/title
+1,Fariddddd,mods/Fariddddd
+1,Milad,mods/Milad/title
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3016/json', @timestamp = '2017-05-16 10:05:00']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/2/json', @timestamp = '2016-12-19 13:56:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/95/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/96/json', @timestamp = '2016-12-19 13:56:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/94/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/97/json', @timestamp = '2016-12-19 13:56:52']"
+1,COFFEE,mods/COFFEE [@authority = 'lcsh']
+1,NEWWWWWW,"mods/NEWWWWWW/dateCreated [@qualifier = 'questionable', @keyDate = 'yes']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/15/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/89/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/66/json', @timestamp = '2016-12-19 13:56:53']"
+1,Tarlan,mods/Tarlan/title
+1,Tarlan,mods/Tarlan
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/19/json', @timestamp = '2016-12-19 13:56:53']"
+1,aaaaaaaaaa,mods/aaaaaaaaaa [@authority = 'lcsh']
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/102/json', @timestamp = '2016-12-19 13:56:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/73/json', @timestamp = '2016-12-19 13:56:51']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/29/json', @timestamp = '2016-12-19 13:56:53']"
+1,LOLOLO,mods/LOLOLO [@authority = 'lcsh']
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/54/json', @timestamp = '2016-12-19 13:56:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3163/json', @timestamp = '2017-05-16 10:05:03']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2980/json', @timestamp = '2017-05-16 10:05:14']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2099/json', @timestamp = '2017-05-16 10:05:11']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3014/json', @timestamp = '2017-05-16 10:05:37']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3217/json', @timestamp = '2017-05-16 10:05:38']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2460/json', @timestamp = '2017-05-16 10:04:54']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2887/json', @timestamp = '2017-05-16 10:04:47']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3103/json', @timestamp = '2017-05-16 10:05:12']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2746/json', @timestamp = '2017-05-16 10:04:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3547/json', @timestamp = '2017-05-16 10:05:03']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2178/json', @timestamp = '2017-05-16 10:05:28']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2059/json', @timestamp = '2017-05-16 10:04:48']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2036/json', @timestamp = '2017-05-16 10:05:14']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2634/json', @timestamp = '2017-05-16 10:04:41']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3484/json', @timestamp = '2017-05-16 10:04:43']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2718/json', @timestamp = '2017-05-16 10:05:05']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3344/json', @timestamp = '2017-05-16 10:05:00']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3630/json', @timestamp = '2017-05-16 10:05:46']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3039/json', @timestamp = '2017-05-16 10:05:23']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2599/json', @timestamp = '2017-05-16 10:04:38']"
+1,,"mods/accessCondition [@displayLabel = 'Rights', @type = 'restriction on access']"
+1,,"mods/accessCondition [@displayLabel = 'Contact Information', @type = 'use and reproduction']"
+1,,"mods/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+1,,"mods/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3672/json', @timestamp = '2017-05-16 10:04:41']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3030/json', @timestamp = '2017-05-16 10:05:26']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2127/json', @timestamp = '2017-05-16 10:05:40']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2569/json', @timestamp = '2017-05-16 10:04:53']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3269/json', @timestamp = '2017-05-16 10:05:38']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2981/json', @timestamp = '2017-05-16 10:05:39']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2798/json', @timestamp = '2017-05-16 10:04:48']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3574/json', @timestamp = '2017-05-16 10:05:25']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3010/json', @timestamp = '2017-05-16 10:05:27']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2949/json', @timestamp = '2017-05-16 10:05:23']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2726/json', @timestamp = '2017-05-16 10:05:42']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3089/json', @timestamp = '2017-05-16 10:04:33']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3492/json', @timestamp = '2017-05-16 10:05:26']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2306/json', @timestamp = '2017-05-16 10:04:43']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3259/json', @timestamp = '2017-05-16 10:05:25']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3279/json', @timestamp = '2017-05-16 10:05:40']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3240/json', @timestamp = '2017-05-16 10:04:59']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3478/json', @timestamp = '2017-05-16 10:05:31']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3611/json', @timestamp = '2017-05-16 10:05:38']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2893/json', @timestamp = '2017-05-16 10:05:44']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2308/json', @timestamp = '2017-05-16 10:04:52']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2744/json', @timestamp = '2017-05-16 10:05:21']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2572/json', @timestamp = '2017-05-16 10:05:25']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2149/json', @timestamp = '2017-05-16 10:05:27']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2095/json', @timestamp = '2017-05-16 10:04:35']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2038/json', @timestamp = '2017-05-16 10:05:25']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2732/json', @timestamp = '2017-05-16 10:05:30']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3556/json', @timestamp = '2017-05-16 10:04:46']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3567/json', @timestamp = '2017-05-16 10:05:24']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2609/json', @timestamp = '2017-05-16 10:05:18']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3709/json', @timestamp = '2017-05-16 10:05:37']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2700/json', @timestamp = '2017-05-16 10:05:35']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2239/json', @timestamp = '2017-05-16 10:04:58']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3452/json', @timestamp = '2017-05-16 10:04:58']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2270/json', @timestamp = '2017-05-16 10:05:17']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2005/json', @timestamp = '2017-05-16 10:04:34']"
+1,,"mods/extension/CONTENTdmData/dmGetItemInfo [@mimetype = 'application/json', @source = 'https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll56/31/json', @timestamp = '2016-12-19 13:56:54']"

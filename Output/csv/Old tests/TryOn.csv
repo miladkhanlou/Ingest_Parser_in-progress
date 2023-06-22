@@ -13,7 +13,7 @@ Repeated,errors,XMLPath
 1,,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']/caption
 1,,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']/number
 1,,mods/location
-1,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lib.lsu.edu']"
+1,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lielem.lsu.edu']"
 1,,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/title
 1,,mods/location/holdingSimple
 1,,mods/location/holdingSimple/copyInformation

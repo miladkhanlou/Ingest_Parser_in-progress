@@ -32,7 +32,7 @@ def parseAll(filename):
             attribs = [] 
             atribValues = []
             WriteAttributes  = []
-            attributes = b.attrib
+            attributes = elem.attrib
             if len(attributes) > 0:
                 for i,j in attributes.items():
                     attribs.append(i)     #Fixing not printing all the attributes
@@ -42,22 +42,22 @@ def parseAll(filename):
             ### 1) check for any miss-speling in tags and attributes
                     if i not in listAtrib:
                         errors.append(i) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Attrib_errors
-                    if b.tag.split("}")[1] not in listTag:
-                        errors.append(b.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
+                    if elem.tag.split("}")[1] not in listTag:
+                        errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
                     else:
                         continue
             ### 2) Print the xmlPath                
-                pathName.append("{} [{}]".format(b.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
+                pathName.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
                 yield '/'.join(pathName)
 
-            if len(b.attrib) == 0:
+            if len(elem.attrib) == 0:
             ### 1) Print the xmlPath                
-                pathName.append("{}".format(b.tag.split("}")[1], b.attrib))
+                pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
                 yield '/'.join(pathName)
 
             ### 2) check for any miss-speling in tags(No attributes as these are tags with no attrib)               
-                if b.tag.split("}")[1] not in listTag:
-                    errors.append(b.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
+                if elem.tag.split("}")[1] not in listTag:
+                    errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
                 else:
                     continue
         else:

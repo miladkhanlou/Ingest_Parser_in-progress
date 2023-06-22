@@ -1,6 +1,6 @@
 parser.py Good points to add:
 	a.	If tag was not closed
-	b.	count of collision
+	elem.	count of collision
 	c.	showing the error and where it happened 
 	d.	argument for command-line python code
 

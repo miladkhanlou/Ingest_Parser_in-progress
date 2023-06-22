@@ -64,11 +64,11 @@ def MOD_Parse(mods):
         #Get all the attribute and tags
         for a,b in root:
             if a == 'start':
-                allTags.append(b.tag.split("}")[1])
-                if len(b.attrib) > 0:
-                    attrib_list = b.attrib
+                allTags.append(elem.tag.split("}")[1])
+                if len(elem.attrib) > 0:
+                    attrib_list = elem.attrib
                     for k,v in attrib_list.items():
-                        allAtrrib.append(k)
+                        allAtrrielem.append(k)
 
 def unique_tag_attrib():
     ##uniqueTag_Dict = {Attribute_Name : Number of repitation}
@@ -93,7 +93,7 @@ def unique_tag_attrib():
 
     #lists of attribute names and Tag names for error processing
     for each in uniqueAttrib_Dict.keys():
-        uniqueAttrib.append(each)
+        uniqueAttrielem.append(each)
     for Tags in uniqueTag_Dict.keys():
         uniqueTag.append(Tags)
 
@@ -136,7 +136,7 @@ def parseAll(filename):
                 attribs = [] 
                 atribValues = []
                 WriteAttributes  = []
-                attributes = b.attrib
+                attributes = elem.attrib
                 if len(attributes) > 0:
                     for i,j in attributes.items():
                         attribs.append(i)     #Fixing not printing all the attributes
@@ -147,22 +147,22 @@ def parseAll(filename):
                         if i not in uniqueAttrib:
                             # errors.append(', '.join("{}".format(a[0]) for a in WriteAttributes)) #USED JOIN INSTEAD OF FORMAT
                             errors.append(i) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Attrib_errors
-                        if b.tag.split("}")[1] not in uniqueTag:
-                            errors.append(b.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
+                        if elem.tag.split("}")[1] not in uniqueTag:
+                            errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
                         else:
                             continue
                 ### A2) Print the xmlPath                
-                    pathName.append("{} [{}]".format(b.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
+                    pathName.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
                     yield '/'.join(pathName)
 
-                if len(b.attrib) == 0:
+                if len(elem.attrib) == 0:
                 ### B1) Print the xmlPath                
-                    pathName.append("{}".format(b.tag.split("}")[1], b.attrib))
+                    pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
                     yield '/'.join(pathName)
 
                 ### B2) check for any miss-speling in tags(No attributes as these are tags with no attrib)               
-                    if b.tag.split("}")[1] not in uniqueTag:
-                        errors.append(b.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
+                    if elem.tag.split("}")[1] not in uniqueTag:
+                        errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
                     else:
                         continue
             else:
@@ -190,7 +190,7 @@ def PathRepeatCheck(ntpath):
 ######## unique errors ########
 def ErrorRepeatCheck():
     uniqueErrors = []
-    #b. Handeling Duplicated Errors in attributes and tags
+    #elem. Handeling Duplicated Errors in attributes and tags
     for err in errors:
         if err not in uniqueErrors:
             uniqueErrors.append(err)

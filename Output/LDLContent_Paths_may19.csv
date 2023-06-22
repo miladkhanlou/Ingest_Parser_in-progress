@@ -22,7 +22,7 @@ Repeated,errors,XMLPath
 53,,mods/recordInfo/languageOfCataloging
 53,,"mods/recordInfo/languageOfCataloging/languageTerm [@authority = 'iso639-2b', @type = 'code']"
 53,,mods/recordInfo/recordChangeDate
-53,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lib.lsu.edu']"
+53,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lielem.lsu.edu']"
 53,,mods/location
 53,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role"
 53,,mods/relatedItem [@type = 'host']/location/url [@displayLabel = 'Relation']

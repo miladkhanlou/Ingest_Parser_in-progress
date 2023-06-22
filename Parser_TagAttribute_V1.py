@@ -23,13 +23,13 @@ def parseAll(filename):
     root = ET.iterparse(filename, events=('start', 'end'))
     for a,b in root:
         if a == 'start':
-            allTags.append(b.tag.split("}")[1])
-            if len(b.attrib) > 0:
-                allAtrrib.append(list(b.attrib.keys())[0])
-                pathName.append('{}[@{}="{}"]'.format(b.tag.split("}")[1], list(b.attrib.keys())[0], list(b.attrib.values())[0]))
+            allTags.append(elem.tag.split("}")[1])
+            if len(elem.attrib) > 0:
+                allAtrrielem.append(list(elem.attrielem.keys())[0])
+                pathName.append('{}[@{}="{}"]'.format(elem.tag.split("}")[1], list(elem.attrielem.keys())[0], list(elem.attrielem.values())[0]))
                 yield '/'.join(pathName)
-            if len(b.attrib) == 0:
-                pathName.append("{}".format(b.tag.split("}")[1], b.attrib))
+            if len(elem.attrib) == 0:
+                pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
                 yield '/'.join(pathName)
         else:
             pathName.pop()

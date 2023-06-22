@@ -80,7 +80,7 @@
   </relatedItem>
   <location>
     <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
-    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lielem.lsu.edu">LSU Libraries</physicalLocation>
     <holdingSimple>
       <copyInformation>
         <shelfLocator>S67 .E4</shelfLocator>
@@ -88,7 +88,7 @@
     </holdingSimple>
   </location>
   <accessCondition displayLabel="Rights" type="use and reproduction">This item is in the public domain.</accessCondition>
-  <accessCondition displayLabel="Contact Information" type="use and reproduction">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <accessCondition displayLabel="Contact Information" type="use and reproduction">Please submit an LSU Special Collections reference ticket at https://askus.lielem.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
   <recordInfo>
     <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
     <recordCreationDate>5/13/2014</recordCreationDate>

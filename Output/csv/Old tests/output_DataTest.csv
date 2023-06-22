@@ -51,7 +51,7 @@ Repeated,errors,XMLPath
 24,,"mods/note [@type = 'preferred citation', @displayLabel = 'Cite As']"
 24,,"mods/accessCondition [@type = 'use and reproduction', @displayLabel = 'Rights']"
 24,,mods/location/holdingSimple/copyInformation/subLocation
-24,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lib.lsu.edu']"
+24,,"mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lielem.lsu.edu']"
 24,,mods/relatedItem [@type = 'host']/location/url [@displayLabel = 'Repository Collection Guide']
 24,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']/role/roleTerm [@type = 'text', @authority = 'marcrelator', @authorityURI = 'http://id.loc.gov/vocabulary/relators', @valueURI = 'http://id.loc.gov/vocabulary/relators/rps']"
 24,,"mods/name [@type = 'corporate', @authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @valueURI = 'http://id.loc.gov/authorities/names/no2015036095', @displayLabel = 'Contributing Repository']/role"

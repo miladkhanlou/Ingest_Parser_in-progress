@@ -25,18 +25,18 @@ def parseAll(filename):
             attribs = []
             atribValues = []
             WriteAttributes  = []
-            attrbutes = b.attrib
+            attrbutes = elem.attrib
             if len(attrbutes) > 0:
                 for i,j in attrbutes.items():
                     attribs.append(i)     #Fixing not printing all the attributes
                     atribValues.append(j)    #Fixing not printing all the attributes Values
                     WriteAttributes.append([i,j]) #write as a list as we go into each attribute
-                # pathName.append("{} [{}]".format(b.tag.split("}")[1], "@{} = '{}'".format(WriteAttributes[0],WriteAttributes[1]))) #FIXed ME
-                pathName.append("{} [{}]".format(b.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
-                # pathName.append('{}[@{}="{}"]'.format(b.tag.split("}")[1], list(b.attrib.keys())[0], list(b.attrib.values())[0])) #FIX ME!!!
+                # pathName.append("{} [{}]".format(elem.tag.split("}")[1], "@{} = '{}'".format(WriteAttributes[0],WriteAttributes[1]))) #FIXed ME
+                pathName.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
+                # pathName.append('{}[@{}="{}"]'.format(elem.tag.split("}")[1], list(elem.attrielem.keys())[0], list(elem.attrielem.values())[0])) #FIX ME!!!
                 yield '/'.join(pathName)
-            if len(b.attrib) == 0:
-                pathName.append("{}".format(b.tag.split("}")[1], b.attrib))
+            if len(elem.attrib) == 0:
+                pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
                 yield '/'.join(pathName)
         else:
             pathName.pop()

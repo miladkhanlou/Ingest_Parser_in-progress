@@ -32,11 +32,11 @@ def parseAll(filename):
     root = ET.iterparse(filename, events=('start', 'end'))
     for a,b in root:
         if a == 'start':
-            allTags.append(b.tag.split("}")[1])
-            if len(b.attrib) > 0:
-                attrib_list = b.attrib
+            allTags.append(elem.tag.split("}")[1])
+            if len(elem.attrib) > 0:
+                attrib_list = elem.attrib
                 for k,v in attrib_list.items():
-                    allAtrrib.append(k)
+                    allAtrrielem.append(k)
 
     ##clear tags = {Attribute_Name : Number of repitation}
     tagCheck = []

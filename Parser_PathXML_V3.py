@@ -51,15 +51,15 @@ def parseAll(filename):
     for a,b in root:
         # print(b)
         if a == 'start':
-            if len(b.attrib) > 0:
-                pathName.append("{} {}= '{}'".format(b.tag.split("}")[1], list(b.attrib.keys())[0], list(b.attrib.values())[0]))
+            if len(elem.attrib) > 0:
+                pathName.append("{} {}= '{}'".format(elem.tag.split("}")[1], list(elem.attrielem.keys())[0], list(elem.attrielem.values())[0]))
                 yield '/'.join(pathName)
                 # print("******** {} AND {}".format(pathName, type(pathName)))
                 path.append(pathName)
                 
             # path.append[pathName[-1]]
-            if len(b.attrib) == 0:
-                pathName.append("{}".format(b.tag.split("}")[1], b.attrib))
+            if len(elem.attrib) == 0:
+                pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
                 yield '/'.join(pathName)
                 # print("-------- {}".format(pathName))
                 # print("-------- {}".format(pathName))
@@ -101,14 +101,14 @@ run()
 #     paths= []
 #     for items in root.findall('originInfo', ns):
 #         if len(items.attrib)>0:
-#            Originaltext = items.tag.split("}")[1] + ' ' + "{}:{}".format(list(items.attrib.keys())[0],list(items.attrib.values())[0])
+#            Originaltext = items.tag.split("}")[1] + ' ' + "{}:{}".format(list(items.attrielem.keys())[0],list(items.attrielem.values())[0])
 #         else:
 #             Originaltext = items.tag.split("}")[1]
 #         print("****** {}".format(Originaltext))
 
 #         for childs in items:
 #             if len(childs.attrib)>0:
-#                 text = Originaltext+ '/' +  childs.tag.split("}")[1] + "{}:{}".format(list(childs.attrib.keys())[0],list(childs.attrib.values())[0])
+#                 text = Originaltext+ '/' +  childs.tag.split("}")[1] + "{}:{}".format(list(childs.attrielem.keys())[0],list(childs.attrielem.values())[0])
 #                 paths.append(text)
 #             else:
 #                 text = Originaltext + "/"+ childs.tag.split("}")[1]

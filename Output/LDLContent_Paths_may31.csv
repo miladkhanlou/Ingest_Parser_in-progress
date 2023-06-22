@@ -1,14 +1,16 @@
 Repeated,Needed,Fields,XMLPath
 3000,No,Field_1,mods
+43,Yes,Field_5,mods/name [@displayLabel = 'Author']/namePart
+15,Yes,Field_2,mods/titleInfo/nonSort
 3000,Yes,Field_2,mods/titleInfo/title
-3000,No,Field_2,mods/titleInfo
+3000,Yes,Field_2,mods/titleInfo
 801,Yes,Field_4,mods/subject [@authority = 'lcsh']/topic
 309,Yes,Field_5,mods/subject [@authority = 'lcsh']
 98,Yes,Field_6,mods/relatedItem [@type = 'host']/part
 96,Yes,Field_20,"mods/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
 96,Yes,Field_3,mods/name [@displayLabel = 'Contributor']
 96,Yes,Field_4,"mods/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
-96,Yes,Field_5,mods/name [@displayLabel = 'Contributor']/namePart
+96,Yes,Field_3,mods/name [@displayLabel = 'Contributor']/namePart
 96,Yes,Field_6,mods/name [@displayLabel = 'Contributor']/role
 53,Yes,Field_7,"mods/accessCondition [@displayLabel = 'Contact Information', @type = 'use and reproduction']"
 53,Yes,Field_8,mods/location/holdingSimple
@@ -41,12 +43,10 @@ Repeated,Needed,Fields,XMLPath
 49,Yes,Field_7,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']/caption
 49,Yes,Field_8,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']
 49,Yes,Field_8,mods/relatedItem [@type = 'host']/part/detail/title
-43,Yes,Field_5,mods/name [@displayLabel = 'Author']/namePart
 43,No,Field_6,mods/name [@displayLabel = 'Author']
 43,No,Field_7,mods/name [@displayLabel = 'Author']/role
 43,Yes,Field_10,"mods/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
 43,Yes,Field_7,"mods/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
 37,Yes,Field_8,mods/originInfo/publisher
-15,Yes,Field_2,mods/titleInfo/nonSort
 1,No,Field_9,mods/abstract [@displayLabel = 'Description']
 1,No,Field_10,"mods/originInfo/dateIssued [@keyDate = 'yes', @qualifier = 'questionable']"

@@ -1,9 +1,8 @@
-#### WHAT THIS SCRIPT DOES ####
-###1.   Attribute and Tag finder for all the collections
-###2.   Gets the xml paths of all xmls
-###3. write the xml paths, errors in xml paths according to the write tag and attribute
+#### What to expect ####
+###1.   Find unique attributes and tags in directory containing xml files
+###2.   A metadata containing all the possible Xpaths in xml files, alongside of number of repitition and field assosiated with every path.
+###3.   To get the final metadata for ingesting to LDL, we will parse into the xml files one more time and get paths, then we'll compare those paths to paths in previous step and will create another csv with the right field name and text within new xpath we parsed
 
-############################################ Imports ############################################
 
 import xml.etree.ElementTree as ET
 import csv
@@ -15,14 +14,6 @@ import pandas as pd
 from datetime import datetime
 import argparse
 
-####################################### Global Variables #######################################
-
-paths = [] #paths that will be written
-errors = [] #Attribute and Tag Errors
-Tag_errors = [] #We can have 2 columns for errors
-Attrib_errors = [] #We can have 2 columns for errors
-
-# create the parser, add an argument for the input directory, parse the command line arguments
 def process_command_line_arguments():
     parser = argparse.ArgumentParser(description='Attribute and Tag finder for all the collections')
     parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory', required=False)
@@ -31,15 +22,10 @@ def process_command_line_arguments():
     parser.add_argument('-cc', '--input_clear_csv', type=str, help='Path to the input directory', required=False)
     parser.add_argument('-o', '--output_directory', type=str, help='Path to the output csv containing paths, frequency and error reports', required=False)
     parser.add_argument('-ow', '--output_directory_w', type=str, help='Path to the output csv containing paths, frequency and error reports', required=False)
-
     args = parser.parse_args()
-
     return args
 
-#<<<<<<<<<<<<<<<<< PART I: Parse xmls and get attribute and tags and write to text file >>>>>>>>>>>>>>>>>>>>>#
-#****************** OPTION 1 | Parse xmls and get all the tags and attributes ******************#
-
-#2. Triger the function to get and Write the unique tags and attributes to csv
+#Get the directory for part 1 and 2:
 def MODs(arg):
     modsPaths = []
     files = listdir(arg.input_directory)
@@ -49,16 +35,20 @@ def MODs(arg):
             modsPaths.append("{directory}/{file_name}".format(directory = arg.input_directory, file_name= file))
     return modsPaths
 
-
-# 1. Parse each XML 
-allTags = [] #NEW (All Tags)
-allAtrrib = [] #NEW (All Attributes)
-uniqueTag_Dict = {} #NEW (Unique TagNames with the number of repitation in a dictionary)
-uniqueAttrib_Dict = {} #NEW (Unique Attribute with the number of repitation in a dictionary)
-uniqueTag = [] #NEW (Name of the unique attributes)
-uniqueAttrib = [] #NEW (Name of the unique Unique Tags)
+######################################################################## PART I: Gget unique Tags and Attributes ########################################################################
+paths = []                  #paths that will be written
+errors = []                 #Attribute and Tag Errors
+Tag_errors = []             #We can have 2 columns for errors
+Attrib_errors = []          #We can have 2 columns for errors
+allTags = []                # All Tags)
+allAtrrib = []              #(All Attributes)
+uniqueTag_Dict = {}         # Unique TagNames with the number of repitation in a dictionary)
+uniqueAttrib_Dict = {}      #(Unique Attribute with the number of repitation in a dictionary)
+uniqueTag = []              #(Name of the unique attributes)
+uniqueAttrib = []           #(Name of the unique Unique Tags)
 
 def MOD_Parse(mods):
+    #Get unique attribute and tag
     for mod in mods:
         print("Parsing the source MODs for tags/Attributes---------------------------------------- {}".format(mod.split('/')[-1]))
         root = ET.iterparse(mod, events=('start', 'end'))
@@ -72,7 +62,7 @@ def MOD_Parse(mods):
                         allAtrrib.append(k)
 
 def unique_tag_attrib():
-    ##uniqueTag_Dict = {Attribute_Name : Number of repitation}
+    ##uniqueTag_Dict = {tag_Name : Number of repitation}
     tagCheck = []
     for TGs in allTags:
         key = TGs
@@ -120,7 +110,7 @@ def dataToCsv(arg):
     df_attTG.to_csv("{}.csv".format(arg.output_attribsTags), index=0)
     print("An attribute/Tag csv file saved in this directory: {directory}.csv".format(directory = arg))
 
-#<<<<<<<<<<<<<<<<<  Part II: Get the XML Path , check for spelling and errors in each xml path according to Part1 >>>>>>>>>>>>>>>>>>>>>#
+######################################################################## Part II: Get the XML Path , check for spelling and errors in each xml path according to Part1 ########################################################################
 def inpute_csv(arg):
     print("Reading the input csv, containing Attributes and Tags in LDL collections------------------")
     df_attribTags = pd.read_csv(arg.input_csv)
@@ -128,7 +118,6 @@ def inpute_csv(arg):
     data_dict =  {}
     for columns in columnNames:
         data_dict[columns] = list(df_attribTags[columns])
-    # print(data_dict)
     return data_dict
 
 ######## Parse and get all the paths and errors ########
@@ -181,8 +170,9 @@ def parseAll(mods,csv_input):
             allPaths.append(Xpaths)
     return(allPaths)
 
-######## unique Paths ########
+
 def PathRepeatCheck(ntpath):
+    # unique Paths 
     pathsAndCounts= {}
     check = set()
     for p in ntpath:
@@ -194,8 +184,8 @@ def PathRepeatCheck(ntpath):
     print("Uniqe paths collected ------------")
     return pathsAndCounts
 
-######## unique errors ########
 def ErrorRepeatCheck():
+    # unique errors 
     uniqueErrors = []
     #b. Handeling Duplicated Errors in attributes and tags
     for err in errors:
@@ -207,9 +197,9 @@ def ErrorRepeatCheck():
     print("Unique errors collected ------------")
     return uniqueErrors
 
-######## write to csv ########
+
 def toCSV(allPaths, allErrors, arg):
-#Output to csv separate function
+    # write to csv 
     xml_paths = {   
         "Repeated": [],
         "errors": [],
@@ -238,7 +228,7 @@ def toCSV(allPaths, allErrors, arg):
 
 
 
-######################## start the xml2workbench process  ########################
+######################################################################## Part III: start the xml2workbench process  ########################################################################
 def csv_to_df(arg):
     print("Reading the input csv, containing Attributes and Tags in LDL collections------------------")
     df_attribTags = pd.read_csv(arg.input_clear_csv)
@@ -252,7 +242,6 @@ def csv_to_df(arg):
     
     return xml2wb_df
 
-## get directory as a filename with arg
 class xmlSet(object):
     def __init__(self):
         self.docs = []
@@ -356,6 +345,7 @@ def xml2workbench(root,data_frame):
     for k in field_with_text:
         if k == "nan":
             del field_with_text[k]
+
     return{key : '|'.join(value) for key, value in field_with_text.items()}
 
 
@@ -373,16 +363,15 @@ def main():
     elif args.input_directory and args.output_directory and args.input_csv:
     # Run the function to get XML paths, check for errors, and write to CSV (-i,-o,-c)
         sourceMODs = MODs(args)
-        imputcsv = inpute_csv(args)
-        parseTo = parseAll(sourceMODs,imputcsv)
+        inputCSV = inpute_csv(args)
+        parseTo = parseAll(sourceMODs,inputCSV)
         getUniquesPaths = PathRepeatCheck(parseTo)
         getUniqueErrors = ErrorRepeatCheck()
         writeToCSV = toCSV(getUniquesPaths, getUniqueErrors, args)
 
     elif args.input_clear_csv and args.input_directory and args.output_directory:
     # Run the function to for xml2wirkbencg process (-ii,-o,-cc)
-        #if the 'Do we need' column was no, delete the row
-        #reads the RDFs one more time, if the xml paths where in the the list of xml paths write to the correct fields
+        #reads the RDFs one more time, if the xml paths where in the the list of xml paths write to the correct fields and text
         csv_to_dict = csv_to_df(args) #dataframe containing needed fields
         data = xmlSet()
         data.xmlMods(args,csv_to_dict)

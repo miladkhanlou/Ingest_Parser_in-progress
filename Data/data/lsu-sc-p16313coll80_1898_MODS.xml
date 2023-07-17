@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00001026</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Parti Marron.</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes">1851-06-08</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Belle-Rivière, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1851</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1851-05-26</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">PARTI MARRONUn griffe, répondant au nom d'Anziq, âgé d'environ vingt-cinq ans, taille d'environ cinq pieds deux pouces, d'une constitution très robuste, ayant deux cicatrices, l'une sur la partie inférieure de la jambe gauche et résultant d'un coup de hache, l'autre sur un des avant-brasCe griffe porte ordinairement les cheveux tressés ; il a les deuxcaninesde la machoire supérieure très-éloignées l'une de l'autre, des épaules rondes et basses, il a une petite voix et il parle Anglais et nn peu le françaisIl est parti de l'habitation de son maître, MPierre Thériot de la Belle-Rivière, dans la nuit du 26 Mai dernierUne récompense honnête sera accordée à la personne qui conduira le fugitif à son maître, ou qui l'écrouera dans la geôle de l'Assomption ou une geôle voisinePSSo ce nègre est arrêté, on est prié d'en donner avis aux bureaux du Pionnier.</abstract>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Slave Name (Age)">Anziq (25)</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">griff</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Owner">MPierre Théroit</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 4</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le pionnier de l'Assomption: (Napoleonville [La.]) 1850-185?</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86090609/1851-06-08/ed-1/seq-3/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86090609/1851-06-15/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1851-06-22/ed-1/seq-3/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86090609</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3408</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3408</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3408/json"
+                        timestamp="2017-07-10 10:52:16">{"title":"RSA00001026","object":"sn 86090609","publia":"Le pionnier de l'Assomption: (Napoleonville [La.]) 1850-185?","date":"1851-06-08","year":"1851","film":"page 3, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1851-06-08\/ed-1\/seq-3\/","unique":"Parti Marron.","person":{},"parish":{},"digita":"1851-05-26","acknow":{},"public":"MPierre Th\ufffdroit","town":"Belle-Rivi\ufffdre, La.","relati":"Anziq (25)","slave":"M","slavea":"griff","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"PARTI MARRONUn griffe, r\ufffdpondant au nom d'Anziq, \ufffdg\ufffd d'environ vingt-cinq ans, taille d'environ cinq pieds deux pouces, d'une constitution tr\ufffds robuste, ayant deux cicatrices, l'une sur la partie inf\ufffdrieure de la jambe gauche et r\ufffdsultant d'un coup de hache, l'autre sur un des avant-brasCe griffe porte ordinairement les cheveux tress\ufffds ; il a les deuxcaninesde la machoire sup\ufffdrieure tr\ufffds-\ufffdloign\ufffdes l'une de l'autre, des \ufffdpaules rondes et basses, il a une petite voix et il parle Anglais et nn peu le fran\ufffdaisIl est parti de l'habitation de son ma\ufffdtre, MPierre Th\ufffdriot de la Belle-Rivi\ufffdre, dans la nuit du 26 Mai dernierUne r\ufffdcompense honn\ufffdte sera accord\ufffde \ufffd la personne qui conduira le fugitif \ufffd son ma\ufffdtre, ou qui l'\ufffdcrouera dans la ge\ufffdle de l'Assomption ou une ge\ufffdle voisinePSSo ce n\ufffdgre est arr\ufffdt\ufffd, on est pri\ufffd d'en donner avis aux bureaux du Pionnier.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1851-06-15\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1851-06-22\/ed-1\/seq-3\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collectionIdentify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001026.jp2","find":"3226.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-06-20","dmoclcno":{},"dmrecord":"3408","restrictionCode":"1","cdmfilesize":"190408","cdmfilesizeformatted":"0.18 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

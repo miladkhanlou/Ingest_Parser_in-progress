@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Land loss rates. Report 1, Mississippi River deltaic plain</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Britsch, L. D. Kemp, E. Burton.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Contributor">
+      <namePart>United States. Army. Corps of Engineers. New Orleans District.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1990</dateIssued>
+      <publisher>Geotechnical Laboratory (U.S.) Engineer Research and Development Center (U.S.</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Public lands</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Environmental protection</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Dredging</topic>
+      <topic>Environmental aspects</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Mississippi River</geographic>
+   </subject>
+   <note type="content">Technical Report Abstract: Land loss mapping and rate curve development for 50 quadrangles located in the Mississippi River deltaic plain show that land loss rates calculated for the 1930's to 1956-58, 1956-58 to 1974, and 1974 to 1983 time periods vary significantly throughout the deltaic plain. Differences between land loss rates of individual quadrangles are a function of the geologic setting and the factors which contribute to land loss such as subsidence, storm-induced erosion, channelization of streams, and canal dredging. Of the 50 quadrangles mapped, 14 show an increase in the land loss rate, 29 show a decrease, and 7 remained approximately the same. Specific causes of land loss are not evaluated in this report. On a regional scale, the land loss rate for the entire Mississippi River deltaic plain (an area of approximately 13,000 square miles) has decreased from an average yearly rate of 28.02 square miles for the 1956-58 to 1974 period to 22.97 square miles for the 1974 to 1983 period. Another data set is needed to verify whether this decrease in the average annual land loss rate is continuing. Land loss data generated during this investigation is being combined with geologic data in a Geographic Information System to facilitate detailed analyses of the causes of land loss in future reports.</note>
+   <note type="content" displayLabel="Category">Land loss</note>
+   <name type="corporate"
+         authority="local"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Government Documents</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-govdocs-p16313coll35:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana Waterways Management Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Available in the Engineer Research &amp; Development Center (EDRC) USACE, Vicksburg, MS http://acwc.sdp.sirsi.net/client/search/asset/1027441</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail diglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll35/id/456</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-11-01</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll35</alias>
+         <pointer>456</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll35/456/json"
+                        timestamp="2017-02-07 15:32:29">{"title":"Land loss rates. Report 1, Mississippi River deltaic plain","date":"1990","creato":"Britsch, L. D. Kemp, E. Burton.","subjec":"Public lands--Louisiana; Environmental protection--Louisiana; Dredging--Environmental aspects--Louisiana.;","covera":"Mississippi River.;","publis":"Geotechnical Laboratory (U.S.) Engineer Research and Development Center (U.S.","descri":{},"notes":"Technical Report Abstract: Land loss mapping and rate curve development for 50 quadrangles located in the Mississippi River deltaic plain show that land loss rates calculated for the 1930's to 1956-58, 1956-58 to 1974, and 1974 to 1983 time periods vary significantly throughout the deltaic plain. Differences between land loss rates of individual quadrangles are a function of the geologic setting and the factors which contribute to land loss such as subsidence, storm-induced erosion, channelization of streams, and canal dredging. Of the 50 quadrangles mapped, 14 show an increase in the land loss rate, 29 show a decrease, and 7 remained approximately the same. Specific causes of land loss are not evaluated in this report. On a regional scale, the land loss rate for the entire Mississippi River deltaic plain (an area of approximately 13,000 square miles) has decreased from an average yearly rate of 28.02 square miles for the 1956-58 to 1974 period to 22.97 square miles for the 1974 to 1983 period. Another data set is needed to verify whether this decrease in the average annual land loss rate is continuing. Land loss data generated during this investigation is being combined with geologic data in a Geographic Information System to facilitate detailed analyses of the causes of land loss in future reports.","source":"Available in the Engineer Research &amp; Development Center (EDRC) USACE, Vicksburg, MS http:\/\/acwc.sdp.sirsi.net\/client\/search\/asset\/1027441","catego":"Land loss","contri":"United States. Army. Corps of Engineers. New Orleans District.","type":{},"format":{},"langua":{},"relati":{},"rights":{},"audien":{},"identi":"landlossrates_april1990","fullrs":{},"find":"418.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2013-11-01","dmmodified":"2013-11-01","dmoclcno":{},"dmrecord":"456","restrictionCode":"1","cdmfilesize":"6804151","cdmfilesizeformatted":"6.49 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

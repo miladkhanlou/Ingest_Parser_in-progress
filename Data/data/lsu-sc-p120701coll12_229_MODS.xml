@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 13</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/357</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>357</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/357/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 13","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOU T II - VV E S T E R N j 0 U R N\nL.\nHI\na belonging 1\u00b0 English derived terms, will ever betake\nniiselves to the fountain-head for this knowledge. What\n.ajse do we unwittingly bestow upon the two noble tongues\nuntiquity, when we consider that the highest compliment\nkindly for us; she would that men were as joyous and grate-\nfill as her bilds; that they sung, like them, through the live-\nlong day. Why do they not ? Ask passion, not nature, this\nquestion.\nDISCOVERY Ob\nan pay our illustrious characters, is to compare them lo\nsome Greek or Roman worthy\u2014to say of a Washington he\n;s a Fabius, of a Franklin he is a Socrates, of a Henry he is\nn Demosthenes I\nThe department of poetry would lose the most by a neg-\n;,,:i of the Classics. As the bards of antiquity wero the first\nto walk forth into the garden of poetry, they did not fail to\nappropriate to themselves their most beautiful flowers; they,\nhaving the gathering of the harvest, have left to the moderns\nin many branches of the poetic art naught but the mere gleanings of the field. These ancient poems have been so translated, paraphrased, metamorphosed by modem poets, that a\nmere English scholar would find nearly as much difficulty\nin the works of the latter, as in those of the former. A\nglance at one more argument in favor of the learned languages, and this discussion is closed. The history of the forum arid halls of legislation, proves that, in the actual conflict\nof mind against mind, the Classical orator has a decided advantage over an antagonist who lias merely an English education, though in every other respect they be entirely equal.\nHis knowledge of the variety and flexibility of his own named Karlsefne, descended from Irish, Scottish, Norwe-\ntongue, will place at his command a greater copiousness of ginn, Swedish and Danish Ancestors, chiefly taken from two\nI'll!', CONTINENT OF AMERICA BY\nTHE DANES.\nThe March number of the Knickerbocker contains the\nfollowing notice: The work announced three or four years\nsince by the Royal Society of Northern Antiquities, of Copenhagen, has just appeared, and reflects great credit on the\nsociety, both for the beautiful style in which it is got up, and\nfor the valuable historical matter which it contains. The\nlimits of this article will not admit of a particular synopsis\nof the contents of this work. The following Sagas appear\nat length in it, and sundry extracts from ancient Danish\nmanuscripts:\n\"First the historical accounts of Erik the Red, and the\nGreenlanders, extracted\u2014and now for the first time accurately published\u2014from the celebrated Codex Flateyensis, particularly concerning Biarne FIeriulfson's and Leif Er-\nickson's first discovery of the American Islands and Coasts,\nand the several voyages thither, performed by Lii.fs brothers\nand sister.    Next the Saga of Tiioriinx Thordson sur-\nwords, a wider range of selection, a greater fluency and facility in the utterance of them, than his unfortunate antagonist\ncm possibly pretend to.\nSOUTH-WESTERN  JOURNAL.\nNatchez, April 15, i\u00abis.\nancient MSS. never before edited, and in fact not previously\nknown to the Literati, the one of which is supposed to be\npartly a genuine autograph of the celebrated Hank Eilend-\nson, Lawman of Iceland, well known as a compiler of one\n[of the Recensions of the Landnama-book. This very re-\n markable Saga contains detailed accounts of Thorlinn Karl-\n(seme's and his company's three years voyages and residence\n,,,,     ... . ,   ,. ,-    [in America, whereby an entirely new light is diffused over\njYCKUM.\u2014 ihe April meeting was  held accordingl ,. ,    , \u201e\u201e ,    ,        ,   ,\n.-    .i    ,-,-.    11 n       1 . , this subject hitherto so little known.     Ihe only knowledge\nto appointment 111 the l.\u00bby Hall, and two essays were read J        ,   ,   \u201e , . ,.,,.       .    ,     ,,\n,    ,, \u201e    r        \u201e    ',        ' j m   t   t 1. -       n that Torftciis had of this Saga, which he imagined to be lost,\nby Messrs. Professor Forshey and T. J. Johnson, Esq. ,   .    , \u201e , ?. \u25a0    , \u2022\n',.,,    -,, .      \u2022   .   ,    1   ,,      \u25a0   .,    -,,   ,    i-    ,,,       ,   was derived from some corrupted extracts of it contained 111\nI no May meeting is to 00 nolden in the Methodist Church ,,    .       . . ,  \u201e    ,    ,.\nthe collection of materials for the history ol ancient Liicen-\nat evening, of which due notice will be given. Dr. S. C\nMerwin is lecturer, and Rev. Messrs. Bruner and Steele, es\nsayists.\nThe Season of Flowers.\u2014The glad forests, as well\nas the fields and each copse of shrubbery, are bursting into\nthe full bloom of the season of flowers.    The birds, intoxicated with th\" aroma of the trees, pour forth their morning\nanthems with a more ecstatic note than is their wont; and\nlife, in mass, seems applausive of nature's vernal array.    But\nthere are those belonging to humanity, upon whoso lack-\nlustra orbs, these splendors fall unheeded.    There are sor\nrows and disappointments in life that nullify nature's ministry of pleasure.     Talk not of roses to him of the hollow eye\nand the wasted cheek, who feels that ere long his slumbers\nshall be too deep for the matins of the birds to waken.    Talk\nnot of gushing waters, or pearly dews, or spice-scented zephyrs, or the flaunting white and red of the vocal forests, to\nhim who is doomed by hasty steps to descend into the cheerless vale of poverty.    Lonely, bleak solitude, and deep black\nwaters are more of the \"color of fate.\"    Yet nature intends\nland left by the Iceland Farmer Biorn Johnson of Skardso.\nIt is now for the first time submitted lo the literary world in\na complete form. The woik here announced, moreover,\ncontains every thing else that the Society has been able to\ncollect and discover relating to that knowledge of the New\nWorld which our forefathers obtained from the early discoveries and researches of the Northmen. Among these we\nmay mention, 1. Adam of Bremen's accounts of Vineland\n(in America) written in the eleventh century, being in fact\ncommunicated lo him by the Danish King Sweyn Estrithson,\nand compiled from authentic accounts furnished to him by\nDanes, and now for the first time published from the excellent Codex in the Imperial Library at Vienna, of which a\nfac simile has been transmitted to the Society by the Chief of\nthe Library, Count Dietrichstein. 2. Are Frode's account\nof Vineland, written in the same or in the following century;\nand also 3, of the eminent Icelandic chief Are Marson,\none of his own ancestors, who in the year 983 was driven to\na part of America situate near \"Vineland, then called Ilvir-\nrajiannaland or Great Ireland, whose inhabitants (0!\nLibrary\nLouisiana State University\n'\u25a0&gt;m\n\u25a0 '.v,.ii\n\u2022Mm\nm\nm\n4'4j\nm\nMi\nm\nfa-i\nm","fullrs":{},"find":"358.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"357","restrictionCode":"1","cdmfilesize":"1697983","cdmfilesizeformatted":"1.62 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

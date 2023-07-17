@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 18</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/468</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>468</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/468/json"
+                        timestamp="2017-02-09 16:31:00">{"title":"Page 18","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"m\n:    B\n'\u2022-,'hti\n\u25a0 ili'S\nr.ffc\n\/ if\n\u25a0'\u25a0\"$\u2022 '\u2022\n\u25a0\u25a0'&gt;\u25a0&gt;,'\n.lUl\n..(7\n11 '\u25a0'\nIt-'-\"1\nI   '\u25a0\u25a0\u25a0&lt;\u25a0\n\u25a0 : ,\n. :\u2022 j\nm\n\u25a0 p\n-.\nI &gt;, :\u25a0\n96\nS 0 U T II -WESTERN JOURNAL.\nIsland, in tho midst of the rushing stream, stretches out its\nbarren, sandy shores, sad and gloomy as a grave yard ! ah !\na graveyard! and when the associations connected wilh ils\ndark history, are permitted to throng the mind, the appellation is no misnomer. A grave yard I\u2014let it bear the title-\nwhatever our view respecting the scenes it has witnessed, the\nname is appropriate.\u2014St. Louis Bulletin.\nPLATINUM.\nA notice in the Richmond Enquirer recommends the introduction of this metal into the currency, and gives the history\nof its discovery, and such of its chemical and physical habitudes as relates to its use as a coin:\nPlatina, as it was called previous to the Into reformation\nin chemical nomenclature, is a diminutive of plain, (silver,)\nand was so named from its resemblance to silver. It was first\nbrought to the notice of the public by Don Ulloa, one of the\nparty who went to Peru to determine the figure of the earth,\nwho ascertained the existence of such a mclal in 1735. Hut\nthe honor of its discovery is mote generally awarded to Mr.\nWood, Assay Master of Jamaica, though his observations\nwere not printed until 1710, '50. It is found in South America, in St. Domingo, in Spain, throughout the Uralian mountains, in Siberia, and other parts of Russia, and in various\nother localities. Platinum is the heaviest body known\u2014its\ndensity being about 21, while gold is 10, and silver only 10.\nWhen pure, it is so soft, as to be impressible with the finger\nnail, but a small portion of alloy renders it sufficiently hard\nfor the purpose of coinage. Ils color is a beautiful silvery\nwhite. It is very malleable and ductile; laminablo: possesses considerable elasticity, and is susceptible of a very high\npolish. It resists exposure to the weather even better than\nsilver or gold, and indeed its unalterability is not .surpassed\nby any substance whatever. Its low equivalent number, OS,\n(gold being 200,) and the utter impossibity of successfully\ncounterfeiting it, peculiarly recommend it for coinage.. Its\npeculiar properties give it an intrinsic value for use in ihe\narts: so that its valtiu is inherent, and independent of any act\nof Government, authorizing its use for coinage. In its value\nit is intermediate between gold and silver, being about one-\nthird as valuable as gold, and five times as much so as silver.\nIt would form a most suitable material for coins of the different denominations, from one-to five dollars; and seems to\nhave been designed by nature expressly lo fill up this hiatus\nand supply this acknowledged deficiency in our currency, li\nwill be found admirably to fulfil all the conditions laid down\nby political economists, ns essential ton (it metal lor coin.\nThat it is well calculated to subserve the purposes of coin,\nis also the opinion of some of the ablest chemists of Europe\nand America. Dr. Silliman says, \" it would be excellent for\ncoin.\" Mr. Park says, \"it Would be very suitable for the fa.\nbricalion of coins and metals, especially ns it is not injured by\nacids, and would admit the most delicate impressions that a die\ncould possibly impart.\" The Russians have already availed\nthemselves of this metal for coinage in large quantities' and\nit is fair to presume, that they prefer it to either of the other\nprecious metals; for, while they are converting platinum into money, the castles of St. Peter and St. Paul are filled with\ngold and silver.\nNew York University.\u2014The Law Faculty of i|us\nflourishing Institution, (says the New Yorker,) is about to\nbe efficiently organized. The Council have determined on\nthe appointment of three Law Professors; and two of the\nnumber have already been selected. The department of\nEquity, Constitutional and International Law has been devolved on Hon. Benjamin F. Butler, Attorney General\nof the United States, who will shortly resign his politic,-,)\nstation, to enter upon tho duties of his university appointment;\nwhile the department of Pleading and Practice has been as-\nsigned to David Graham, jr., so well known to our citizens\nas an eloquent and popular practitioner nt the bar. The pro\nfessorship of Commercial Law and Personal Property, will\nbe filled in a few days, and the Law Faculty will enter upon\ntheir duties on the first of April ensuing.\nGenius and its Fame.\u2014Genius, thou art like the ileiv\nwhich descends from heaven in the darkness of night, nnd\nwhich, invisible to nil eyes, yet gives strength lo the flower\nand coolness to its nectar, the whole night long. But when\nthe sun throws round its fiery rays, they drink up the dew,\nmd tho flower hangs its drooping head. Genius, thou art\nike the dew! While guarded within the breast, thy influence is to cool and strengthen it, but when thy bright ray!\nire cast upon the world, ihott faclest into naught, and leaves\nbehind thee a withered  and a drooping heart.\u2014Paul Jean.\nICELAND presents the curious contrast ofnnarclic country\nenclosed in \"thick-ribbed ice,\" and emitting streams of molten lava nnd sulphur from within its burning caverns that arc\nthus encrusted with ice,\n\"The volcano called Skupter Joklll, in Iceland, in the year\n1783, sent out two great streams of lava, one of which was\nfifty miles in length, from ten to fifteen in breadth, nnd the ordinary depth about ono hundred feet, but in some deep valleys\nit was more than five hundred feet, The other was forty\nmiles long, seven wide on the average, and about the same\ndepth as the first.\"\nPotash from Beet Root.\u2014Anew discovery hasbeen\nmade in France, to produce potash in such quantities from the\nresiduum of beet root, alter making the sugar, ns to threatens\nrivalry with the produce of tho American forests. M. I&gt;\nbrunfaut is the discoverer. The molasses, after serving for\nthe making of sugar, is distilled to obtain alcohol. The re-\nmainih r is then, instead of being thrown away, manufactured\ninto potash. The quantity of potash furnished by Mr. Die\nbrunfaut's process is one-sixth of the quantity of sugar extracted from the beetroot. Thus, says the Journal des Debats,\ntaking the amount of indigenous sugar manufactured each\nyear at 40,000,000 of kilogrammes, there may besides be extracted from the beet root, which has served for that production, 7,000,000 kilogrammes of saline matter, comparable to\nthe best potash of commerce, and this, too, without the loss\nof the alcohol, and other produce, the fabrication of which\nmust be continued simultaneously. According to present\nprices, the 7,000,000 of kilogrammes represent a value \u00ab'\u25a0\nfrom 5,000,000 to 0,000,000 of francs\u2014 Washington (''*\u25a0","fullrs":{},"find":"469.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"468","restrictionCode":"1","cdmfilesize":"1865283","cdmfilesizeformatted":"1.78 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

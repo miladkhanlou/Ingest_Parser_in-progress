@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$20 Reward</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001957</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>G.M. Peirce</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1853-01-04</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Plantation of Mrs. Mary Scudder</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Plantation of Mrs. Mary Scudder</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1853</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1853-01-02</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$20 Reward. RANAWAY from the Plantation of Mrs. Mary Scudder, on Sunday nigh, Jan. 2d. 1853, the negro man FRANK, about 5 feet high, dark griffe, small, slender, quick in his movements, converses fluently, and has a slight scar on his right cheek, caused by a burn. He is either  lurking about Baton Rouge or will attempt to make his way to Mississippi. -- Ten dollars reward will be given for his apprehension, if caught in the Parish, or twenty if out of it. Also negro man Abram, dark griffe, middle height, stout thick, and has a scar on the right or left cheek caused by a hurn, intelligent but slovenly in his appearance, same reward as the other. G.M. PEIRCE, For Mrs. Mary C. Scudder.</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">dark griffe</note>
+   <note type="content" displayLabel="Slave Owner">Mrs. Mary Scudder</note>
+   <note type="content" displayLabel="Slave Name (Age)">Frank; Abram</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$20 or $10</note>
+   <note type="content" displayLabel="Slave Presumed Destination">Baton Rouge, La. or Mississippi</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">2</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 4</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Daily comet. : (Baton Rouge, La.) 1850-1856</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83016548/1853-01-04/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn88064150/1853-11-16/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn88064150/1853-11-23/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn88064150/1853-11-23/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn85034235/1859-10-21/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn85034235/1859-10-28/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn85034235/1859-10-28/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn85034235/1859-11-04/ed-1/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn85034235/1859-11-04/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn85034235/1859-11-11/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn85034235/1859-11-18/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn85034235/1859-11-25/ed-1/seq-4/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83016548</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2088</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-16</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2088</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2088/json"
+                        timestamp="2017-02-13 13:32:57">{"title":"RSA00001957","object":"sn83016548","publia":"The Daily comet. : (Baton Rouge, La.) 1850-1856","date":"1853-01-04","year":"1853","film":"page 2, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016548\/1853-01-04\/ed-1\/seq-2\/","unique":"$20 Reward","person":"G.M. Peirce","parish":"Plantation of Mrs. Mary Scudder","digita":"1853-01-02","acknow":{},"public":"Mrs. Mary Scudder","town":"Plantation of Mrs. Mary Scudder","relati":"Frank; Abram","slave":"M","slavea":"dark griffe","slaveb":"N","slavec":"Baton Rouge, La. or Mississippi","reward":"$20 or $10","multip":"2","physic":"Y","persoa":"N","transc":"$20 Reward. RANAWAY from the Plantation of Mrs. Mary Scudder, on Sunday nigh, Jan. 2d. 1853, the negro man FRANK, about 5 feet high, dark griffe, small, slender, quick in his movements, converses fluently, and has a slight scar on his right cheek, caused by a burn. He is either  lurking about Baton Rouge or will attempt to make his way to Mississippi. -- Ten dollars reward will be given for his apprehension, if caught in the Parish, or twenty if out of it. Also negro man Abram, dark griffe, middle height, stout thick, and has a scar on the right or left cheek caused by a hurn, intelligent but slovenly in his appearance, same reward as the other. G.M. PEIRCE, For Mrs. Mary C. Scudder.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.;","type":"text","format":"clipping","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn88064150\/1853-11-16\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn88064150\/1853-11-23\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn88064150\/1853-11-23\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn85034235\/1859-10-21\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn85034235\/1859-10-28\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn85034235\/1859-10-28\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn85034235\/1859-11-04\/ed-1\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn85034235\/1859-11-04\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn85034235\/1859-11-11\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn85034235\/1859-11-18\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn85034235\/1859-11-25\/ed-1\/seq-4\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001957.jpg","find":"2152.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-16","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"2088","restrictionCode":"1","cdmfilesize":"172655","cdmfilesizeformatted":"0.16 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

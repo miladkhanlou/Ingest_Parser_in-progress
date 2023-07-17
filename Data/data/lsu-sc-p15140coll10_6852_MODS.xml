@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 33</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2258</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2258</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2258/json"
+                        timestamp="2017-02-03 08:24:51">{"title":"Section 7, Page 33","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"L33]\n.      feW stakes, and resting partly on the bottom, is covered at seasons of\n\u00a3iWf bv fifteen feet \u00b0^ water' aud though almost ready to float, is not moved\n0Dm    ^the Bonne Idee is one of the streams of the Bceuf swamp, the largest of\nthree divisions of the swamp of which I have spoken;  and all this goes to\nthat the flood-water has more the character of a lake than of a running\n*\u00b0*   an(j that the size of the openings for passing the water bears no relation to\nwhich would be necessary for passing a running stream of equal width and\njTh    A consideration of the cause of these floods, namely, the escape of the\nM fflissippi waters from above, and those of the lower Arkansas, will show that\n^in^s sufficient to pass these escape waters are sufficient also for draining the\n'Imp? If there were a break through the bank ofthe Mississippi as wide as\nfoe whole width of that stream, and enough water poured through this opening\nto lower the surface of the river, with a current of five miles an hour, one foot,\ntheseopeuiugs, which together would equal the width of the river through which\nthe water would flow, with a depth of five feet, at the rate of one mile an hour,\nwould suffice to pass the same amount of water. But in case even of a mistake\non this point, iu construction, if the openings be too small, but not extravagantly\n10 the sole effect will be to back up the water until by this greater head it attained\na greater velocity, thereby causing an additional quantity of water to pass. The\ndifference of a foot in the level of the surface of the water above and below the\nbank would cause the passage of a body of water under such bridges as we propose to construct, many times greater than would be passed with the ordinary\nsluggish movement of the waters.\nThis holding back of the water would continue but for a few days before it\nwould be brought to equilibrium, or retire to its proper channels, and leave the\ncultivated country above ready for the labors of the planters. It is, moreover,\nnot necessary to proceed rashly in the construction, as it is possible to prepare\nihe work for travel before contracting the openings to their permanent minimum.\nFor this I would, in the beginning, construct none but the lighter embankments of\nearth; and as all the places of the heavier embankments are in the approaches to\nUjb openings, I would make a temporary substitute of trestles at those places,\nuntil by minute observation, precise knowledge on the proper permanent contraction could be obtained. By this means another object would be subserved,\nby providing a way for the transportation of the materiel for the permanent\nwork.\nIn accordance with these views, I would cross every channel in the swamp,\nargeor small, by bridges, instead ofthe small culverts which would be applicable\nn&gt; other localities; and by multiplying these until the total opening became suffi-\nS\u2122jt0 Pass al least a foot of the surface water of the Mississippi River, I think\nwe drainage would be entirely effected.\nI have given nearly half a mile of bridging through the entire swamp,\nf have located it at such places as to secure a depth generally as great as ten\neet and frequently much greater, and have estimated accordingly.\nthe material for the banks will be dug up from the sides, and the trenches so\n, eJnay,oensed,at discretion, to lead the waters to discharge at favorable points,\ntefiir ^?\"o'traversestohold it in pools, and receive the sediment with a view of\njDg them.   I have seen this latter process applied on a small scale, but very\n\u00aboned tJ't mdi.vidua'8 near t!ie mouth of the Mississippi. It has been men-\nabove'thiat(iat Points through the swamp are spots and ridges of land elevated\ngenerally-1 7\u00b0T from causes not always evident. The Mason hills, although\ntnauy re* i a *eet ab\u00b0ve the swamp, have a substratum of rock. There are\n*^ I learnt \u2022 g the line ofthe road throu8b tllese Mils, a\u00bbd from some of\nStances \" Ulat*Q 8&gt;nking their wells they had encountered a soft rock\u2014in some\nvery good-1% ilme8tone.\" iQ others, '\u25a0 freestone.\" The water of tbe latter is\ndeep. Lnat ot tne former slightly fetid.    The wells were from 30 to 40 feet\n?ich&gt; aceCorfed places through the swamp were the banks of the streams,\nk of them        t0 t]i\u00b0 uuiversal rule in this country, are higher than the country\nu,6 \u2022fcQiitrvf Qe in^eSai-d to the Mississippi as to the smallest bayous; the slope of\n\"\u25a0fota aJ-\u00b0.m tlle ba\"k of the Mississippi within the levee, to the bank of the\n'   aistance of 53 miles in a straight line, being 20 feet; and the highest","fullrs":{},"find":"2259.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2258","restrictionCode":"1","cdmfilesize":"559255","cdmfilesizeformatted":"0.53 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

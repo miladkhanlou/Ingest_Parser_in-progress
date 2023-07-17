@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$10 de Récompense.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000308</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Geo. Chevalier</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1858-07-24</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1858</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1858-05-30</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$10 de Récompense. L'esclave JIM RED, àgé d'environ 51 ans, taille mayenne de 5 pieds, mulâtre foncé, chauve sur le sommet de la téte, grisonnant us peu, aves une légère cicstrice sur le côté droit de la lèvre inférieure, s'est absenté, le 30 mai dernier. de chez le soussigué, [illegible] GEO. CHEVALIER. 17 j.-4 f.</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">dark mulatto</note>
+   <note type="content" displayLabel="Slave Name (Age)">Jim Red (51)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$10</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 3</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le Meschacébé. : ([Lucy] La.) 1853-1942</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86079080/1858-07-24/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86079080/1858-07-31/ed-1/seq-2/; </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86079080</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/939</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>939</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/939/json"
+                        timestamp="2017-02-13 13:33:15">{"title":"RSA00000308","object":"sn 86079080","publia":"Le Meschace\u0301be\u0301. : ([Lucy] La.) 1853-1942","date":"1858-07-24","year":"1858","film":"page 2, column 3","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079080\/1858-07-24\/ed-1\/seq-2\/","unique":"$10 de R\u00e9compense.","person":"Geo. Chevalier","parish":{},"digita":"1858-05-30","acknow":{},"public":{},"town":{},"relati":"Jim Red (51)","slave":"M","slavea":"dark mulatto","slaveb":"N","slavec":{},"reward":"$10","multip":{},"physic":"Y","persoa":"N","transc":"$10 de R\u00e9compense. L'esclave JIM RED, \u00e0g\u00e9 d'environ 51 ans, taille mayenne de 5 pieds, mul\u00e2tre fonc\u00e9, chauve sur le sommet de la t\u00e9te, grisonnant us peu, aves une l\u00e9g\u00e8re cicstrice sur le c\u00f4t\u00e9 droit de la l\u00e8vre inf\u00e9rieure, s'est absent\u00e9, le 30 mai dernier. de chez le soussigu\u00e9, [illegible] GEO. CHEVALIER. 17 j.-4 f.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079080\/1858-07-31\/ed-1\/seq-2\/; ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"\"Call number\"\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":{},"fullrs":"Volume4\/RSA00000308.jp2","find":"1003.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"939","restrictionCode":"1","cdmfilesize":"103116","cdmfilesizeformatted":"0.10 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

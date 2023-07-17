@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Daryl Blacher Murray oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Murray, Daryl Blacher, 1956-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Graves, Nadia</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1995</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African Americans</topic>
+    <topic>Education (Secondary)</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African Americans</topic>
+    <topic>Political activity</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African American high school students</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African American teachers</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>High school student activities</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>School sports</topic>
+    <topic>Louisiana</topic>
+    <topic>Baton Rouge</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>McKinley High School (Baton Rouge, La.)</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Murray, Daryl Blacher, 1956</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Murray recalls her time as a student at McKinley High School from 1970 to 1974.  She discusses the importance of academics, the teachers who were her role models, the popular fashions and hairstyles, the elected offices she held and honors she was bestowed, and the role that a McKinley education played in her career as a public servant.  She discusses the role of athletics at McKinley, the quality of the athletic programs, and the rivalry between McKinley and Capitol High School.  She ponders the influence of McKinley on Baton Rouge's history and the school's impact on the political life of African Americans in Baton Rouge.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/mckinley/1_history/Murray_Daryl_Blacher_T1014.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.0687; A digital version of the transcript (pdf) exists for duplication purposes; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room; Interview conducted by Nadia Graves.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Daryl Blacher Murray was born on April 2, 1956, in New Orleans, La., to Beverly and Harold Blacher, Sr.  She is one of five children and grew up across the street from McKinley High School in Baton Rouge, La.  Murray attended McKinley High School from 1970 to 1974.  She served as student body president and class president, was named Most Popular and Miss Track, and was a member of the Honor Society.  After graduating from McKinley, she attended Southern University and graduated with a degree in speech communication.  At the time of the interview, she was employed by the East Baton Rouge Parish Planning Commission.  She went on to work as the associate state director for community outreach for the AARP, and in 2009 became the director of the Bureau of Policy, Planning and Evaluation for the Louisiana Department of Social Services.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>1 sound cassette (19 minutes); Transcript (12 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017348" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>McKinley High School Oral History Project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>McKinley High School oral history project</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-mckinley:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Daryl Blacher Murray Oral History Interview, Mss. 4700.0687, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">Murray_Daryl_Blacher_T1014</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-04-23T12:08:15.383-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Partis Marrons.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000627f</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Jean Pierre Lafleur</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1860-03-03</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Prairie Chataignier, St. Landry, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>St. Landry</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1860</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1860-02-25</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Parties Marrons, -- De la résidence du soussigné, à la Prairie Chataigner, le samedi, 25 fevrier dernier, deux négres, -- l'un griffon, taille de 5 pieds 7 ou 8 pouces, trapu, âgé d'environ 35 ans, parlant l'anglais seulement, et sait lire et écrire ; l'autre est un peu moine grand, noir, a environ 40 ans, a un front proéminent et parle angalis généralement. Une récompense libérale sera accordée à quiconque logera ces nègres en prison ou les livrera au soussigné. JEAN PIERRE LAFLEUR. St. Landry, 3 mars, 1860. --tf
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">griff; black;</note>
+   <note type="content" displayLabel="Slave Owner">Jean Pierre Lafleur
+</note>
+   <note type="content" displayLabel="Slave Name (Age)">negro man (35); negro man (40)
+</note>
+   <note type="content" displayLabel="Slave Age Under 12">N
+</note>
+   <note type="content" displayLabel="Physical Description Provided">Y
+</note>
+   <note type="content" displayLabel="Slave Sex">M;</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">2
+</note>
+   <note type="content" displayLabel="Personality Description Provided">Y
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 4
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1860-03-03/ed-1/seq-1/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1860-03-10/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1860-03-17/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1860-03-24/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1860-03-31/ed-1/seq-2/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1969</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-16</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1969</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1969/json"
+                        timestamp="2017-02-13 13:34:04">{"title":"RSA00000627f","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":"1860-03-03","year":"1860","film":"page 1, column 4\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1860-03-03\/ed-1\/seq-1\/\n","unique":"Partis Marrons.\n","person":"Jean Pierre Lafleur\n","parish":"St. Landry\n","digita":"1860-02-25","acknow":{},"public":"Jean Pierre Lafleur\n","town":"Prairie Chataignier, St. Landry, La.\n","relati":"negro man (35); negro man (40)\n","slave":"M;","slavea":"griff; black;","slaveb":"N\n","slavec":{},"reward":{},"multip":"2\n","physic":"Y\n","persoa":"Y\n","transc":"Parties Marrons, -- De la r\u00e9sidence du soussign\u00e9, \u00e0 la Prairie Chataigner, le samedi, 25 fevrier dernier, deux n\u00e9gres, -- l'un griffon, taille de 5 pieds 7 ou 8 pouces, trapu, \u00e2g\u00e9 d'environ 35 ans, parlant l'anglais seulement, et sait lire et \u00e9crire ; l'autre est un peu moine grand, noir, a environ 40 ans, a un front pro\u00e9minent et parle angalis g\u00e9n\u00e9ralement. Une r\u00e9compense lib\u00e9rale sera accord\u00e9e \u00e0 quiconque logera ces n\u00e8gres en prison ou les livrera au soussign\u00e9. JEAN PIERRE LAFLEUR. St. Landry, 3 mars, 1860. --tf\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.\n","type":"text","format":"clipping","langua":"French;","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1860-03-10\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1860-03-17\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1860-03-24\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1860-03-31\/ed-1\/seq-2\/\n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000627f.jp2","find":"2105.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-16","dmmodified":"2016-03-16","dmoclcno":{},"dmrecord":"1969","restrictionCode":"1","cdmfilesize":"183606","cdmfilesizeformatted":"0.18 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

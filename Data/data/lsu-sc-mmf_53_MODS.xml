@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Codex Calixtinus</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Alternative Title">
+      <title>Liber Sancti Jacobi</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate" point="start">1150</dateCreated>
+      <dateCreated qualifier="approximate" point="end">1160</dateCreated>
+      <place>
+         <placeTerm>Spain</placeTerm>
+      </place>
+      <publisher>[Madrid?]: Kaydeda Ediciones, 1993</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">Also known as the Liber Sancti Jacobi, this manuscript is a guidebook for pilgrims traveling to the shrine of the apostle StJames in Santiago de Compostela, Spain The text was long thought to have been written by Pope Callixtus II, but scholars now believe that it is the work of Callixtus’s secretary, the French scholar Aymeric Picaud 
+
+The Codex Callixtinus is divided into five sections The first contains sermons, liturgical texts and homilies for the liturgy of StJames The second recounts miracles attributed to the him This is followed by a history of the transfer of StJames’s body from Jerusalem to Galicia The fourth book, which was reincorporated into the manuscript in 1964 after being removed from the codex in the seventeenth century, is a history of Charlemagne’s failed attempt in the eighth century to liberate Spain and the tomb of StJames from the Moors; it also contains an account of the death of the knight Roland at the Battle of Roncevaux Pass in 778 The fifth and final book contains practical advice for pilgrims traveling to Santiago de Compostela This manuscript is also an important source of medieval polyphonic music and contains the earliest known composition for three voices.</abstract>
+   <abstract displayLabel="Contents">Guide for pilgrims</abstract>
+   <note type="content" displayLabel="Illustration">paintings of StJames and other figures; Decorated initials</note>
+   <note type="content" displayLabel="Details">1 vfacsimile</note>
+   <note type="content" displayLabel="Century">12th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Gothic</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Latin</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">Archivo de la Catedral de Santiago de Compostela, Spain (http://www.catedraldesantiago.es/es/archivo-biblioteca )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Rare BT685.5 .C64 1993 OVER</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">mm00023</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/501</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>501</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/501/json"
+                        timestamp="2017-02-03 14:39:14">{"title":"Codex Calixtinus","creato":{},"centur":"12th century","date":"ca1150-60","origin":"Spain","conten":"Guide for pilgrims","illust":"paintings of StJames and other figures; Decorated initials","script":"Gothic","scribe":"Unknown","curren":"Archivo de la Catedral de Santiago de Compostela, Spain (http:\/\/www.catedraldesantiago.es\/es\/archivo-biblioteca )","descri":"Also known as the Liber Sancti Jacobi, this manuscript is a guidebook for pilgrims traveling to the shrine of the apostle StJames in Santiago de Compostela, Spain The text was long thought to have been written by Pope Callixtus II, but scholars now believe that it is the work of Callixtus\u2019s secretary, the French scholar Aymeric Picaud \n\nThe Codex Callixtinus is divided into five sections The first contains sermons, liturgical texts and homilies for the liturgy of StJames The second recounts miracles attributed to the him This is followed by a history of the transfer of StJames\u2019s body from Jerusalem to Galicia The fourth book, which was reincorporated into the manuscript in 1964 after being removed from the codex in the seventeenth century, is a history of Charlemagne\u2019s failed attempt in the eighth century to liberate Spain and the tomb of StJames from the Moors; it also contains an account of the death of the knight Roland at the Battle of Roncevaux Pass in 778 The fifth and final book contains practical advice for pilgrims traveling to Santiago de Compostela This manuscript is also an important source of medieval polyphonic music and contains the earliest known composition for three voices.","biblio":{},"public":{},"associ":{},"altern":"Liber Sancti Jacobi","langua":"Latin","genres":{},"facsim":"[Madrid?]: Kaydeda Ediciones, 1993","extena":"1 vfacsimile","call":"Rare BT685.5 .C64 1993 OVER","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00023","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"1145, 1146, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155, 1156, 1157, 1158, 1159, 1160, 1161, 1162, 1163, 1164, 1165","fullrs":{},"find":"502.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"501","restrictionCode":"1","cdmfilesize":"443","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

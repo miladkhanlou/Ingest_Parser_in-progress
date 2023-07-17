@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>One Hundred Dollars Reward.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001897</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes">1851-02-14</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1851</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">ONE HUNDRED DOLLARS REWARD--Will be paid for the arrest and confinement in the Second Municipality Workhouse, of the girl ELLEN or ELIZA WILLIAMS, of a yellow color, aged about 20 years, and about 5 feet 4 inches in height--high cheek bones; seems startled when spoken to suddenly, and hesitates in her speech; had on when she left, a sun bon-net and a dark green worsted dress, and wears false hair in front; has some freckles on her face. fe14 3t</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">yellow</note>
+   <note type="content" displayLabel="Slave Name (Age)">Ellen or Eliza Williams (20)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$100 </note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">F</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 3</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Daily crescent. : ([New Orleans, La.]) 1848-1851</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-14/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-15/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-17/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-18/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-19/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-20/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-21/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-22/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-24/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-25/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-26/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-27/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-02-28/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-01/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-03/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-04/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-05/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-06/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-07/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-08/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-10/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-11/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-12/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-13/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-15/ed-1/seq-3/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015378</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2029</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-16</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2029</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2029/json"
+                        timestamp="2017-02-13 13:33:06">{"title":"RSA00001897","object":"sn82015378","publia":"The Daily crescent. : ([New Orleans, La.]) 1848-1851","date":"1851-02-14","year":"1851","film":"page 2, column 3","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-14\/ed-1\/seq-2\/","unique":"One Hundred Dollars Reward.","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":"Ellen or Eliza Williams (20)","slave":"F","slavea":"yellow","slaveb":"N","slavec":{},"reward":"$100 ","multip":{},"physic":"Y","persoa":"Y","transc":"ONE HUNDRED DOLLARS REWARD--Will be paid for the arrest and confinement in the Second Municipality Workhouse, of the girl ELLEN or ELIZA WILLIAMS, of a yellow color, aged about 20 years, and about 5 feet 4 inches in height--high cheek bones; seems startled when spoken to suddenly, and hesitates in her speech; had on when she left, a sun bon-net and a dark green worsted dress, and wears false hair in front; has some freckles on her face. fe14 3t","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Women slaves--Louisiana.;","type":"text","format":"clipping","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-15\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-17\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-18\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-19\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-20\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-21\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-22\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-24\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-25\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-26\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-27\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-02-28\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-01\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-03\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-04\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-05\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-06\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-07\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-08\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-10\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-11\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-12\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-13\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-15\/ed-1\/seq-3\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001897.jpg","find":"2009.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-16","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"2029","restrictionCode":"1","cdmfilesize":"51234","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

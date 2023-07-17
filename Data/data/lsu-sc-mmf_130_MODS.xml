@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Très Riches Heures du Duc de Berry</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Alternative Title">
+      <nonSort>The</nonSort>
+      <title>Very Rich Hours</title>
+  </titleInfo>
+   <name displayLabel="Scribe/Artist">
+      <namePart>Scribe unknown</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Scribe/Artist">
+      <namePart>miniatures by the brothers Paul, Hermann and Jean Limbourg, Barthélemy van Eyck, and Jean Colombe</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1410</dateCreated>
+      <place>
+         <placeTerm>France</placeTerm>
+      </place>
+      <publisher>New York: Harry N. Abrams, 1984</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">Probably the most important illuminated manuscript of the 15th century, the Très Riches Heures (“The Very Rich Hours”) is an elaborately decorated prayer book that was  commissioned by Jean, Duc de Berry circa 1410.  It consists of 416 pages, including 131 with large miniatures and many more with border decorations or historiated initials, that are among the high points of International Gothic painting in spite of their small size. There are 300 decorated capital letters.  The illustrations, many of which include images of the duke’s chateaux, depict scenes related to the seasons, including a New Year’s banquet, sowing the fields, autumn harvest, picking grapes, hawking, and a boar hunt.</abstract>
+   <abstract displayLabel="Contents">An illuminated book of hours</abstract>
+   <note type="content" displayLabel="Illustration">Over 100 miniatures, elaborate border decoration</note>
+   <note type="content" displayLabel="Details">V. 1. commentary; V. 2. facsimile</note>
+   <note type="content" displayLabel="Century">15th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Gothic</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">Musée Condé, Chantilly, France (Ms. 65) (http://www.bibliotheque-conde.fr/collections-et-catalogues/bibliotheque/manuscrits/ )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Rare ND3363 .B5 T713 1984 OVER</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">mm00027</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/400</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>400</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/400/json"
+                        timestamp="2017-02-03 14:39:14">{"title":"Tr\u00e8s Riches Heures du Duc de Berry","creato":{},"centur":"15th century","date":"ca. 1410","origin":"France","conten":"An illuminated book of hours","illust":"Over 100 miniatures, elaborate border decoration","script":"Gothic","scribe":"Scribe unknown; miniatures by the brothers Paul, Hermann and Jean Limbourg, Barth\u00e9lemy van Eyck, and Jean Colombe","curren":"Mus\u00e9e Cond\u00e9, Chantilly, France (Ms. 65) (http:\/\/www.bibliotheque-conde.fr\/collections-et-catalogues\/bibliotheque\/manuscrits\/ )","descri":"Probably the most important illuminated manuscript of the 15th century, the Tr\u00e8s Riches Heures (\u201cThe Very Rich Hours\u201d) is an elaborately decorated prayer book that was  commissioned by Jean, Duc de Berry circa 1410.  It consists of 416 pages, including 131 with large miniatures and many more with border decorations or historiated initials, that are among the high points of International Gothic painting in spite of their small size. There are 300 decorated capital letters.  The illustrations, many of which include images of the duke\u2019s chateaux, depict scenes related to the seasons, including a New Year\u2019s banquet, sowing the fields, autumn harvest, picking grapes, hawking, and a boar hunt.","biblio":{},"public":{},"associ":{},"altern":"The Very Rich Hours","langua":"French","genres":{},"facsim":"New York: Harry N. Abrams, 1984","extena":"V. 1. commentary; V. 2. facsimile","call":"Rare ND3363 .B5 T713 1984 OVER","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00027","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"1405, 1406, 1407, 1408, 1409, 1410, 1411, 1412, 1413, 1414, 1415","fullrs":{},"find":"401.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"400","restrictionCode":"1","cdmfilesize":"567","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 03</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/472</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>472</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/472/json"
+                        timestamp="2017-02-09 16:30:52">{"title":"Page 03","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL\n90\nwaft it upon upon those who were before out of its reach. In\nproportion to the distance and the range of elevation above\nthe declivity to the margin of the ravine, so is the immunity\nof persons.\n1. There are other bayoux and ravines, equal to those\nnlinut Natchez, in the country, but, although they may and do\njreneralc miasm as fast as those near and in Natchez, they\ndo not produce yellow fever; because they have not the population to contaminate the air, and cause it to combine with\n(ho miasm, so as to produce yellow fever malaria. On those\nleiyoiix or deep ravines in the country, we find only common\nerratics of bilious fever; which is produced by the union of\nmarsh exhalations with miasm.\n\",. The same principles are illustrated by the facts connected with epidemic yellow fevers in cities differently situated from Natchez; where, instead of bayoux, there are other\nlow surfaces to accumulate the malaria.\nij. The same principle is fully sustained in the production\nof yellow fever on boar.l large ships at sea, crowded with\nhuman beings, as line of battle ships: these become infected\nat sen, only when there is a continuation of hot, calm, sultry\nweather. At other times, only bilious fever will eiecur in\nliii'in. This mularia, in common seasons, may generate so\nslowly, or be so slightly concentrated, as to produce no active\nwithout miasm, will produce fever; and the same at a low\ntemperature will produce common typhus, jail, and ship fever.\nThe same with miasm in a hot climate will produce yellow\nlever. Tlio most rapid effects from exhausted air on record,\nare those of the hundred and forty-six Englishmen, confined\nin the \" black-hole \" at Calcutta, of whom all but twenty-three\ndied in less than eighteen hours, with all the symptoms of a\nmost malignant and areh nt fever, produced solely from exhausted air charged with human effluvia,\nThe general atmosphere sometimes in hot, sultry weather,\nseems to possess this vivifying property in a less degree than\ncommon. This state of the atmosphere is indicated by n\nsense of oppression under which all animals appear lo labor,\nis evinced by the relaxation of the skin, and profuse perspiration; and the rapid respiration or panting, especially after\neven moderate exercise.\nWhen this sensible condition of the air exists longer than n\nvery few days, with a temperature during the day ranging\nbetween 88\" and 95\u00b0 in the shade, and from 80\" to 85\" nt\nnight, with a calm or serene atmosphere, whether cloudy,\nfoggy, smoky, or hazy, we may be sure the miasm is accumulating, and especially in cities, the air is rapidly becoming\ncontaminated, and will lend cin to nn epidemic yellow fever,\nwithout a change. This crisis maybe expedited by the intro-\nlisease.    While in this stale, like other poisons, tho whololduction of infected air, or of patients laboring uiulei yellow\npopulation of a city may be respiring it in such small quantities, (hut they not only feel no inconvenience, but they actually, by habitual exposure to it in its diluted suite, acquire an\nimmunity to its effects, even when it becomes more concentrated. The same immunity to its action is obtained by the\ndevelopment of the disease, provided it be so mild as not lo\ndestroy life. This eflect is produced by blunting the sensibility to its action,.similar to that produced by a continued use\nof uident spirits.' Those who have undergone this acclimating, will remain unharmed during an epidemic, while strangers and non-residents will he cut oil' rapidly by the disc use.\nWhen the malaria of common seasons becomes concentrated\nfever, &lt; )r if many persons in the city go on board a boat or\nvessel which is infected, and subsequently are attacked with\nyellow fever in the city, (luring the continuance of such a\nslate of the weather ns we have alluded to above, we may expect other cases lo spring up in their vicinity; and, without u\ntimely change of weather, the local air will become so infected as to spread tho disease to others. This is what is termed\nby some \"an epidemic constitution of the air\"\u2014for nil admit\nthat, at certain times, infection of yellow fever, as well as of\nother diseases, will spread rapidly\u2014and, at other limes, it\nwill not spread nt nil.\nJ'lius we believe that the union of miasm with air exhausted\nhj a continuation of hot, sultry weather, or by numerous by. respiration, and charged with human and animal exhaia-\nsporadic cases of strangers, or by infected air introduced, tjons&gt; jn a hot temperature, produces the malaria of yellow\nihe epidemic  follows.      Sometimes, doubtless, an epidemic fevcr. and that this may be more or less concentrated, and e.l\nmight be avoided, were it not for imprudent exposure to eom-\nci'in exciting causes, which, in such a time, give additional\npower to the malaria, by preparing the system to its action;\nli by diminishing the powers of the system to reahsl its operation.\nWe have said the air was exhausted by respiration in sultry\nweather, in addition to the animal exhalations with which it\nis charged. Doubtless respiration is one of the most potent\nsources of contamination to the air, when confined. Whether this contamination proceeds from any new principle or\nproperty imparted lo iho air from the lungs, as carbonic acid\ngas, ammoniacal gas, or nitrogen; or by depriving it of any\nproperty known to chemistry, wo presume not to decide. But\nWe believe it is exhausted, to u certain extent, of the vitalizing\nprinciple, the \"pabulum viltr,\" and nt the same time contaminated with animal effluvia. Hence the necessity of winds and\nMurms to carry off these matters and replace fresh air. Air\nexhausted by respiration and charged with animal effluvia\ncourse more or less morbific : that when to this is superadded\nn sufficient portion of the morbid exhalations of yellow fever\npatients, il produces the third degree of the morbific agent of\nyellow fever; viz:\nIII. Infection. This appears to possess properties differing from those of the malaria in several particulars. It\nseems to possess, in addition to its morbific properties, the pro\nperty or quality of assimildting to its own nature any impure\nor confined air into which a suitable portion of the infection\nis introduced. Thus the whole air in a room or ship's hold,\nwhen properly prepared for the prolific reception of the infection, will, in a short lime, be converted into an infected air\nequally as strong and active) as tho small portion first introduced. From its analogy to common ferment, 1 have called it\ngaseous ferment, meaning that change which my friend Or.\nCartwright expresses by the phraso \" assimilating process \" '\n\u25a0 Med Record, sot ls-x.\n. yi\nt. -i-.v-j\nWM\nm\n\u25a0 SJtfs]\n' &gt;'j1\nh\n\u25a0\n\u25a0 u\n'\u2022    I\n&gt;.\nI\nI\nI*',!","fullrs":{},"find":"473.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"472","restrictionCode":"1","cdmfilesize":"1813390","cdmfilesizeformatted":"1.73 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

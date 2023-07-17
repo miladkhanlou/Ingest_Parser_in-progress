@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 07</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/476</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>476</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/476/json"
+                        timestamp="2017-02-09 16:30:52">{"title":"Page 07","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN   JOURNA:\n103\ninfected that of \"several young men from the city, who wem\non board, all took tho disease, and soon after died.\" Immediately after these cases the disease manifested itself in various parts of tho city.\nThe yellow fever prevailed severely in New Orleans, in\n1,617, for several weeks previous to its appearance in Natchez.\nII, Tiik Epidemic of 1819.    The first alarm of yellow-\nfever was given on the 4th of September, ut which time several cases had occurred, and a portion of the citizens immediately fled to the country.    Cases became more  frequent,\nand more malignant in their type until the 14th of September,\nwhen it was considered epidemic.    It continued to prevail\nwith great mortality until the first of December.    At this\ntime about 200 persons of all kinds had fallen victims to ils\nravages, and the total number of cases was over 400.    Some,\nnsin 1817, died after they had fled to the country; and others after they had returned to their homes, and imprudently\nslept in their houses and beds before they were perfectly disinfected by cold weather.    The total deaths as given in the\nsexton's reports, during tho epidemic, in the city, were about\none hundred and eighty.    On the 3d of October, when only\nabout seventy-eight deaths had taken place, a census taken\nshowed the entire population, including blacks in both the\nupper and lower parts of the city, to be only five hundred and\nsixty-eight souls.    Subsequently about one hundred of this\nnumber died ; of whom about fifty died in the month of November.   Several cases and deaths by yellow fever were reported\nas late ns the 3d, 4th and 6th of December.\nA report made by the board of health during the epidemic\nstates, that the inhabitants of the country, and in the immediate\nvicinity of the city, were ns healthy ns usual at that season.\nThe meteorological table given by Dr. Perlee shows that\nJuly and August wero very wet, and September very dry.\nThe rain-gttago gave in July 12-27 inches; in August 8-05\ninches; and in September 0-95 inches.    The mean heat of\nJuly was 70 , of August 79\u00b0, and of September 75\".    Thus\nJuly and August exhibited a lower mean temperature, by 3'\nlhan the same months in 1SI8, which was a  healthy year.\nThe mean heat of September, 1819, was the same nearly as\nin 1318.    Hence we sec that the yellow fever in 1810 prevailed under the same temperature, or less, and with more\nthan double the quantity of ruin which preceded the epidemic\nof 1817.\u2014The month of November, in 1819, exhibited a\nhigher mean temperature than the same time in the preceding\nten years; being (35; Fahrenheit, or three-fourths of a degree\nhigher than than the mean temperature of November, 1837.\nOr  Perlee ascribes this epidemic lo the same  general\ncauses which, in his opinion, produced that of 1817.    H\nsupposes the excessive rains in July and August caused a\nstronger \"predisposition,\" as during the healthy summer of\n1818 it was comparatively dry and healthy.*    As to the particular portion of the city in which it prevailed in 1817 and\n1819, we are not informed; but doubtless it occupied that\npart of the city in which it has prevailed in each subsequent\nepidemic,\nThe yellow fever had prevailed to a most\n. alarming extent\nin New Orleans, for about two weeks before it appeared in\nNatchez, There had been scattering cases about the shipping, boats and wharves, as early as June; but it did not\nbecome epidemic until about the middle of August. It\nraged severely among the shipping, nnd spread to the ndja-\ncent streets, as also among the boats which hud descended the\nriver. Not a ship escaped one or more deaths, and some lost\ntheir whole crews; many steamers became infected, nnd lost\nmany of their passengers and hands. It did not entirely\ncease there until near the last of January, 1820.1\nDuring the years 1820, 1821, and 1822, yellow fever as\nnn epidemic, was unknown in Natchez. Yet, in each of\nthese yeais, especially in 1822, there were several sporadic\ncases, and some whose infection was derived from New Orleans, by handling, opening, or sleeping on blankets, &amp;c,\nfrom the infected district of that city. The state of the weather during these summers I have not been able to ascertain.\nCORRESPONDENCE.\nNatchez, 9th March, 1838.\nREV. o. ft. WlNC'IlF.STT.R,\nDear Sir,\u2014Wc believe we fully represent the wishes of all who\nheard your admirable Lecture, delivered before Ihe Institute end\nLyceum to-day, on ihe \" Importance of Female Education,\" when\nwe respectfully solicit a copy for publication in Ihe South-Western\nJournal.\nWith sentiments of high respect and esteem,\nYour obedient servants,\nG. V. II. Forbes,\nEd. South-Western Journal.\nS. A. Houciman,\nPrincipal of Ladies' Institute and Lyceum.\nMessrs. G. V. II. Forbes .wd S. A. Hoooman,\nGentlemen,\u2014If you think that ihe publication of my Lecture on\nthe Importance of Female Education, will, in any degree, promote\nthe cause which it advocates, you ;irc nt liberty to hay it before the\nreaders of the Siniih-Western Journal.\nWilli sentiments of {,'reat regard,\nI am your obedient servant,\nS. G. Winchester,\nNatchez, March 9th, 1838.\nill ISIS, tin- ruin of .Inly, August and Septombor, togelllor, being only 10-30\nInches, or loss than that of July, 1819.\ntin Meet, llcp., Nuw Series, vol. vl.p. 0,7,(1,9, 10, lo\u2014QO.\nTHE IMPORTANCE OF FEMALE EDUCATION.\nHaving been invited by the Principal ofthis Institution, to\ndeliver the first lecture in the course which he has proposed,\nI have selected, as my subject, the Importance of Female\nEducation, which may be regarded as an appropriate introduction to the lectures which arc to follow.\nThe term education, in its common acceptation, is far\ntoo limited in its meaning. It is commonly used to express\nthe acquisition of the rudiments of learning', and as applying\nto the intellectual faculties only. The etymology of the\nword, however, justifies us in extending its application to all\nthe faculties, morul, intellectual and physical, it signifies to\ndraw out (e duco) these faculties into vigorous and useful exercise, and expresses that systematic, training to which they\nare subjected. The restricted application of the term divorces from it, its most important meaning, namely, a moral\ntraining, which includes religious instruction and discipline.\nWe call this tho most important patt, because without it, the\nj;;\nlaf-I\n,.l*m\ni-f.mil\n,; 0m.\n\u25a0m\nifi'l\ni    i,\n!   -\u00bbS\ni ' V i\nI\nI J\n\u25a0j r","fullrs":{},"find":"477.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"476","restrictionCode":"1","cdmfilesize":"1706586","cdmfilesizeformatted":"1.63 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

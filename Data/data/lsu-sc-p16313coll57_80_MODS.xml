@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Map of Louisiana, 6th judicial district, 1808. (and surveyor's notes)</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <namePart>Pintado, Vicente Sebastián, 1774-1829.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1808</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Real property</topic>
+      <topic>Louisiana</topic>
+      <topic>East Baton Rouge Parish</topic>
+      <topic>Maps</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>West Florida</topic>
+      <topic>Maps</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Spain</topic>
+      <topic>Colonies</topic>
+      <topic>Administration</topic>
+      <topic>History</topic>
+      <topic>19th century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Real property</topic>
+      <topic>Louisiana</topic>
+      <topic>East Baton Rouge Parish</topic>
+      <topic>Maps</topic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1808</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1843</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1846</temporal>
+   </subject>
+   <abstract displayLabel="Description">Certified copy of property survey map originally created by Pintado in 1808. Original map in Spanish; notes on certified copy in English. 'Seal of office in the City of New Orleans this 25th day of January 1843 year of our Lord and the Sixty-seventh of the Independence of the U.S of America. (Signed) Bringier, Surveyor Genl.' 'A true copy of the document on file in my office. December 26th, 1846.' Pintado explains (in Spanish) the difficulties he encountered on this project. Far right upper (southeast) area of map shows unattached territory (Crown lands). Remainder of area (north, east, and west) in private hands, owned by Dominique Bouligny, Ursino Bouligny, Gilberto Andry, and Jean Baptiste Labatut.</abstract>
+   <typeOfResource>cartographic</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Map.</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Spanish; English</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>William Waller Survey Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll57:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/3592m.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Range 104, folder 03</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Access to unprocessed collections requires the permission of the curator, subject to  Special Collections' Policy on Access to Unprocessed Collections  (http://www.lib.lsu.edu/special/about/unprocessed.html)</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">William Waller Survey Collection, Mss. 3592, 3910, 4326, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">3592ra104f03i01_State of Louisiana_6th judicial district</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll57/id/186</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-04-09</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll57</alias>
+         <pointer>186</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll57/186/json"
+                        timestamp="2017-05-16 10:29:28">{"title":"Map of Louisiana, 6th judicial district, 1808. (and surveyor's notes)","creato":"Pintado, Vicente Sebastián, 1774-1829.","contri":{},"date":"1808","dates":"1808; 1843; 1846","descri":"Map.","notes":"Certified copy of property survey map originally created by Pintado in 1808. Original map in Spanish; notes on certified copy in English. 'Seal of office in the City of New Orleans this 25th day of January 1843 year of our Lord and the Sixty-seventh of the Independence of the U.S of America. (Signed) Bringier, Surveyor Genl.' 'A true copy of the document on file in my office. December 26th, 1846.' Pintado explains (in Spanish) the difficulties he encountered on this project. Far right upper (southeast) area of map shows unattached territory (Crown lands). Remainder of area (north, east, and west) in private hands, owned by Dominique Bouligny, Ursino Bouligny, Gilberto Andry, and Jean Baptiste Labatut.","langua":"Spanish; English","type":"Image ","subjec":"Real property--Louisiana--East Baton Rouge Parish--Maps.; West Florida--Maps.; Spain--Colonies--Administration--History--19th century.; Real property--Louisiana--East Baton Rouge Parish--Maps.","covera":{},"relati":"William Waller Survey Collection","source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/3592m.pdf","call":"Range 104, folder 03","cite":"William Waller Survey Collection, Mss. 3592, 3910, 4326, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Access to unprocessed collections requires the permission of the curator, subject to  Special Collections' Policy on Access to Unprocessed Collections  (http:\/\/www.lib.lsu.edu\/special\/about\/unprocessed.html)","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html. Mention the 'Item number' or 'Item URL' in your request.","format":"JPEG","digita":"Digitized using a Canon EOS 5D Mark II.","a":"3592ra104f03i01_State of Louisiana_6th judicial district","identi":"See 'reference URL' in the navigation bar.","collec":"http:\/\/www.louisianadigitallibrary.org\/cdm\/landingpage\/collection\/p16313coll57","catalo":"09\/30\/2014 rlh","fullrs":{},"find":"187.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-04-09","dmmodified":"2015-04-09","dmoclcno":{},"dmrecord":"186","restrictionCode":"1","cdmfilesize":"527","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Digitized using a Canon EOS 5D Mark II.</hardwareSoftware>
+  </extension>
+</mods>

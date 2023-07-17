@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 04</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/418</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>418</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/418/json"
+                        timestamp="2017-02-09 16:31:04">{"title":"Page 04","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"\u25a0J\n\u2022'f\ni', i\n, f \u2022\n1 'k-\nI*\n111.\n&amp;\n52\nSOUTH-WESTERN JOURNAL\n\u25a0       1 \"\n1   \u25a0\nI\n\/hi\nw\n11\n\u2022 ii\nestablish hope; but, in the dead of night, a light was descried\nfrom tho mainmast, right ahead. The anchor was cast, and\nat dawn, by the aid of another glass, the glittering steeples of\nthe long desired city, gleamed from the horizon, nnd the\nocean yielded to man the triumph. The proud conqueror\nwas no other than Capt. Basil Hall. Yet his victory must\nbe shared by a host, who have buttled valiantly with ignorance\nnnd error; who have laid truth upon truth of mathematic\nlore, and applied each to its proper use; one discovered and\nproved the motion of the heavenly bodies, and the rotundity\nof the earth; another applied the principles of optics, and\nmade an instrument which would bring the distant near, and\ngive to it ils proper magnitude; a third invented the sextant;\nand 11 thousand others, who brought earth, and sun, and moon,\nand stars, under contribution, each addi d an item, till the combined result gave man the glory of circumnavigating earth!\nThe prospect thickens I nowhere can the eye be turned, but\nsome useful work presents the mathematics, in its every line.\nTo trace out one item thoroughly, will involve the whole;\nand for this a volume would not hall suffice\nThere is yet, however, a higher branch of science, one\nwhose objects are nobler than mere temporal convenience and\ngain; and whose results have been far more stupendous. We\nallude to astronomy : ami passing by its more obvious advantages, we shall call attention lo ils effects upon the mind. Every aspiration of the mind after knowledge, is but a prompting from a higher source; and every onward step in its attainment, is an approximation to the source of its existence.\nWhen 1\nHow rich the prospect I and forever new!\nAnd newest to the mind that views il most,\nFor newer still in infinite succeeds,\nOib above orb, succeeding withoul end;\nCircle in circle, without end inclosed !\nWheels within wheels, Immensely great,\nImmensely distant from each other's spheres,\nWhat then the wondrous space through which they roll!\nAt once it iiuiic Ingulfs all human thought;\n'Tis comprehension's absolute defeat.\"\nSuch sublime contemplations add a grandeur to the mind, and\nteach it lo look beyond tho idlowhirl of worldly pageantry;\nto bear the little ills of human life with philosophy. In the\nstupendous works of nature, he is taught the profoundest\nlessons of humility; and his absolute dependence upon the\nomnific God, who deigns to notice the microscopic animalcule, man.    Then let him who would,\nliven \" ia ihe fetters of his flesh,\nMate with the pure essences ol\" heaven,\nPress on!   For il is godlike lo unloose\nThe spirit, and forget yourself in thought.\n*       *      .*       The soul of man\nCrcateth its own destiny of power,\nAmi as llic trial is hilenser here,\nHis being hath a nobler strength in heaven.\"\nA dialogue of illustrious names,\u2014the great benefactors\nof man.\u2014might be quoted to show the Utility, the morality\nand the sublimity of mathematic science; if names, indeed,\ncould add a commendation, after it has been shown, that tho\nAlmighty was the first,\u2014the omniscient mathematician. Yet\noils philosophers.    Show ns, if you please, from the writings\nmain-Uf Pascal, that great Christian philosopher, that his views\nchain-\nthat 1I1\nilllsloll\nid tin\n1 man was created in the image of God, 'twas in his one objection has been made, that its study narrows the views\nmind, and not his body, the resemblance consisti d. It is his and confines the judgment, If the above be not sufficient,\nglad privilege to heighten the similitude; and surely that is Lo could reforyou to the life and philosophy of a Pythagoras\nthe noblest exercise of his faculties, which brings him near- nnd u Plato. Not all the mathematic science of Chalden,\nest to the greai standard of perfection, Wq have already Egypt, and Greece, could narrow the minds of these illustri-\nshown that the universe of worlds, was created and set in mo-'\ntion by mathematical laws.    The same principles sti\ntain their silent, everlasting rounds, without tho most distant!,vcro narrowed, or bis judgment confined. Or take the writ-\nlorangeini nt. And we assert boldly, ings 011 menial philosophy of Dugald Stewart: are these less\nieseaIono,mrecompi tent to prevent tho wreck dear, logical, ami liberal,' than if be had not, Ibr forty Ion\"\nol matter and tho crush -I worlds. Then hi inventive and years, been a mathematical professor in Edinburgh? Was\nambitious man, turn his thoughts upward, to study these the eloquence of nn immortal Erskine less powerful, less tri-\n\u2022 .i'.M';-b.--i.\u00bb .;,:.! I.-no ;:\u201e\u25a0 v... !,. tnship of his Maker, umpliant, than if he bad not carried, as his pocket companion, an edition of Euclid's elements? History, and the learned world, give these, and all such questions, the unhesitating\nnegative. Let us follow their wise example ; for we cannot\nrepeal the decision.\nThe great and wise of every age have come to do these\nstudies reverence. Physicians and divines have worshipped\nat their shrine; and nionarchs have cast off the diadem, and\nassumed the garb of an humble mechanic, to travel and learn\nthe philosophy of physical and mental improvement. No\nman who has ever attracted attention by his powers, has discovered greater concentration, and omnipotence, so to speak,\nof intellectual might, than the bloody Napoleon. The mathematics were the secret of his greatness; mid had those giant\nenergies been properly directed ; had he planted the tree of\niberty, where ho prostrated and trampled upon the upas of\ntyranny, he might have scattered blessings widely as he dealt\nthe scourge\n\" Then mark\nTin- mathematic glories of the skies,\nIn number, weight and measure, all ordained,\nI low greal, how glorious then appears the mind of 111:111,\nWhen in il all ihe stars nnd planets roll.\nAnd what ii seems ii is; great objects make\nGreat minds, enlarging as their views enlarge,\nAnd thoso more godlike, as these more divine.\nAmi mora divine than these\" man \"cannot sec.\nDazzled, o'erpowered with ihe delicious draught\nOf miscellaneous splendors, how \" I rise\nFrom thought to thought.   *   \u2022   \u2022   \u00bb\nAn Eden this! a paradise unlost!\nI meet a Deity in every view.\n0 thai I could bin reach litis tree of life!\nFor he-re it grows, unguarded from oui taste,\nNo flaming sword denies our entrance here;\nWould man but gather, he might live forever.\nThough splendid all, no splendor void ol' use.\nThe great Economist, adjusting all\nTo pruileul pomp, magnificently wise.\npwzn","fullrs":{},"find":"419.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"418","restrictionCode":"1","cdmfilesize":"1799971","cdmfilesizeformatted":"1.72 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

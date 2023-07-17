@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_1</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright of the original material is retained in accordance with U.Scopyright lawsPermission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/625</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-07-23</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>625</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/625/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"Page_1","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","rights":"Physical rights are retained by the LSU LibrariesCopyright of the original material is retained in accordance with U.Scopyright lawsPermission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"F21\n[d\u00e9chir\u00e9] Ile aux Vaches ce 3 Juin 1866\nDimanche, apr\u00e8s midi.\nMa ch\u00e8re Isme [d\u00e9chir\u00e9]\nJe viens avec plaisir r\u00e9pondre \u00e0 une lettre non-re\u00e7ue\nmais qui je suis [d\u00e9chir\u00e9] doit- avoir \u00e9t\u00e9 \u00e9gar\u00e9es\u2019il fuat en juger d\u2019apr\u00e8s la\npromesse que vous m\u2019avez faites et qu\u2019ensuite j\u2019ai su par Az\u00e9mie, que vous m\u2019a-\nviez \u00e9critJe regrette infiniment que Votre \u00e9p\u00eetre se soit- \u00e9gar\u00e9e, car il\nn\u2019y a rien que me contrarie plus que d\u2019en perdre uneAux soins de\nqui me l\u2019avez-vous envoy\u00e9e? J\u2019ai beaucoup regrett\u00e9 de n\u2019vous avoir pas vu\npendant les deux semaines de retard que vous avez pass\u00e9 chez tante\nTh\u00e9ophie _ Si j\u2019avais pu aller vous voir je l\u2019aurai fait- mais\nil m\u2019a \u00e9t\u00e9 impossibleet nous n\u2019avons plus \"le cocher, la voiture\net les chevaux d\u2019autrefoisNous sommes sur l\u2019Ile (aux vaches)\nqui je vous assure est bien marqu\u00e9e, retir\u00e9s ~a nous seuls et s\u00e9par\u00e9s\npresque \u00e0 nous ses du monde entier \"et- du, reste de l\u2019Univers,\nJe dirais comme \" Oncle Andr\u00e9, que vous regardez au Nord, au Sud\n\u00e0 L\u2019Est, \u00e0 L\u2019ouest et vous ne voyez qu\u2019une vaste \u00e9tendue d\u2019Eau.\nMais que je suis heureuse (au supr\u00eame degr\u00e9) de pouvoir vous\nannoncer que nous avons \u00e9chapp\u00e9s \u00e0 cette \"Noyade presque g\u00e9n\u00e9rale\nJe ne sais pas qu\u2019elle a \u00e9t\u00e9 l\u2019id\u00e9e du Bon Dieu _ cela du \u00eatre vraiment\nun oubli de sa part _ Voyez-vous il veut nous traiter, d\u2019indifference\n\u00e0 Son tourNous n\u2019avons perdu un arpent de terre, ni en coton, ni\nen ma\u00efs _ La savane a l\u2019air d\u2019un lac, et pour nous divertir, dans\nnotre Solitude, nous allons nous promener sur l\u2019eau presque toutes\nles apr\u00e8s midiAz\u00e9mia et Eliza sont les rameures et moi je\nsuis le capitaine [d\u00e9chir\u00e9] L\u2019eau commence \u00e0 tomb\u00e9e rondement et Dieu\nmerci nous sommes [d\u00e9chir\u00e9] saufs _ Je crains beaucoup qu\u2019il y ait beaucoup\nde mis\u00e8re l\u2019annee [d\u00e9chir\u00e9] [p]rpchaine, caus\u00e9e par l\u2019inondation qui a d\u00e9truit\npresque toutes les [d\u00e9chir\u00e9] [r\u00e9c]oltesCependant tout le monde semble rempli\n1","typa":{},"genera":{},"fullrs":{},"find":"626.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-07-23","dmmodified":"2008-07-23","dmoclcno":{},"dmrecord":"625","restrictionCode":"1","cdmfilesize":"1387298","cdmfilesizeformatted":"1.32 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

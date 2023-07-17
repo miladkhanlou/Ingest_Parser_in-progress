@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 14</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/375</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>375</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/375/json"
+                        timestamp="2017-02-09 16:31:03">{"title":"Page 14","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"14\nSOUTH-WESTERN JOURNAL.\ni-\ni i\n'\nI'.'\nI\n,\n\u2022\nFor me ihe spring shall bloom no more,\nNo dew refresh the mead,\nThe rosy hours of my life are o'er\u2014\nI sigh for the sleep ofthe dead.\nThere's music down In the coral gnu\".\nThe murmuring ofthe sea,\nWhere the purple mullet and gold llsli rova.\nO'er Ihe green ofthe rolling lea.\nThen, lay me there;for I love Ihe deep\u2014\n'Tisthe home of the lonely one.\nI'll joy 'mill its heaving waves to sleep,\nWhen the race of life is run. J- P- S.\nErii.it tli\" United Stales Magazine and Democratic Review.\nTHE BATTLE FIELD.\nBV W.M.  c.  BRYANT.\nOnce this soft turf, this rivulet's sands,\nWere trampled by a hurrying crowd,\nAnd fiery hearts and armed hands\nEncountered in the battle cloud.\nAh! never shall the land forget\nHow gushed the life-blood of her brave\u2014\nGushed, warm with hope and valor yet,\nUpon the soil they sought to save.\n.N,,w all is calm and fresh and still,\nAlone Ihe chirp of flitting bird,\nAnd talk of children mi Ihe hill,\nAnd bell of wandering klne, are heard.\nNn solemn host goes trailing by\nThe black-mouthed gnu and staggering wain;\nMen start not at the battle-cry,\nOh, he it never heard again !\nSoon rested those who fought\u2014but Ihou,\nWho mingles) in the harder strife\nFor truths which men receive not now,\nThy warfare only ends with lite.\nA friendless warfare! lingering long\nTin,,ugh weary day and weary year;\nA wild and many-weaponcd Ihrong\nHang on thy front and flank and rear\nVet nerve thy spirit to the proof,\nAmi blench not at thy chosen lo,;\nThciiinid g I may stand aloof,\nThe -age may frown\u2014yet faint thou not!\nNor heed the .-.hall loo surely casl,\nTli,, hissing, stingiug boll of scorn;\nFur with thy side shall dwell, ai last.\nThe victory of endurance born.\nTruth crushed to earth, shall rise again i\nThe eternal years of Good arc her's;\nBu, Error, wounded, writhes with pain,\nAnd dies among his worshippers.\nYes, though thou lie upon the dust,\nWhen those who helped thee floe in fear,\nDie full of hope and manly trust.\nLike those who fcll in battle here.\nAnother hand thy sword shall wield.\nAnolher hand the standard wave,\nTill from the trumpet's mouth is pealed\nThe blast of triumph o'er thy grave.\nELOQ.UENCE AND PIETY.\nThe following gem is the closing part of an address by the\nRev. (Professor) Ware, jr., to the students of Harvard Col-\nlege, on the last Sunday of the Academical year.\n\"We look on your departure, young friends, with affectionate and anxious interest. Never again shall we meet you in\nall lliese sacred services. The lies which have bound us to.\nfether so long, in the daily offerings to God and the weekly\nsympathies ofthe Sabbath, are now to be severed, to be united\nngain, may we hope,\u2014or must we fear?\u2014in the perfect enjoyment of that eternal Sabbath, in which the toils of earth\nare to be ended, and the perfected spirit to be blessed.\n\"Meantime, for you, nnd for m, the work of life goes on;\nmay it be our daily and uninterrupted growth in knowledge\nand virtue, till wc reach the completeness of our moral and\nspiritual being! We commend you to your labors and trials.\nWe pray for your success and your happiness. We charge\nyou to be faithful to your great trusts. Do not be satisfied\nwith the education you have received, nor live in the midst of\ninfinite knowledge ns if you had already attained. Do not\npropose to yourselves any merely earthly object of pursuit,\nas if anything mortal was worthy lo content tho immortal.\nLive for usefulness and society. Society is crying out lor tin-\naid of perfectly developed men, for the service of men, well\nproportioned and well principled. Answer its call. Uphold its institutions. Stand fast for its rights, Plead for its\nlaws. Arm yourselves stoutly against all tyranny of one or\nof many, against life, or liberty, or right. Do something, do\nall you can, to be true counsellors to that sovereign power,\npublic opinion, and to save the land from being ruined by ihe\nvice of the ignorant, or the knavery of the knowing. Wherever you go, carry the upright front of the true scholar, the\nfrankness and fairness of the true philosopher, tho boldness\nnnd meekness of the holy apostle1, the self-sacrificing devotion of the sainted martyr. Then you shall be the terror of\nthe ill-doing, and stay, for a time at least, the perils of the\npeople.\n\"Last of all, and above all, consecrate yourselves to Cod;\nyou are not your own; you have no strength of yourselves:\nconsecrate yourselves to God. Worlc for him. Ally your,\nselves to his counsels and his purposes, and secure the co-operation of his will.\u2014In the deep life of the spirit commune\nwith him and thus nourish yourselves in all goodness. In\nthe affectionato imitation of Jesus Christ, commend yourselves to his blessing, and so find strength and peace. In the\nhope and prospect of eternity, toil on. rejoicing and persevering, through good and evil report, knowing that your witness is in Heaven, your record on high. And then, when the\nlay ol life shall be done, its discipline censed, its preparation\nended, then may your ripened spirits pass to the final award\nof the good and faithful; then may you find, one ami all, that\nyou have indeed attained, are at length perfect, nnd among\nthe glorified immortals of Heaven, are partakers of the prize\nof the high calling in Christ Jesus.\n\" We part from you at the altar here, let us meet you at the\nthrone hereafter.\"","fullrs":{},"find":"376.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"375","restrictionCode":"1","cdmfilesize":"1845992","cdmfilesizeformatted":"1.76 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

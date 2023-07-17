@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-03-21/ed-1/seq-3/</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000407</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J.S. Allwine</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1855-03-21</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Shreveport, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1855</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Committed to Jail IN the parish of Caddo, before the honorable J. W. Jones, a justice of the peace, in and for said parish, a negro woman, black complexioned, about twenty-five years of age, and some five feet four inches high. Calls herself JANE, and says that she belongs to a Mr. Persons, residing in the city of New Orleans. She was apprehended in Caddo parish, near the town of Shreveport. The owner or owners of said negro woman is hereby notifited to come forward, prove property, pay charges, and take her away, or she will be disposed of as the law directs. J. S. ALLWINE, Jailor Caddo parish. Shreveport, March 21, 1855</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black</note>
+   <note type="content" displayLabel="Slave Owner">Mr. Persons</note>
+   <note type="content" displayLabel="Slave Name (Age)">Jane (25)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">N</note>
+   <note type="content" displayLabel="Slave Sex">F</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 2</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The south-western. : (Shreveport, La.) 1852-1870</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">Committed to Jail</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-03-28/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-04-04/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-04-25/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-05-02/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-05-09/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-05-16/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-05-23/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-06-06/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-06-13/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-06-20/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-06-27/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-07-04/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-07-11/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn83016483/1855-07-18/ed-1/seq-3/; </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86053683</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/600</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-22</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>600</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/600/json"
+                        timestamp="2017-02-13 13:33:25">{"title":"RSA00000407","object":"sn 86053683","publia":"The south-western. : (Shreveport, La.) 1852-1870","date":"1855-03-21","year":"1855","film":"page 3, column 2","altern":"Committed to Jail","unique":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-03-21\/ed-1\/seq-3\/","person":"J.S. Allwine","parish":"Shreveport, La.","digita":{},"acknow":{},"public":"Mr. Persons","town":"New Orleans, La.","relati":"Jane (25)","slave":"F","slavea":"black","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"N","persoa":"N","transc":"Committed to Jail IN the parish of Caddo, before the honorable J. W. Jones, a justice of the peace, in and for said parish, a negro woman, black complexioned, about twenty-five years of age, and some five feet four inches high. Calls herself JANE, and says that she belongs to a Mr. Persons, residing in the city of New Orleans. She was apprehended in Caddo parish, near the town of Shreveport. The owner or owners of said negro woman is hereby notifited to come forward, prove property, pay charges, and take her away, or she will be disposed of as the law directs. J. S. ALLWINE, Jailor Caddo parish. Shreveport, March 21, 1855","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Women slaves--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-03-28\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-04-04\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-04-25\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-05-02\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-05-09\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-05-16\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-05-23\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-06-06\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-06-13\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-06-20\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-06-27\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-07-04\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-07-11\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016483\/1855-07-18\/ed-1\/seq-3\/; ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000407.jp2","find":"664.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-22","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"600","restrictionCode":"1","cdmfilesize":"118340","cdmfilesizeformatted":"0.11 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

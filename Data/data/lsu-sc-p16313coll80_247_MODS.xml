@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Brought to the Police Prison of First District.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001114</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>JWorrall</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1852-06-07</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1852</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">BROUGHT to the Police Prison of the First District -- JOHN, a Black, about twenty years old, five feet eight and a half inches high ; says he belongs to Mr.BarringtonWILLIAM, a Black, about twenty-eight years old, five feet two inches high ; says he belongs to MrBarringtonMILTON, a dark Griff, about seven years old, four feet high ; says he belongs to MrLaungeEFFY, a Black, about sixty-eight years old, four feet eleven inches high ; sasys she belongs to MrHessELIZA, a Black, about eight years old, four feet one inch high ; says she belongs to MrsSmithThe owners will please comply with the law respecting themJWORRALL, WardenNewOrleans, June 7, 1852je7 1aw3w</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black; dark griff</note>
+   <note type="content" displayLabel="Slave Owner">MrBarrington; MrLaunge; MrHess; MrsSmith</note>
+   <note type="content" displayLabel="Slave Name (Age)">John (20); William (28); Milton (7); Effy (68); Eliza (8)</note>
+   <note type="content" displayLabel="Slave Age Under 12">Y</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M; F</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">5</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">RSA00001119</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-06-07/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-06-08/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-06-10/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-06-15/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-06-15/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-06-16/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-06-17/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015753/1852-06-19/ed-1/seq-4/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1148</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1148</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1148/json"
+                        timestamp="2017-02-13 13:33:32">{"title":"RSA00001114","object":"sn82015753","publia":"New Orleans daily crescent([New Orleans, La.]) 1851-1866","date":"1852-06-07","year":"1852","film":"page 2, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-06-07\/ed-1\/seq-2\/","unique":"Brought to the Police Prison of First District.","person":"JWorrall","parish":"New Orleans, La.","digita":{},"acknow":{},"public":"MrBarrington; MrLaunge; MrHess; MrsSmith","town":{},"relati":"John (20); William (28); Milton (7); Effy (68); Eliza (8)","slave":"M; F","slavea":"black; dark griff","slaveb":"Y","slavec":{},"reward":{},"multip":"5","physic":"Y","persoa":"N","transc":"BROUGHT to the Police Prison of the First District -- JOHN, a Black, about twenty years old, five feet eight and a half inches high ; says he belongs to Mr.BarringtonWILLIAM, a Black, about twenty-eight years old, five feet two inches high ; says he belongs to MrBarringtonMILTON, a dark Griff, about seven years old, four feet high ; says he belongs to MrLaungeEFFY, a Black, about sixty-eight years old, four feet eleven inches high ; sasys she belongs to MrHessELIZA, a Black, about eight years old, four feet one inch high ; says she belongs to MrsSmithThe owners will please comply with the law respecting themJWORRALL, WardenNewOrleans, June 7, 1852je7 1aw3w","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":"RSA00001119","contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-06-08\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-06-10\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-06-15\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-06-15\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-06-16\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-06-17\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1852-06-19\/ed-1\/seq-4\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collectionIdentify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001114.jpg","find":"1212.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1148","restrictionCode":"1","cdmfilesize":"79948","cdmfilesizeformatted":"0.08 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

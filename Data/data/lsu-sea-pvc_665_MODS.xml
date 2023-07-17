@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Near Poydras</title>
+  </titleInfo>
+   <name type="personal" displayLabel="Photographer">
+      <namePart>Percy Viosca, Jr.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1922-06-04</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Poydras (La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Floods</topic>
+      <topic>Louisiana</topic>
+      <topic>History</topic>
+      <topic>20th century</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Dwellings</topic>
+      <topic>Flood damage</topic>
+      <topic>Louisiana</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">Note on second GS print: A Flooded Field (high water mark shown on house.)Camera looking across water to side of flooded house with trees in backgroundSame GS print at F0504a</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Acetate negative 4.00  x 5.00</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/n83230635"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana Sea Grant College Program</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Ecology and Conservation, The Percy Viosca JrCollection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sea-pvc:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail diglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright is retained in accordance with UScopyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Ecology and Conservation: The Percy Viosca, JrCollection, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">4948F0505d</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_PVC/id/135</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-03-13</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_PVC</alias>
+         <pointer>135</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_PVC/135/json"
+                        timestamp="2017-01-30 15:28:16">{"sort":"0356","title":"Near Poydras","creato":"Ascribed to Percy Viosca, Jr.","date":"1922 June 04","subjec":"Poydras (La.)--Photographs.; Floods--Louisiana--History--20th century--Photographs.; Dwellings--Flood damage--Louisiana--Photographs.","notes":"Note on second GS print: A Flooded Field (high water mark shown on house.)Camera looking across water to side of flooded house with trees in backgroundSame GS print at F0504a","type":"Acetate negative 4.00  x 5.00","digitb":"jpeg","relati":"Percy Viosca Photograph Collection","object":{},"source":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","reposi":{},"reposa":{},"rights":"Physical rights are retained by the LSU LibrariesCopyright is retained in accordance with UScopyright laws.","to":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","publis":"Louisiana Ecology and Conservation: The Percy Viosca, JrCollection, LOUISiana Digital Library, Baton Rouge, La.","item":"4948F0505d","identi":"See 'reference url' on the navigation bars.","contri":"http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_LSU_PVC.php?CISOROOT=\/LSU_PVC","catlog":{},"catalo":{},"covera":{},"coverb":{},"descri":{},"digiti":{},"digita":{},"typea":"Image","fullrs":"Volume2\\F0505d.tif","find":"136.JPG","dmaccess":{},"dmimage":{},"dmcreated":"2008-03-13","dmmodified":"2008-04-30","dmoclcno":{},"dmrecord":"135","restrictionCode":"1","cdmfilesize":"795872","cdmfilesizeformatted":"0.76 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

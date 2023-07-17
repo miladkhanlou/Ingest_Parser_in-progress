@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Winter water sources in the American Arctic</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+      <namePart>Walker, HJ(Harley Jesse), 1921-</namePart>
+   </name>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes">1961</dateCreated>
+      <dateCreated point="end">1961</dateCreated>
+  </originInfo>
+   <subject authority="lcsh" displayLabel="Coordinates">
+      <cartographics>
+         <coordinates>70.22,-150.50</coordinates>
+      </cartographics>
+  </subject>
+   <subject authority="lcsh">
+      <topic>Water</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arctic regions</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arctic</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Winter</topic>
+   </subject>
+   <abstract displayLabel="Description">Much of the Arctic abounds in water because of the presence of numerous lakes and riversHowever, such a condition only occurs during the short summerDuring most of the year, liquid water is rare and only occurs beneath the ice in the deeper lakes and river channelsAlthough much snow and ice are present, converting them to liquid water is time consuming and expensiveBecause permafrost dominates, ground water is usually unavailableThe article describes the various techniques used in the production of water in the Arctic.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Colville River Delta, Alaska Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-crd:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright of the original material is retained in accordance with U.Scopyright lawsPermission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Colville River Delta, Alaska Collection, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Object File Name">cd000111</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/CRD/id/106</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2004-08-13</recordCreationDate>
+      <recordChangeDate>2018-12-04-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>CRD</alias>
+         <pointer>106</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/CRD/106/json"
+                        timestamp="2017-01-06 16:08:40">{"title":"Winter water sources in the American Arctic","creato":"Walker, HJ(Harley Jesse), 1921-","contri":{},"date":"1961;1961","publis":{},"subjec":"Water;Arctic regions;Arctic;Winter;","covera":"70.22,-150.50","descri":"Much of the Arctic abounds in water because of the presence of numerous lakes and riversHowever, such a condition only occurs during the short summerDuring most of the year, liquid water is rare and only occurs beneath the ice in the deeper lakes and river channelsAlthough much snow and ice are present, converting them to liquid water is time consuming and expensiveBecause permafrost dominates, ground water is usually unavailableThe article describes the various techniques used in the production of water in the Arctic.","notes":{},"langua":"en","type":"Image","source":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","rights":"Physical rights are retained by the LSU LibrariesCopyright of the original material is retained in accordance with U.Scopyright lawsPermission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","cite":"Colville River Delta, Alaska Collection, LOUISiana Digital Library, Baton Rouge, La.","format":{},"to":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","object":"cd000111","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_CRD.php?CISOROOT=\/CRD","fullrs":{},"find":"3185316782003_cd000111.gif","dmaccess":{},"dmimage":{},"dmcreated":"2004-08-13","dmmodified":"2004-08-13","dmoclcno":{},"dmrecord":"106","restrictionCode":"1","cdmfilesize":"125850","cdmfilesizeformatted":"0.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

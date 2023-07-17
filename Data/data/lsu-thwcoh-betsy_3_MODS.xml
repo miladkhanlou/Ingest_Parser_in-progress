@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Ida Belle Joshua oral history interview</title>
+  </titleInfo>
+  <name type="personal" displayLabel="Interviewee">
+    <namePart>Joshua, Ida Belle, 1927-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="personal" displayLabel="Interviewer">
+    <namePart>Mwendo, Nilima</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">2003</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African American neighborhoods</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>African Americans</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+    <topic>Social conditions</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Community activists</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Disaster relief</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Disaster victims</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Grants-in-aid</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Hurricane Betsy, 1965</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Hurricanes</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Political participation</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Topic">
+    <topic>Urban renewal</topic>
+    <topic>Louisiana</topic>
+    <topic>New Orleans</topic>
+  </subject>
+  <subject authority="lcsh" displayLabel="Subject - Location">
+    <geographic>Alfred Lawless Elementary School (New Orleans, La.)</geographic>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Joshua, Ida Belle, 1927</namePart>
+      <namePart>Interviews</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" displayLabel="Subject - Name">
+    <name type="personal">
+      <namePart>Copeland, Sherman</namePart>
+    </name>
+  </subject>
+  <abstract displayLabel="Description">Ida Belle Joshua tells of arriving in the Ninth Ward neighborhood in 1949 and watching it develop as a community.  She described the community as African Americans working in civil service positions with dreams and hopes for the future.  Joshua provides details of Hurricane Betsy's devastation, rescue efforts, federal assistance, and community activism.  She gives her opinion on what should have been done differently following Hurricane Betsy and discusses the recent deterioration of the community because of the lack of activism and community effort.</abstract>
+  <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/hurricanebetsy/Joshua_IdaBelle_T3336.abs.pdf</abstract>
+  <note type="content" displayLabel="Note">This collection includes materials accessioned as Mss. 4700.1684; A digital version of the transcript (pdf) exists for duplication purposes; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room; Interview conducted by Nilima Mwendo.</note>
+  <note type="biographical/historical" displayLabel="Biographical Note">Ida Belle Joshua is a native of New Orleans, La., and survivor of Hurricane Betsy.  She moved to the Ninth Ward in 1949 with her husband, Isaac Joshua Sr.  They have three children.  Before Hurricane Betsy, she worked as a hair dresser.  After the storm, she attended the University of New Orleans, Atlanta University (now Clark Atlanta University), and Tulane University and worked as a teacher's aide, social worker, and adjunct professor at Xavier University.  She is a former president of the Lower Ninth Ward Neighborhood Council and Area Beautification Committee and has been an advocate for improvement of the Ninth Ward community.  After Hurricane Katrina in 2005, she temporarily relocated to Lafayette, La.  She intended to return to her home and had begun having it repaired before it was demolished.  She and several other residents sued the city of New Orleans and achieved their goal of preventing the city from demolishing homes without proper notification and hearings for homeowners.</note>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="aat">Oral histories</genre>
+  <physicalDescription>
+    <extent>1 sound cassettes (1 hour, 34 minutes); Abstract (2 leaves); Transcript (57 leaves)</extent>
+    <internetMediaType>audio/mpeg</internetMediaType>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names.html" valueURI="http://id.loc.gov/authorities/names/no94017348" displayLabel="Contributing Repository">
+    <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo displayLabel="Digital Collection">
+      <title>Hurricane Betsy Survivors Oral History Project</title>
+    </titleInfo>
+    <titleInfo type="alternative" displayLabel="Series">
+      <title>Hurricane Betsy survivor stories: a healing project (Lower Ninth Ward, New Orleans, Louisiana)</title>
+    </titleInfo>
+    <location>
+      <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-betsy:collection</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>LSU Library: Oral History</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by interviewer and Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+  <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <note type="preferred citation" displayLabel="Cite As">Ida Belle Joshua Oral History Interview, Mss. 4700.1684, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+  <identifier type="local" displayLabel="Item Number">Joshua_IdaBelle_T3336</identifier>
+  <recordInfo>
+    <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+    <recordChangeDate>2021-04-23T12:08:15.383-05:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

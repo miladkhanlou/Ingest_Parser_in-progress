@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 12</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/601</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>601</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/601/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 12","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":",&lt;i    hl''&gt;'\nl |M( \u25a0\nm-i! \u25a0\u25a0:'\n1\nit'\n1&gt;\nII'\nv'i\ni\n238\nSOUTH-WESTERN   JOURNAL.\nII!\n1.1\nMi\nii'\n\u25a011'.\nR I\nt\n; i j\ngreat water fall had been excavating for ages. On the third\nof August, the volcano poured forth fresh torrents of lava,\nwhich spread their devastating streams both far and wide.\nThe terror nnd desolation which marked this calamitous\nevent, may be partly imagined, when it is known that,\nout of fifty thousand inhabitants that Iceland contained, nine\nthousand human beings perished by this single eruption.\nThe lava emitted during this eruption of Skaptar Joltul,\nflowed in streams of forty and filly miles long, and twenty in\nbreadth, the depth varying from one hundred to six hundred\nfeet, and covering an area of eighteen hundred square\nmiles.\nThe London Chronicle of April 3, contains the following\nawful account of an eruption of Skaptai Jokul, or Jokal, by\nCaptain J. R. Bently of tho schooner Felerio, which we\ncopy from the Port Gibson Correspondent.\n\"We set sail from Bergen, on tho 12th of November, having exchanged our cargo, and repaired our vessel, with a favorable wind and an open sky, but when we had made about\nfifteen leagues, we were struck by a violent slorm from th\nwestward, which lasted five days, and it demanded all our\nexertions to avoid the rocky shores of Norway, Oa the\n18th at sunset, the storm subsided and wo found ourselves in\nlatitude Go? 45', and long. 2\u00b0 59' E., about in a line between\nthe Laffodcn and Faros Isles. The wind then shifted N. E.\nby N.j taking advantage of this, we held our course west\nward for seven days and nights, seldom changing a sail. On\nIhe 25th, about half past 1, P. M., Monsieur G. Polier, a\nFrench gentleman of some scientific attainments, and passen\nger for London, directed my attention to singular appearances\niu the sky, which ho thought indicative of a squall. The\nclouds which darkened the horizon along the N. N. West,\nhad a different appearance from any thing I had before witnessed, and while viewing them with some doubt, I observed\nin the air, something having the appearance of fine soot,\nwhich, in the course of an hour, began to fall upon the thick\nof the vessel, and in a short time it settled in considerable\nquantities in the folds of a sail, which was spread to catch it.\nThe circumstance excited the greatest apprehension among\nour sailors, and all on hoard.\n\" No one can imagine the horrid grandeur of the scene, all\nthe elements seemed to have broken their boundaries, and\nunited their dreadful energies, in the production of one terrible disaster. While wo reflected that thousands of our fellow-\nbeings were overwhelmed with burning death, we could not\nbe indifferent to our own situation, and it was with feelings\nof relief that we saw our vessel of a sudden laboring with a\ngale that struck her from the westward with a force that\nthreatened to sweep our deck, as it bore us away from dangers so terrible, to struggle with those lo which we were more\naccustomed. The gale pushed us before it with unprecedented velocity, at day break carrying away a sail, and doincr\nmuch damage to our rigging. At sunrise it slocked, but we\ncontinued to scud at a rapid rate till about 10 o'clock, when\nwc were borne against lhc wind by a strong westward current. This circumstance filled us with alarm; for having\nlost our points, we immediately concluded that we must be\nwithin the draught of the Maelstroom.    These apprehen\nsions, however, subsided, when we discovered that we hell\ndirect course. About 3 P. M., the wind shifted and blowintr\nnearly astern, we made sixteen knots per hour. Al y A j\\i\nwe had taken altitudes for discovering our location. What\nwas our surprise on finding our latitude 67\u00b0 N., by lonm'ttide\n29\u00b0 42' W., the precise latitude and longitude of Iceland I\nThe awful idea then flashed upon us, that the whole island\nhad sunk! A few more observations convinced us of the\ntruth of our apprehensions I The whole island, nearly equal\nto England in size, with upwards of fifty thousand inhabitants, on that awful night in which our vessel lay before it\nwas sunk in the deep, and the last prayers of so many dis.\ntraded wretches, were hushed in the scalding waves that\nclosed over that ill-fated Island I Thus is a nation buried in\na single night, and the mariner has a highway over his\ngrave.\n\" Though frequently appealed to, I ventured no definite opinion, until about four o'clock, when, by reference to mv instruments, I found that we neared the coast of Iceland, and was\nsatisfied that the phenomenon was owing to a volcanic eruption. In about half an hour our attention was arrested by\ncolumns of flame, which occasionally lighted the horizon,\nand became every moment more terrific. At last ihe coast\nappeared like a dark spot upon the horizon, frequently illumined by flashes of light. By this time the ashes had become so deep, that we were obliged to clear the deck with\nhovels, and the shower every moment increasing. We held\nour course till about eight o'clock in the evening, when of a\nsudden the waters around us appeared in the greatest convulsion, the surges were broken to pieces, and the surface assumed the appearance of a boiling cauldron; the wind lulled and the sails hung by the mast, ns if wilted in the sun.\nThus we remained in awful suspense, not a word was spoken\u2014all seemed lo realize that they gazed upon a scene to\nwhich they were strangers. While in this state of anxiety,\nof a sudden there burst forth a flame,acco;npanied by a noise\nequal to the united voice of ten thousand thunders, which \u25a0\nreached to the very heavens, revealing the heaving sides ol\nSkaptar Jokul! In a moment after, the mountain was liter-\nlly rent to pieces ! Awful fissures from its summit lo its\nbase, permitted us to gaze into tho very bowels of the earth I\nfloods of lava poured down ils sides like molten iron; noise;\nthe most terrific startled tho earth, air, and sea! rocks of many tons weight shot into the sky and fell upon the vessel,\nand all were in expectation of destruction; one poor negro\nwas literally dashed to pieces by a falling rock of five pounds\nweight. The lava continued to pour from the craters till\ntho country as far as the eye could reach was one boding\nflood of molten stone!\"\nPORTRAITS OF THE FAMILY OF GEORGE III. OF\nENGLAND.\nBY THE HON. LOUD BROUGHAM.\nGeokoe the Third.\u2014\"Of a narrow understanding,\nwhich no culture had enlarged ; of an obstinate disposition,\nwhich no education, perhaps, could have humanized; o\nstrong feelings in ordinary things, and a resolute attachmen\nto all his own opinions and predilections, George the lnir","fullrs":{},"find":"602.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"601","restrictionCode":"1","cdmfilesize":"1913271","cdmfilesizeformatted":"1.82 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

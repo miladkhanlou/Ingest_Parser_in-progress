@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 21</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/610</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>610</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/610/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 21","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"*===w\nS 0 U T II -W ESTERN    J 0 U RN A L\n21'\ndenouncing to them a nuisance which the world never heard\n\u201ef before, and was, in fact, confined to the precincts of this\nmodern Babylon. I forget whether it is to the same author\nwe are indebted for some smart remarks upon those affected\ndiners out, who make it a point never to arrive until the soup\nis about to quit tho table.\nIf Mr. Cooper, nnd the said satirist, whoever he may be',\nwould take the trouble to look at Mr. Wilkinson's copy of a\nTheban fresco, No. 176, they would there find that both the\nevils of which they complain were known to society thirty or\nDrty centuries ago. The English late comer justifies his\ntardiness, by pleading the extreme torture to which a sedentary\ncompany is exposed during the awful half-hour thai precedes\nihe announcement of dinner.\n[n this respect we might take a hint from the Egyptians\nthey had generally musicians to entertain them beforeas well\nas alter dinner; and, like the Russians nnd Germans, they also\nhad their cordials, which were handed round in the drawing-\nroom before they applied the appetite to the more substantial\nluxuries of tho saloon set apart for banquets. Will it be be-\nlived that they often dined on roast beef and goose\u2014that they\nhad their puddings and pies\u2014that they drank their wine out\nof glasses, and that they even challenged each other, and\ndrank healths as wo do in this nineteenth century?\nThere is scarcely any musical instrument familiar to us\nwhich the Egyptians did not possess from the earliest times\n\u2014the harp, in a wonderful variety of forms\u2014the lyre, played with and without the plectrum\u2014the 'uitar (the Spanish\nguitar!)\u2014the tambourine\u2014the single and double flageolet\u2014\nthe trumpet, the cymbals, the drum, and the sistrum. There\nis a passage in Plato, referring to Egyptian music, which is I\nin his day; for if accumulating evidence had not since enti-\ntied him to bo ranked among the most intelligent nnd accurate\nof travellers, people, oven now, might bo astonished at his\ntalking of the restoration of arts, at a period when many\ncan scarcely believe that they were in their infancy.\nInstead of laughing with George Selwyn, wc should now\nlaugh at him for his caustic insinuation against Bruce's voracity. Some one asked the traveller, in a large company, at\ndinner, \"What musical instruments aie used in Abyssinia?\"\nBruce answered, \"1 think I saw one lyre there.\" George\nwhispered into the ear of the person sitting near him, \" Yes;\nand there is one less since he left the country.\" It appears,\nin fact, from a description given by Alhenams, that upwards\nof six hundred musicians were employed in the chorus,\namongst whom there were three hundred performers on tin:\ncithara, in the Bacchic festival of Ptolemy Philadelphia.\nTho castanets, like the guitar, arc supposed very generally\nto bo of Spanish, or at least of Moorish origin. There is no\ndoubt ihat they are Egyptian, the only difference being thai\nin Spain they are made of the wood of the chestnut, (caslina,)\nwhereas in ancient Egypt, thoso small cymbals, played with\nthe finger and thumb, wero composed of metal.\nNothing can bo more commonplace than the remonstrances\nmade by some of our prudes against what they are pleased\nto call the modern grossness of opera dancers\u2014their standing on one foot, tho other being elevated and extended parol.\nto tho arm, while the figure of the fair artiste spins about\nlike a top\u2014their short flights in the air\u2014and, in short, all\nthoso rapid variations of attitude by which tho Melanies and\nMcrcaudottis extracted so much applause and hard cash from\nJohn Bull,  Taglioni is  levying large contributions on the\naarkable on account of the high antiquity which he Russians, and Duveriiay intends lo obtain a revenue more\nvery rer\nascribes lo Egyptian civilization. \" The plan,\" he says,\n\" which we have been laying down for the education of youth,\nwas long known to the Egyptians, that nothing but beautiful\nforms and fine music should be permitted to enter into ihe assemblies of young people. Having settled what those forms\nand what that music should be, they exhibited them in their\ntemples ; nor was it allowable for painters, or other imitative\nartists, to innovate or invent any forms different from what\nwere established; nor lawful, either in painting, statuary, or\nany branches of music, to make any alteration. Upon examination, therefore, you will find that the pictures and statues\nmade ten thousand years ago, arc in no one particular better\nor worse than what they now make.\"\u2014Plato, 2d Book of\nLaws.\nA remark in Bruce runs in a similar vein. Speaking of\nthe harps of a tomb at Thebes, he says, that \" they overturn\nall the accounts hitherto given of the earliest state of music\nand musical instruments in the East, and are altogether, in\ntheir form, ornaments, and compass, an incontcstible proof,\nstronger than a thousand Greek quotations, that geometry,\ndrawing, mechanics and music, were at the greatest perfection when this instrument was made, and that the period from\nwhich we date the invention of these arts, was only the beginning of the era of their restoration.\" The harps in rpics-\ntion were of the time of Remeses III., about 1235 years before Christ.    No wonder that Bruce was so much lampooned\nthan equal to that of many a German principality. \"Such\ndistortions of the human frame were never seen before! All\ntho result of the vicious state of sociely at which we are arrived! shameful abominations\u2014they should be confined to\nthe French academy, whcic, no doubt, they have been invented !    And then the petticoat!\"\nRemembering these sage criticisms, I confess I could not\nhelp laughing outright when I beheld, in a copy of the Beni\nHassan memorials, a group of female dancers, one pirouetting away on one foot, the other extended precisely in the\nAcademic style, and the arms outstretched. I thought at first\nit was Taglioni herself! There are eight dancers in all,\nsome attitudinizing, the arms raised above the bead and the\nhands gracefully meeting; some dancing in pairs; some,\nevidently figurantes, waiting until the principal artisleshave\nfinished their exhibitions. And then the petticoat\u2014I am\nsorry to say it\u2014is not an inch longer than Taglioni's.\nIt is, however, but justice to those primeval days (I speak\nf three thousand five hundred years ago) to remark, that\nthough the dresses of the female dancers were sufficiently\nfine to show tho form and movement of the limbs, they generally reached the ankles. Round the hip was a small narrow girdle, adorned with beads or ornaments of various colors. In most of the respectable families, the slaves were\ntaught dancing and music; but it appears that free Egyptians, who derived their subsistence from the display of their","fullrs":{},"find":"611.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"610","restrictionCode":"1","cdmfilesize":"1727069","cdmfilesizeformatted":"1.65 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

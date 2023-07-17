@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>RAN-AWAY from the subscriber</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000770</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>James C. Anderson</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1858-10-16</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Opelousas, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Opelousas, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1858</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1858-09</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">RAN-AWAY from the subscriber, living on Bayou Boeuf, in the early part of September, a mulatto boy named ALFRED. He is supposed to be lurking about Opelousas. A liberal reward will be given for his apprehension and delivery to me. Opelousas, october 16, 1858. JAMES C. ANDERSON.</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">mulatto</note>
+   <note type="content" displayLabel="Slave Owner">James C. Anderson</note>
+   <note type="content" displayLabel="Slave Name (Age)">Alfred</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Slave Presumed Destination">Opelousas, La.</note>
+   <note type="content" displayLabel="Physical Description Provided">N</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 7</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas patriot. : (Opelousas, Parish of St. Landry, La.) 1855-1863</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86079076/1858-10-16/ed-1/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86079076</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3394</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3394</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3394/json"
+                        timestamp="2017-02-13 13:33:03">{"title":"RSA00000770","object":"sn 86079076","publia":"The Opelousas patriot. : (Opelousas, Parish of St. Landry, La.) 1855-1863","date":"1858-10-16","year":"1858","film":"page 2, column 7","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079076\/1858-10-16\/ed-1\/seq-2\/","unique":"RAN-AWAY from the subscriber","person":"James C. Anderson","parish":"Opelousas, La.","digita":"1858-09","acknow":{},"public":"James C. Anderson","town":"Opelousas, La.","relati":"Alfred","slave":"M","slavea":"mulatto","slaveb":"N","slavec":"Opelousas, La.","reward":{},"multip":{},"physic":"N","persoa":"N","transc":"RAN-AWAY from the subscriber, living on Bayou Boeuf, in the early part of September, a mulatto boy named ALFRED. He is supposed to be lurking about Opelousas. A liberal reward will be given for his apprehension and delivery to me. Opelousas, october 16, 1858. JAMES C. ANDERSON.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.","type":"text","format":"clipping","langua":"English","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries. ","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000770.jp2","find":"2735.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"3394","restrictionCode":"1","cdmfilesize":"50224","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

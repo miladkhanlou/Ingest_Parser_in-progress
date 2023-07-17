@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Map of Northdale Subdivision, Baton Rouge, La., 1924.</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <namePart>Huey, L. Q.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1924</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Neighborhoods</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Maps</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>City planning</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Maps</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Triumph Realty, Inc. (Firm)</topic>
+   </subject>
+   <abstract displayLabel="Description">Plan for Northdale Subdivision, Baton Rouge, La. Shows railroad line, roads, and numbered lots. Much of lettering faded from age. Annotations in red.  'Northdale, laid out for Triumph Realty Inc., Oct. 1924, L.Q. Huey, C.E., Parish Surveyor East Baton Rouge, Louisiana.'--Title block. Scale not given.</abstract>
+   <typeOfResource>cartographic</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Map.</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>William Waller Survey Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll57:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/3592m.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Range 104, folder 02</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Access to unprocessed collections requires the permission of the curator, subject to 
+Special Collections’
+Policy on Access to Unprocessed Collections 
+(http://www.lib.lsu.edu/special/about/unprocessed.html)</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">William Waller Survey Collection, Mss.
+3592, 3910, 4326, Louisiana and
+Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">3592ra104f02i11_Northdale</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll57/id/75</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-10-31</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll57</alias>
+         <pointer>75</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll57/75/json"
+                        timestamp="2017-05-16 10:29:21">{"title":"Map of Northdale Subdivision, Baton Rouge, La., 1924.","creato":"Huey, L. Q.","contri":{},"date":"1924","dates":{},"descri":"Map.","notes":"Plan for Northdale Subdivision, Baton Rouge, La. Shows railroad line, roads, and numbered lots. Much of lettering faded from age. Annotations in red.  'Northdale, laid out for Triumph Realty Inc., Oct. 1924, L.Q. Huey, C.E., Parish Surveyor East Baton Rouge, Louisiana.'--Title block. Scale not given.","langua":"English","type":"Image ","subjec":"Neighborhoods--Louisiana--Baton Rouge--Maps.; City planning--Louisiana--Baton Rouge--Maps.; Triumph Realty, Inc. (Firm)","covera":{},"relati":"William Waller Survey Collection","source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/3592m.pdf","call":"Range 104, folder 02","cite":"William Waller Survey Collection, Mss.\n3592, 3910, 4326, Louisiana and\nLower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Access to unprocessed collections requires the permission of the curator, subject to \nSpecial Collections\u2019\nPolicy on Access to Unprocessed Collections \n(http:\/\/www.lib.lsu.edu\/special\/about\/unprocessed.html)","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html. Mention the \u201cItem number\u201d or \u201cItem URL\u201d in your request.","format":"JPEG","digita":"Digitized using a Canon EOS 5D Mark II.","a":"3592ra104f02i11_Northdale","identi":"See 'reference URL' in the navigation bar.","collec":"http:\/\/www.louisianadigitallibrary.org\/cdm\/landingpage\/collection\/p16313coll57","catalo":"09\/17\/2014 rlh","fullrs":{},"find":"76.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-10-31","dmmodified":"2015-04-10","dmoclcno":{},"dmrecord":"75","restrictionCode":"1","cdmfilesize":"2205134","cdmfilesizeformatted":"2.10 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Digitized using a Canon EOS 5D Mark II.</hardwareSoftware>
+  </extension>
+</mods>

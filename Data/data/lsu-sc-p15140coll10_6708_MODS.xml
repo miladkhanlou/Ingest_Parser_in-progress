@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 5</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2114</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2114</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2114/json"
+                        timestamp="2017-02-03 08:24:45">{"title":"Section 3, Page 5","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"is cut at once into ruts,\" etc.\u2014\" Let me persuade all travelers to avoid\nthis terrible country, which must either dislocate their bones with\nbroken pavements, or bury them in sandy mud.\" This was spoken\nin 1770, of one of the wealthiest portions of England, which is at\npresent, according to Dr. Lardner, reticulated with rail-roads, upon\nwhich tens of thousands of passengers are daily transported at a\nI varying from 30 to 50 miles an hour!\nWhat is true of England is true even in a higher degree for the\nUnited States, since many of us can remember the time when whole\ndays, and even weeks, were occupied in passing between the most\npopulous and frequented cities of the North, which now employ as\nmany hours; and when New-Orleans was practically as remote from\nthe City of Washington as is the Bay of San Francisco or the mouth\nof the Columbia* Notwithstanding the extraordinary improvements\nwhich have been made, many populous and wealthy portions of the\nSouth and West are in no better condition than were the parishes of\nEngland in the time of Adam Young. \" Sir,\" said a farmer to us in\nNewberry, S.C, \"talk of the expense of wagoning to market my\ncotton, eating up the profits of my crop. It does mire, sir. I could\ntake you to the Buzzard Lane and show you, besides the profits of my\ncrop, some dozen mules and horses eaten up by the mud holes. I could\ntake you to the grave-yard hard by, and show you where lie buried\nmy dear friends, who have died of exposure while wagoning over\nthese cursed holes,\" etc.\nRail-roads are the creations of the present age, and have reached\ntheir maturity almost at one bound, if we can call that maturity,\nwhich is always progressing and achieving results (that excel the\ndreams of ancient or oriental fabulists) higher and higher, and more\nrapidly than they can be chronicled.\nThe Manchester Rail-road, in England, has the credit of having\nbeen the first in the world; and Mr. Stephenson, its projector, was\nlaughed at very generally for his folly in supposing that twelve miles\nan hour might be attained on this road. This was in 1832.f In\n1840, there were 1,300 miles of rail-roads in Great Britain ; in 1841,\n1,500; 1845,2,400; 1850,\u2014J\nThe first rail-road in the United States\u2014a petty affair of four\nmiles\u2014was employed to carry granite at Quincy, and was built in\nMr. Balfour, of Massachusetts, says:\u2014\" The first rail-road charter in the United\nStates was granted March 4th, 1826, to convey granite from Q.uincy, Mass., to tide-water.\nThe first rail-road in the United States, on which passengers were conveyed, was the Baltimore and Ohio road, chartered February, 1827, and partly opened December 28tlir\nJ-8-9. A single horse was employed, carrying 41 passengers at the rate of 12 miles per\nPw-V ^enJam'n Franklin, in 1743, advertises that the northern post will set out from\nVuiladelphia for New-York on Thursdays\u2014the southern post on Mondays\u2014going every\n1or)tn'S5lt during the summer season! There are now three daily lines between Philadelphia and New-York. The news of the Battle of Bunker Hill was two weeks iu reading Philadelphia. William Ellerv, a delegate to Congress, 1777, was 25 days journeying\non horseback from Digliton, Mass., to York, Penna. ; aud Josiah CAuincy, in 17*73, was 33\naySl'' a,journey from South Carolina to Philadelphia,\" etc.\n\u201e T -They laughed more heartily at Mr. Clinton.    \" Where is the water to come from to\nnu \u00abP this great ditch?\"    \" You need have no fears upon that subject\u2014the  tears of the\neople will fill it.\"_Debate on the constriction of the Erie Canal.\nI See Appendix for the Statistics.","fullrs":{},"find":"2115.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2114","restrictionCode":"1","cdmfilesize":"550231","cdmfilesizeformatted":"0.52 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

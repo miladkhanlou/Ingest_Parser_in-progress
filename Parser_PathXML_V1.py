@@ -66,11 +66,11 @@ def concat_title_parts(titleInfo):
 
     partnumber = titleInfo.find('partNumber', ns)
     if partnumber is not None and partnumber.text is not None:
-        text += '. '
+        text += ''
         text += partnumber.text
     partname = titleInfo.find('partName', ns)
     if partname is not None and partname.text is not None:
-        text += '. '
+        text += ''
         text += partname.text
     return text
 
@@ -291,7 +291,7 @@ def parseRelatedItem(root):
 
     return {key : '|'.join(value) for key, value in data.items()}
 ####################################################################################################################################################################################################################################
-# ### Milad Note: added the functionality to add data for field_local_identifier. to write two idnetifiers together, the way librarians wanted e.g TypeName:identifyerText
+# ### Milad Note: added the functionality to add data for field_local_identifierto write two idnetifiers together, the way librarians wanted e.g TypeName:identifyerText
 def parseIdentifier(root):
     data = {
         'identifier_displayLabel_missingAttribs' : [], #SHOWING MISSING ATTRIBUTES IN COMPARISON WITH MASTER

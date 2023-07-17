@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 09</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/565</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>565</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/565/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 09","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH.WESTERN JOURNAL.\n201\nFor Uic Siiuiii VVoitern .lounial\n\\VOODVILLE  LYCEUM ASSOCIATION.\n..\\grccably to public notice, the friends of Lyceums met\nin the Court House, March 5, 1838. The meeting hi in.\norganized, a Committee was appointed to draft a constitution\nThe committee b ing ready to report, the following constitution was adopted:\nResolve I, That wo associate together for tho purpose ol\nimprovement in soil nee and literature, and feel bound to cooperate in all measures calculated to advance the general object- of this association.\nEXTRACTS   IR03I   THE   CONSTITUTION.\nArt. 1. This Association shall be called the Woodville\nLyceum Association.\nArt. 5, Tiiis Association shall meet monthly, at such\ntimennlplice as the Executive Committee shall publicly\nappoint, ui which time shall be delivered a lecture upon\nsome subji ct chosen by the lecturer, together with such other\ncxercis s as the Executive Committee shall deem expedient.\n.d\/-\/. 7. All members ofthe Association shall lecture\nwhen appointed, or obtain a substitute who shall be satisfactory lo the Exe ciitivo Committee, notice of which shall be given them at least one meeting before the time of delivery.\nArt, 9. Candidates for admission shall bo elected by ballot at the annual meeting, on the 22d of February, by a vote\nof three-fourlhs of the members present; but individuals intending to bi come such, may, by paying the admission fee, be\nentitled to all ihe privileges of membership, until the next\nannual meeting, when, if elected, no admission fee shall be\nrequired.\nThe other articles relating to the choice of officers and the\nregulation ofthe Association.it is unnecessary tocommunicate.\nTho following, among other resolutions, were adopted :\nTo MCssbs. Stanwood, Collins, Stockdp.idge, Siuwi\nGentlemen:\u2014Your note of the Kith instant is before me,\nBeing desirous of promoting, in any way, the objects of our\nAssociation, I waive my personal fee lings, and placelhe \" Lecture\" in your hands, a crude production, hoping but distrusting, that it may accomplish somewhat of the purpose we all\nwish. Accept individually, gentlemen, my thanks for your\nunmerited attention, and beli. ve me,\nWith much respect,\nYour most oh't serv'l,\n_   .. John \\V. Dimness.\nBowling Green, Jl\/aji22.\nLECTURE\nIl.-r.irc llic Woodville) l.ycoum Airaetatlon.\nCHARLES   CALEB   CO LT 0 N,\nauthor in*  \"l.won.\"\nThis being lhc first time that the Lyceum Association Of\nWoodville has addressed itself publicly, by one of its representatives, to the community in which it has sprung up, and\nto which it must look for ultimate success, in a part tit least of\nits design, il would seem called for, that an exposition of the\nnature and purpose of the Institution should be made. It\ns with regret that I say, I am not as fully prepared with such\n\u25a0introduction as I would be. But being in fact only a substitute for one who might have filled this office much more\nably and satisfactorily, the completeness and appropriateness\nof a preconceived Lecture cannot be expected of me. 1 risk\nyour kind attention\u2014and ihat you will not judge our infant\nassociation by the character of what I may oiler.\nEveryone who has paid any nttention to the signs of iho\ntimes, so called, who has '..-itched the manifestation:! of public opinion,the tendency and scope of the action of t, e general  mind, must feel that within the list half centUP , a new\nResolved, 'That in approving the publication of the South\nm .      t i , i .\u2022 i and unexamined impulse has been given lo the pub     spirit\nWestern Journal, wo endeavor to promote its circulation, and lulju \"\"\"'iiiij   _' '\"'l'\"-\u25a0-     \u00bb_ '    , ,. ,!\noffer such of the Lectures, Essays, &amp;c, delivered, as may b\nefceine'd suitable for publication in that periodica!\nResoloeJ, That the Constitution of this Association b\nforwarded to the South-Western Journal for publication, together with such  resolutions and proceedings as shall be\nthought advisable by the Secretary.\nC. S. Maooun, President.\nVv\"m. IIalscy, Sec'v.\nCORRESPONDENCE.\nJohn \\V. Borrcss, E\u00abt.\nBear Sir:\u2014The undersigned having had the pleasure of\nhearing your lecture delivered before the \u2022' Woodville Lyceum,\" on the 11th instant, and believing that its publication\nwould bo very acceptable to the public generally, and would\na|so promote the objects of our Association, respectfully soli-\nc\" a copy of the same for this purpose.\nWith sentiments of high esteem,\nWe are your oh't sorv'ts,\nI, H. Stanwood,\nR. S. Collins,\nWM.   STOCKBItlDOE,\nBenjamin Shaw.\nWoodville, May 10j 1S33.\nof mankind; there is n running to and fro on the ea th, and\nan eager inquiry after knowledge. Even the ultraisi i which\ninfects, more or less, every scheme projected for tho 11 nelil of\nman, is a striking indication of tho character of tho times\u2014\nstill I would not with that presumptuous complacency which\ncharacterizes certain self-elected delegates of heaven, thoso\ni-disanl, special expositors of the- Law, human and divine\n I would not arrogate to this ago and generation to which\nwe belong, the sole merit of having conceived and executed\nthe good.\n\" Biave men Uv'cJ before Agamemnon.\"\nBut I do claim the award due an unprecedented enlargement of human thought, enterprise, and benevolence. I am\nno dictatorial advocate for the Reaeling-mnde-easy systems so\nrife in tho world; but let us, who, without willing it, enjoy\nthe consequences of this general advancement\u2014let us not\ncavil, or censure, or sneer, but promote by our presence and\no-ood wishes, if no more, the purposes of those who lake a\nmore active and marked course in these mailers.\nAllow mcto quote the words of a Southerner, distinguished alike by the cultivation of his mind, and of his hentt, a\nman of large and laborious benevolence, a philosopher and\na Christian, Thomas Smith Crimke.of South Carolina:\u2014\nVOL. I. XIII.\n\u00bb v. in\nif\n\" -\"'*] ;'ef\n'\"'j\n:-t '3 \u2022\n\u25a0\u25a0M\nI","fullrs":{},"find":"566.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"565","restrictionCode":"1","cdmfilesize":"1792494","cdmfilesizeformatted":"1.71 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

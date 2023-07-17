@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$100 Reward.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000650</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>John McMerty</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1859-12-22</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Trenton, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Trenton, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1859</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1859-12-12</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$100 Reward. RAN AWAY from the subscriber on the night of the 12th inst., ALECK, black, about five feet, heavy built, round face, teeth bad, aged between 28 and 30 years. JACK, five feet 8 or 9 inches, black or nearly so, has a scar on his face, rather heavy made, 30 or 35 years old. The above reward I will give if taken out of this Parish and delievered to me, or $50 if taken in this Parish and secured so that I can get them. JOHN McMERTY. Trenton, La., Dec. 16, 1859.</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black</note>
+   <note type="content" displayLabel="Slave Owner">John McMerty</note>
+   <note type="content" displayLabel="Slave Name (Age)">Aleck (28 or 30); Jack (30 or 35)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$100 or $50</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">2</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 7</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The register. : (Monroe, La.) 185?-1861</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn87091084/1859-12-22/ed-1/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 87091084</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/776</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-24</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>776</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/776/json"
+                        timestamp="2017-02-13 13:33:24">{"title":"RSA00000650","object":"sn 87091084","publia":"The register. : (Monroe, La.) 185?-1861","date":"1859-12-22","year":"1859","film":"page 2, column 7","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn87091084\/1859-12-22\/ed-1\/seq-2\/","unique":"$100 Reward.","person":"John McMerty","parish":"Trenton, La.","digita":"1859-12-12","acknow":{},"public":"John McMerty","town":"Trenton, La.","relati":"Aleck (28 or 30); Jack (30 or 35)","slave":"M","slavea":"black","slaveb":"N","slavec":{},"reward":"$100 or $50","multip":"2","physic":"Y","persoa":"N","transc":"$100 Reward. RAN AWAY from the subscriber on the night of the 12th inst., ALECK, black, about five feet, heavy built, round face, teeth bad, aged between 28 and 30 years. JACK, five feet 8 or 9 inches, black or nearly so, has a scar on his face, rather heavy made, 30 or 35 years old. The above reward I will give if taken out of this Parish and delievered to me, or $50 if taken in this Parish and secured so that I can get them. JOHN McMERTY. Trenton, La., Dec. 16, 1859.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000650.jp2","find":"837.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-24","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"776","restrictionCode":"1","cdmfilesize":"110664","cdmfilesizeformatted":"0.11 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

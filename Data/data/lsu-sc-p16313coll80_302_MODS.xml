@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Brought to the Second Municipality Police Prison.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001907</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>H.J. Williams</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1851-03-31</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Hinds county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>DeSoto parish</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>New Orleans</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1851</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1851-03-29</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">BROUGHT to the Second Municipality Police Prison--VIRGINIA, a griffe, about 25 years old, 5 feet 2 3/4 inches high; says she belongs to Mr. Myrick of Hinds county, Miss. MOSES, a dark griff, about 18 years old, 5 feet 4 1/2 inches high; says he belongs to Mrs. McKenny, of the parish of DeSoto. The owners will please call, pay charges, and take them away. H.J. WILLIAMS, Warden. NewOrleans, March 29, 1851. mh31 1aw3w</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">griff; dark griff</note>
+   <note type="content" displayLabel="Slave Owner">Mr. Myrick; Mrs. McKenny</note>
+   <note type="content" displayLabel="Slave Name (Age)">Virginia (25); Moses (18)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">F; M</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">2</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 4</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Daily crescent. : ([New Orleans, La.]) 1848-1851</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-03-31/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-04-02/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-04-08/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-04-09/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-04-10/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-04-15/ed-1/seq-1/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015378</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2038</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-16</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2038</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2038/json"
+                        timestamp="2017-02-13 13:33:30">{"title":"RSA00001907","object":"sn82015378","publia":"The Daily crescent. : ([New Orleans, La.]) 1848-1851","date":"1851-03-31","year":"1851","film":"page 2, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-03-31\/ed-1\/seq-2\/","unique":"Brought to the Second Municipality Police Prison.","person":"H.J. Williams","parish":"New Orleans","digita":{},"acknow":"1851-03-29","public":"Mr. Myrick; Mrs. McKenny","town":"Hinds county, Miss.; DeSoto parish","relati":"Virginia (25); Moses (18)","slave":"F; M","slavea":"griff; dark griff","slaveb":"N","slavec":{},"reward":{},"multip":"2","physic":"Y","persoa":"N","transc":"BROUGHT to the Second Municipality Police Prison--VIRGINIA, a griffe, about 25 years old, 5 feet 2 3\/4 inches high; says she belongs to Mr. Myrick of Hinds county, Miss. MOSES, a dark griff, about 18 years old, 5 feet 4 1\/2 inches high; says he belongs to Mrs. McKenny, of the parish of DeSoto. The owners will please call, pay charges, and take them away. H.J. WILLIAMS, Warden. NewOrleans, March 29, 1851. mh31 1aw3w","subjec":"Fugitive slaves--Louisiana.; Fugitive slaves--Mississippi.; Slavery--Louisiana.; Slavery--Mississippi.; Slaves--Louisiana.; Slaves--Mississippi.; Women slaves--Louisiana.; Women slaves--Mississippi.;","type":"text","format":"clipping","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-04-02\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-04-08\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-04-09\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-04-10\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-04-15\/ed-1\/seq-1\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001907.jpg","find":"2018.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-16","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"2038","restrictionCode":"1","cdmfilesize":"48885","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>W.W. Worthy Store, Ethel [?], La.</title>
+  </titleInfo>
+   <name type="personal" displayLabel="Photographer">
+      <namePart>Lytle, Andrew David, 1834-1917</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes" qualifier="questionable">1900</dateCreated>
+      <dateCreated point="end" qualifier="questionable">1901</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>General stores</topic>
+      <topic>Louisiana</topic>
+      <topic>Ethel</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>W. W. Worthy (Merchant: Ethel, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Photograph : glass plate negative / polyester interpositive</note>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Series">
+         <partName>Plantation stores</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <nonSort>'</nonSort>
+         <title>Andrew D. Lytle's Baton Rouge' Photograph Collection/</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>UU:263</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Andrew D. Lytle Collection, Mss. 2600, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">2600_gpn010</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll12/id/925</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-02-17</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll12</alias>
+         <pointer>925</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll12/925/json"
+                        timestamp="2017-05-16 10:32:02">{"title":"W.W. Worthy Store, Ethel [?], La.","series":"Plantation stores","creato":"Lytle, Andrew David, 1834-1917.","date":"1900?-1901?","descri":"Photograph : glass plate negative \/ polyester interpositive","notes":{},"type":"Still image","subjec":"General stores--Louisiana--Ethel--Photographs.; W. W. Worthy (Merchant: Ethel, La.)--Photographs.","contri":"'Andrew D. Lytle's Baton Rouge' Photograph Collection","publis":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )","identi":"UU:263","source":"Andrew D. Lytle Collection, Mss. 2600, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","relati":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","langua":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Mention the 'Item number' or 'Item URL' in your request.","covera":"See 'reference url' on the navigation bar.","coverb":"Collection homepage: http:\/\/www.louisianadigitallibrary.org\/\/cdm4\/index_p15140coll12.php?CISOROOT=\/p15140coll12; Related online exhibition: http:\/\/www.lib.lsu.edu\/special\/exhibits\/e-exhibits\/Lytle\/index.html","digita":"Photograph : Original digitized in color using a Microtek Scanmaker 1000XL and converted from tiff to jpeg grayscale using Adobe Photoshop.","image":"2600_gpn010","fullrs":{},"find":"926.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-02-17","dmmodified":"2014-02-17","dmoclcno":{},"dmrecord":"925","restrictionCode":"1","cdmfilesize":"2409436","cdmfilesizeformatted":"2.30 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Photograph : Original digitized in color using a Microtek Scanmaker 1000XL and converted from tiff to jpeg grayscale using Adobe Photoshop.</hardwareSoftware>
+  </extension>
+</mods>

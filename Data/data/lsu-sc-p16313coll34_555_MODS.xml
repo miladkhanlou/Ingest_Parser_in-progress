@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Concitoyen Desvignes Cousin to Monsieur Pascal, 1792 Nov. 02</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Cousin, Desvignes.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1792-11-02</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Trénonay, Jean Claude, d. 1792</topic>
+      <topic>Death and burial</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Murder</topic>
+      <topic>Louisiana</topic>
+      <topic>Pointe Coupee Parish</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaveholders</topic>
+      <topic>Violence against</topic>
+      <topic>Louisiana</topic>
+      <topic>Pointe Coupee Parish</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+      <topic>Pointe Coupee Parish</topic>
+   </subject>
+   <abstract displayLabel="Description">Concitoyen Desvignes Cousin, Lyon, France, provides Monsieur Pascal, Voiron, France, an excerpt from Jacques [Tournier? Tourine?]’s July 18, 1792, letter from New Orleans describing Claude Trénonay's death.  The quote states that the victim was supping with his manager, his surgeon, and his business manager when one of his male slaves, spying through a window, shot Trénonay dead without saying a word.  The account relates that the slave escaped but returned to his cabin the following night and hung himself.  The statement records that the presence of accomplices is not known.  The value of Trénonay's estate is given and reference is made to the deceased’s brother in Paris (who was 'trésorier du Receveur des Finances') and 'another [brother] in Dauphiné with a sister.'  Below the writer's signature appears 'ancien hôtel d’artois #8.'</abstract>
+   <note type="content" displayLabel="Transcriptions/Translations Note">The transcriptions and translations remain true to the nonstandard grammar, punctuation, and spelling of the original documents, with only minimal corrections made in isolated instances for the sake of clarity.</note>
+   <typeOfResource>text</typeOfResource>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll34:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/special/findaid/3645post.pdf</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Armand Duplantier Family Letters, LSU Libraries</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Armand Duplantier Family Letters, Mss. 5060, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <note type="acquisition" displayLabel="Donor Information">The Armand Duplantier Family Letters were given by the descendants of Guy Antoine Allard Duplantier, elder brother of Armand Duplantier, to their Louisiana cousins, and subsequently donated to the LSU Libraries.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll34/id/11</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-03-03</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll34</alias>
+         <pointer>11</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll34/11/json"
+                        timestamp="2017-02-07 15:23:37">{"title":"Concitoyen Desvignes Cousin to Monsieur Pascal, 1792 Nov. 02","date":"1792-11-02","descri":"Concitoyen Desvignes Cousin, Lyon, France, provides Monsieur Pascal, Voiron, France, an excerpt from Jacques [Tournier? Tourine?]\u2019s July 18, 1792, letter from New Orleans describing Claude Tr\u00e9nonay's death.  The quote states that the victim was supping with his manager, his surgeon, and his business manager when one of his male slaves, spying through a window, shot Tr\u00e9nonay dead without saying a word.  The account relates that the slave escaped but returned to his cabin the following night and hung himself.  The statement records that the presence of accomplices is not known.  The value of Tr\u00e9nonay's estate is given and reference is made to the deceased\u2019s brother in Paris (who was 'tr\u00e9sorier du Receveur des Finances') and 'another [brother] in Dauphin\u00e9 with a sister.'  Below the writer's signature appears 'ancien h\u00f4tel d\u2019artois #8.'","creato":"Cousin, Desvignes.","subjec":"Tr\u00e9nonay, Jean Claude, d. 1792--Death and burial.; Murder--Louisiana--Pointe Coupee Parish.; Slaveholders--Violence against--Louisiana--Pointe Coupee Parish.; Slaves--Louisiana--Pointe Coupee Parish.","contri":{},"addres":{},"findin":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/5060.pdf","cite":"Armand Duplantier Family Letters, Mss. 5060, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special ). ","discla":"The transcriptions and translations remain true to the nonstandard grammar, punctuation, and spelling of the original documents, with only minimal corrections made in isolated instances for the sake of clarity.","rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","donor":"The Armand Duplantier Family Letters were given by the descendants of Guy Antoine Allard Duplantier, elder brother of Armand Duplantier, to their Louisiana cousins, and subsequently donated to the LSU Libraries.","contac":"See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the 'Item number' or 'Item URL' in your request. E-mail lsudiglib@lsu.edu with questions or comments.","source":{},"fullrs":{},"find":"12.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-03-03","dmmodified":"2015-03-03","dmoclcno":{},"dmrecord":"11","restrictionCode":"1","cdmfilesize":"668","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

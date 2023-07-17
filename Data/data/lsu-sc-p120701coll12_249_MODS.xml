@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 16</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/521</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>521</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/521/json"
+                        timestamp="2017-02-09 16:30:53">{"title":"Page 16","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"'i \"i;\nh^t '&lt;\ni $. \u25a0\n\u25a0*\u00bbf '-.\nIll '\nIll\n\u25a0 ,r ii''\n'fe\u00ab -'\u25a0'\n1   %I   \u2022T*i\nI GO\nSOUTH-WESTERN JOURNAL.\ns*\n!} i'\nHi\n\u25a0\nm\n'\ni; i;i   i\nI\nA volume might presently bo filled with descriptions of\nour drives about the environs of Cincinnati. There are in\nnumerable points of view whence the city, with its masses of\nbuildings and spires, may be seen shining through the limpid\natmosphere, like a cloud-city in the evening sky. There\nare many spols where it is a relief to lose the river from the\nview, and lo be shut in among the brilliant green hills, which\narc more than can be numbered, But there is one drive,\nwhich I almost wonder the inhabitants do not take every\nsummer day, to the Little Miami bottoms. Wo continued\neastward along tho bank of the river for seven miles, the\nwhole scenery of which was beautiful; but the unforgotten\nspot was the level about the mouth ofthe Little Miami river,\nthe richest of plains or level valleys, studded with farmhouses, enlivened with clearings, and kept primitive in appearance by the masses of dark forest which filled up all the\nunoccupied spaces. Upon this scene wo looked down from\na great height, a Niphates of the new world. On entering\na little pass between two grassy hills, crested with wood, we\nwero desired to alight. I ran up the ascent to tho right, nnd\nwas startled at finding myself on the top of a precipice. Far\nbeneath me ran the Little Miami, with a narrow white pebbly strand, arrow-like trees springing over from the brink of\nthe precipice, and the long evening shadows making the current as black as night, while the green, up to the very lips of\nthe ravine, was of the sunniest, in the last flood of western\nlie-lit.\u2014Miss Harriet Martincau.\nTo Correspondents.\u2014Wo learn that Professor Carpenter, of the Louisiana College in Jackson, Louisiana, lately read before a literary society an interesting and valuable\npaper on the \"Organic Remains found in the State of Louisiana. \" 'May wo not be permitted lo solicit a copy for publication in the South-Western Journal ?\nThe Lyceum\u2014Tho next meeting of the Lyceum will\nbo holden in the Methodist Church, in the city of Natchez,\non Saturday night, tho fifth of May.\nThe principal exercise of the evening will bo a Chemlcai\nLecture \"on the Properties of Water,\" delivered by Dr. S.\nC. Merwin, accompanied by experiments.\nThe church has been generously thrown open for the oc\ncasion, and a general invitation is cordially extended to ladies and gentlemen not members ofthe Lyceum, and the pub\niic at large, to attend on this occasion.\nPeriodical Literature.\u2014The literary periodicals sent\nin exchange for the South-Western Journal, are greeted with\npleasure, A welcome to their bright faces, radicnt with the\nintellect of the north and the cast I\nThe Knickerbocker {nomen vencrabile) comes wiih its\nnervous, figgety, compact little old New Amsterdam historian, as a vignette on the cover. This is one of the most successful publications of the day, abounding in highly useful\nas well as pleasing and attractive miscellany.\nThe pride of the \" old dominion \" also, the Southern Literary  Messenger, with  its proud chivalrous bearing, ami\nhigh-toned sentiment, is before us, growing choicer withea I\nmonth, and more worthy of the proud south.\nWo have the \" American Quarterly Register,\" theorrr\nof the American Education Society\u2014a quarterly filled vriil\nthe most important statistics, and  the annals of the oldti\ntimes of our own country.\nThe \"Christian Review\" from Boston, solicits our attn\ntion by its ably written papers and discriminating reviews\nThe Yalo Literary Magazine comes fresh from th,.\n\" Athens of America, \" the city of lilacs, white cottages ami\ngreen window blinds. It has much fine writing, doited with\n\"small sprinklings\" of Latin and Greek, such ns students-\ndote upon. We would not exchange a single number of tin,\nmagazine for Willard's Body of Divinity, backed by Ibc\nglossaries of a whole generation of the schoolmen.\nThe Family Magazine, from Cincinnati, in its later numbers more than sustains its former excellence. lis pictorial\nrepresentations improve, while the selections seem lo kttp\npace with the activity of this high-pressure age.\nInteresting to Sculptors.\u2014It is stated in the National Intelligencer, that Mr. Factherslonhaugh.Uniltd Statu\nGeologist, has ascertained tho existence of some important\ndeposites of white statuary marble, in the Cherokee country.\nlie has followed an obscure ridge in the mountains six miles,\nconsisting entirely of that valuable substance, hitherto onlv\nseen in the United States, in thin beds, not exceeding a fen-\ninches. He reports one- of these deposites as equal to thai\nof Massa Carrara in Italy, with which he is familiar. Marble of this kind has been hitherto brought, nt a great expense,\nfrom Italy. The block for the statue of Hamilton, destroyed by fire in tho Exchange, if we mistake not, was repre.\nsented to have cost not less than two thousand dollars.\nColonel Sherburne, of Washington city, who had been for\nsome weeks past in the Cherokee nation, on business for\ngovernment, has, wo have been informed, contracted with the\nowner for the purchase of the land on which this valuable*\nand beautiful marble was discovered by the celebrated geologist above named. It is thought to be inexhaustible anil\nmore valuable than any gold mine yet discovered in the\nCherokee nation, being of that cast as not only lo command\na good price, but will be in very great demand. Thequarry\nis within seven miles of navigable water, and there is a\nnever-failing stream within one hundred yards, that will carry one thousand saws, if found necessary.\nExoerpta.\u2014Lord Bacon says, there never was found in\nany ago of the world, either philosophers or sect, or discipline which did so highly exalt the good, as the Christian\nfaith.\nlohn Seldon.\u2014There is no book upon which we could\nrest in a dying moment but the Bible.\nJohn Milton, the immortal poet, says : There are no songs\ncomparable to the songs of Time, no orations equal to those\nof the prophets, and no politics like tho Bible for excellent\nwisdom and use.\nRobert Boyle says: It is a matchless volume, it is impossv\nble we can study it too much or esteem it too highly'","fullrs":{},"find":"522.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"521","restrictionCode":"1","cdmfilesize":"1708726","cdmfilesizeformatted":"1.63 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

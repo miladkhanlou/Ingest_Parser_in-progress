@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_2</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright of the original material is retained in accordance with U.Scopyright lawsPermission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/874</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>874</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/874/json"
+                        timestamp="2017-01-13 13:22:52">{"title":"Page_2","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","rights":"Physical rights are retained by the LSU LibrariesCopyright of the original material is retained in accordance with U.Scopyright lawsPermission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M 55\n2\ndes autorit\u00e9s, la plupart historiques ou d\u00e9riv\u00e9es des lois Fran\u00e7aises &amp;\nEspagnoles dont nous les avions appuy\u00e9sComme le Juri qui avait\n\u00e9t\u00e9 appel\u00e9 de diff\u00e9rentes paroi?ses autres que celle de la Nelle Orl\u00e9ans, pour\ndonner un verdict sur cette affaire, n\u2019avait pu s\u2019accorder, &amp; que nous\navons fini par convenir avec les avocats adverses que le tout serait\nlaiss\u00e9 \u00e0 la d\u00e9cision du Juge Harper, pour avoir de lui un Jugement\nen quelque sorte nominal qui nous laisserait toute la latitude\nn\u00e9ce?saire, afin d\u2019en faire appel devant la Cour Supr\u00eame des Etats-Unis,\nen soumettant \u00e0 cette derni\u00e8re, tous les faits &amp; preuves que nous\npourrions all\u00e9guer depart et d\u2019autre dans l\u2019\u00e9tat qui en serait dre?s\u00e9,\nvous concevez que notre d\u00e9fense a d\u00fb \u00eatre tr\u00e8s incompl\u00e8teJ\u2019ai donc\ncru devoir expliquer cet \u00e9tat de faits par une esp\u00e8ce de pr\u00e9cis ou de\nm\u00e9moire \u00e9crit qui en d\u00e9veloppait les principaux \u00e9v\u00e9nemens historiques\nainsi que les diverses lois &amp; autorit\u00e9s dont ce [rature] m\u00e9moire devait \u00eatre soutenu.\nC\u2019est ce qui doit avoir donn\u00e9 \u00e0 cet ouvrage, un caract\u00e8re qui doit lui\netre particulier, celui de vous pr\u00e9senter l\u2019image d\u2019un vaste magasin\no\u00f9 vous pouvez [rature] puiser quelques mat\u00e9riaux utiles &amp; en rejetter beau-\n-coup d\u2019autresC\u2019est sous ce point de vue que je l\u2019ai dre?s\u00e9 &amp; remis\nau Maire, Honble Denis Prieur, et que je vous prie d\u2019en faire\nusage, ainsi que vous le trouverez convenable.\nN\u00e9anmoins, je crois devoir vous instruire d\u2019un nouvel incident\nqui vient de s\u2019\u00e9lever et qui, quoique n\u2019ayant qu\u2019un rapport indirect\navec le proc\u00e8s dont il est question, peut vous mettre en possession de\nquelques faits dont vous pourrez, peut-\u00eatre vous servir pour faire\nvaloir les r\u00e9clamations de la Corportation \u2013 Il para\u00eet qu\u2019\u00e0 l\u2019i?sue\ndu grand incendie de 1788 ou 1793, un sieur Thomas Bertrand, espagnol,\nqui avait \u00e9t\u00e9 ruin\u00e9 par la destruction des divers \u00e9difices qu\u2019il poss\u00e9dait\n\u00e0 la Nelle Orl\u00e9ans, &amp; qui \u00e9tait charg\u00e9 d\u2019une nombreuse famille, s\u2019adre?sa\n3\nM 55\nau gouverneur d\u2019alors, Mr Miro, et obtint de lui un ordre qui lui\ndonnait la permi?sion d\u2019\u00e9tablir une cabanne en bois d\u2019une certaine\ndeimension, sur un terrain qui joignait la lev\u00e9e enface de cette ville\net entre les rues Dumaine et St Philippe, pour y vendre de certains\nobjets \u00e0 l\u2019effet de faire subsister sa famille, &amp; qu\u2019en l\u2019ann\u00e9e1794,\ncette cabanne en bois n\u2019ayant pas \u00e9t\u00e9 achev\u00e9e ou ayant \u00e9prouv\u00e9 quel-\n-que dommage dans son to\u00eet qui \u00e9tait en bardeaux, Bertrand\n[fin de la deuxi\u00e8me page]","typa":{},"genera":{},"fullrs":{},"find":"875.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-08-25","dmmodified":"2008-08-25","dmoclcno":{},"dmrecord":"874","restrictionCode":"1","cdmfilesize":"1412937","cdmfilesizeformatted":"1.35 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

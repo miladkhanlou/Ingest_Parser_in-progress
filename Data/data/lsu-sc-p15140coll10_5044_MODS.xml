@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Alie Austen McMurran letter, 1861 May 7</title>
+  </titleInfo>
+   <note type="biographical/historical" displayLabel="Biographical Note">John T. McMurran (1801-1866), a lawyer and state senator in Natchez, Mississippi, was married to the former Mary Louise Turner (1814-1891), and they built Melrose near Natchez, Mississippi in 1845. Together they had two children, John T. McMurran, Jr., and Mary Elizabeth McMurran (1835-1861)" John Jr. married Alie Austen (d.1899) of Baltimore County, Maryland, in 1856, and they resided at Riverside Plantation in Wilkinson County, Miss., until the Civil War.  Mary Louise McMurran's sister was married to John Quitman.  John, Jr. initially joined the Confederacy but an artillery accident caused him to lose his hearing.  He subsequently moved to the District of Columbia and was a clerk in the U.S. government during the war.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1861</dateCreated>
+      <dateCreated keyDate="yes">1861-05-07</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Austen, George, Mrs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Secession</topic>
+      <topic>Southern States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Abolitionists</topic>
+      <topic>United States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mississippi</topic>
+      <topic>History</topic>
+      <topic>Civil War, 1861-1865</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Maryland</topic>
+      <topic>History</topic>
+      <topic>Civil War, 1861-1865</topic>
+   </subject>
+   <note type="content" displayLabel="Topics">politics and elections, women; slaves; slavery; race relations and racial attitudes; secession; attitudes about war</note>
+   <physicalDescription>
+      <form>letter (6 p.),  envelope</form>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>McMurran-Austen Family Papers, Mss. 4795</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/special/findaid/4795.pdf</url>
+      </location>
+      <titleInfo displayLabel="Folder">
+         <partNumber>Folder 6</partNumber>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Civil War Context and Conflict at LSU Libraries</title>
+      </titleInfo>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 1</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>U:298</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">McMurran-Austen Family Papers, Mss. 4795, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/364</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>364</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/364/json"
+                        timestamp="2017-02-03 08:22:57">{"title":"Alie Austen McMurran letter, 1861 May 7","subjec":"Austen, George, Mrs.; Secession--Southern States.; Slaves--Mississippi.; Abolitionists--United States.; Mississippi--History--Civil War, 1861-1865.; Maryland--History--Civil War, 1861-1865.","descri":"Letter from Alie McMurran, Melrose, Natchez, to her mother, Mrs. George Austen, Baltimore County, Maryland, regarding men preparing for war and her disdain for Maryland that it did not secede early, as states on both sides will find her present policy contemptible.  She relates how some families have all their men going to war and fears her husband is not up to the work of soldier life.  She remarks \"\"Tis a desperate spirit these republicans have raised.\" Finally, she recounts a warm reception she received from the slaves and wishes abolitionists could have witnessed the scene.","creato":"McMurran, Alie Austen, d. 1899.","publis":{},"date":"1861-05-07","year":"1861","format":"letter (6 p.),  envelope","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )).","collec":"McMurran-Austen Family Papers, Mss. 4795","reposa":"http:\/\/www.lib.lsu.edu\/special\/findaid\/4795.pdf","rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","digitb":"Civil War: Context &amp; Conflict","langua":"en","topics":"politics and elections, women; slaves; slavery; race relations and racial attitudes; secession; attitudes about war","cite":"McMurran-Austen Family Papers, Mss. 4795, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","notes":"John T. McMurran (1801-1866), a lawyer and state senator in Natchez, Mississippi, was married to the former Mary Louise Turner (1814-1891), and they built Melrose near Natchez, Mississippi in 1845. Together they had two children, John T. McMurran, Jr., and Mary Elizabeth McMurran (1835-1861)\" John Jr. married Alie Austen (d.1899) of Baltimore County, Maryland, in 1856, and they resided at Riverside Plantation in Wilkinson County, Miss., until the Civil War.  Mary Louise McMurran's sister was married to John Quitman.  John, Jr. initially joined the Confederacy but an artillery accident caused him to lose his hearing.  He subsequently moved to the District of Columbia and was a clerk in the U.S. government during the war.","notesa":{},"source":"U:298","box":"1","folder":"6","identi":{},"relati":{},"findin":{},"catalo":{},"type":"unpublished","full":{},"fullrs":{},"find":"365.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-30","dmmodified":"2012-05-30","dmoclcno":{},"dmrecord":"364","restrictionCode":"1","cdmfilesize":"1042","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <publicationStatus>unpublished</publicationStatus>
+  </extension>
+</mods>

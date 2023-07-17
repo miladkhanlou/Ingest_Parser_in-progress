@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 08</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/564</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>564</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/564/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 08","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"200\nSOUTH-WESTERN JOURNAL.\n!\nin his own bosom, and foil heavily to Ihe floor, cursing me\nwith his last breath. Stricken with horror at the result of\nmy own machinations, my limbs seemed to grow stiff, my\nsoul sickened at the scene before me, and with my senses\nreeling, I sunk into my father's arms, having a confused recollection of the moving mass of spectators that crowded\naround mc before I was entirely bereft of reason,\nO Melmoth! if you could realize the anguish I fob in the\neffort to collect my scattered senses upon the dawn of returning reason, you would know that I was indeed an object of\npity. It was SOmo time before I knew where I wasj at length\n1 was enabled to identify the boohs, the furniture and tapestry with that which belonged to the apartment allotted to Isabel and myself 1 thought no one was in the room, anel overpowered with grief I wept burning tears of misery, thinking\nof nothing but the wretchedness of the post, and an eternal\nfuturity of self-condemnation. \"OGod,\" I involuntarily ox-\nclaimed, \" whore shall I look for relief from my unparalleled sorrow but in death?\" \"Here!\" exclaimed my cousin\nIsabel, who hail been watching over me with a sister's care,\nand was concealed from my view by the folds of .tapestry\nwhich curtained tho recess in the window. She ran to my\nbedside, her eyes reel from weeping, and fondly embracing\nme, cried out, that she loved me ns much as sho did her bro\nther, and would be to me all a sister's love could prompt.'\nIn the fulness of heart evinced by my cousin, 1 forgot my\nwoes for a time; and, locked in each other's arms, we wept\nwithout restraint. Feeling a warm current of liquid reach\nher arm, through her sleeve, Isabel raised up to ascertain the\ncause, and suddenly exclaimed,\u2014\"You are bleeding at the\narm, Clara, where the Doelor opened a vein an hour since,\n\u2014see you have burst the bandages\u2014what shall I do?\"\n\"Call my father,\" I replied, and was coolly holding my\nthumb on ihe orifice when my father hurried lo my bedside,\nthe very picture of grief and despair. I felt a reproach from\nhis careworn visage, which words could never have caused,\nand buried my face in the pillow from very shame. Haying\nbandaged my arm, \"Clara,\" said he, \" look up my dear girl,\nand till me if you are better? \"\n\" I am better,\" I replied, without raising my eyes.\n\" You are not ashamed to see your father,\" said he, in an\nenquiring tone.\n\"Yes but I am! and you never will forgive me for the pa i.\nI have cost you ? \"\n\" 1 will! I will, my dear child ! and if ever parental feeling wanned the heart of man, it shall kindle in mine such\nlove as angels'rhight_a.sktheir sister saints to give!\u2014forget\nthe past, Clara\u2014be but yourself again, and all that a father\ncan do to contribulo to his child's happiness, 1 will cheerfully\nperform.\" Unable longer lo restrain the ebullition of feelings which were gathering at my heart, 1 burst into a torrent\nol tears thai spoke my thanks, for words had to give way as\ntoo powerless to convey all 1 fob. Recovering from this\nstate of things, and with the hope that Herbert had not really\ndied by his own hand\u2014I eagerly enquired \"if ho were living,\nand if within the reach of surgical skill, would lr\ncover ?\"\nlie not re-\n\" Mo expired before he was carried from the church,\" said\nmy father.\n\" Dead I \"\u2014O Melmoth I the revenge after all is bis, and\nwhen his death was confirmed, I felt that I was bis execu-\ntioner\u2014Ihat I had sent him to his last account, weltering h\nhis own blood and dyed in sin so deeply that not a ray of\nhope would light his path to the judgment seat of God. I\ncould not drive from mc this bitter thought\u2014it tortured mv\nsoul\u2014wiling my heart with anguish, and at length usurpid\nmv reason, when I again laid for days, the victim of a scorching fever that threatened my brain with inflamntion. lint\nwhy portray the many trying scenes I have gone throiHi)\nIt is not to elicit pity, for my proud heart scorns the menial\nsalvoand shall sink beneath the weight of sorrow, disdaining\nsympathy, or rise above the shackles of woe, throbbing in\nunison wilh the nohler passions, which alone embellish the\ncharacter of woman.\n\"'Twos a fortnight before I left my room, and being enabled to ride out, I partook wilh my cousins of all the pleasures a southern spring affords. My lungs having suffered\nin my late attack, the attending physician advised a removal\nto this Island, anel Isabel being- my constant Companion here,\nI hope yet to live thai I may repay the debt of love I owe\nher. and strive to reward my kind fathe-r with a long life of\ndevotion. I cannot review this ungainly scrawl; with the\ndesire, therefore, thnt you will remember me to my mother\nand sisters, believe me,\nRespectfully yours,\nClaiia Perryan,\nTo Dr. John, Melmoth.\"\nA perusal of this letter, my dear Frank, caused mc to exclaim\u2014\" who would have thought, that the gentle and con-\nlieling Clara Perryan, whose graceful form seemed moulded\nIbr the delicate offices of her sex only, possessed a heart\nwhen aroused by Unmerited injury that impelled her lo meel\ntrials amid which many of our own sex would disgrace\nthemselves. Madam Perryan received a letter from the Colonel at the same time Clara's reached me, and I learned ihat\nthey would embark for the north about tho first of June.\nFearing a settled disease of her lungs, and knowing ihat\nthe West Indian climate would provo more favorable to a\nhealthy resolution where phthisis was not confirmed, I immediately wrote to Clara, enjoining tho necessity of remaining on lhc Island through the summer and coining winter;\nadvised moderate exercise, anel by all means, lo avoid exposure to the heavy dews. If she had returned lo the north\nat the time first intended, the vicissitudes of weather would\nhive proved too trying upon her lungs, and hei numerous\nfriends would have been obliged, without doubt, to have\nmourned her early loss. But this fair champion of her\nsex was fitted for a moro useful sphere, and at the end of\na twelve-month from her arrival at Havana, with her\nicalth entirely restored, was received at home, the prwo\nof her family, and doubly admired by all who knew her\nstory. If you have waded through this manuscript with\npatience, my dear Frank, I can readily commend you tor\nihe virtue. Yours,\nMELMOTH.","fullrs":{},"find":"565.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"564","restrictionCode":"1","cdmfilesize":"1711496","cdmfilesizeformatted":"1.63 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

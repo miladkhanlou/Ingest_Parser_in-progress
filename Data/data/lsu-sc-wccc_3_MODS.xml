@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Letter from Captain Edward DTurner to William C.CClaiborne, 1805 April 5</title>
+   </titleInfo>
+   <name type="personal" displayLabel="Creator">
+      <namePart>Turner, Edward D., approximately 1768-1811</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name type="personal" displayLabel="Addressee">
+      <namePart>Claiborne, William CC(William Charles Cole), 1775-1817</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1805-04-05</dateCreated>
+      <place>
+         <placeTerm type="text">Natchitoches (La.)</placeTerm>
+      </place>
+      <dateCaptured encoding="w3cdtf">2009-11-19</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Governors</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Fortification</topic>
+      <topic>Louisiana</topic>
+      <topic>Natchitoches</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Louisiana</geographic>
+      <geographic>Politics and government</geographic>
+      <geographic>1803-1865</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Natchitoches (La.)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Fort Claiborne (La.)</geographic>
+   </subject>
+   <abstract displayLabel="Description">Writing form Fort Claiborne, Turner discusses his support of Claiborne in the face of attacks from political enemiesTurner also describes his intention to avoid the political arena and acquire plantation holdings.</abstract>
+   <note type="biographical/historical" displayLabel="Biographical Note">William C.C(Charles Cole) Claiborne attended the College of William and Mary and the Richmond Academy before serving as a clerk in the US House of Representatives After studying law for several years, Claiborne relocated to Tennessee to set up practice in 1794 and was appointed to that state's Supreme Court two years later The following year he ran successfully for the US House of Representatives, serving until 1801 when he was appointed governor of the Territory of Mississippi In 1803, Claiborne oversaw the purchase of the Louisiana Territory from France and served as territorial governor in New Orleans through 1812 Upon achieving statehood, Claiborne became Louisiana's first elected governor, serving until 1816 That year he was elected to the US Senate, but served only a short time before his death on April 4, 1817.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Letters (correspondence)</form>
+      <extent>2 pages</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>William C.CClaiborne Letters and Depositions, 1799-1846</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-wccc:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss5018</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>VAULT:61, Box 1, Folder 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No Copyright - United States</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright of the original materials in this collection has expired and they are therefore in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">William CCClaiborne Letters and Depositions, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">5018B01F0201</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/cgz</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-05-28</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

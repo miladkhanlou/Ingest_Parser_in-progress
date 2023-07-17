@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 12</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/443</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>443</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/443/json"
+                        timestamp="2017-02-09 16:30:58">{"title":"Page 12","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"kM\nn\nSOUTH-WESTERN JOURNAL.\nvM\nf .;*&lt;\nwharf, as to produce yellow fever in those who are highly\npredisposed, by a strongly miasmatic or infectious atmosphere.\nThey contend, that the infection, or infected air, of ships and\nother places, will diffuse itself, and produce disease in those\nwho breathe it, provided the general atmosphere in which\nthey live is highly morbific, or predisposing lo disease, but\nthat it will not otherwise: that when such a condition of air\nexists, the infection will gradually spread, and finally, without\na change of weather, produce an epidemic: and that, in a\nhealthy state of the air, this infected air, or infection, docs not\nextend itself. * That a ship, when so infected with yellow\nlever miasm, maybe as much a source of miasm, or that it\nmay be disseminated from a ship upon the contiguous population, ns well as from a pile of oysters, or putrid colfee, or\nany other source of miasm. That this infected air from ships,\nin a healthy state of the atmosphere, will not produce the (lis\ncase in those near the wharf where it lies, unless they go on\nboard; or it will not infect the contiguous atmosphere, unless\nthat asmospbere be highly contaminated, and havo already\npredisposed the population to disease. -Dr. Rush, ami others,\nwho were compelled to admit these facts, affirm that this infected air acts only as an exciting cause; and that, in this respect, it sustains tho same position that dissipation, exposure,\nfatigue, and the like, sustain to disease. We do not object to\nthis either; but if it thus becomes an exciting cause, which\nis unavoidable, and produces or excites disease in those who\nwould avoid the other exciting causes, it is certainly as much\nto bo deprecated as if it were called by another name; for it\ncauses tho death of those who might otherwise escape.\nAnother great point of difference among medical men, is\nin relation to ihe source or origin of the malaria of yellow-\nfever, as an epidemic. As to its nature or properties, as before observed, we know nothing except by its effects upon the\nhuman system. It is an invisible, inodorous, aerial poison,\nwhich cannot be perceived by any of our senses; and has not\nbeen detected by any chemical analysis. Yet most men seem to\nlook for it in the fetor which arises from the piitrifaction of\nanimal and vegetable substances: and these substances nre\nlooked upon as the only true source of the miasm of yellow-\nfever. Hence, whenever yellow fever makes its appearance\nin any portion of a city, they immediately commence a search\nfor the source of the infectious miasm ; and the first matters\nof the animal or vegetable kingdoms, in a slate of decomposition, with which they meet, are at once unequivocally declared as the source of the pestilential miasm. If nothing\npurely animal or vegetable be found in a state of piitrifaction, they seize upon whatever, in their opinion, is most nearly\nallied to them. And this continues to be the case, notwithstanding these foetid effluvia have been tested, ami found lo\ncontain no principle particularly deleterious to health: each\none, in reference to the cause of an epidemic, looks alone to\nthose matters which are most offensive to their olfactories;\nnotwithstanding experience leaches that the infected atmosphere cannot be distinguished from common air, by any of\nour senses. In searching out the source of this disease,' instead of being directed by reason and experience, it is too fre-\nquently the case, that they are \"led by the nose\" alone; and\n\u25a0fled, Rep. vol. 3,p.800,\nwhere nothing olsc can be found sufficient, all the pestilence\nis traced to a filthy back yard, a wet sewer, a dead rat, or a\nrotten potatoe.\nFor tlio Bonlh.Wcste.rii Journal,\nTHE LONG   OR SPANISH MOSS OP THE LOWER\nMISSISSIPPI.\nSometimes very significantly called Spanish-beard, from\nits resemblance, at a distance, to long grey beard, or goats-\nbeard.\nSystematic name\u2014Tii.lanosia Usneoides. Class\nvi. Orel. I.    Hcxaudria Monogynia.    Linn.\nSpecific Name\u2014UsNEOlDBS. From vma a. genus of\nlichens, and ctl\u00bbs likeness\u2014from its supposed resemblance ,o\nthe Usnea family. The resemblance is very remote and the\nname but little applicable.\nSpecific Characters. Plant Southern, parasitic, perennial.\nStem greyish green, pruinose to the naked eye, filiform,\nbranching, pendulous, fiexuoso or slightly spiral, about one\nthird of a line in thickness, and from a few inches to six feel\nlong; leaves same size and color with the main stem, cauline,\nsubulate, in pairs or trios, and from one to two inches long:\nwhen two leaves are opposite, the main stem passes through\na spathe formed by their bases, although they are sesile:\nflowers bell-tubular, solitary, and axillary, petals 3, light green,\nbroad-linear, rounded at the apex, etpiitant below, thereby\nforming u tube equal to the calyx: calyx, rusty, glabrous,\ntripartite, divisions subulate, very acute, erect, spreading Dal:\nstamens shorter than the tube.\nEaton has placed it among those plants whose corals have a\nperianth without a spathe:\u2014but the coral of the Spanish\nmoss has a calyx, and a spathe over it; and the spathe remains or is permanent.\nThis singular vegetable abounds along the lower Mississippi, principally upon the alluvial lands, nnd the contiguous fertile hills, within 10 or 15 miles of the river. It seems\nto flourish best in a damp atmosphere and in regions where\nfogs are frequent, which is the case in the swamps of the\nMississippi, and many other portions of the South and Southwest. In high, thin or sterile hills, remote from the river, or\nfrom marshy grounds, it is less frequent and often entitelj\nwanting. It seldom is found North of 33\u00b0 or 33.1\u00b0 N, lot\nIn a suitable atmosphere it abounds to such an extent, that\nnearly all the trees of the forest, which have rough bark, are\ncovered with heavy tresses of it, from ono to six feet long.\nlendnnt from every branch, until the whole forest appeals\n'lad in sombre grey ; which in tho leafless period of wintet\ncasts a more gloomy shade in the deep forest than common\nfoliage does in summer.\nThis plant, although a parasite, derives no sustenance from\nthe tree upon which it hangs. The only support, yielded ly\nthe tree, is to hold it suspended from its fine branches, so thai\nii may wave freely in the air and be exposed to every breeze,\nfrom which only it derives its sustenance, It will grow upon\ndead trees, as I have seen a hundred times; but it doesK*\nflourish there as upon tho living tree, for want of the small\nbranches to suspend it loosely in the air; for these are soon\ndropped by dead trees;  and even the large  branches upon\nA","fullrs":{},"find":"444.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"443","restrictionCode":"1","cdmfilesize":"1823676","cdmfilesizeformatted":"1.74 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

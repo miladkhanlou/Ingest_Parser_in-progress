@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00000263f</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Thom. Harper</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <abstract displayLabel="Transcript">IL a été conduit à la Geole de Police la Seconde Municipalité, les esclaves suivants, savior: EDWARD, agé d'environ 38 ans, se disant appartenir à Mr. Pascal. Un nègre nommé BEN, àgé d'environ 30 ou 32 ans, se disant appartenir à M. Jones. Une griffonne nommée Betsy, àgée d'environ 18 à 20 ans, elle se dit libre Les propiéraires des dits esclaves sont priés de venir les retirer en prouvant leurs propréetés et en payant les frais. T. HARPER, capt. de la Garde 3 oct</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>True American. : (New Orleans [La.]) 1835-18??</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83016527</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/287</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-12-11</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>287</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/287/json"
+                        timestamp="2017-02-13 13:33:59">{"title":"RSA00000263f","object":"sn 83016527","publia":"True American. : (New Orleans [La.]) 1835-18??","date":{},"year":{},"film":{},"altern":{},"unique":{},"person":"Thom. Harper","parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"IL a \u00e9t\u00e9 conduit \u00e0 la Geole de Police la Seconde Municipalit\u00e9, les esclaves suivants, savior: EDWARD, ag\u00e9 d'environ 38 ans, se disant appartenir \u00e0 Mr. Pascal. Un n\u00e8gre nomm\u00e9 BEN, \u00e0g\u00e9 d'environ 30 ou 32 ans, se disant appartenir \u00e0 M. Jones. Une griffonne nomm\u00e9e Betsy, \u00e0g\u00e9e d'environ 18 \u00e0 20 ans, elle se dit libre Les propi\u00e9raires des dits esclaves sont pri\u00e9s de venir les retirer en prouvant leurs propr\u00e9et\u00e9s et en payant les frais. T. HARPER, capt. de la Garde 3 oct","subjec":{},"type":"text","format":"clipping","langua":"French","digitb":"Louisiana Runaway Slave Advertisements, 1836-1904","digiti":{},"contin":{},"citati":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu)","call":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"\"Call number\"\" in any questions, comments, or requests.","covera":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","identi":"See 'reference url' on the navigation bar.","plugin":{},"image":{},"fullrs":"Volume2\/RSA00000263f-0.jp2","find":"353.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-11","dmmodified":"2015-01-06","dmoclcno":{},"dmrecord":"287","restrictionCode":"1","cdmfilesize":"106764","cdmfilesizeformatted":"0.10 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00000146f</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">A étè conduit à geôle de la paroisse Saint-Jean Baptiste, le 3 avrd 1852, le nègre marron appetè JOHN ROSS, disant appartenir à M. Wilson de la Nouvelle-Orlèans. Le lit nègre est agé d'en viron 21 ans, mesure 5 pieds 7 pouces, ne par le qu'anglals et n a aucenè marque particulitr Le propriètaire dudit esclave est requis de le retirer del geô en se conformant à la loi. PIERRE BORNE, deput-shérif. Paroisse St. Jean-Baptiste, 12 avril 1852</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le messager. : (Bringier, Paroisse Saint-Jacques, Louisiane) 1846-1860</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 84020177</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/456</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-12-11</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>456</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/456/json"
+                        timestamp="2017-02-13 13:34:25">{"title":"RSA00000146f","object":"sn 84020177","publia":"Le messager. : (Bringier, Paroisse Saint-Jacques, Louisiane) 1846-1860","date":{},"year":{},"film":{},"altern":{},"unique":{},"person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"A \u00e9t\u00e8 conduit \u00e0 ge\u00f4le de la paroisse Saint-Jean Baptiste, le 3 avrd 1852, le n\u00e8gre marron appet\u00e8 JOHN ROSS, disant appartenir \u00e0 M. Wilson de la Nouvelle-Orl\u00e8ans. Le lit n\u00e8gre est ag\u00e9 d'en viron 21 ans, mesure 5 pieds 7 pouces, ne par le qu'anglals et n a aucen\u00e8 marque particulitr Le propri\u00e8taire dudit esclave est requis de le retirer del ge\u00f4 en se conformant \u00e0 la loi. PIERRE BORNE, deput-sh\u00e9rif. Paroisse St. Jean-Baptiste, 12 avril 1852","subjec":{},"type":"text","format":"clipping","langua":"French","digitb":"Louisiana Runaway Slave Advertisements, 1836-1867","digiti":{},"contin":{},"citati":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu)","call":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"\"Call number\"\" in any questions, comments, or requests.","covera":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","identi":"See 'reference url' on the navigation bar.","plugin":{},"image":{},"fullrs":"Volume2\/RSA00000146f-1.jp2","find":"537.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-11","dmmodified":"2014-12-11","dmoclcno":{},"dmrecord":"456","restrictionCode":"1","cdmfilesize":"110282","cdmfilesizeformatted":"0.11 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

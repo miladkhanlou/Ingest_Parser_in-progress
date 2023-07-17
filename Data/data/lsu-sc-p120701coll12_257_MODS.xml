@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 07</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/529</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>529</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/529/json"
+                        timestamp="2017-02-09 16:31:05">{"title":"Page 07","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"\u25a0BOP-T II -WES T E H N JOU u N A L.\n167\n..pi,?, second passion belonging to society,\" says Burke, \"Is\nimitation.\" This passion arises from much the same cause\nwith sympathy- For, as sympathy makes us take a concern\nin whatever men feel, so this affection prompts us to copy\nwhatever they do. Every person seems to have a kind of\nambition to do what he sees others do; especially if it be\nsomething new or strange\u2014something that attracts the attention of community ; and it makes but little difference whether\nthe acts to be imitated are of a moral or physical character\u2014\nwhether they bo good or bad. Lord Kaimes has said, that\nvirtuous actions alone nre imitative. But 1 differ from his\nlordship, as I presume every man must who has been but a\npartial observer of human nature. If his lordship is correct,\nbow does it happen that children\u2014those, too, who have been\nbrought up by pious parents\u2014secretly attempt to imitate foolish and ridiculous actions which they may have accidentally\nseen, nnd using indecorous and unbecoming language they\nmay have heard dropped from ihe mouths of the vulgar.\nOr why is it that men learn to swear so much more easily\nlhan they learn to pray.\nIt is by imitation and observation far more than by precept\nand study, that wo acquire knowledge.    There is something\nin imitation flattering to the vanity of all.     The great and\nthe good will always find those who will emulate their examples; and there' are none so mean or so low but they will\nfind those so servile as will cling lo them, though they wade\nthrough the lowest depths of vice and iniquity.    What is\nlearned by imitation is easier acquired, and generally more\nlasting, as more of the faculties seem to bo brought into requisition in the ncquirement.    Our lives, our conduct, and all\nour actions are formed from imitation.    It is a secret homage\nwhich all seem to pay to each other; and it is an homage\nwhich every man qan pay without appearing sycophantic.\nAlthough all men arc moro or less creatures of imitation\nyet in order to advance in knowledge and virtue, there must\nfce something original: some must venture from the beaten\ntrack, or must find other creatures, or other objects of imitation than man.    And may we  not suppose that nature has\npresented him something worthy of imitation.     May not\nman's career through the short journey of life be compared\nto the Sun,    The sun rises in the morning, and continues lo\nthine brighter and brighter until it reaches the zenith; then\ngently descending till it comes near the horizon, where its\nhght grows softer and softer, until nt length it is enshrouded\nin the sable curtains of night.    Thus man commences his\n\u00abreer: in the morning of life he is weak and feeble; but he\nincreases in strength and knowledge until he comes to the\nmeridian in years und wisdom, when a pure nnd hallowed\nlight is shed around him, which quickens and enlivens the\nwhole moral  creation.     Then passing mildly and gently\ndown the declivities of time, he is forever shrouded in the\nn,gbt of the tomb.    And who shall say he has not been a\nsun l0 'ho moral world like the sun in  the natural world\nWhich he sought to imitate.\n\" is to imitation that painting and many other of the fine\narts owe their\npower.    It is to this power that many men\nno pains lo improve upon their models. Let us not be afraid\nor imitating the example of the great and good; and where,\nfrom the frailty of human nature, wo shall see any thing\namiss,\u2014we have a pattern in Him who went about doing\ngood, and who never did wrong. And how many men are\nthere whose lives might be held up as almost spotless examples for our imitation. I would that virtuous actions alone\nwere imitative, then would our world be free from much of\nthe vice and wickedness with which it is now filled. But\nalas vice surrounds us on all sides; nnd we eagerly follow\nihe multitude to do evil.\nThe paths of truth and justice are strait and plain, and\nunadorned with any false coloring; while the paths of vice\nand folly are winding and adorned with all the gaudy trappings of which human ingenuity is capable: the one, with\nhere and there a traveller, points to future felicity: the other,\ncrowded with many votaries, proclaims present gratification.\n\u2022  V.\nPer the Bouth-Wcttern Journal.\nJackson, La., Mav 9, 1838.\nMr.  Editor:\nSir\u2014Your number of the South-Western Journal of April\n30th, contains a request that my observations upon some fossil remains found here, should have a place in that peiiodi-\ncal. I feel greatly flattered by the request, and hasten to\ncomply, by sending you a notice as to their nature, and also\na number of the Feliciana Republican containing a lecture\nllustrative of the analogies as well as the differences between the elephants and mastodons, together with a short historical notice of both these genera of animals.\nThe fossils under consideration, were discovered in the\nParish of West Feliciana, upon the stream called Little\nBayou Sara, and not far from the line between this State and\nthe State of Mississippi. The formation in which these fossils occurred, is that which is known as the blulf formation,\nforming the eastern bank of the Mississippi from Baton\nRouge to a great distance up; and extends across the southern Slates to the Carolines nnd Georgia. This formation\nalso occurs west of the Mississippi, but does not form ils immediate banks, and after passing down parallel with the\ncourse of this river, its escarpment crosses over the Wachit-\nta country, crossing Red River at Alexandria; it passes from\nthere down the Bayou Bccuf on ils western side, nnd on, in a\ncircuitous direction to the shore of the Gulf of Mexico.\nIn this formation, except the superficial layers, there appears to be but few fossils, in sight; and the only vestiges of\nfossils are seen in the aslerias, ecrinites, favositcs, fluslras, and\na few shells contained in the rolled quurtz pebbles of tho\ngravelly beds.\nThe formation consists of irregular alternations of beds of\nsand, pebbles, clays, and variegated aluminous clays; all of\nwhich vary much in their thickness and composition. The\nmost recent, or uppermost ofthe beds is composed of a sandy,\nor sometimes pebbly clay, of varying color, which forms tho\nbasis of our soil or vegetable mould.    It is in this last bed\nWe all their greatness: Demosthenes and Isocrates had their that the remains of the mastodon, and other coexisting ani-\nprototypes alio,- whom they copied; and they, even, sparedlmals are generally found: and in it, at the depth of a few\n\u25a0 m&amp;\n'\u2022 \u25a0.\u25a0,\u2022\u25a01:;\n-I","fullrs":{},"find":"530.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"529","restrictionCode":"1","cdmfilesize":"1747126","cdmfilesizeformatted":"1.67 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

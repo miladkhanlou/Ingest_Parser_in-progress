@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>N E G R E S  M A R R O N S.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000732f</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J.F. Lapice</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1858-09-25</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Island Plantation</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Island Plantation</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1858</temporal>
+   </subject>
+   <abstract displayLabel="Transcript"> N E G R E S  M A R R O N S . $40  D E  R E C O M P E N S E,  O U  $10  par tète seront données à qui me ramènera les quatre esclaves : Rosémond, François, Hilaire et Hypolite, nègres créoles bienes connus dans l'Ile et à la Fausse-Rivière, où ils sont souvent vus. G.. F. LAPICE. Island Plantation, 19 sept. 1858. 
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">creole;</note>
+   <note type="content" displayLabel="Slave Owner">J.F. Lapice
+</note>
+   <note type="content" displayLabel="Slave Name (Age)">Rosemond; Francois; Hilaire; Hypolite
+</note>
+   <note type="content" displayLabel="Reward Amount">$40 or $10 each
+</note>
+   <note type="content" displayLabel="Physical Description Provided">N
+</note>
+   <note type="content" displayLabel="Slave Sex">F;</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">4
+</note>
+   <note type="content" displayLabel="Personality Description Provided">N
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 5
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Pointe Coupee Democrat. : (False River [i.e. New Roads], Parish of Pointe Coupee [La.]) 1858-1862
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-09-25/ed-2/seq-1/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-10-02/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-10-09/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-10-16/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-10-30/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-11-06/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86053686/1858-11-13/ed-2/seq-2/;
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86053686
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2482</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-05-11</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2482</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2482/json"
+                        timestamp="2017-02-13 13:34:14">{"title":"RSA00000732f","object":"sn 86053686\n","publia":"Pointe Coupee Democrat. : (False River [i.e. New Roads], Parish of Pointe Coupee [La.]) 1858-1862\n","date":"1858-09-25","year":"1858","film":"page 1, column 5\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-09-25\/ed-2\/seq-1\/\n","unique":"N E G R E S  M A R R O N S.\n","person":"J.F. Lapice\n","parish":"Island Plantation\n","digita":{},"acknow":{},"public":"J.F. Lapice\n","town":"Island Plantation\n","relati":"Rosemond; Francois; Hilaire; Hypolite\n","slave":"F;","slavea":"creole;","slaveb":{},"slavec":{},"reward":"$40 or $10 each\n","multip":"4\n","physic":"N\n","persoa":"N\n","transc":" N E G R E S  M A R R O N S . $40  D E  R E C O M P E N S E,  O U  $10  par t\u00e8te seront donn\u00e9es \u00e0 qui me ram\u00e8nera les quatre esclaves : Ros\u00e9mond, Fran\u00e7ois, Hilaire et Hypolite, n\u00e8gres cr\u00e9oles bienes connus dans l'Ile et \u00e0 la Fausse-Rivi\u00e8re, o\u00f9 ils sont souvent vus. G.. F. LAPICE. Island Plantation, 19 sept. 1858. \n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.; Women slaves--Louisiana.\n","type":"text\n","format":"clipping\n","langua":"French;","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-10-02\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-10-09\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-10-16\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-10-30\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-11-06\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053686\/1858-11-13\/ed-2\/seq-2\/;\n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000732f.jp2","find":"2552.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-11","dmmodified":"2016-05-11","dmoclcno":{},"dmrecord":"2482","restrictionCode":"1","cdmfilesize":"71277","cdmfilesizeformatted":"0.07 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

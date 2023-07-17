@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_4</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1048</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-18</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1048</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1048/json"
+                        timestamp="2017-01-13 13:22:54">{"title":"Page_4","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M68\nsur le lac afin d\u2019emp\u00eacher que les gun boats aillent\ndans la riviere rouge. J\u2019ose esp\u00e9rer que l\u2019ouvrage sera\naccomplis \u00e0 temps. Ce serait domage de perdre notre\ncoton car il vaut beaucoup. Mr Champlin le vieux ma dis\nqu\u2019il avait achet\u00e9 400 balles de coton pour lequel il avait\npay\u00e9 $65.000 mille piastres en billet conf\u00e9d\u00e9r\u00e9 et il en\na r\u00e9alis\u00e9 $128.000 piastres en or si nous pouvons avoir la\nchance de vendre not coton \u00e0 ce tot l\u00e0 cel\u00e0 nous fera un\ngros gras de jambe.\nMr Champlin cherchait \u00e0 se procurer un buggy. Jlui ai\noffert le mien \u00e0 raison de $500. piastres. Il doit aller le\nvoir et si il le trouve convenable il le prendra et il remettra\nl\u2019argent \u00e0 Fanny. Je crois que je ferai une bonne affaire\nsi il se decide \u00e0 le prendre.\nNous devons nous faire faire un uniform le draps \u00e0 d\u00e9j\u00e0\n\u00e9t\u00e9 ordonn\u00e9. Je pense que le tout coutera de 50 a 75 pias-\ntres. Je suis bien aise de cel\u00e0 car une arm\u00e9e sans uni-\nforme ne pay\u00e9 pas mine.\nLe jeune Payne devant partir demain matin je profite de l\u2019occa-\nsion pour te lai?ser avoir de mes nouvelles\nPr\u00e9sente mes respects \u00e0 toute la famille ainsi qu\u2019au\nvoisins\nEmbra?se Papa, Fannie, Ella mes fr\u00e8res et soeurs pour\nmoi, et accept d\u2019un doux baiser de ton fils qui t\u2019aime\ntendrement. Adieu Ton fils\nJAPrudhomme Capt\nCorndy camp. D. 2d Bgt La cavalry","typa":{},"genera":{},"fullrs":{},"find":"1049.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-18","dmmodified":"2008-09-18","dmoclcno":{},"dmrecord":"1048","restrictionCode":"1","cdmfilesize":"2231328","cdmfilesizeformatted":"2.13 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

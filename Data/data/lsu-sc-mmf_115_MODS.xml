@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <nonSort>The</nonSort>
+      <title>North French Hebrew Miscellany</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Alternative Title">
+      <title>Chummash et Machzor Hebraice</title>
+  </titleInfo>
+   <name displayLabel="Scribe/Artist">
+      <namePart>Benjamin the Scribe</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1278</dateCreated>
+      <place>
+         <placeTerm>France</placeTerm>
+      </place>
+      <publisher>London: Facsimile Editions, 2003</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">The North French Hebrew Miscellany comprises 84 different groups of texts, including poems, legal codes, and material related to marriage, divorce, rituals, and business transactions.  Among other texts included are the Pentateuch, Haftarot, Pirkei Avot, the Mezuzah, the Book of Tobit, and Isaac de Corbeil’s Sefer Mitsvot Katan.  The miscellany is an important source of sacred Hebrew poetry.  Most of the poems fall into the category of Yotseroth, cycles of poems related to the morning prayer service.  Other categories include Sabbath table-songs, petitions for forgiveness, and songs for the Jewish festival of Sukkoth.
+
+This is a fine and rare example of Ashkenazi Hebrew manuscript illumination, and  it contains several dozen full-page illustrations of biblical scenes and figures, including Aaron, David, Moses, Abraham, Judith, David and Goliath, the Tree of Life, the Tabernacle, Three Youths in the Fiery Furnace, the Nine Spheres, and the Judgment of Solomon.  The manuscript is also rich in marginal decorations, many of which feature birds and other animals.</abstract>
+   <note type="content" displayLabel="Illustration">49 full-page illustrations of stories from the Bible and Haggadah</note>
+   <note type="content" displayLabel="Details">V. 1, facsimile; V. 2, commentary</note>
+   <note type="content" displayLabel="Century">13th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Hebrew</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Hebrew</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">British Library Add. Ms. 11639 (http://www.bl.uk/ )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Rare BM675 .C58 2003</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <identifier type="local" displayLabel="Object File Name">mm00020</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/507</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>507</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/507/json"
+                        timestamp="2017-02-03 14:39:14">{"title":"The North French Hebrew Miscellany","creato":{},"centur":"13th century","date":"ca. 1278","origin":"France","conten":{},"illust":"49 full-page illustrations of stories from the Bible and Haggadah","script":"Hebrew","scribe":"Benjamin the Scribe","curren":"British Library Add. Ms. 11639 (http:\/\/www.bl.uk\/ )","descri":"The North French Hebrew Miscellany comprises 84 different groups of texts, including poems, legal codes, and material related to marriage, divorce, rituals, and business transactions.  Among other texts included are the Pentateuch, Haftarot, Pirkei Avot, the Mezuzah, the Book of Tobit, and Isaac de Corbeil\u2019s Sefer Mitsvot Katan.  The miscellany is an important source of sacred Hebrew poetry.  Most of the poems fall into the category of Yotseroth, cycles of poems related to the morning prayer service.  Other categories include Sabbath table-songs, petitions for forgiveness, and songs for the Jewish festival of Sukkoth.\n\nThis is a fine and rare example of Ashkenazi Hebrew manuscript illumination, and  it contains several dozen full-page illustrations of biblical scenes and figures, including Aaron, David, Moses, Abraham, Judith, David and Goliath, the Tree of Life, the Tabernacle, Three Youths in the Fiery Furnace, the Nine Spheres, and the Judgment of Solomon.  The manuscript is also rich in marginal decorations, many of which feature birds and other animals.","biblio":{},"public":{},"associ":{},"altern":"Chummash et Machzor Hebraice","langua":"Hebrew","genres":{},"facsim":"London: Facsimile Editions, 2003","extena":"V. 1, facsimile; V. 2, commentary","call":"Rare BM675 .C58 2003","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00020","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"1273, 1274, 1275, 1276, 1277, 1278, 1279, 1280, 1281, 1282, 1283","fullrs":{},"find":"508.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"507","restrictionCode":"1","cdmfilesize":"688","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

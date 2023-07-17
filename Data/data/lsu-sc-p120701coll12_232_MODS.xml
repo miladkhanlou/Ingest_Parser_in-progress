@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 16</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/360</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>360</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/360/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 16","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"IM\nS 0 U T II - WKS T E R N J U U R N A L\ni \\ .^V:: '\n;'\nI   \\\nREGISTER    OF    METEOROLOGY.\nWashington, Mississippi.-\/^. 31\u00b0 36' 42\".   Long. 91- 20'.\u2014Kbpt BY a Ladv.\nthermometer.  II\nBAROMETER and CLEARNESS,\nOl\nT.\nF.\ns,\ns.\nfvf.\nT.\nW.\nT.\nP.\n5972\n(10,77\n5757\n5363\n3453\n1200\n4849\n30 19\nJo.\n09\n\u2022i ;im;:i\nII   I\nS.   11 500-1\nM.  12 48t72|79\nI\nT.   13 5964 04\nW. 11 1(13,70177\nT.   15||57i67 72\nF.   10 4903 0\nS.   17N42G205\nS.    18M4409\nM.  1911308\nT.   20H4973\nI    I\n\\V. 21 5G|79\nT.  23||64;80|83\nF.   23|flli80|83\nS. 24\nS. 25\nM. 20\nT, 27\n\"VV. 28\nT. 29\nF. 30\ns, :n\n.in w\n60 SI\nI\ni law\n0384\n(1181\n|\n0185\n0184\nIfi2,83\n6069\n6804\n72107\n75170\n7670\n'409\n'(i'G9\n|\n117(170\n70 00\n70 70\n7071\n78 72\nMonthly Mean,\n80179 74\nI\neo.os.. o\n,01.. o\n,05.. 0\n,45.. 0\n,57. 10\n,45.. 8\n,30..2\n,77.10\n,94.. 11\n,85.. 0\n,83.. 0\n,80.\n,70.. 0\n,70.. 9\n,83. 10\n,05.. 0\n30,00.. 10\n9,90., 10\n,87. 10\n,77. 10\n,73\n,80.. 3\n29,65.. 0 29,63.. 0\n,65.. 8\n,65.. 0\n,45.. 0\n,55.. 8\n,44.. 0\n,55. 10\n,80.10\n,00.. 8\n,80..0\n,85..0\n,80.. 0\n,05., 0\n,70.. 8\n,83..8\n,95.. 8\n,98. 10\n,91. 10\n,85.10\n,77. 10\n,77\n,88.\n92.. 10 30,00. 10\n30,28. 10-.29,00. 10\n29,93. 10'30,03. 10\n,97. 1029,97.. 10\n,97.. 0 30,03.\n,95.. 529,95\n,70.10\n,56. 10\n,00. 10\n20,78\n,08. 10\n,50. 1(1\n,03.\n,50..0\n,48.\n,53.. 0\n,10.. 0\n,50. 10\n,80. 10\n,82\n,78.. 0\n,85.. 4\n,75..6\n,0-1.. 0\n,68\n,83.. 8\n,92\n,90. 10\n,90. 10\n,77. 10\n,74. 10\n,71.\n,87.. 5\n,97. 10\n,02. 10\n,07. 10\n,93..10\n,97..6\n,87.. f:\n,G3. 10\n,53. 10\n,60. 10     ,01. 10\n29,',\n29,76\n29,00.. 0\n,62.. 7?\n,50.. 0\nnca\n11 w 1\n,48.. 6\n,30.. 0\n,57. 10\n,79. 10\n,81.. 4\n,82.. 0\n,82.. 4'\n,72.. 0\n,50.. 5'\nI\n,68. 10    nw 1\n\u2022 2\ns W \u00bb\n0\nS w 1\ns e 2\ns e '.\nset\na w 1\nMoi lonless.\ns w 2\n0\ns v.- 1\ns c2\nMot ionless.\ns w 1\n,80..-1\n,93. 10\n,94. 10\n,87. 10\n,77.. 8\nI\n,72..9\n,74..9\n,87.. 8\n,07.. 9\n,92.. 8\n,9G..9'\n,90. 10\n,90. 10!\n,83.. 6\n,59. 10\nI\n,50..8\n,02. 10\nMonthly Mean,   20,70\n\u00bb,73|\nai\nn w I\nNo\n1 w 3\nn w 1\nn 1\nn w 1\nclouds.\nNo\nllouds\n1    s s e 1\n11 w 1\n11 w 1\nNo c louds.\n1.,.\n0 i- \u00ab\n(JAM\nIS M\n:i r m\ns w 2\ns w 2\ns w 2\ns ivl!\ns w 2\n\"     1\n\"    1\n111\n11 1\n11 1\ns e 2\ns 2\ns   1\ne 1\nS3\nw2\ns w 1\nn c 2\nse 2\nw2\nn w 1\nn w 1\nn w 2\nn e 1\nn w 1\nMo\nionless.\n11 e 1\nne 1\nn e I\ns w2\ns w 2\ns w2\ns w 2\ns w 2\n0\n0\nn w 2\nn w 2\nn w 2\ns w 1\ns w 1\ns e 2\ne s e 4\nc 2\ns c 2\nso 2\ne2\nsc2\ns e2\nMo\nionless.\n11 c 1\n11 e 1\nn el\ns w\ns w\nse 1\nse 1\ns 1\n\"\ns w 1\ns w 1\ns w 1\nn w 1\nn w 1\n11 w 1\nn w 1\nn w 1\nwS\nw 2\n111\n11 1\nn c2\na w 1\n11 w 1\n\"\n\"\n11 w 2\nNo c\nlomls.\n11 3\nn 3\n\" 3\n\"\n\"\n11 w2\nn w 2\n\" 2\n11\nw\n\"    1\nw 1\ns w 2\ns w 1\ns w 2\ns w 2\ns w 1\nse-2\n\"\n\"\n\"\nII     \u00a3)\ns w3\ns e 2\nsc2\nNo c\nlouds.\n\"     1\n\"  1\ns c 1\n\"\ns w 1\ne 11 e 1\nn 1\nn w 1\n\"\n0\nc 1\ne 1\ne s e 1\nsse 1\ns s c 1\ns s e 1\ns se 2\nssel\n11 w 1\n11 w 1\nn w 1\n11 w 1\nn w 1\nNo c\nlouds.\nw 1\nw 1\nw 1\n\"\nw 1\n\"\ns w 1\ns w 1\n\"\n0\n11\n\"\n\"\n!*9\n111\ns 2\nHI\nII wl\nII 111\nsn-'J\n11 wj\ne ! e \u2022&gt;\nse9\nII cl\ns I\ns W 1\nII w 1\nlie $\nn u-3\n\" 3\n\" 2\ns wl\n\" -3\nwl\nseS\n11 wl\ne sel\nss c 1\n11 w 1\nswl\ns w 1\nMISCELLANEOUS REMARKS.\nMaroiiI\u2014Rain, thuntlor, anil lightning In tho forenoon, 3\u2014Very warm j mer-\nrurv?:i\", 1 I'. M ; vory heavy thunder westward, froui s to II, P. .v.; rain HJi\n3\u2014Tremendous slormof rain, withlightning, wind and thundor, from 01 lo II.\nrain m intervals nil day mi,I night: during storm, wind fluctuating ; wo were in\ntho centre of vortex. -I\u2014 Thornier, with hard rain, till 11, A M.j firms, clrro-strat.\nBloarlul*. M. 0\u2014Cirrus, N, W., upper current vory Irregular of late. 0\u2014A\nstrange dark,lagging haza all day. 7\u2014 Overcast with dark stratus, till 10, A, M.\nB\u2014Low streaks of strat, W.and N. W. at sunset.   'J\u2014Wind and \u00bbmoko scented\nas &lt;r tv burning pine; clrro-strat,   in\u2014 Rain, wit,, thunder, before dawn; rain\nnearly ,-ilt day ; evening lightning. II\u2014Ilniti, with thunder, during nie.,11; ceased\nIII A.M. 12\u2014Cirrus and cirro-strai. all day. 13\u2014Rain, thunder, and lightning\nforonson; cod. light,   it\u2014Strato-cum.j zoJ. pyramid after twilight.   IS\u2014do,do.\ndo. do, 16\u2014Struma] high wind afternoon | Md. bright. 17\u2014Very clear I kw.\nbrislit- is-cicar- low atrat. at sunset. IB\u2014Olaar) very smoky 20\u2014Zod.'\u00ab1\nbrilliant j crossed tho milky way, 21\u2014do. do. 28\u2014Smoky} scented wind. '8\n\u2014tin do.) brisk wind all night aeveral days. 24\u2014do. do.) evening final- &lt;\u00a3r~\n.In. do,\u2014Stan obscured in smoke; wind S.li] al 10 1'. M. 37\u2014Stral.i \u00bb\"\u25a0\"\"\nhalo. 28\u2014Morning fog j stratus. 25\u2014 Smoky. 30\u2014Sunset stratus. 31\u2014Sm\u00b0kl\ndisappeared nt dark.\nNOTE\u2014Under \" Barometer and Clearness,\" the loft hand figures skn\"1\"\nboromotrlo changes, and tho right hand ,iho clearness of ihe sky.   The nurnbM\nIU indicates perfect clearness, 5 about half sky. and O entire cloudiness.\nUnder \" Winds,\" nnd '\u25a0 Clouds,\" the letters show the direction of both.   Tin\nflgurcson tho right hand of tin, ,,liters indicate (he velocity,--0 indicates WIS,\nI a breo2B,&amp;astorm,6c\u20ac., to 10, which ladtco.tesah.urrtcaa.9.1","fullrs":{},"find":"361.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"360","restrictionCode":"1","cdmfilesize":"1661215","cdmfilesizeformatted":"1.58 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

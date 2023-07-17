@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Parti Marron.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001042</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes">1854-03-05</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1854</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">PARTI MARRON De l'habitation JJRousseau, depuis trois semaines, le mulâtre BEN, agé d'environ 25 ans, bon ingénieur, ayant deux doigts de la main droite coupésUne récompense libérale sera accordée à quiconque le ramènera au gérant actuel de l'habitation, MMc'Orel PotierLes Shérifs des paroisses voisines sont priés de nois avertir, si ce mulâtre se trouve écroué dans quelqu'une de leurs geôles, et nous leur tiendrons compte de tous frais que leurs démarches pourront occasionner.
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">mulatto</note>
+   <note type="content" displayLabel="Slave Name (Age)">Ben (25)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 4</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le pionnier de l'Assomption: (Napoleonville [La.]) 1850-185?</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-03-12/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-03-19/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-04-02/ed-1/seq-3/;</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-03-05/ed-1/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86090609</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3418</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3418</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3418/json"
+                        timestamp="2017-02-13 13:33:03">{"title":"RSA00001042","object":"sn 86090609","publia":"Le pionnier de l'Assomption: (Napoleonville [La.]) 1850-185?","date":"1854-03-05","year":"1854","film":"page 2, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-03-05\/ed-1\/seq-2\/","unique":"Parti Marron.","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":"Ben (25)","slave":"M","slavea":"mulatto","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"PARTI MARRON De l'habitation JJRousseau, depuis trois semaines, le mul\u00e2tre BEN, ag\u00e9 d'environ 25 ans, bon ing\u00e9nieur, ayant deux doigts de la main droite coup\u00e9sUne r\u00e9compense lib\u00e9rale sera accord\u00e9e \u00e0 quiconque le ram\u00e8nera au g\u00e9rant actuel de l'habitation, MMc'Orel PotierLes Sh\u00e9rifs des paroisses voisines sont pri\u00e9s de nois avertir, si ce mul\u00e2tre se trouve \u00e9crou\u00e9 dans quelqu'une de leurs ge\u00f4les, et nous leur tiendrons compte de tous frais que leurs d\u00e9marches pourront occasionner.\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-03-12\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-03-19\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-04-02\/ed-1\/seq-3\/;","contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collectionIdentify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001042.jp2","find":"3236.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-05-13","dmoclcno":{},"dmrecord":"3418","restrictionCode":"1","cdmfilesize":"120723","cdmfilesizeformatted":"0.12 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

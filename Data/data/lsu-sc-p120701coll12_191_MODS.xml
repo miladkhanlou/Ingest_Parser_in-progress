@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 11</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/480</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>480</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/480/json"
+                        timestamp="2017-02-09 16:30:52">{"title":"Page 11","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL\n107\nconfidently may you trust to a solid education for support in\nMich an emergency?     Let no female suppose herself ex\n\u2022mnt from the sinile3 or frowns of providence. God's ways\nare often inscrutable and past finding out; and as it is the\npart of wisdom to prepare for events that may befall us, and\nthat have befallen others. Let this consideration have its\ndue weight in estimating tho importance of female educa\ntion.\nIn its bearing upon the future maternal character of the\npresent and coming generations of the sex, our subject as\nsumes an importance beyond all that individual gratification\nor atlvnntago can bestow upon it. Who are to instil the\nearliest principles into those minds that are hereafter to pre\nside over the destiny of human society ? To whose mould\ning bond will be committed the character of the next and\nsucceeding generations ? To the sex, whose cause wc advocate to-day. And if such be their task, what should be their\nqualifications? What an amount of mental nnd moral training is necessary to prepare them for tho duties that devolve\nupoa them! If unable to instruct their offspring, if unable\nproperly to cultivate and cherish the buddings of the infant\nmind, if unable to guide its enquiries and rectify its mistakes, we need not the gift of prophecy to predict the future\ncharacter and destiny of those who are thus committed to\nblind guides and incompetent instructors.\nThe duties which mothers owe. to their children, cannot,\nduring their earliest infancy, be transferred to other hands.\nThe attempt would be frustrated by the very texture ofthe\nsocial system.    These duties are inherent in the connexion\nitself, and can not be separated from it.    Hence, impressions\nwill be made by the mother, upon the mind of her infant\nshe will give a direction and cast  to its future character,\nShe cannot avoid it, if she would.    And she should remom\nber that her responsibility is in proportion lo her influence\nIt i3 a question of vast importance to the community nnd\nto the nation of which those children are to constitute a\npart, whether these impressions are to be salutary or ban.\nAil.   If then, you desire to become the benefaclors of vol\nrace, and ihat your influence and exertions, should outlive\nthe period of your allotted time on earth, and tell, with happy effect, upon the character of generations yet unborn, use\nthat influence, and put forth those exertions, in elevating the\nstandard of female education\nThe character and genius of our civil institutions imparts\nto this subject additional importance\nThe mothers of our future law-givers and rulers, will lay\nthe foundation of that character which will belong to them.\nThe infant statesmen of coming years, will imbibe their most\nenduring principles from the lips of those who shall give\nthem birth. Let it not be supposed that we unduly estimate\nthe maternal influence. Some of the greatest and best men\nthat have ever lived, havo acknowledged their indebtedness\nto this influence, for all that distinguished them in life, nnd\nmade them the ornaments of tho age and nation in which\nthey lived. Viewed in this light our subject becomes fraught\nwith the destiny of this great Republic. It is the highest\npraise that can be bestowed upon our form of government,\nthat it cannot flourish, nor be successfully administered, where\nthe mass of the people are vicious, ignorant and debased. Nor\nis the amount of virtue and knowledge which it requires of\nimperfect and sinful beings, so great as to render it impracti\ncable or Utopian. It steers a safe and happy medium between\nSylla and Charybdis. Its tendency is to elevate the standard\nof good morals and intelligence, by opening the door of promotion and distinction to all, and making the hope of success\nan incentive to the cultivation and practice of virtue. Such\nbeing the distinctive features of our civil policy, the importance of female education rises in magnitude, as we contemplate its bearing upon the safety and prosperity ofthe nation.\nThe general diffusion of religious knowledge through the\nmedium of Sunday schools and bible classes, affords an additional argument in support of our main proposition. Using\nthe term education in its extended and legitimate sense, wo\ncontend that its standard among females should be elevated,\nif they would keep pace with the religious intelligence of\nthose who nre favored with Sabbath school instruction, and\nwhose parents do not regard such an institution as beneath\ntheir notice and patronage.\nThe mothers and elder sisters of the present day are not\nunfrcquently put to shame, by the superior knowledge of religious matters, which the younger branches of the family\nhave acquired in these nurseries of piety and usefulness. The\nsystem of bible-class instruction, also, gives to those who\navail themselves of it, so decided an advantage in conversation or writing, that it cannot escape the notice even of a superficial observer. These facilities to youth have compelled\nothers to study and read the bible, and the history of the\ntimes and nations of which it treats, in order to maintain a\nrespectable appearance of intelligence, and to avoid a mortifying exposure of their ignorance by little children. And if\nfemales would insure respect, and maintain their proper influence in society, they must bestow upon this branch of education, a much larger share of attention than is common\namong certain classes. Literature has ever been the handmaid and companion of religion. And tho literature of religion is becoming better understood, and more generally\nstudied, than perhaps at any former period. Our colleges,\nbeing for the most part, under the direction and influence of\nreligious teachers, will continue to impart more or less ofthis\nspecies of literature to the minds of the rising generation,\nand thus, by its influence on the social system, compel tho\nfemale sex to give it more attention, else their ignorance and\ndeficiency will be glaringly exposed, by the light which is\nreflected by the other sex.\nIn conclusion, permit me to call your attention to two evils\nin regard to female education, which are said to be prevalent\nin this district of country. The first relates to the practice\nof passing by the schools and seminaries at home, and sending your daughters to those at a distance. Without saying\nany thing derogatory to tho character and standing of tho\nfemale schools at the north and cast, I may be permitted to\nremark, that distance often throws around objects, unreal\nharms, and therefore becomes a deceptive medium through\nwhich to view the qualities either of persons or things.\" .The\nhalo of excellence by which they seem to be encircled, exists\nonly in the medium through which they are viewed.    Near-\nm\nm\n(V '\n''\u25a0:V'\n11 ,(i Ml.\n' 1\nI\ni","fullrs":{},"find":"481.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"480","restrictionCode":"1","cdmfilesize":"1810941","cdmfilesizeformatted":"1.73 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

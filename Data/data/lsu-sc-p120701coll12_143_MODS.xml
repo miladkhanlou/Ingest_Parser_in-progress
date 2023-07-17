@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/432</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>432</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/432/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"r\nSOUTH-WESTERN JOURNAL.\nrjiitilfslicl\" Scmf.--iiionl!iln, at Jlflic JOollav.i ,i I'tar, li\n'       {      \u201e\ni.i tlir'.llcffrr.'.on\nCCollegc nn ti tfliaslifiiatou \"tt|icrum.\ninter svivas  Km E M ia: a t; jr. it r. it i: v E it u m .\nNATCHEZ, FEBHUARY   Irt, 18.IS.\nno. s,\nA FORENSIC ESSAY.\nInitio Negativeot tlio question\u2014\"Are the claircutartheMathematlcii to pretlom*\ninancc, i\" Ocnorul Education, greater than Iho claim! of tho Ancient ClaB-\nsirs,\"   Il.-ii'l lii-r,,rc- iho JofTerson College nnd Washington Lyceum, 3i)Junc,\n1887. by \u25a0'\u2022 J- Wvchb, A. St., ProfoMor of Languages in Jefferson College.\neoNcr.t-nnn.\nWe have proved the classics useful, first, for the intellect\nmil discipline which they furnish; secondly, from their excellence as models of finished composition; thirdly, from their\nimportant connections and applications. We have shown,\nthat to them wo are indebted for the most valuable part of our\nnun literature, and thai this applies equally to the literature\nof other modern nations, French, Spanish, Italian, Portu.\ngueso, etc.; farther, that as classical learning has been cultivated, or neglected, in the same proportion lias literature over\nflourished, or declined j thnt the study of languages is particularly adapted to tho youthful mind; that it is calculated to\nexpand and improve all the intellectual powers, and to pre\nand figurative sense, can they, with any propriety, be applied\nto such subjects. Some visionary enthusiasts have indeed\nsupposed, that moral, if not mental science might be reduced\nto mathematical demonstration. But the absurdity of the\nattempt to bring the delicate, and almost imperceptible shades\nof distinction in moral conduct and mental action to the test\nof arithmetical calculation, is a sufficient refutation of their\npretensions. Algebra, with all its infinitesimals, would labor\nin vain, amid the abstractions of metaphysics, nnd the difficult\nand abstruse problems so often presented to the philosophic\ninquirer in ethical science. The exploded logic of the schoolmen, o.' the astrologer's art, employed in similar investigations, would bo just as appropriate, and would produce equally valuable results.\nSentiment, duly cultivated by reading authors who abound\nin it, tis tho writers of Greece and Rome, is most powerful in\nregulating conduct,    The cultivation of correct sentiment, of\nerve among thorn a due equilibrium, not like the mntheinat- upright and manly feeling, is promoted by the study of poetry,\nit's, which cultivate some of the mental faculties, nt the expense of others equally as important; and, lastly, that on\nown language cannot be fully understood, without a knowledge of the ancient languages.\nWe design now to trace more particularly the parallel between the classics and mathematics. Much stress is laid on\nthe value til' mathematical reasoning, ill which it is said,\n\"truth with resistless demonstration dwells.\" Its premises\nare self-evident, nnd its conclusions irresistible. Where can\nwo linil such consummate logic? What can he more clear,\nsatisfactory, or elegant, than the process by which Euclid\nconducts liis reader from the simplest principles to the most\nimportant and valuable deductions? Grant il; hut what have\ntin- materials and the mode of reasoning: of the mathemati-\noratory, history, by all, in short, that is comprehended under\nthe title of Helios Lellres, or polite literature, (the only sure\nfoundation of which is a knowledge of the ancient classics,)\nhut not ut all by the exact sciences, by measurement and calculation. For what have numbers,and lines, squares, circles,\nand triangles, to do with the multiform cares, the hopes, and\nfears of man ? An exclusively mathematical education, is\nrather calculated to contract than enlarge the mind, and certainly has little influence on the taste and imagination. To\nshow how compatible a profound knowledge of mathematics is with a toial absence of fancy and feeling, we will only\ncite the instance of a famous geometrician, who, alter rending\nono of the finest tragedies ever written, exclaimed, \"but what\ntloes this all prove !    What docs it demonstrate !\"    An un-\ncian.todo with tho materials and modd of reasoning of the derstanding the most barren of general knowledge, and a\nmetaphysician and moral philosopher? While tho one is heart quite cold, are sufficient for mere calculation. A man\nwholly enipliiyoil-uliout the world of matter, its modifications with the scienceof Newton or La Place, may yet contemplate\nand relations, the other considers the world of mind.    The\nlogic of mathematics is not the logic of actual life. The\nmode of reasoning it adopts, is not that which is demanded in\nthe every day business, and practical duties of man, not applicable lo moral subjects, to Law, Politics, Medicine, Divini-\niv. in which probabilities must bo weighed, and conclusions\ndeduced, according to the preponderance of evidence. Mathematical certainty can seldom be attained. In mathematics,\nwhere the statements and conclusions admit of no controversy,\nthe reasoning is all on one side: in other subjects, contrary\narguments may be urged, and much may usually he said on\nboth sides of a question.\nEthics, the most important of all sciences, have no diagrams, by which to represent rectitude or obliquity of conduct. The machinery of mind, the nice springs of moral\naction, cannot he regulated by tho square and compass, by\ntile    lil\nmil plummet.\nIn no other than an emblematic\nwithout emotion a sublime moral action, a finished poem, or\nan oxpressivepicture. Indeed be may have gone through all\nthe mathematical studies ever proposed ns subjects of education, and still manifest no sentiment but that of the most vulgar and illiterate, a sordid calculating spirit, seeking only\nselfish gratification, prompted to exertion solely by the supreme\nlove of pelf, or some other equally unsocial appetite or affec-\ntioih Tho perusal of writings, which, like the Latin and\n(.(reek poets, orators, philosophers, and historians, supply the\nsoundest maxims of prudence, the clearest axioms of moral\ntruth, and the most abundant materials for reflection and con-\nrsation, is surely more beneficial in a general system of\nucation, than the study of Conic Sections, and Spherical\nTrigonometry, Differential and Integral Calculus. But it\nwill be said, the business of education is not to teach lan-\nn-es, especially dead languages, but the arts and sciences.\nWhat arts?    The fine arts, such as painting and sculpture,\nmm\n\u2022   \u25a0\n'i \u2022\nj I\n;,   ...\n'i      .\n;.-   -tj-j\nIf\n\u25a0 i\n;f   &lt;\n\u25a0 1       \\\nii       '\n?'   il","fullrs":{},"find":"433.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"432","restrictionCode":"1","cdmfilesize":"1885527","cdmfilesizeformatted":"1.80 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

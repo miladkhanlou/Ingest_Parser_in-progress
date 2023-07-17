@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M7</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/969</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>969</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/969/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"M7","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M 7\nNelle Orl\u00e9ans 26 Mai 1863.\nMon cher Mr Billaud,\nIl y a aujourd\u2019hui trente trois jours que vous nous avez quitt\u00e9s\net il me semble qu\u2019il s\u2019est d\u00e9ja \u00e9coul\u00e9 un si\u00e8cle tant notre malheureuse\nvie actuelle est monotone, surtout dans ce moment o\u00f9 la ville est pr\u00e8squ\u2019en-\nti\u00e8rement d\u00e9serte par suite d\u2019un ordre du g\u00e9n\u00e9ral commandant qui a\natteint tous ceux qui s\u2019\u00e9taient d\u00e9clar\u00e9s ennemis du Gouvernement\net les a forc\u00e9s \u00e0 quitter la ville. Lapopulation ne se compte donc\nactuellement que d\u2019Unionistes et d\u2019\u00e9trangers neutres qui attendent\nimpatiemment qu\u2019il plaise a Dieu de mettre une fin \u00e0 cette d\u00e9solante\nguerre civile. Plus heureux que nous, vous devez actuellement\nvous trouvez \u00e0 Paris et peut-\u00eatre m\u00eame aurez vous d\u00e9ja v\u00fb mon\nami de Chambon. Si par hazard vous ne l\u2019avez pas encore\nvisit\u00e9, rendez-moi le service de lui dire ou de lui faire savoir que\nje suis encore sans lettres de lui, malgr\u00e9 mes lettres r\u00e9it\u00e9r\u00e9es et\ntous les soins que j\u2019ai mis \u00e0 renouer mes rapports avec lui. Si\npar hazard, il avait adress\u00e9 ses lettres aux soins de Messieurs\nE. Rochereau Me de notre ville, il faudrait croire que cette voie\nest vicieuse et que ses lettres ont \u00e9t\u00e9 intercept\u00e9es puis que jen\u2019en ai\nre\u00e7u aucune. Alors il faudrait qu\u2019il n\u2019us\u00e2t plus de cette adresse\net qu\u2019il employ\u00e2t tel autre moyen que vous m\u00eame pourriez\nlui sugg\u00e9rer, mon cher Mr Billaud. Il pourrait par exemple\nm\u2019adresser ses lettres aux soins de Mr Bernard Turpin, ou\nsimplement en mon nom seulement, dans lequel cas, ces\nlettres seraient avis\u00e9s dans nos Journaux. Comme je suis\nconvaincu que l\u2019abb\u00e9 de Chambon n\u2019a pas manqu\u00e9 de m\u2019\u00e9crire\net que ses lettres auront \u00e9t\u00e9 intercept\u00e9es, je vous prie de lui dire que\ndans le cas o\u00f9 ces lettres auraient contenue quelque chose d\u2019int\u00e9-\n-ressant pour moi, de me les rep\u00e9ter dans celle qu\u2019il vous\n1\nM 7\nremettra pour moi. Jesais, Mon cher Monsieur Billaud, que\ndans le cas o\u00f9 vous auriez d\u00e9j\u00e0 v\u00fb mon ami 67 Rue de Paris \u00e0\nSt Denis, cette recommandation de le revoir serait une indiscr\u00e8tion\nde ma part, aussi si votre visite lui a d\u00e9ja \u00e9t\u00e9 faite, obligez-moi\nseulement de lui \u00e9crire, ou envoyez lui tout simplement la\npr\u00e9sente en lui donnant vos bons conseils pour me [rature]\ndiriger ses lettres.\nPar moments je m\u2019imagine qu\u2019il est arriv\u00e9 quelque malheur \u00e0\nmon ami, dans le cas o\u00f9 vous n\u2019auriez pu avoir de ses nouvelles\nadressez vous je vous prie au premier venu chanoine qui vous\nindiquerait \u00e0 qui vous vous devrez vous adresser au chapitre de\nSt Denis pour avoir des nouvelles de son sort. Il \u00e9tait chanoine\nHonoraire et Tr\u00e9sorier de Chapitre Imp\u00e9rial de St Denis.\nEn m\u2019aidant \u00e0 d\u00e9couvrir mon ami, vous aurez contribu\u00e9\n\u00e0 mon bonheur beaucoup plus que vous ne le supposez, cher\nMr Billaud.\nDepuis votre d\u00e9part je suis all\u00e9 me promener deux fois\ncher vous pour retremper un peu mon ame de votre souvenir et\nde celui non moins cher de la bonne Made Billaud que nous\naffectionnons tant. H\u00e9las je [rature] n\u2019ai [rature] plus retrouv\u00e9 l\u00e0 ces\nbonnes figures aim\u00e9es et mes promenades ont \u00e9t\u00e9 courtes.\nJ\u2019ai trouv\u00e9 tout dans un ordre parfait et dans une grande\npropret\u00e9 aussi bien votre jardin que l\u2019exterieur de votre maison\nAnna m\u2019a assur\u00e9 que l\u2019int\u00e9rieur \u00e9tait aussi dans un grand\nordre et m\u2019a m\u00eame offert de le voir ce que je n\u2019ai pas cr\u00fb\nn\u00e9cessaire. Il n\u2019y avait de nouveau chez vous alors que la maladie\ntr\u00e8s grave que faisait alors votre vielle Mary que Anna\nconsid\u00e8re comme perdue. Depuis une dizaine de jours je n\u2019y\n2\nM 7\nsuis pas retourn\u00e9 ce qui m\u2019emp\u00e8che de vous donner le r\u00e9sultat\nde la maladie de Mary pour laquelle Mr Boulin a \u00e9t\u00e9 appel\u00e9.\nC\u2019est par Anna encore que nous avons appris qu\u2019il \u00e9tait arriv\u00e9\nun accident \u00e0 notre ami William qui serait tomb\u00e9 avons-nous\ncompris \u00e0 bord du Navire qui vous conduisait \u00e0 New-York.\nNous sommes bien inquiets de cet accident et des suites qu\u2019il apu\navoir. Nous esp\u00e9rons n\u00e9anmoins que le bon Dieu vous aura\nprot\u00e9g\u00e9s et que notre [d\u00e9chir\u00e9] bonne Made Billaud aura pu\nachever sa travers [d\u00e9chir\u00e9] avec tout le calme qui lui \u00e9tait n\u00e9cessaire\npour supporter l\u2019emotion du retour parmi les siens. Nous nous\nfaisons facilement lid\u00e9e du bonheur qu\u2019ont d\u00fb \u00e9prouver la\nbonne Madame Duclos &amp; sa famille \u00e0 votre arriv\u00e9e apr\u00e8 [d\u00e9chir\u00e9]\nsi longue absence. Faites \u00e0 tout ce monde bien des complim [d\u00e9chir\u00e9]\nd\u2019amiti\u00e9 pour nous tous. Jaurais voulu joindre \u00e0 la pr\u00e9sente\nune r\u00e9ponse du bon Mr Adolphe \u00e0 la lettre que ma laiss\u00e9 Mme Billaud\nmais les \u00e9vements des Attakapas ont emp\u00e9ch\u00e9 le depart du vieux\nFran\u00e7ais qui devait s\u2019en charger.\nNous sommes tous en bonne sant\u00e9 \u00e0 l\u2019exception de moi dont\nles membres se paralysent de plus en plus. Nayez aucune inqui\u00e9tu\n-de relativement \u00e0 vos 4 volumes laiss\u00e9s \u00e0 ma garde\nAdieu mon cher Monsieur Billaud, recevez les compliments affectueux\nde ma famille et croyez moi. V\/ tout d\u00e9vou\u00e9 et affectionn\u00e9\nNadau du Treil\nNous tous embrassons la bonne Made Billaud ainsi que\nses chers enfants. Jembrasse surtout mon petit filleul que sa\nmarraine et moi promettons de bien gater \u00e0 l\u2019arriv\u00e9e.\n3\n4\nM 7\nSongez je vous prie \u00e0 ma petite commission, \u00e0 ma pipe d\u00e9cume. C\u2019est\nun respiratoire pour moi \u2013\n[fin de la troisi\u00e8me page]","typa":{},"genera":{},"fullrs":{},"find":"970.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"969","restrictionCode":"1","cdmfilesize":"18930","cdmfilesizeformatted":"0.02 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Richard E. Ammon Jr. oral history interview</title>
+  </titleInfo>
+   <name displayLabel="Interviewee">
+      <namePart>Ammon, Richard E., Jr.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Interviewer">
+      <namePart>Pattillo, Laura Grace, 1970-</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+      </role>
+  </name>
+   <note type="biographical/historical" displayLabel="Biographical Note">Richard E. Ammon Jr. was born in Richmond, Ind. He joined the U.S. Navy in January 1955 after graduating from high school. Ammon spent the next 20 years serving on a dozen Navy ships, sailing around the world several times over. One of his longest assignments was with the U.S.S. Kidd from 1959 to 1963. He retired in December 1974 and was residing in Winter Park, Fla., at the time of this interview.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1999</dateCreated>
+  </originInfo>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Ammon, Richard E.,</namePart>
+         <namePart>Jr</namePart>
+         <namePart>Interviews</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Kidd, Isaac C</namePart>
+         <namePart>(Isaac Campbell),</namePart>
+         <namePart>1919-1999</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Navy</namePart>
+         <namePart>Sea life</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Kidd (Destroyer)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Bache (Destroyer)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>McCaffery (Destroyer)</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Destroyers (Warships)</topic>
+      <topic>United States</topic>
+      <topic>Maintenance and repair</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Port cities</topic>
+      <topic>Mediterranean Region</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Salvage</topic>
+      <topic>Greece</topic>
+      <topic>Rhodes</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Vietnam War, 1961-1975</topic>
+      <topic>Naval operations, American</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject">
+      <occupation>Sailors</occupation>
+      <occupation>United States</occupation>
+      <occupation>Social life and customs</occupation>
+      
+   </subject>
+   <abstract displayLabel="Description">Ammon discusses his 20 years of service with the U.S. Navy on twelve different ships. He talks at length about his time on the U.S.S. Kidd, the U.S.S. Bache, and the U.S.S. McCaffery. Ammon describes the poor condition of the U.S.S. Bache, the challenge of repairing it, its sinking while anchored off Rhodes in 1968, and the work required to salvage it. He also describes the relations among sailors aboard the U.S.S. McCaffery during the Vietnam War.</abstract>
+   <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/military/Ammon_Richard_T1661.abs.pdf</abstract>
+   <note type="content">This collection includes materials accessioned as Mss. 4700.1135.; A digital version of the transcript (pdf) exists for duplication purposes.; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room.; Interview conducted by Laura Pattillo.</note>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>1 sound cassette (1 hour, 14 minutes); Abstract (2 leaves); Transcript (48 leaves)</extent>
+  </physicalDescription>
+   <genre authority="aat">Oral histories</genre>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no94017348"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisianans in the Military Oral History Project</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series">
+         <title>T. Harry Williams Center for Oral History military series</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-military:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Library: Oral History</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Richard E. Ammon Jr. Oral History Interview, Mss. 4700.1135, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">AmmonRichardT1661b_Audio</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

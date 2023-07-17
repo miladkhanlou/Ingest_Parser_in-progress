@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_1</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1068</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-18</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1068</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1068/json"
+                        timestamp="2017-01-13 13:22:56">{"title":"Page_1","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M27\nNouvelle Orl\u00e9ans 4 fevrier 1870\nMonsieur le president de la soci\u00e8t\u00e8 de bienfaisance\nfran\u00e7aise N. orl\u00e9ans\nMonsieur le Pr\u00e9sident\nJe viens humblement me permettre de vous exposer la\nd\u00e9plorable position o\u00f9 je me trouve actuellement et r\u00e9clamer votre indulgence\nD\u2019\u00eatre oblig\u00e9 d\u2019entrer dans d\u00e8s details nece?saires pourtant \u00e0 l\u2019accueil\nque vous jugerez apropos de lui donner, apr\u00e8s vous \u00eatre assur\u00e9 toutefois\nde mon identit\u00e9 et de tous les malheurs qui me sont survenus, si vous le\njugez nece?saire.\nMonsieur le President : je d\u00e9barquai en 1862 \u00e0 vera Cruz\nsortant comme S. officier du 3e Regt de Spahis ; j\u2019obtins de m. le\nMinistre mon regiment ne faisant point parti de l\u2019expedition a venir\n\u00e0 la disposition du Mal Ct en Chef. pendant la travers\u00e9e, j\u2019avais dej\u00e0\n\u00e9tudi\u00e9 serieusement l\u2019espagnol \u00e9tant surtout enfant du midi de la\nFrance, j\u2019appris cet idi\u00f4me avec une etonnante rapidit\u00e9. je fus\naussit\u00f4t charg\u00e9 d\u2019organiser la Cavalerie de la Contre Guerilla de Cette\nville. le 11xbre 62 bless\u00e9 au Combat du miadero jor\u00e8s alvarado\nje fus N \u00e9 Lieutenant tresorier de tous Ce Corps [rature] \u00e0 la fin de 63\npour me recompenser le Gal Ct en Chef me fit passer \u00e0\nTampico, apr\u00e8s l\u2019occupation de Cette Ville, pour y former un\nescadron regulier de Cavalerie mexicaine ; [rature] \u00e0 l\u2019arriv\u00e9e de\nfeu l\u2019Empereur Maximilien, je re\u00e7us l\u2019ordre de monter \u00e0 mexico\net l\u00e0 je re\u00e7us de l\u2019Empereur, apr\u00e8s l\u2019organisation du Minist\u00e8re\nle brevet de Capitaine Commandant (brevet que je tiens en mon pouvoir)","typa":{},"genera":{},"fullrs":{},"find":"1069.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-18","dmmodified":"2008-09-18","dmoclcno":{},"dmrecord":"1068","restrictionCode":"1","cdmfilesize":"1837774","cdmfilesizeformatted":"1.75 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

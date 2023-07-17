@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Southern education</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes">1854</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Oakland College (Miss.)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Education</topic>
+      <topic>Southern States</topic>
+   </subject>
+   <note type="content">General Note: 'Faculty': p.[1] at end. General Note: Includes the addresses of Robert L. Stanton and John Murdoch.
+Full title: "Southern education- addresses delivered in the chapel at Oakland College, on the day of the annual commencement, June 29th, 1854"</note>
+   <note type="content" displayLabel="Topics">education; southern identity</note>
+   <physicalDescription>
+      <form>pamphlet</form>
+      <extent>43 pages</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana &amp; Lower Mississippi Valley Collections</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Civil War Context and Conflict at LSU Libraries</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>LA230.5 .S6 O347 1854 LARA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Southern education: addresses delivered in the chapel at Oakland College, on the day of the annual commencement, June 29th, 1854 (New Orleans: Printed at the office of the Picayune, 1854)</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/4459</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <publicationStatus>published</publicationStatus>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>4459</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/4459/json"
+                        timestamp="2017-02-03 08:23:00">{"title":"Southern education","subjec":"Oakland College (Miss.); Education--Southern States.","descri":"43, [1] p. ; 21 cm.","creato":{},"publis":"New Orleans: Printed at the office of the Picayune, 1854.","date":{},"year":"1854","format":"pamphlet","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )","collec":"Louisiana &amp; Lower Mississippi Valley Collections","reposa":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","digitb":"Civil War: Context &amp; Conflict","langua":"en","topics":"education; southern identity","cite":"Southern education: addresses delivered in the chapel at Oakland College, on the day of the annual commencement, June 29th, 1854 (New Orleans: Printed at the office of the Picayune, 1854)","notes":{},"notesa":"General Note: 'Faculty': p.[1] at end. General Note: Includes the addresses of Robert L. Stanton and John Murdoch.\nFull title: \"Southern education- addresses delivered in the chapel at Oakland College, on the day of the annual commencement, June 29th, 1854\"","source":"LA230.5 .S6 O347 1854 LARA","box":{},"folder":{},"identi":"43","relati":{},"findin":{},"catalo":"5\/18\/2010","type":"published","full":{},"fullrs":{},"find":"4460.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-30","dmmodified":"2012-05-30","dmoclcno":{},"dmrecord":"4459","restrictionCode":"1","cdmfilesize":"5166","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <ASERLsubmission>5/18/2010</ASERLsubmission>
+  </extension>
+</mods>

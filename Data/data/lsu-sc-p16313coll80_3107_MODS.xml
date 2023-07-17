@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>RUNAWAY IN PRISON.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000287f</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Theo. Blanchard</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1861-07-27</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>English turn, Plaquemine parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Iberville parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1861</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">A ETE conduit à la geole de cette Paroisse, le mulatre JOHN WAKER, d'isant appartenir à Robt. Wilkinson, du "Toor des Anglais," Paroisse de Plaquemines. John est d'environs 26 ans; 5 pieds 7 à 8 pouces de taille; de bel apparence et d'un poids d'environs 135 livres. Le propriétaire est notifié de reclamer comme la loi le requiert. THEO. BLANCHARD, Shérif. jy27
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">griff;</note>
+   <note type="content" displayLabel="Slave Owner">Robert Wilkinson
+</note>
+   <note type="content" displayLabel="Slave Name (Age)">John Waker(26)
+</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M;</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 1
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Gazette and sentinel. : (Plaquemine, Parish of Iberville, La.) 1858-1864
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86053832/1861-07-27/ed-1/seq-2/
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn86053832
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2139</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-04-06</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2139</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2139/json"
+                        timestamp="2017-02-13 13:34:17">{"title":"RSA00000287f","object":"sn86053832\n","publia":"Gazette and sentinel. : (Plaquemine, Parish of Iberville, La.) 1858-1864\n","date":"1861-07-27","year":"1861","film":"page 2, column 1\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053832\/1861-07-27\/ed-1\/seq-2\/\n","unique":"RUNAWAY IN PRISON.\n","person":"Theo. Blanchard\n","parish":"Iberville parish, La.\n","digita":{},"acknow":{},"public":"Robert Wilkinson\n","town":"English turn, Plaquemine parish, La.\n","relati":"John Waker(26)\n","slave":"M;","slavea":"griff;","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"Y","transc":"A ETE conduit \u00e0 la geole de cette Paroisse, le mulatre JOHN WAKER, d'isant appartenir \u00e0 Robt. Wilkinson, du \"Toor des Anglais,\" Paroisse de Plaquemines. John est d'environs 26 ans; 5 pieds 7 \u00e0 8 pouces de taille; de bel apparence et d'un poids d'environs 135 livres. Le propri\u00e9taire est notifi\u00e9 de reclamer comme la loi le requiert. THEO. BLANCHARD, Sh\u00e9rif. jy27\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.\n","type":"text","format":"clipping","langua":"French;","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":{},"citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000287f.jp2","find":"2204.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-04-06","dmmodified":"2016-04-06","dmoclcno":{},"dmrecord":"2139","restrictionCode":"1","cdmfilesize":"56872","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

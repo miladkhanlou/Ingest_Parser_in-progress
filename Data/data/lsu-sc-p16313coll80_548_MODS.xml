@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>NOTICE.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000027</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Temple S. Coons</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1864-08-02</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Child slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Child slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Claibourn county, Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Tensas, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchez, Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Homes county Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Homes county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Waterproof, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Waterproof, Louisiana</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchez, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Isequena county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Isequena conuty, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>State of Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Shreveport, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1864</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Notice.  THE following named negroes have been placed in my care by order of his Excellency H.W. Allen, Governor of Louisiana: Negro woman ELIZABETH, dark complexion; aged about 40 years. Said to belong to Evan Jeffries, Claibourn county Mississippi.  PETER, aged 50 years; ELIZA, 45 years ; CHARLOTTE, 38 years; ELLEN, 25 years ; JANE, 18 years and DARCUS, 20 years; allof dark complexion.  Said to belong to the Estate of Claudius Johnson, parish of Tensas, La.  Negro girl PATSY, aged about 12 years, Judat, about 10 years; Hester, about 10 years ; Trice about 8 years and Jack a boy about 10 years old ; all of dark complexion.  Said to belong to George Marshall, near Natchez, Mississippi.  Negro woman MARTHA, of black complexion, aged about 38 years.  Said  to belong to James N. Gwin, Homes county Mississippi.  Negro man LOUIS, dark complexion ; aged about 49 years. Said to belong to Messrs. Warfield &amp; Tibbetts, Homes county Miss.  Negro boy FRANK, dark complexion; aged about 10 years, belongs to Mr. Duncan, near Waterproof, La. The said boy is now sick at the house of Capt. A. H. Payne, in Claiborn parish, La. RILEY, a negro  boy of dark complesion; aged about 16 years.  Said to belong to Mrs. Anna Covington, near Waterproof, Louisiana.  MARIA, a negro girl; aged about 17 years, and NANCY, aged about 12 years ; both of dark complesion. Said to belong to William Carter, of Madison parish, La.  SUSAN, negro girl of dark complexion ; aged about 18 yers an AMOS, a boy of light complexion ; aged about 5 years.  Said to belong to Alfred Davis, Natchez, Miss.  MARY, a negro woman of dark complexion, aged about 45 years.  Said to belong to Mrs. Catherin Eurtis, Isequena county, Miss.  MARY, a negro woman, aged about 25 years, and her male child about one year old.  CEILY, a woman, aged about 55 years. TARPER, a boy about 10 years.  HENRIETTA, a girl about 8 years; SUSAN, a girl about 5 years; HENRY, a boy about 14 years; SARAH, a girl, about 18 years ; VINA, a girl about 6 years, and PATSY, girl, about 3 years.  Said to belong to Robert Turnbull, Isequena conuty, Miss.  ELLICK, a negro boy, black complesion; aged about 18 years. Said to belong  to Elijah Shuttleworth, state of Mississippi.  The owner can recover the same  by proof of  Title and paying charges.  TEMPLE S. COONS, Commissioner. Shereveport, July 30th. 1864 Aug2-tf</abstract>
+   <note type="content" displayLabel="Slave Owner">Evan Jeffries; Claudius Johnson; George Marshall; James N. Gwin; Messrs. Warfield &amp; Tibbetts; Mr. Duncan;  Mrs. Anna Covington; William Carter; Alfred Davis; Mrs. Catherin Eurtis; Robert Turnbull; Elijah Shuttleworth</note>
+   <note type="content" displayLabel="Slave Name (Age)"> Elizabeth (40); Peter (50); Eliza (45); Charlotte (38); Ellen (25); Jane (18); Darcus (20); Patsy (12); Judat (10); Hester (10); Trice (8); Jack (10); Martha (38); Louis (49); FRANK (10); Riley (16); Maria (17); Nanyc (12); Susan (18); Amos (5); Mary (45); Mary (25); male child (1); Ceily (55); Tarper (10); Henrietta (8); Susan (5); Henry (14); Sarah (18); Vina (6); Patsy (3); Ellick (18)</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 7</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Shreveport news. : (Shreveport [La.]) 1864-1865</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">RSA00000032</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-08-02/ed-1/seq-1/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-08-09/ed-1/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-08-16/ed-1/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-08-23/ed-1/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-09-06/ed-1/seq-1/ </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83016485</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/451</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2014-12-11</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>451</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/451/json"
+                        timestamp="2017-02-13 13:32:47">{"title":"RSA00000027","object":"sn 83016485","publia":"Shreveport news. : (Shreveport [La.]) 1864-1865","date":"1864-08-02","year":"1864","film":"page 1, column 7","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-08-02\/ed-1\/seq-1\/","unique":"NOTICE.","person":"Temple S. Coons","parish":"Shreveport, La","digita":{},"acknow":{},"public":"Evan Jeffries; Claudius Johnson; George Marshall; James N. Gwin; Messrs. Warfield &amp; Tibbetts; Mr. Duncan;  Mrs. Anna Covington; William Carter; Alfred Davis; Mrs. Catherin Eurtis; Robert Turnbull; Elijah Shuttleworth","town":"Claibourn county, Mississippi; Tensas, La; Natchez, Mississippi; Homes county Mississippi; Homes county, Miss.;  Waterproof, La;  Waterproof, Louisiana; Madison parish, La. ; Natchez, Miss.; Isequena county, Miss;  Isequena conuty, Miss.;  state of Mississippi","relati":" Elizabeth (40); Peter (50); Eliza (45); Charlotte (38); Ellen (25); Jane (18); Darcus (20); Patsy (12); Judat (10); Hester (10); Trice (8); Jack (10); Martha (38); Louis (49); FRANK (10); Riley (16); Maria (17); Nanyc (12); Susan (18); Amos (5); Mary (45); Mary (25); male child (1); Ceily (55); Tarper (10); Henrietta (8); Susan (5); Henry (14); Sarah (18); Vina (6); Patsy (3); Ellick (18)","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"Notice.  THE following named negroes have been placed in my care by order of his Excellency H.W. Allen, Governor of Louisiana: Negro woman ELIZABETH, dark complexion; aged about 40 years. Said to belong to Evan Jeffries, Claibourn county Mississippi.  PETER, aged 50 years; ELIZA, 45 years ; CHARLOTTE, 38 years; ELLEN, 25 years ; JANE, 18 years and DARCUS, 20 years; allof dark complexion.  Said to belong to the Estate of Claudius Johnson, parish of Tensas, La.  Negro girl PATSY, aged about 12 years, Judat, about 10 years; Hester, about 10 years ; Trice about 8 years and Jack a boy about 10 years old ; all of dark complexion.  Said to belong to George Marshall, near Natchez, Mississippi.  Negro woman MARTHA, of black complexion, aged about 38 years.  Said  to belong to James N. Gwin, Homes county Mississippi.  Negro man LOUIS, dark complexion ; aged about 49 years. Said to belong to Messrs. Warfield &amp; Tibbetts, Homes county Miss.  Negro boy FRANK, dark complexion; aged about 10 years, belongs to Mr. Duncan, near Waterproof, La. The said boy is now sick at the house of Capt. A. H. Payne, in Claiborn parish, La. RILEY, a negro  boy of dark complesion; aged about 16 years.  Said to belong to Mrs. Anna Covington, near Waterproof, Louisiana.  MARIA, a negro girl; aged about 17 years, and NANCY, aged about 12 years ; both of dark complesion. Said to belong to William Carter, of Madison parish, La.  SUSAN, negro girl of dark complexion ; aged about 18 yers an AMOS, a boy of light complexion ; aged about 5 years.  Said to belong to Alfred Davis, Natchez, Miss.  MARY, a negro woman of dark complexion, aged about 45 years.  Said to belong to Mrs. Catherin Eurtis, Isequena county, Miss.  MARY, a negro woman, aged about 25 years, and her male child about one year old.  CEILY, a woman, aged about 55 years. TARPER, a boy about 10 years.  HENRIETTA, a girl about 8 years; SUSAN, a girl about 5 years; HENRY, a boy about 14 years; SARAH, a girl, about 18 years ; VINA, a girl about 6 years, and PATSY, girl, about 3 years.  Said to belong to Robert Turnbull, Isequena conuty, Miss.  ELLICK, a negro boy, black complesion; aged about 18 years. Said to belong  to Elijah Shuttleworth, state of Mississippi.  The owner can recover the same  by proof of  Title and paying charges.  TEMPLE S. COONS, Commissioner. Shereveport, July 30th. 1864 Aug2-tf","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Fugitive slaves--Mississippi.; Slavery--Mississippi.; Slaves--Mississippi.; Racially mixed people--Louisiana.; Racially mixed people--Mississippi.; Women slaves--Louisiana.; Women slaves--Mississippi.; Child slaves--Louisiana.; Child slaves--Mississippi.;","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":"RSA00000032","contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-08-09\/ed-1\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-08-16\/ed-1\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-08-23\/ed-1\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-09-06\/ed-1\/seq-1\/ ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000027.jp2","find":"515.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-11","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"451","restrictionCode":"1","cdmfilesize":"391404","cdmfilesizeformatted":"0.37 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

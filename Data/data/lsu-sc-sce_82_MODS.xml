@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Musurgia Universalis sive Ars Magna</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+      <namePart>Kircher, Athanasius</namePart>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1864</dateCreated>
+      <publisher>Romae: Ex typographia Hæredum Francisci Corbelletti</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Music</topic>
+   </subject>
+   <abstract displayLabel="Description">The elaborately engraved title page is fascinating for its symbolism.  The top section is dominated by a triangle symbolizing the Holy Trinity, with nine angelic choirs singing a canon on the words "Sanctus, sanctus, sanctus" (holy, holy, holy). The middle section contains secular symbolism: a female figure seated on a globe holds the lyre of Apollo and the panpipes of Marsyas, musical rivals who were judged by the Muses. 
+
+The lowest part of the picture shows blacksmiths in a cave: the sound of blacksmiths hammering led the Greek philosopher Pythagoras to important conclusions about musical pitch.  Pythagoras points to the blacksmiths and holds an illustration of his theorem, also using triangles, and hence referring obliquely once again to the Trinity at the top of the picture.</abstract>
+   <note type="content">A Jesuit polymath, Athanasius Kircher (1602-1680) published more than 30 books on subjects ranging from China to Egypt to music.  Musurgia is his most influential work and was a source for almost every later German music theorist until well into the 18th century.  It is still considered essential to an understanding of 17th-century music and music theory.</note>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Rare 780.9 K63m OVER</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>LSU Special Collections: Rare Book Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">sd000301</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/103</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2006-07-24</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>103</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/103/json"
+                        timestamp="2017-02-02 09:47:12">{"title":"Musurgia Universalis sive Ars Magna","creato":"Kircher, Athanasius","date":"1650","dates":{},"publis":"Romae: Ex typographia H\u00e6redum Francisci Corbelletti","contri":{},"subjec":"Music","descri":"The elaborately engraved title page is fascinating for its symbolism.  The top section is dominated by a triangle symbolizing the Holy Trinity, with nine angelic choirs singing a canon on the words \"Sanctus, sanctus, sanctus\" (holy, holy, holy). The middle section contains secular symbolism: a female figure seated on a globe holds the lyre of Apollo and the panpipes of Marsyas, musical rivals who were judged by the Muses. \n\nThe lowest part of the picture shows blacksmiths in a cave: the sound of blacksmiths hammering led the Greek philosopher Pythagoras to important conclusions about musical pitch.  Pythagoras points to the blacksmiths and holds an illustration of his theorem, also using triangles, and hence referring obliquely once again to the Trinity at the top of the picture.","notes":"A Jesuit polymath, Athanasius Kircher (1602-1680) published more than 30 books on subjects ranging from China to Egypt to music.  Musurgia is his most influential work and was a source for almost every later German music theorist until well into the 18th century.  It is still considered essential to an understanding of 17th-century music and music theory.","langua":{},"transc":{},"digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":"Rare Book Collection","collec":"Rare 780.9 K63m OVER","sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":{},"format":"JPEG2000","imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":"sd000301","identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":"Volume5\\2_sd000301.tif","find":"104.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2006-07-24","dmmodified":"2007-04-20","dmoclcno":{},"dmrecord":"103","restrictionCode":"1","cdmfilesize":"2577699","cdmfilesizeformatted":"2.46 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

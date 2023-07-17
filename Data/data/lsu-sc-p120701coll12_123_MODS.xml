@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/412</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>412</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/412/json"
+                        timestamp="2017-02-09 16:30:59">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\n47\nlated from tho Spanish of tho Peruvian Inca, Gar-\ncillasso do Vega.\n1533.  May 12.  Hernando ,de  Soto set sail   from  Havana\nwith 1000 men and 350 horses.    The latter were\nesteemed nearly as much as the men.\nMay 25. Landed al tho Bay of Espiritu Santo, the\nmodern Tampa Bay, and passed through the territory of the present States of Alabama, Mississippi\nand Arkansas.\nJune or July. Uc Sulo crossed tho Mississippi or Rio\nGrande, at the lowest Chickasaw bluffy near the present Memphis, Ten.\nThis enterprising wanderer died near the mouth of\nlied River. \"The corpse,\" says the learned and\neloquent Bancroft, \"wrapped in a mantle, and in the\nstillness of midnight, was silently sunk in the Mississippi.\"\nSept. 10. Moscoso, the successor of Do Soto, entered,\nwith three hundred survivors of a thousand original\nadventurers, the river Panueo, in Mexico.\nFeb. 10. Florida ceded to Great Britain by Spain, and\nLouisiana ceded to Spain by France, in compensation.\nSept. Florida re-ceded to Spain by Great Britain,\nNatchez and Walnut Hills surrendered to the United\nStales by virtue of tho treaty of 1705.\n1341.\n1542.\n1543.\n1703.\n178:\n1707\nr,:;;.M!, i:\u201ea.\n1000, Many residences, or Missionary Stations, ofthe French\nclergy established on tho lakes of North America.\n10(31. Accurate delineations of the Northwestern Likes, published at Paris.\nI COS. Fathor Allottez visiled the Fault of St. Marie.\n1070. Lake Superior, \"the head of Lakes Huron and Michigan, to Bale des Puants, (Green Bay,'') well drawn\non French maps.\u2014Bishop Unite of Indiana.\n1671. Michiliimaclcinacsettled by Father Marquette.\n1073. May 13. Faiher Marquette and M. Joliet set off on\nthe discovery of the Mississippi.\u2014Mctrquett's Journal, Butler's Ky. p. 402, 2d edition.\nJune 17. The party descended the  Ouisconsin, or\nWisconsin river, to the Mississippi,\nJuly 17.  The expedition returned from the Arkansas,\n(or Akamsca, as it is termed in the Journal,) byway\nof the Illinois river to Mackinaw.\n1070. Robert Cavalier He La Salle and Father Hennepin\ndescended the Mississippi to the Illinois river, and\nascended it to the Falls of St. Anthony.\n16P4. La Salle set out from Rochelle, in France, for the\nmouth of tho Mississippi.\n1035 Feb. 18. He landed in llic Bay of St. Bernard, three\nor four hundred miles west ofthe Mississippi; here,\nnear the river Guadeloupe, just east of the Rio Del\nNorle'.bo landed and established a French colony.\n1609. D'Iberville (perpetuated in the Bayou Manchac, or\nIberville, communicating with Lake Maurepas, from\nthe Mississippi.) took possession ofthe country from\nMobile to the Bay of St. Bernard.\n1712. Louis 14thgranted Louisiana, (so named in his honor,\nby Hennepin,) to Crozat.\n1707 or 1717 or 1721. Mobile and Biloxi, the latter west of\nthe Pascagoula river, in the county of Jackssn, Mississippi, settled by the French.\n1720 to 1721. Charlevoix vistted the French settlements\nfrom Quebec to the South. The account of bis interesting journey is contained in his Histoiro do In\nNouvelle France, He could only get a tent in New\nOrleans, in which to celebrate mass.\n1735. St. Vincents, or Vince nnes, may have been settled by\nthe French.\u2014 Vuliu-y.\n1754. The Fort commenced nt the. head of the Ohio, by tho\nOhio company\u2014afterwards the site of Fort Du-\nquesne and Fort Pitt\u2014captured by the French from\na Virginia officer.\u2014Sparks' Washington, vol. 2.\n1763. Feb. 10. Treaty of Paris terminated the continental\ndominions of France in North America, surrendering Natchez, New Oilcans and Louisiana lo Spain.\n170-1. St. Louis, now in Missouri, founded.\n1802. Louisiana re-ceded by Spain lo France, who, on Iho\n30th April, 1.SD3, sold this \"noble bargain,\" (in the\nwords of Talleyrand,) to the U. S. of North America.\n1803. Dec.  20. Louisiana delivered to the United Slates,\nand France making a politic virtue of necessity,\nfinally again relinquished her dominions on the continent of North America.     \\s\nFor On, South.Weilern Journal.\nLIFE.-AN ALLEGORY.\nLo I on the summer sea,\nA barque speeds smoothly on;\nBright is the rising sun,\nGreen is the wavy lea.\nFar in the distant West\nThe golden clouds arc hung,\nThe sails to the breeze are flung,\nThat gallant barque is blosi.\nFresh from the spicy shore.\nThe gales ciiitic sweet and bland;\nAmi Hope, wilh a fearless hand,\nDirects ihe flashing oar.\nWild pleasure guards the prow,\nJoy mis tho swelling sail,\nAnd fortune's fav'iing gale\nImpels Iho vesso] now.\nThe lamp of the Indian maid\nFloats not on a smoother stream\u2014\nHut Oh! ils love-lit boam\nMay die on the river's shade.\nSo too doth the storniy Nurth\nlis wreck-fraught tempests pour,\nAnd loud from its Ice-bound shore\nThe gale of death comes forth.\nThe helmsman's skill Is gone,\nOne wail lo the winds is thrown\u2014\nTho gallant barque jroos down,\nllul the sea flows smoothly on. J. I'. S.","fullrs":{},"find":"413.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"412","restrictionCode":"1","cdmfilesize":"1656744","cdmfilesizeformatted":"1.58 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

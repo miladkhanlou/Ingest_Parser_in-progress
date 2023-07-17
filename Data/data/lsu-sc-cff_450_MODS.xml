@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_6</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1009</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-09-12</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1009</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1009/json"
+                        timestamp="2017-01-13 13:22:53">{"title":"Page_6","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M66\nLa peine Suit, dit-on; le plaisir de bien pr\u00e8s. Aussi\ncelui que j\u2019\u00e9prouve Se change en effroi, lorsque je pense qu\u2019un\nmortel plus heureux que moi peut Vous posseder. Voila ma crainte\net Ce que j\u2019entends dire chaque jour m\u2019y confirme et m\u2019engage\n\u00e0 avoir assez de Courage pour vous prier de d\u00e9cider du bonheur\nou malheur du reste de mes jours. D\u2019ailleurs mon mal est ?i\ninv\u00e9t\u00e9r\u00e9 que Votre refus loin de pouvoir vous effacer [rature]\nou de tourner mon amour en haine implacable, ne me laissera, je\npense, que lafacult\u00e9 de Languir \u00e9ternellement dans mes justes\nregrets.\nEntre la crainte et l\u2019espoir figurez nous voir \u00e0 Vos pieds\nLe plus z\u00e9l\u00e9 de Vos adorateurs.\nP. Pedesclaux.\nP.S. Comme je ne suis point un fourbe et que je ne\ncrains aucunement d\u2019\u00eatre trop connu, au contraire j\u2019aurais desir\u00e9\nqu\u2019une fr\u00e9quentation plus longue et plus ?uivie vous eut permis\nde me juger mieux \u00e0 Votre aise, J\u2019aurais mis moins de\npr\u00e9cipitation dans ma d\u00e9marche, Si ce n\u2019\u00e9tait la douleur\ninvincible que j\u2019eprouve en Voyant la ferme r\u00e9solution que\nVous avez prise d\u2019aller au nord, ce qui m\u2019engage \u00e0 Vous demander\nde prononcer Sur mon Sort. Si j\u2019avais au moins l\u2019espoir qu\u2019\u00e0\nVotre retour je pus obtenir ce que je vous demande aujourd\u2019hui,\ncette esp\u00e9rance [rature] me ferait trouver le tems moins long : mais\ncombien il Serait cruel pour moi de nourrir une funeste\n[effac\u00e9] sion et de me bercer l\u2019imagination de Vaines chim\u00e8res.\nJ\u2019esp\u00e8re que Vous gouterez mes raisons et que Vous y aurez\nquelques Consid\u00e9rations.","typa":{},"genera":{},"fullrs":{},"find":"1010.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-09-12","dmmodified":"2008-09-12","dmoclcno":{},"dmrecord":"1009","restrictionCode":"1","cdmfilesize":"805968","cdmfilesizeformatted":"0.77 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

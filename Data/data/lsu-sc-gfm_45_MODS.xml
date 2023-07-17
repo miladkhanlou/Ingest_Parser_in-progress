@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>No. 580. Stern-Wheel Steamboat</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>George Francois Mugnier</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes">1885</dateCreated>
+      <dateCreated point="end">1910</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Steamboats</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mabel Comeaux (Steamboat)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mugnier, George François, 1855-1936</topic>
+   </subject>
+   <abstract displayLabel="Description">Glass negative view of steamboat at shoreline.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <form>Stereographs</form>
+      <note type="medium">Glass plate negative</note>
+      <extent>5.00" x 8.00"</extent>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+<namePart>LSU Libraries. Special Collections</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-gfm:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>George Francois Mugnier New Orleans Scenes</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>New Orleans scenes : Mugnier negatives and prints, circa 1885-1910, (Mss. 1089, 1552)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/n1089.htm</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">George François Mugnier New Orleans Scenes, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">10890006</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_GFM/id/5</identifier>
+   <recordInfo>
+      <recordCreationDate>2006-02-06</recordCreationDate>
+      <recordChangeDate>2018-11-09</recordChangeDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_GFM</alias>
+         <pointer>5</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_GFM/5/json"
+                        timestamp="2016-12-21 13:22:41">{"title":"No. 580. Stern-Wheel Steamboat.","compou":{},"creato":"George Francois Mugnier`","date":"ca. 1885-1910","dates":{},"descri":"Glass negative view of steamboat at shoreline.","subjec":"Steamboats--Photographs;Mabel Comeaux (Steamboat)--Photographs;Mugnier, George Fran\u00e7ois, 1855-1936.","typa":"Stereographs","source":"Glass plate negative;5.00\" x 8.00\"","type":"jpeg","publis":"George Francois Mugnier New Orleans Scenes","relati":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","reposi":"New Orleans scenes : Mugnier negatives and prints, circa 1885-1910, (Mss. 1089, 1552).","reposa":"Finding aid for the original photographs: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/n1089.htm","descra":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","cite":"George Fran\u00e7ois Mugnier New Orleans Scenes, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"10890006","identa":"See 'reference url' on the navigation bars.","langua":"Homepage: http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_LSU_GFM.php?CISOROOT=\/LSU_GFM;   List of images: http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/LSU_GFM","genera":"Image","fullrs":{},"find":"6.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2006-02-06","dmmodified":"2008-04-04","dmoclcno":{},"dmrecord":"5","restrictionCode":"1","cdmfilesize":"963906","cdmfilesizeformatted":"0.92 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

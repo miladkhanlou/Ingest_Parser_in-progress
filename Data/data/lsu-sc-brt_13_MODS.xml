@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>William F. Tunnard carriage and harness factory ambrotype, circa 1855</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1855</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Tunnard, William F</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>W.F. Tunnard (Baton Rouge, La.)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Horse-drawn vehicles</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Harness making and trade</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ambrotypes</topic>
+   </subject>
+   <abstract displayLabel="Description">This ambrotype shows the three-story brick building of the William F. Tunnard carriage and harness factory, located on the corner of Main and Church streets in Baton Rouge, La.     William F. Tunnard (1809-1871) was a native of New York and, by the 1830s, a coach maker in Newark, N. J. By 1842, he and his family were living in Louisiana. In 1845 he purchased a lot on the corner of Church and Main streets in Baton Rouge where he built his carriage and harness factory, a site dominated today by St. Joseph Cathedral. Tunnard served as a Confederate Major in the Civil War. He is buried in Magnolia Cemetery.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <note type="medium">1 ambrotype </note>
+      <extent>4 x 5 1/4 in.</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-brt:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Historic Images of Baton Rouge from LSU Libraries</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">William F. Tunnard Carriage and Harness Factory Ambrotype, Mss. 4959, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_BRT/id/36</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-11</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_BRT</alias>
+         <pointer>36</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_BRT/36/json"
+                        timestamp="2017-01-11 11:22:41">{"title":"William F. Tunnard carriage and harness factory ambrotype, circa 1855","creato":"unknown","date":"ca. 1855","publis":"Tunnard, William F.; W.F. Tunnard (Baton Rouge, La.).; Horse-drawn vehicles--Louisiana--Baton Rouge.; Harness making and trade--Louisiana--Baton Rouge.; Ambrotypes.","descri":"This ambrotype shows the three-story brick building of the William F. Tunnard carriage and harness factory, located on the corner of Main and Church streets in Baton Rouge, La.     William F. Tunnard (1809-1871) was a native of New York and, by the 1830s, a coach maker in Newark, N. J. By 1842, he and his family were living in Louisiana. In 1845 he purchased a lot on the corner of Church and Main streets in Baton Rouge where he built his carriage and harness factory, a site dominated today by St. Joseph Cathedral. Tunnard served as a Confederate Major in the Civil War. He is buried in Magnolia Cemetery.","typa":{},"source":"1 ambrotype ; 4 x 5 1\/4 in.","type":{},"relati":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","contri":{},"langua":{},"relata":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.","cite":"William F. Tunnard Carriage and Harness Factory Ambrotype, Mss. 4959, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","to":"See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/dupl.html#prices. Mention the \"Item URL\" or \"Item number\" in your request.","identi":{},"item":"See 'reference url' on the navigation bars.","collec":"http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/LSU_BRT","fullrs":{},"find":"37.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-11","dmmodified":"2012-05-11","dmoclcno":{},"dmrecord":"36","restrictionCode":"1","cdmfilesize":"2142685","cdmfilesizeformatted":"2.04 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

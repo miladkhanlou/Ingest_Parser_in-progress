@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 24</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/613</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>613</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/613/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 24","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"250\nSOUTH-WESTERN  JOURNAL.\nm\nP\nI\nh*\nh\n\u25a0\n\" This popular institution has just closed its course of exhibitions. The interest with which it has been sustained, from\nweek to week, fair or foul, has not been exceeded, it is believed, by any similar institution in the country. Its average attendance has not been far from two thousand persons, and as\nlong ns it retains its present character for activity and intelligence, there can be no fear for its success.\n\" The Lyceum was one of the first of the. present generation of popular institutions, organized in this city, and what\ncontributed more in the outset to its prosperity, than any thing\nelse, was the introduction of ladies, which, by the way, was\nnot done,\u2014it being an innovation upon custom\u2014till after a\nprotracted discussion and violent opposition.\n\" The proposition to form a Lyceum in this city, was first\nmade by Josiah Holbrook, the father of Lyceums. A number of our most distinguished citizens were called together\nby this gentleman, and tho subject of forming a Lyceum laid\nbefore them. After discussing the subject several evenings,\nthey decided that it was impracticable, that it could not be\nsustained. Mr. Holbrook then laid the matter before a small\nassociation, then in existence. Here the expediency of forming a Lyceum was fully discussed and favorably received.\nA committee was appointed, to whom the whole subject was\nreferred, with authority to call a public meeting, should they\nthink it advisable. This they did ; and it was attended prob\nably by one thousand persons. The subject of Lyceumsi\ngenerally, and tho expediency of forming ono in this city,\nas proposed by Mr. Holbrook, underwent a thorough discussion. Most of the. speakers highly approved of the plan;\nbut one of the gentlemen, of more talents and influence I\nhad almost said, than all the rest put together, and a great\nfriend, too, to popular education, said, that the project remind\ned him of a machine made by a friend of his\u2014it was skilfully designed, beautifully finished, and masterly executed\nbut it had ono fault, it would'n't go I This threw a damper\nupon the meeting, but it soon, after a little more discussion,\nrecovered its elasticity, and appointed a committee to draft a\nplan of organization. The committee met; two of the members believed the project to be a visionary one, and declined\ntaking any part in it. The remaining three called another\nmeeting, proposed a constitution, and organized a Society.\nTho first meetings wore held at Chatinccy Hall, and were attended by about two hundred poisons. Many of tho lectures,\nthe first winter, wore given by tho members. From the\nfoundation to the present time, its numbers and interest have\nbeen constantly increasing; and, notwithstanding its liberal\nappropriations and increasing expenditures, its receipts have\nthus far equalled its expenses, leaving, generally, a balance\nin the treasury.\"\nApology.\u2014Tho July number of the Journal has been\nunavoidably delayed in consequence of the absence of the\neditor, caused by sickness in his family. For the arrangement and editorial supervision of the greater part of the\npresent number of ihe Journal we acknowledge our indebtedness to the same gentleman who edited one of tho May numbers, J. A. Van Hoesen, Esq.\nMISSISSIPPI FEMALE COLLEGE.\nWe learn from the Columbus Democrat, that the first nub\nic examination of the pupils of this institution commenc A\non Monday, the 14th instant, and continued till Thured-i \u2022\nduring which time the young ladies were thoroughly nUe's!\ntioned by their instructers, trustees, and visiters, all of which\nquestions they answered with promptness and correctness\nWe here publish the remarks of the Democrat, ton-ether\nwith tho address delivered by one of the young ladies of the\ninstitution, Miss Martha Fort.\nReading.\u2014This exercise was particularly interesting\nMiss Dunning, one of the teachers, made some judicious\nselections, and a class of about thirty read simultaneously\nwith as much distinctness as the articulations of a single\nvoice.\n\" Grammar.\u2014This class was under the instruction of\nMrs. Shook, who examined them critically on the principles\nof study; some of the pupils were vory young, and evinced\na greater knowledge of the subject than wc had anticipated.\nThe exercises by the first class in parsing, were highly cred-'\nitable to the young ladies.\n\"Arithmetic.\u2014The pupils gave ample evidence that the\nplan of instruction had been shaped in such a manner as to\nmake them acquainted, first, with the rudiments of science,\nand then its application to the practical purposes of life. The\nrapidity and accuracy with which they solved the most intricate questions, were truly astonishing. Some of the Trustees\nattempted to puzzle the young ladies in the calculation of interest, but they were not sharp enough. They figured out\ntho questions with all the certainly of tho most grasping Shy-\nlock or money lender.\n\"Geography.\u2014In this branch of instruction, the young\nlaelies were perfectly at home. Mr. Maer put questions of\na general nature, which were answered in nearly every instance with accuracy. The map of the world appeared lo\nbe before them, and they traversed from continent to continent\nwith the rapidity of thought.\nNatural Philosophy.\u2014The class in Philosophy evinced\na degree of intelligence and good practical sense, which is\nrarely to bo met with in our institutions of learning. The\nPresident of the Institution exercised this class in such a\nmanner as to convince the numerous auditory that the young\nadies thoroughly comprehended, to the fullest extent, the\nprinciples of the study. Some illustrations were given which\ncould not fail to interest tho scientific observer.\n\"Botany.\u2014Tho vegetable kingdom was illustrated by Miss\nDunning's class in tho interesting study of botany, in a very\nhappy manner. We never listened to a class that answered\nmoro clearly and understanding^ lhan this. Many of them\nhad been at the study but a short time, and the proficiency\nthey have made is certainly creditable to tho instructress and\nher pupils.\n\"Geometry, Algebra, and Mathematics.\u2014The classes\npursuing these kindred studies were particularly exercised\non Thursday. They gave ample evidence of comprehensive intellects and great strength of mind. Some algebraical\nproblems were handed in by an unknown gentleman, l\u00b0r\ntwo young ladies to solve, which were readily done on the","fullrs":{},"find":"614.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"613","restrictionCode":"1","cdmfilesize":"1855836","cdmfilesizeformatted":"1.77 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

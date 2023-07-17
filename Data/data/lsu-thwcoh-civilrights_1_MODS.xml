@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Eunice Paddio-Johnson oral history interview</title>
+  </titleInfo>
+   <name displayLabel="Interviewee">
+      <namePart>Paddio-Johnson, Eunice, 1928-</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Interviewer">
+      <namePart>De Jong, Greta</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+      </role>
+  </name>
+   <note type="biographical/historical" displayLabel="Biographical Note">Eunice Paddio-Johnson was born on June 25, 1928, in Crowley, La. She graduated from Grambling State University in 1949 and taught in Saint Helena Parish, La., and at Cornell University in Ithaca, N.Y. She retired from teaching in 1972 and was elected to the Saint Helena Parish School Board.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1998</dateCreated>
+  </originInfo>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Paddio-Johnson, Eunice,</namePart>
+         <namePart>1928-</namePart>
+         <namePart>Interviews</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Order of the Eastern Star</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Louisiana Education Association</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Louisiana</topic>
+      <topic>Social conditions</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Civil rights</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Suffrage</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Segregation in education</topic>
+      <topic>Louisiana</topic>
+      <topic>Saint Helena Parish</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Civil rights movements</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African American teachers and the community</topic>
+      <topic>Louisiana</topic>
+      <topic>Saint Helena Parish</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African American freemasons</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>School boards</topic>
+      <topic>African American membership</topic>
+      <topic>Louisiana</topic>
+      <topic>Saint Helena Parish</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Louisiana</geographic>
+      <geographic>Race relations</geographic>
+   </subject>
+   <abstract displayLabel="Description">Eunice Paddio-Johnson discusses her memories of racism as a child and as an adult, her education and teaching in segregated schools in Saint Helena Parish, efforts to register black voters, her experience as the first black member of the Saint Helena Parish School Board, the roles of the Freemasons and Order of the Eastern Star in the civil rights movement, the Louisiana Education Association, and her work with various civic associations.</abstract>
+   <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/civilrights/Paddio-Johnson_Eunice.pdf</abstract>
+   <note type="content">This collection includes materials accessioned as Mss. 4700.1029.; A digital version of the transcript (pdf) exists for duplication purposes.; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room.; Interview conducted by Greta de Jong.</note>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>1 sound cassette (1 hour); Transcript (43 leaves)</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no94017348"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Civil Rights Movement Oral History Project</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series">
+         <title>T. Harry Williams Center for Oral History civil rights series</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-civilrights:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Library: Oral History</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws. Please inform Eunice Paddio-Johnson of any use of this interview other than for academic research.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Eunice Paddio-Johnson Oral History Interview, Mss. 4700.1029, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">Paddio-JohnsonEuniceT1516b_Audio</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

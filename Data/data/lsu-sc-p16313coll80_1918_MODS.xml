@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00001037</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Parti dans la nuit du 22 de ce mois.</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Pierre Theriot</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1853-06-26</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Belle-Rivière, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1853</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Parti dans la nuit du 22 de ce mois, de l habitation de M. Pierre Théroit, de la Belle-Rivière, le nègre AZIC, âgé de 26 à 27 ans, taille de 5 pieds deux pouces, peau rouge, cicatrice sur le bras gauche et sur le pied gauche, marchant la pointe des pieds en dedans, forte constitu-tion, coiflé d'un chapeau blanc, haute forme. On donnera une récompense honnête àqui le logera dans une de geôles de l'Etat et'le fera savoir au soussigné. PIERRE THERIOT.</abstract>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Slave Name (Age)">Azic (26 or 27)</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">red</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Owner">M. Pierre Théroit</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-06-26/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-07-03/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-07-10/ed-1/seq-3/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86090609</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3414</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3414</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3414/json"
+                        timestamp="2017-07-10 10:52:15">{"title":"RSA00001037","object":"sn 86090609","publia":"Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?","date":"1853-06-26","year":"1853","film":"page 2, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-06-26\/ed-1\/seq-2\/","unique":"Parti dans la nuit du 22 de ce mois.","person":"Pierre Theriot","parish":{},"digita":{},"acknow":{},"public":"M. Pierre Th\ufffdroit","town":"Belle-Rivi\ufffdre, La.","relati":"Azic (26 or 27)","slave":"M","slavea":"red","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"Parti dans la nuit du 22 de ce mois, de l habitation de M. Pierre Th\ufffdroit, de la Belle-Rivi\ufffdre, le n\ufffdgre AZIC, \ufffdg\ufffd de 26 \ufffd 27 ans, taille de 5 pieds deux pouces, peau rouge, cicatrice sur le bras gauche et sur le pied gauche, marchant la pointe des pieds en dedans, forte constitu-tion, coifl\ufffd d'un chapeau blanc, haute forme. On donnera une r\ufffdcompense honn\ufffdte \ufffdqui le logera dans une de ge\ufffdles de l'Etat et'le fera savoir au soussign\ufffd. PIERRE THERIOT.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-07-03\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-07-10\/ed-1\/seq-3\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries. ","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001037.jp2","find":"3232.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-06-20","dmoclcno":{},"dmrecord":"3414","restrictionCode":"1","cdmfilesize":"131241","cdmfilesizeformatted":"0.13 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

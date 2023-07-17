@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 09</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/514</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>514</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/514/json"
+                        timestamp="2017-02-09 16:30:53">{"title":"Page 09","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\nIncreased energy. Tho length of time that this mysterious\nnocturnal music continues, is various and irregular; some-\nljmM but momentary,\u2014again it will continue for hours,\u2014\nand lingering, leave tho air so slowly, that it will longdwe\nin fancy; and the delusion will last till we are almost led to\nbelieve that it exists only in imagination; and were it not\nsupported by the most undoubted testimony.'it would be difficult to give credit to such a seeming phantasy. But that\n&lt; icb music is hoard there, is beyond a doubt. It is attributed\n10 various causes j but tho ono most generally accredited, by\nihe superstitious of this neighborhood, is couched in fiction,\nand linked with the tradition of the Biluxi Indians.\"\nBeiianqon's Annual Reciistf.ii of Mississippi.\nLeaving out of view tho poetry of the foregoing legend,\nwhere, we ask, on tho page of history, can be found a more\nthrilling tale than that of the. extinction of the Biluxies, allowing the truth of the tradition? The self-devotion of Poland is beggared by the nobler sacrifice of an entire tribe \u2014\ninarching in solemn array from a beleaguered fortification,\ninto its lonib\u2014and that tomb tho ocean I There is a sublimity in the deed that exalts the Indian character, and allies it to\nthe vaunted, yet perhaps fabulous, self-sacrifice of Curtius\nwho saved Rome from an earthquake, by leaping into the\n;'iasm. The deed of tho Biluxies, if true, was one of hom-\nage to the comparative kindness of inanimate nature. As\nthey looked towards the land, they saw human forms like\ntheir own; as they looked sea-ward, they saw the ruinous\nand wasteful deep,\u2014yet far moro kind in its cruelty than their\nfellow man. * * * * * * They raised a nation's\ndtatk song, and marched into their ocean grave !      V\n153\nAristocracy saw that an uneducated people-though it might\nbe a most humble servant\u2014was yet a most dangerous foe.\nThe middle classes saw that they needed strength  from the\nlower; and tho lowor, that they could rise only by the development of the powers of mind.    All cried out for Univer-\nsal Education ; and  the schoolmaster went abroad to teach\nlessons which Tyranny fears but never can tinteach.    In no\npart of Europe, perhaps, is this  wholesome agitation unknown.    It stirs the thoughtful nations as the soft breeze ripples the clear deep sea.    It comes not the herald of tempest\nand wreck, but of the steady gale that shall bear onward the\nbark of human improvement while the waters of time shall\nflow.    Not only may this spirit bo discerned in those places,\nhere education, long ago cherished under the genial influences of Christianity, has perpetuated itself.    Behold it at\nwork, in the lately rude and merely warlike Prussia\u2014now\nbecome, under a regal government both  humane and wise,\na model school for the world.    Beheld it in France, generously subduing her deep-rooted antipathy, forgetting her recent as well as ancient grudges, and seeking of a nation once\namong the foremost  in tearing down  the standard of her\nglory, the benefit of her experience in rearing schools for the\npeople's children.    Behold, how the prejudices of Mohammedanism are giving way\u2014the printing press in Constantinople\u2014and a new interpretation given to the Koran, that the.\nravages of the plague may be stayed by a quarantine.   Egypt\ncalls back the genius of civilization, and the arts and letters\nlie cherished in the bosom of their ancient mother.    Look\nevery where !     How long is it, since tho few spots where\nthe spirit of improvement had dwelt might be singled out\neasily on  the world's map;\u2014and, now, where are not his\nUNIVERSAL EDUCATION. footsteps traced ?     He has flown to the isles of tho sea: he\nExtract from an address, delivered by the eloquent Profes- has trodden hard on the borders of Africa's desert, and plant-\nMr H. II. Gird, who  fills the Mathematical chair of the\nCollege of Louisiana, in  Jackson, La., before  the  Philo-\nmathic Society of that institution :\n\" Ilow can wc speak of our own  advancement, without\nremembering the other families of the earth, and feeling our\nsympathies for them awakened.    Itow can wc be silent,\nwhen such is our theme in regard to those wonderful changes\nwhich have already distinguished our time as the age of improvement.    Remarkably, indeed, have the gracious designs\nof Providence been developed in this country, since tho con\nelusion of our war with Great Britain ; and in Europe, since\ntho nearly simultaneous pacification of that continent.    No\nsooner was the battle cry hushed, than the wakeful spirit of\nphilanthropy raised its gentle voice.    The arts of peace were\nCultivated by those  who otherwise would have swelled the\nranks and have  fallen the victims of war.    Mechanical industry and ingenuity, which the demands of war had great\n7 stimulated, found new excitements and produced new pro\ndigies.    A recollection of tho errors and the crimes which\nmade the French Revolution, though begun for good ends, a\nname of unrivalled  horror, warned tho friends of liberty.\nThey adopted, and have since acted on, the principle, that no\n'melioration of man's lot is possible but by the means of men-\nW cultivation.    American  prosperity confirmed the truth\n'!&gt;\u00ab intelligence augments happiness and secures freedom, see not how some\nVOL.  I.  NO.   X\ned his standard on her coasts. Far away in the Southern\nOcean, Australasia blooms beneath his smile, and emulates\nthe transformation ofthe American wilds: there, too, 'the\ndesert blossoms as tho rose.' The spirit of improvement\nnever rests; he hovers over land and sea, like an angel of\nthe apocalyptic vision, and with trumpet voice calls on the\ndead and the sleeping to arouse to the work of the world's\nregeneration.\n\" Let all the world hear and obey that call; and, let not\nus, whether viewing ourselves as members of the great society of mankind, of the divinely united American confederacy, or of this young and highly gifted state\u2014let us not be\ncontented with an inconsiderable share in this mighty achievement. Let nothing discourage us. What, though for a\nwhile the sun of our prosperity be darkened;\u2014'tis but because there is a lesson of wisdom which must be read by\n...oderated light. What, though the injustice and passions\nof men call the sword from its scabbard, and stain the earth\nwith blood ;\u2014the cause of right and tho love of peace shall\nstill gain strength. What, though the conflict of opinion\nspreads its agitations around the globe, inflames the city, and\nwakes the quiet village;\u2014minds are made active, knowledge\nis increased, and truth will triumph. ' What, though little\ntaught as we are in the details of the world's great plan, wo\nportentous events are to end in good; yet\n-\u25a0 \u00ab&amp;!!\n\u25a0 \u25a0 i'VJ-l-\nf\n'V.V\n1   .\nm!\n:\u2022-!     -\ni-vi-8\n_","fullrs":{},"find":"515.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"514","restrictionCode":"1","cdmfilesize":"1686822","cdmfilesizeformatted":"1.61 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Fifty Dollars Reward!</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000377</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J.DAllen</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1853-01-13</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Rapides parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Rapides parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1853</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Fifty Dollars Reward! RAN AWAY from my Plantation, on Red River, 18 miles above Alexandria, in the State of Louisiana, last spring a year ago, a mulatto or griff colored negro man, about 33 years old, about 5 feet 8 inches high, and weighs about 140 or 150 poundsHe talks slowly and walks in the same way, is quite a good-looking fellow, and has fine sound teethHis name is AUSTIN, but I hear that he has changed it, and says he belongs to some doctor at NatchitochesI have reason to believe he is cutting wood or working for some trifling person near the mouth of Black River, as he arrived there in company with another negro, in the flat they carried away from my ferryIf he went off on any steamboat that is not destroyed, and can be held responsible for an action of damages, I will give $2,000 for proof to conviction in open court at Alxandria against any captain, master or commander so allowing or aiding him to make his escape on their boat from my serviceI will give the above reward of $50 for said boy, if delievered in any slave State jail, so that I can get himJDALLENCotile Post Office, Rapides, La1 1y</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">mulatto or griff</note>
+   <note type="content" displayLabel="Slave Owner">J.DAllen</note>
+   <note type="content" displayLabel="Slave Name (Age)">Austin (33)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$50 OR $2000</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 4</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Planters' banner: (Franklin, Attakapas Co., Lou.) 1849-1872</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">RSA00000373</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-01-13/ed-1/seq-3/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-01-20/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-01-27/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-02-03/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-02-10/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-02-17/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-02-24/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-03-03/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-03-10/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-03-17/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-03-24/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-03-31/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-03-31/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-04-14/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-04-21/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-04-28/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-05-05/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-05-12/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-05-19/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-05-26/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-06-02/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-06-09/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-06-16/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-06-23/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-06-30/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-07-07/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-07-14/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-07-21/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-07-28/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-08-04/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-08-11/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-08-18/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-08-25/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-09-01/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-09-08/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-09-15/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-09-22/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-09-29/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-10-06/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-10-13/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-10-20/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-10-27/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-11-03/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-11-10/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-11-17/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-11-24/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-12-01/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-12-08/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-12-15/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-12-22/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1853-12-29/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86053688/1854-01-05/ed-1/seq-4/; </note>
+   <identifier type="lccn" displayLabel="LCCN">sn86053688</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1114</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-29</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1114</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1114/json"
+                        timestamp="2017-02-13 13:33:15">{"title":"RSA00000377","object":"sn86053688","publia":"The Planters' banner: (Franklin, Attakapas Co., Lou.) 1849-1872","date":"1853-01-13","year":"1853","film":"page 3, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-01-13\/ed-1\/seq-3\/","unique":"Fifty Dollars Reward!","person":"J.DAllen","parish":"Rapides parish, La.","digita":{},"acknow":{},"public":"J.DAllen","town":"Rapides parish, La.","relati":"Austin (33)","slave":"M","slavea":"mulatto or griff","slaveb":"N","slavec":{},"reward":"$50 OR $2000","multip":{},"physic":"Y","persoa":"Y","transc":"Fifty Dollars Reward! RAN AWAY from my Plantation, on Red River, 18 miles above Alexandria, in the State of Louisiana, last spring a year ago, a mulatto or griff colored negro man, about 33 years old, about 5 feet 8 inches high, and weighs about 140 or 150 poundsHe talks slowly and walks in the same way, is quite a good-looking fellow, and has fine sound teethHis name is AUSTIN, but I hear that he has changed it, and says he belongs to some doctor at NatchitochesI have reason to believe he is cutting wood or working for some trifling person near the mouth of Black River, as he arrived there in company with another negro, in the flat they carried away from my ferryIf he went off on any steamboat that is not destroyed, and can be held responsible for an action of damages, I will give $2,000 for proof to conviction in open court at Alxandria against any captain, master or commander so allowing or aiding him to make his escape on their boat from my serviceI will give the above reward of $50 for said boy, if delievered in any slave State jail, so that I can get himJDALLENCotile Post Office, Rapides, La1 1y","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.","type":"text","format":"clipping","langua":"English","digitb":"Runaway Slave Ads: 1836-1865","digiti":"RSA00000373","contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-01-20\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-01-27\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-02-03\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-02-10\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-02-17\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-02-24\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-03-03\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-03-10\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-03-17\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-03-24\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-03-31\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-03-31\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-04-14\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-04-21\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-04-28\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-05-05\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-05-12\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-05-19\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-05-26\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-06-02\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-06-09\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-06-16\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-06-23\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-06-30\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-07-07\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-07-14\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-07-21\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-07-28\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-08-04\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-08-11\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-08-18\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-08-25\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-09-01\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-09-08\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-09-15\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-09-22\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-09-29\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-10-06\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-10-13\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-10-20\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-10-27\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-11-03\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-11-10\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-11-17\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-11-24\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-12-01\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-12-08\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-12-15\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-12-22\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1853-12-29\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86053688\/1854-01-05\/ed-1\/seq-4\/; ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collectionIdentify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000377.jp2","find":"1175.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-29","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1114","restrictionCode":"1","cdmfilesize":"149513","cdmfilesizeformatted":"0.14 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

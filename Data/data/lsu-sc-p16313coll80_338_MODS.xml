@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>COMMTITED to the Jail of Shreveport; http://chroniclingamerica.loc.gov/lccn/sn86079090/1862-05-27/ed-1/seq-3/</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000077</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J.BWelch</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1862-05-27</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Texas</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Texas</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Texas</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Davis county, Tx</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Shreveport, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1862</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">COMMTITED to the Jail of the parish of Caddo, in the City of Shreveport, a negro man aged about 45 years, five feet four inches high, the left eye blind, a scar on the nose and left cheek, of dark complexionCalls himself SAM, and says he belongs to James McGarity, of Davis County, State of TexasThe owner or owners of said negro are hereby notified to come forward, prove property, pay charges, and take him away, or he will be disposed of as the law directsJ.BWELCHJailorMay 27, 18623t</abstract>
+   <note type="content" displayLabel="Slave Owner">James McGarity</note>
+   <note type="content" displayLabel="Slave Name (Age)">Sam (45)</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 1</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Semi-weekly Shreveport news(Shreveport [La.]) 1862-1864</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86079090/1862-05-27/ed-1/seq-5/ http://chroniclingamerica.loc.gov/lccn/sn86079090/1862-06-03/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn86079090/1862-06-06/ed-1/seq-3/ </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86079090</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/509</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2014-12-12</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>509</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/509/json"
+                        timestamp="2017-02-13 13:33:07">{"title":"RSA00000077","object":"sn 86079090","publia":"The Semi-weekly Shreveport news(Shreveport [La.]) 1862-1864","date":"1862-05-27","year":"1862","film":"page 3, column 1","altern":{},"unique":"COMMTITED to the Jail of Shreveport; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1862-05-27\/ed-1\/seq-3\/","person":"J.BWelch","parish":"Shreveport, La.","digita":{},"acknow":{},"public":"James McGarity","town":"Davis county, Tx.","relati":"Sam (45)","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"COMMTITED to the Jail of the parish of Caddo, in the City of Shreveport, a negro man aged about 45 years, five feet four inches high, the left eye blind, a scar on the nose and left cheek, of dark complexionCalls himself SAM, and says he belongs to James McGarity, of Davis County, State of TexasThe owner or owners of said negro are hereby notified to come forward, prove property, pay charges, and take him away, or he will be disposed of as the law directsJ.BWELCHJailorMay 27, 18623t","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Fugitive slaves--Texas.; Slavery--Texas.; Slaves--Texas","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1862-05-27\/ed-1\/seq-5\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1862-06-03\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079090\/1862-06-06\/ed-1\/seq-3\/ ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collectionIdentify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000077.jp2","find":"573.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-12","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"509","restrictionCode":"1","cdmfilesize":"217483","cdmfilesizeformatted":"0.21 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

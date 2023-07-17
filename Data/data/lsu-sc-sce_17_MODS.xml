@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Marsh Transcription</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/209</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2007-02-16</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>209</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/209/json"
+                        timestamp="2017-02-02 09:47:14">{"title":"Marsh Transcription","creato":{},"date":{},"dates":{},"publis":{},"contri":{},"subjec":{},"descri":{},"notes":{},"langua":{},"transc":"LSU Libraries Special Collections\n\nNote from the curator: Transcription reflects spelling as it appears in the original.\n\nEdward N. Marsh Civil War Letter Baton Rouge December 18th 1862\n\nDear Brother and Sister it is with great pleasure I now seat myself to write you a few lines to let you know that I am pretty well and hope that these few lines will find you the same. We left New Orleans the 16th for this place and sailed up the river with our little expedition. I don't know how many thousand there is here. They have not all go here yet. The Iron Clad Esex [Essex] came up ahead and 4 or 5 other gun Boats followed her. We got here at 9 o'clock in the morn and they fired 13 shots into the City and they sent a flag down to the Boat and left as soon as possible and then we sent a boat with some men to the Capital of the place and put up the flag of our union and then the troops began to land and the Confederates left the place. As soon as possible we came up into the City and pitched our tent and we went into the houses and brought out chairs and books and every thing that we could get that we could use. I got this paper out of an account book. There was a report today our men had drove the Rebels out of Vicksburg and that they were coming down this way. There was twenty thousand of them above here about 14 miles1. We have to sleep with cartridges [cartridge] boxes and belts on and lay on our guns and have them loaded with 4 rounds and cartridges in our boxes and we keep out pickets now.... The inhabitants have most all left the place when we fired into the City. They killed two Boys. They were helping the Rebels to get their cannons away from here.... There was 50 Negroes ran from their master and came here for protection today. 19th There was 32 more come today with their Budgets(?) with them. They say that they have not had any shoes for one year and they are barefooted almost. Their clothes are awful ragged. The inhabitants are starving. They cannot get salt hardly. It is 75 cents a lb and a girl told me yesterday that her Master was dead and she hired her time of her Mistress. She pays her three dollars a week for time. She said she had to work tremendous hard to live. Flour is forty dollars a barrel in United States money and 80 dollars in Confederate money....We expect an attack any time. (I think) we shall have a hard fight here or at that fort above here about 15 miles before long. This city looks hard. There is a great many houses Burnt to the ground. Our officers have a nice house to stay in. It is lighted up with gas and a pretty one. I most close now so good bye from Edward N. Marsh\n1\n\nHe is referring to Port Hudson.\n\n1","digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":{},"collec":{},"sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":{},"format":{},"imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":{},"find":"210.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2007-02-16","dmmodified":"2007-02-16","dmoclcno":{},"dmrecord":"209","restrictionCode":"1","cdmfilesize":"11361","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <transcript displayLabel="Transcript">LSU Libraries Special Collections
+
+Note from the curator: Transcription reflects spelling as it appears in the original.
+
+Edward N. Marsh Civil War Letter Baton Rouge December 18th 1862
+
+Dear Brother and Sister it is with great pleasure I now seat myself to write you a few lines to let you know that I am pretty well and hope that these few lines will find you the same. We left New Orleans the 16th for this place and sailed up the river with our little expedition. I don't know how many thousand there is here. They have not all go here yet. The Iron Clad Esex [Essex] came up ahead and 4 or 5 other gun Boats followed her. We got here at 9 o'clock in the morn and they fired 13 shots into the City and they sent a flag down to the Boat and left as soon as possible and then we sent a boat with some men to the Capital of the place and put up the flag of our union and then the troops began to land and the Confederates left the place. As soon as possible we came up into the City and pitched our tent and we went into the houses and brought out chairs and books and every thing that we could get that we could use. I got this paper out of an account book. There was a report today our men had drove the Rebels out of Vicksburg and that they were coming down this way. There was twenty thousand of them above here about 14 miles1. We have to sleep with cartridges [cartridge] boxes and belts on and lay on our guns and have them loaded with 4 rounds and cartridges in our boxes and we keep out pickets now.... The inhabitants have most all left the place when we fired into the City. They killed two Boys. They were helping the Rebels to get their cannons away from here.... There was 50 Negroes ran from their master and came here for protection today. 19th There was 32 more come today with their Budgets(?) with them. They say that they have not had any shoes for one year and they are barefooted almost. Their clothes are awful ragged. The inhabitants are starving. They cannot get salt hardly. It is 75 cents a lb and a girl told me yesterday that her Master was dead and she hired her time of her Mistress. She pays her three dollars a week for time. She said she had to work tremendous hard to live. Flour is forty dollars a barrel in United States money and 80 dollars in Confederate money....We expect an attack any time. (I think) we shall have a hard fight here or at that fort above here about 15 miles before long. This city looks hard. There is a great many houses Burnt to the ground. Our officers have a nice house to stay in. It is lighted up with gas and a pretty one. I most close now so good bye from Edward N. Marsh
+1
+
+He is referring to Port Hudson.
+
+1</transcript>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 18</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/574</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>574</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/574/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 18","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"iM\niii.t.  \u25a0\u25a0\u25a0  i i.\n210\nSOOTH-WESTERN J 0UR NA L.\n1\nlie \u25a0\n.'lib\n#\n''iff,\nm\n\u25a0\u00a7\u00a7\u25a0.\n1\n- :.'(*.\n,-.sa*i ;\niff'\n&amp;.\u25a0\nft\n\u2022?\nence records, must be the measure of its acceptance or rejection. Few are the theories that obtain in this country merely for the sake of theory. The internal world of Syinmes,\ndemonstrated so plausibly by the enthusiastic monomaniac\nwith his hollow globes and refracted sunshine that seemed to\nbo as well pleased to give light to the dwellers inside the\nshell as to thoso who had taken an outside berth on our mother planet, never awakened a single dream of its reality in\nthe mind of the educated, well trained part of our community, The colleges indexed were respectful listeners lo all the\nenthusiast could say about his untravelled world, whose map\nstretched along the inner crusts ofthe foot ball which ancient\ntime set in motion when Adam was the solitary passenger\u2014\nat least, on the outsidel But the colleges wero not convinced I No navigator had ploughed a furrow on the rim that\nbent over from the supernal to the infernal siele of the shell;\nnil the phenomena of navigation could be reconciled to the\noutside figure of a spheroidal globe, whose surface might be\ndust, and vapor, and wind-stirred particles of water, but whose\ncentre must be the condensed focus of matter, where gravitation presses water into stone, and the ponderous rock into li-\nquiil (lame. In the centre of the earth sober geology could\nonly tinel the great central furnace which heats the globe\u2014\nwhose seething fires find here and there their volcanic vents,\nand breathe their hissings into the heavens. Thus the theory of John Cleve Symm.es sunk into the hole which it created, but whicli the great eye of the Creator never saw.\nThere\u2014il may bo in the wombliko receptacle of \"all things\nlost upon earth,\"\u2014some other madman may find it again\nafter many clays, and again vex tho patient world wilh the\neternal humbug.\nTheories are the chaff which the wind drives from the\nthreshing floors of intellect. No reasonable man mistakes\nthem for wheat. Cui bono! what is the good? has been\nthe outcry of pure philosophy in every ago of tho world.\nAs the insect called the cicada, or Italy did, which fills your\nsouthern groves with contradictory music\u2014one. voice asserting that kaly did, and the other that katy did'nl, until ten\nthousand disputants lake up tho vexed question and wreak its\nmerits upon every car that is not split by the clangor; so in\nthe world of mind? have the curc\/cajoften thousand theorists\nbeen answered by the twice ten thousand cui bonus of the\ncold-blooded utilitarians!\nIl is well it is so. Let every thing be judged by ils use.\nWore it otherwise the whole world would bo afloat, like\njsomo unstable island broken from its moorings in the midst\nof a boiling ocean. The energies of mind would bo expended in overtaking shadows\u2014only to grasp thin air\u2014while\nall the teachings of antiquity wool I be forgotten in the cease-\nless whirl of uncertain experiment.\nIt may bo assumed that every thing powerful or useful depends on immutable principles. The far-reaching arrow\nwas never shot from a nerveless and weak-handed bow. The\nsun that lifts so broad a smile over earth, ocean and sky,\nmust of necessity be an orb of light of a magnitude that beer-\ngars tho lesser orbs that Moat like moles in his mighiy eye:\nso any thing that produces so strong an effect on human character as education does, must, of necessity, have fixed and\nImmutable principles. What were the principles on wb' i\neducation was based thousands of years ago, and what w\nthen ils influences upon human character must be those s\nprinciples and influences now. The operations ofthe moial\nand intellectual world have certainly as much method - I\nrule as those of the natural world. The one, indeed, has hoi\nbeen as well studied as the other. Had it been so we should\nhave long since known how to get up a moral as well as\na physical sleam engine; wc could as well have had a domestic moral earthquake or thunder storm to clear the atmosphere of error ns a mimic eaithquake to shake an acre\nof ground, or a puny cloud of vapor curling up in a ,:n(,ra.\nist's laboratory, through which he shoots his bolts ofthe electric fluid and makes it melt into rain. But the great Grecian maxim, \" know thyself,\" has been too little heeded by\nman.\nAnalysis will show us that education was always moral\npower. The learner ofthe teachings of God was ever u\nmore powerful intellect than the devotee of folly. The education of Enoch, taught him to escape death, which rested\non all else who lived before the flood, while the education ol\nNoah (leiatcel him over the broadest and stormiest ocean ihat\never belted the green earth and overwhelmed its millions, in\nan untimely grave. The education of Joseph led him to the\nthrone of Egypt from the cell of a prison. The cdncalini\nof Moses made him the conqueror of that Egypt whose stern\nlaw had doomed him to death in infancy, and his suffering\nparents to bondage. Instructed in all the wisdom of Egypt,\nto which-he added the better education of fearing God, bis\nmoral power was as capable of over-reaching nuel absorbing\nthe collected learning of the savans of the Nile, as his serpent rod was of swallowing the rods of the magicians, who\nvainly essayed to test and measure his immortal science by\ntheir puny juggleries and divination, The education of Du-\nvid enabled him to charm the demon that rioted in the bosom\nof the first king of Israel; it was education that made him\nSaul's successor, although thereby the stupid doctrines of legitimacy received their earliest blow, but which fell on heeds\nloo thick to feel and too obtuse to learn. The education of\nSolomon (and he had deeply studied nature as well as man)\nmade his words the peerless lessons of wisdom, and enabled\nhim to write the epitaph of earth\u2014\" Vanity of vanities, all\nis vanity. \"\nll enabled him to rear a teinplu whose beauty astonished\nthe world; to amass wealth and power, at the sight of which,\nother rulers fainted and had no strength remaining in them.\nIt was education that gave Jesus power at twelve years of\nage, lo dispute with the venerable law doctors in the temple,\nand gave him wisdom which no man could gainsay in a-iei\nife.\nIt was this, having been educated after the strictest forms\nof a learned sect, that made Paul the very chief of Apostles,\nIt was Ibis that made Socrates too powerful a being for\nsufferance in tyrannical Alliens, and Alfred of England, the\nWashington of that \"fast anchored isle.\"\nIt was this that made Voltaire the demon of the French\nrevolution, stirring the elements of sin with the wand of an\nomnipotent genius, and showing the horror-struck age, ho\"","fullrs":{},"find":"575.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"574","restrictionCode":"1","cdmfilesize":"1722625","cdmfilesizeformatted":"1.64 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

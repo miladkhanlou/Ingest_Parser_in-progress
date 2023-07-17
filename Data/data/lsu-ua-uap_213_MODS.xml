@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Collecting, Students taking samples of soil for analysis</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes">1913</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Soil science</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Kidder, Albert F</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Swann, F. A</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana State University and Agricultural and Mechanical College. College of Agriculture</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Soils</topic>
+      <topic>Sampling</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Ro</topic>
+   </subject>
+   <abstract displayLabel="Description">Handwritten on front- Collecting, Students taking samples of soil for analysis. Handwritten on back- Boy squatting to the right of the boy with the soil auger (on latter's left) is F.A. Swann. Standing above Swann, wearing derby hat, is Prof. A.F. Kidder.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Gelatin silver prints; 6.50in x 4.00in</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>LSU Photograph Collection, 1886-1926</title>
+      </titleInfo>
+      <titleInfo displayLabel="Series">
+         <partName>Colleges &amp; Departments</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Subseries">
+         <partName>Agriculture</partName>
+      </titleInfo>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 11</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.</note>
+   <identifier type="local" displayLabel="Item Number">a50000245</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3108</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-01-13</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3108</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3108/json"
+                        timestamp="2017-02-01 13:52:59">{"title":"Collecting, Students taking samples of soil for analysis","compoa":"1","photog":"Unknown","notes":"Handwritten on front- Collecting, Students taking samples of soil for analysis. Handwritten on back- Boy squatting to the right of the boy with the soil auger (on latter's left) is F.A. Swann. Standing above Swann, wearing derby hat, is Prof. A.F. Kidder.","biogra":{},"descri":{},"typea":{},"date":"1913","publis":"Gelatin silver prints; 6.50in x 4.00in","subjea":"Soil science--Louisiana--Baton Rouge--Photographs.; Kidder, Albert F.--Photographs.; Swann, F. A.--Photographs.; Louisiana State University and Agricultural and Mechanical College. College of Agriculture--Photographs.; Soils--Sampling--Louisiana--Baton Ro","geogra":{},"aquisi":"LSU Photograph Collection, 1886-1926","box":"11","folder":{},"series":"Colleges &amp; Departments","subser":"Agriculture","reposi":{},"type":{},"source":"Louisiana State University Libraries, Special Collections","dates":{},"item":"a50000245","relate":{},"rights":{},"contri":{},"to":"To inquire about ordering copies of these images, email lsudiglib@lsu.edu See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Include the \"Item URL\" in your request. ","catalo":{},"compou":"See 'reference url' on the navigation bars.","ocr":{},"cite":"LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.","collec":"http:\/\/www.lib.lsu.edu\/special\/archives\/digital","fullrs":{},"find":"3392.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2009-01-13","dmmodified":"2009-02-17","dmoclcno":{},"dmrecord":"3108","restrictionCode":"1","cdmfilesize":"298","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 13</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/569</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>569</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/569/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 13","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"south.western journal.\n205\n|,e would be likely to near but  little good of any truly devoted, an I cross-bearing mi n.\nPr. Merwin certainly cannot intend to say that Christianity Ins male no progress in India. This would contradict\nthe testimony of so many respectable eye wilnesses that ihe\nDoctor could not intend it; and yet his language will readily\nbear that construction. He says,' for hundreds of years have\nthey withstood the attacks of the sanguine advocates of the\ntenets of Christianity, but so far from gaining proselytes,\nthese latter have too often only exhibited to the Hindoo the\nInsincerity of their pretensions, and by their course of life\nriveted upon the heathen a stronger belief in the infallibility\nof his own notions of Divinity,' &amp;c. The natural construction of the above, is, that Missionaries have not only not been\nuseful, but very injurious. If this be the case, the philanthropy of the ' pious ladies in Boston ' was greatly misplaced,\nand the christian world has been laboring under nu egregious delusion, The sooner it is dispelled the belter. Bul\nem this supposition \u00ab hat are we to do with the 'glory' ofthe\n'episcopal labors,' of the late 'lamented bishop He-berl'\nWas it a port of his 'glory' that he riveted tho chains of\nheathenism more firmly? and what shall bo said of the la-\nb-iis of S'.vails, of Gary, and of Jtldson? Did they contribute to the same end? and what shall we say of that book\nof fables, published under the title of 'Buchanan's Christian\nResearches in India?' It certainly will deserve a place\nwith Gulliver's Travels.\nBut before we make up our minds that Christianity has\nmade no progress in India, and that it has had no ameliorating influence on tho millions of that populous country, we\nmust come to the conclusion, that men who have in this conn-\nministers of the gospel in Mississippi among the heathen ab\norigims of our own State, and yet he has been here much\nlonger than he remained in India, and there nre a liundrul\ntimes as many people in India as in Mississippi,\nPermit me to close these, remarks by an extract from a\nnote .in Bishop Mcllvaine's Evidences of Christianity, a\nwork which, by the way, [ would lecommrnd to all inquirers after truth\u2014' It is will known to the author that travellers and voyagers not unfrequently biing back repoils of the\neffects of missionary labors in tho regions they have visited,\nwhich stagger the minds of many sincere friends of foreign\nmissions. The accounts of whit those honnnd and devoted\nservants of Christ, called missionaries, are doing, and of the.\nadvances which the gospel is making under their influence,\nmay all be true; much more lhan they relate may be true;\nand yet it is very conceivable, yea, natural, that such men as\nour ordinary visiters of foreign lands should return ficm\nihose reg'ons, having neither seen nor heard any thing of\nthe matter. .Suppose a missionary were accomplishing, with\nhis schools and his preaching, among a tribe of Indians in\nthe ccnlre of the State of New York, about ns much as is\nreported of the American laborers in the island of Ceylon;\nhow long might an intelligent traveller, with no interest in\nreligion, no relish for its intelligence, no love for tho societ\"\nof ils disciples, no knowledge of its journals\u2014a man of fashion and gnyety, mingling only with the literary and woildly\nminded; how long might he reside In the fashionable circles\nof the city of New York, and sail up the Hudson, and stop\nat Saratoga, and visit Niagara, and yet know absolutely\nnothing of that diligent missionary and his usefulness ? Men\nwho have lived all their days in a city which abounds in re\ntry and elsewhere maintained the most irreproachable' moral ligtous institutions and christian labors, without having be-\ncharacter, have gone to India, and so soon as they have\nbreathed that contaminating atmosphere, have forgotten all\nmoral obligation, have united with each other to misrepresent the influence of missionaries, anel the state of Christianity m lint country, and this must be believed, not only of missionaries themselves, but of civil and military officers, merchants, and scientific travellers, and in this number must we\nrank the ' lamented Heber.' So soon es my mind can be\nbrought to this .-tale of doubt with regard to human lislimo-\nny, I shall doubt whether there be such a place as .Madia I\nor Calcutta: 1 shall think nil the world have conspired ti\ndeceive us.\nHut I repeat it, I cannot think Dr. Merwin intended to b,\nunderstood to say that Christianity had made no progress in\nIndia, though his words appear to me naturally to bear that\nconstruction. But 1 nm inclined io think the Doctor has\nbeen deceived in the amount of good done by the missiona-\nr'(,s. His biisi|]css probably was not with the missionaries,\n\u00b0f With those who would ho likely to know much of them\n~(1 must make an exception here to his Boston friend,\nwhose association was only of the 'convivial order.') Nabobs, Princes, Tiger-hunters, and others of similar character, would not be likely to know much of the self-denying\nmissionary, who pursued his heavenly calling among tin\nPoor and ignorant. I think it very doubtful whether the\nLoctor haS yCt learned the number of converts made by the\ncome sufficiently informed to give a stranger a correct account even of their respective characters, much less of their\nreal usefulness, will touch ai a port in lb'- Sandwich island.--,\nsee the port population, go no further than the coast, inquire\nof none but ihe ungodly, and then come home and report\nthat the missionaries have done nothing to civilize or convert\ntho people. How should such men know? On their principles of judging it might he reported, with equal rmson,\nthat Christianity has secured no influence end eh ne no good\nin ihe city of New York. An anecdote will illustrate how\nmuch such authorities deserve to be n gnrded A gentleman\nnot long since returned to his native city in England, after\nhaving spent some three or four years in India. The pious\npeople of his acquaintance, not considering tho extent of the\nIndies and his indifference to the cause of Christ, supposed\nthat of course he had see n ihe missionary stations, and knew\nby his own observation nil about ihe reported progress of religion in thnt country. 'They inquired ..I' him ihe state of\nthings in this respect. He assurid them that the accounts\nthey had read of missionary doings and succisses in the east\nhad no foundation\u2014were imps to get contributions. Ho\nbad hern in India, nnd travelled extensively, and had seen\nnothing of any inroads upon heathenism, nor any changes\namong tho people; had scarcely heard ofthe existence of\nmissionary stations. The people were amazed! Much harm\nwas doing: when a clergyman of the place, hearing of the","fullrs":{},"find":"570.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"569","restrictionCode":"1","cdmfilesize":"1737999","cdmfilesizeformatted":"1.66 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

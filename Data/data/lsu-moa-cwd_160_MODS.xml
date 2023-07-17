@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Priests</title>
+  </titleInfo>
+   <name displayLabel="Contributor">
+      <namePart>Printed by Mejia in Mexico City at the Senefelder's shop.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Artist">
+      <namePart>Durieux, Caroline, 1896-1989</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <edition>4 of10</edition>
+      <dateCaptured>2004-08-10</dateCaptured>
+      <dateCreated keyDate="yes">1932</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Priests</topic>
+   </subject>
+   <abstract displayLabel="Description">The inspiration for this composition came during a trip to Santiago do Chile. While visiting the city, the artist was fascinated with the quick-moving "flocks" of priests who moved along the streets. She felt they resembled flocks of blackbirds darting along in their groups. Ms. Durieux quickly sketched the initial plan for the print upon returning to the hotel room. The artist related that although the intention was to suggest the anonymity created by the priests' clerical garb and gestures, she purposely commented on the individuality of each priest's facial features. Each member of the flock is distinctly suggestive of the Indian and Spanish priests seen in the city. This particular print is from the second printing of the design/composition.</abstract>
+   <note type="content">This print is from the second lithographic edition ever done by the artist. It was printed in 1932 in Mexico City at the Senefelders.</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Black lithograph</note>
+      <extent>10-5/8 x 14 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n97093352" displayLabel="Contributing Repository">
+<namePart>Louisiana State University (Baton Rouge, La.). Museum of Art</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Caroline Wogan Durieux Works of Art</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/d3827.html</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-moa-cwd:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="https://www.lsumoa.org/ ">LSU Museum of Art, Shaw Center for the Arts, Baton Rouge, LA</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail artmuseum@lsu.edu with questions or comments</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the Louisiana State University Museum of Art. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Caroline Wogan Durieux Collection at the LSU Museum of Art, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Accession Number">68.9.1</identifier>
+   <identifier type="local" displayLabel="Object File Name">cd000145</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/CWD/id/218</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2004-08-13</recordCreationDate>
+      <recordChangeDate>2018-11-14</recordChangeDate>
+  </recordInfo>
+   <extension>
+      <imageBitDepth>36 Bit-depth</imageBitDepth>
+      <digitizedBy>PA</digitizedBy>
+      <extentArchival>1:1</extentArchival>
+      <colorMode>Color</colorMode>
+      <CONTENTdmData>
+         <alias>CWD</alias>
+         <pointer>218</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/CWD/218/json"
+                        timestamp="2017-01-05 14:12:45">{"title":"Priests","creato":"Durieux, Caroline, 1896-1989","date":"1932","subjec":"Priests","descri":"The inspiration for this composition came during a trip to Santiago do Chile. While visiting the city, the artist was fascinated with the quick-moving \"flocks\" of priests who moved along the streets. She felt they resembled flocks of blackbirds darting along in their groups. Ms. Durieux quickly sketched the initial plan for the print upon returning to the hotel room. The artist related that although the intention was to suggest the anonymity created by the priests' clerical garb and gestures, she purposely commented on the individuality of each priest's facial features. Each member of the flock is distinctly suggestive of the Indian and Spanish priests seen in the city. This particular print is from the second printing of the design\/composition.","notes":"This print is from the second lithographic edition ever done by the artist. It was printed in 1932 in Mexico City at the Senefelders.","editio":"4 of10","type":"Image","medium":"Black lithograph","sizewe":"10-5\/8 x 14 in.","format":"jpeg 2000","source":"Louisiana State University Museum of Art (http:\/\/appl003.lsu.edu\/museum\/moa.nsf\/index\/)","reposi":"Finding aid for the original photographs: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/d3827.html","rights":"Physical rights are retained by the Louisiana State University Museum of Art.  Copyright is retained in accordance with U S copyright laws.","cite":"Caroline Wogan Durieux Collection at the LSU Museum of Art, LOUISiana Digital Library, Baton Rouge, La.","contac":"E-mail fhuber@lsu.edu with questions or comments","frame":{},"access":"68.9.1","langua":{},"object":"cd000145","item":"See 'reference url' on the navigation bars.","collec":"Homepage: http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_CWD.php?CISOROOT=\/CWD;   List of images: http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/CWD","image":"300 dpi","imaga":"36 Bit-depth","color":"Color","extent":"1:1","imagb":{},"file":{},"hardwa":{},"catlog":{},"catalo":"2003-11-25","digiti":"PA","publis":{},"digita":"2004-08-10","credit":{},"contri":"Printed by Mejia in Mexico City at the Senefelder's shop.","fullrs":{},"find":"92113139102003_265.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2004-08-13","dmmodified":"2008-03-24","dmoclcno":{},"dmrecord":"218","restrictionCode":"1","cdmfilesize":"4538699","cdmfilesizeformatted":"4.33 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <imageResolution>300 dpi</imageResolution>
+  </extension>
+</mods>

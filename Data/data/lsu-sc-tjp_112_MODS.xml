@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Parade - pumper 
+Pearl &amp; E. Franklin</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>Norman Studio</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+  </name>
+   <subject authority="lcsh">
+      <topic>City &amp; town life</topic>
+      <topic>Mississippi</topic>
+      <topic>Natchez</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fire engines &amp; equipment</topic>
+      <topic>Mississippi</topic>
+      <topic>Natchez</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Parades &amp; processions</topic>
+      <topic>Mississippi</topic>
+      <topic>Natchez</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">Carriage turning street corner with bicyclists near</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <note type="medium">Glass plate negative</note>
+      <extent>4.00" x 5.00"</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-tjp:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Thomas H. and Joan W. Gandy Photograph Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Thomas H. and Joan W. Gandy Photograph Collection, Mss. 3778, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">37780408518a</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_TJP/id/41</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2005-11-17</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <collectionSource>IRP</collectionSource>
+      <CONTENTdmData>
+         <alias>LSU_TJP</alias>
+         <pointer>41</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_TJP/41/json"
+                        timestamp="2017-01-04 14:15:37">{"title":"Parade - pumper \nPearl &amp; E. Franklin","creato":"Norman Studio","compou":{},"date":"none","subjec":"City &amp; town life--Mississippi--Natchez--Photographs;Fire engines &amp; equipment--Mississippi--Natchez--Photographs;Parades &amp; processions--Mississippi--Natchez--Photographs","descri":"Carriage turning street corner with bicyclists near","type":"jpeg","relati":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","publis":"Thomas H. and Joan W. Gandy Photograph Collection","langua":"IRP","source":"Glass plate negative&lt;br&gt;4.00\" x 5.00\"","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.","cite":"Thomas H. and Joan W. Gandy Photograph Collection, Mss. 3778, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"37780408518a","identa":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_TJP.php?CISOROOT=\/LSU_TJP","typea":"Image","fullrs":{},"find":"42.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2005-11-17","dmmodified":"2005-11-17","dmoclcno":{},"dmrecord":"41","restrictionCode":"1","cdmfilesize":"1698115","cdmfilesizeformatted":"1.62 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

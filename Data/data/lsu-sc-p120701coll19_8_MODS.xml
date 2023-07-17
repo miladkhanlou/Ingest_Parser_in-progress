@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Black draught, ou, la médecine de la plante sacrée.</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>La Houssaye, Sidonie de.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes">1885</dateCreated>
+      <dateCreated point="end">1886</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Patent medicines</topic>
+      <topic>Tennessee</topic>
+      <topic>Chattanooga</topic>
+      <topic>Fiction</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Chattanooga (Tenn.)</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1885, 1886</temporal>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>65 p.</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">fr</languageTerm>
+  </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p120701coll19%3Acollection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Sidonie de la Houssaye Papers (Mss. 105).</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/0105.pdf</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Sidonie de la Houssaye Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location">Louisiana State University: LSU Libraries</physicalLocation>
+      <url displayLabel="Institution Web Site">http://lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>F:17, Volume 17; Mf:L, Reel 6.</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication.html</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Sidonie de la Houssaye Papers, Mss. 105, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">m0105v17s01</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll19/id/5218</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-09</recordChangeDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-04-28</recordCreationDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll19</alias>
+         <pointer>5218</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll19/5218/json"
+                        timestamp="2017-02-09 16:47:09">{"title":"Black draught, ou, la m\u00e9decine de la plante sacr\u00e9e.","creato":"La Houssaye, Sidonie de.","contri":{},"date":"circa 1885-1886","dates":"1885, 1886","descri":"65 p.","langua":"fr","type":"text","geogra":"Chattanooga (Tenn.)","subjec":"Patent medicines--Tennessee--Chattanooga--Fiction.","notes":{},"source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","reposa":"Sidonie de la Houssaye Papers (Mss. 105).","locati":"F:17, Volume 17; Mf:L, Reel 6.","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/0105.pdf","cite":"Sidonie de la Houssaye Papers, Mss. 105, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","item":"m0105v17s01","itema":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_p120701coll19.php?CISOROOT=\/p120701coll19","catlog":{},"publis":{},"format":{},"identi":{},"covera":{},"coverb":{},"catalo":{},"object":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"fullrs":{},"find":"5219.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2009-04-28","dmmodified":"2009-08-25","dmoclcno":{},"dmrecord":"5218","restrictionCode":"1","cdmfilesize":"9605","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

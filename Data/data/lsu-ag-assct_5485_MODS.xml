@@ -1,0 +1,106 @@
+
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>American Society of Sugar Cane Technologists Proceedings, 1978</mods:title>
+  </mods:titleInfo>
+  <mods:part>
+    <mods:detail type="volume">
+      <mods:caption>Volume</mods:caption>
+      <mods:number>8</mods:number>
+    </mods:detail>
+  </mods:part>
+  <mods:name displayLabel="Author">
+    <mods:namePart>Louisiana Agricultural Experiment Station, Louisiana State University Agricultural Center</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+      <mods:roleTerm authority="marcrelator" type="text">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:publisher>American Society of Sugar Cane TechnologistsBaton Rouge, La.</mods:publisher>
+    <mods:dateIssued keyDate="yes">1981</mods:dateIssued>
+  </mods:originInfo>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sugar</mods:topic>
+    <mods:topic>Manufacture and refining</mods:topic>
+    <mods:topic>Congresses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sugarcane</mods:topic>
+    <mods:topic>Congresses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sugar</mods:topic>
+    <mods:topic>Manufacture and refining</mods:topic>
+    <mods:topic>Florida</mods:topic>
+    <mods:topic>Periodicals</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sugar</mods:topic>
+    <mods:topic>Manufacture and refining</mods:topic>
+    <mods:topic>Louisiana</mods:topic>
+    <mods:topic>Periodicals</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sugarcane</mods:topic>
+    <mods:topic>Louisiana</mods:topic>
+    <mods:topic>Periodicals</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sugarcane</mods:topic>
+    <mods:topic>Florida</mods:topic>
+    <mods:topic>Periodicals</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sugar</mods:topic>
+    <mods:topic>Manufacture and refining</mods:topic>
+    <mods:topic>Periodicals</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sugarcane</mods:topic>
+    <mods:topic>Periodicals</mods:topic>
+  </mods:subject>
+  <mods:abstract displayLabel="Description">1978 Meetings, Volume 8 (New Series), Florida and Louisiana Divisions, June 1981The Journal of the American Society of Sugar Cane Technologists (JAASCT) is an annual publication that features articles on the sugar cane industry in the United StatesThe journal has two sections, agricultural and manufacturing, and publishes both refereed and nonrefereed articlesArticles published JASSCT were originally presented at the ASSCT joint annual meetings.</mods:abstract>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <name authority="naf" authorityURI="http://id.loc.gov/authorities/names" displayLabel="Contributing Repository" type="corporate" valueURI="http://id.loc.gov/authorities/names/n83188670">
+    <namePart>Louisiana State University Agricultural Center</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" type="text" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+    </role>
+  </name>
+  <mods:relatedItem type="host">
+    <mods:location>
+      <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ag-assct:collection</url>
+    </mods:location>
+    <mods:titleInfo displayLabel="Digital Collection">
+      <mods:title>Journal of the American Society of Sugar Cane Technologists</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</mods:physicalLocation>
+    <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+    <mods:holdingSimple>
+      <mods:copyInformation>
+        <mods:shelfLocator>TP375A564</mods:shelfLocator>
+      </mods:copyInformation>
+    </mods:holdingSimple>
+  </mods:location>
+  <accessCondition displayLabel="Contact Information" type="use and reproduction">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+  <accessCondition displayLabel="Rights" type="use and reproduction">This item is in the public domain.</accessCondition>
+  <mods:identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll31/id/3828</mods:identifier>
+  <recordInfo>
+    <mods:recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</mods:recordOrigin>
+    <mods:recordCreationDate>2013-12-12</mods:recordCreationDate>
+    <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <mods:extension>
+    <mods:CONTENTdmData>
+      <mods:alias>p16313coll31</mods:alias>
+      <mods:pointer>3828</mods:pointer>
+      <mods:dmGetItemInfo mimetype="application/json" source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/3828/json" timestamp="2017-05-16 10:05:23">{&quot;title&quot;:&quot;American Society of Sugar Cane Technologists Proceedings, 1978&quot;,&quot;issue&quot;:{},&quot;creato&quot;:&quot;Louisiana Agricultural Experiment Station, Louisiana State University Agricultural Center&quot;,&quot;volume&quot;:&quot;8&quot;,&quot;date&quot;:&quot;1981&quot;,&quot;source&quot;:&quot;TP375A564&quot;,&quot;subjec&quot;:&quot;Sugar--Manufacture and refining--Congresses.; Sugarcane--Congresses.; Sugar--Manufacture and refining--Florida--Periodicals.; Sugar--Manufacture and refining--Louisiana--Periodicals.; Sugarcane--Louisiana--Periodicals.; Sugarcane--Florida--Periodicals.; Sugar--Manufacture and refining--Periodicals.; Sugarcane--Periodicals.&quot;,&quot;contri&quot;:{},&quot;publis&quot;:&quot;American Society of Sugar Cane TechnologistsBaton Rouge, La.&quot;,&quot;descri&quot;:&quot;1978 Meetings, Volume 8 (New Series), Florida and Louisiana Divisions, June 1981The Journal of the American Society of Sugar Cane Technologists (JAASCT) is an annual publication that features articles on the sugar cane industry in the United StatesThe journal has two sections, agricultural and manufacturing, and publishes both refereed and nonrefereed articlesArticles published JASSCT were originally presented at the ASSCT joint annual meetings.&quot;,&quot;collec&quot;:{},&quot;rights&quot;:&quot;This item is in the public domain.&quot;,&quot;type&quot;:{},&quot;format&quot;:{},&quot;langua&quot;:{},&quot;relati&quot;:{},&quot;covera&quot;:{},&quot;cite&quot;:{},&quot;reposi&quot;:{},&quot;identi&quot;:{},&quot;fullrs&quot;:{},&quot;find&quot;:&quot;3829.pdf&quot;,&quot;dmaccess&quot;:{},&quot;dmimage&quot;:{},&quot;dmcreated&quot;:&quot;2013-12-12&quot;,&quot;dmmodified&quot;:&quot;2013-12-12&quot;,&quot;dmoclcno&quot;:{},&quot;dmrecord&quot;:&quot;3828&quot;,&quot;restrictionCode&quot;:&quot;1&quot;,&quot;cdmfilesize&quot;:&quot;10345918&quot;,&quot;cdmfilesizeformatted&quot;:&quot;9.87 MB&quot;,&quot;cdmprintpdf&quot;:&quot;0&quot;,&quot;cdmhasocr&quot;:&quot;0&quot;,&quot;cdmisnewspaper&quot;:&quot;0&quot;}</mods:dmGetItemInfo>
+    </mods:CONTENTdmData>
+  </mods:extension>
+</mods:mods>

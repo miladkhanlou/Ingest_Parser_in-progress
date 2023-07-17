@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Bride of 1890s</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Dolls</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Time Period">
+      <temporal>1890s</temporal>
+   </subject>
+   <abstract displayLabel="Description">Female adult, China shoulder head on cloth body, China forearms and lower limbs with molded boots, molded and painted features and hair, blonde, blue eyes, jointed at shoulders and hips, linen underwear with lace trimming, cream silk under-skirt with self fabric ruffle: cream stain bridal dress has slightly longer pointed back train, pleats at waist: lace covering on front panel: lower skirt of front side to back has vertical tucks decorated with pearls and beads, tucks released as ruffle at hem, lower part of skirt reinforced by adding thick material in between fashion fabric and lining, deep squared neck has lace collar, back opening, lace finishing on sleeves, pointed waist with pearls and beads decoration, ribbon bow on back, lace bridal veil with pearl and beads decoration at forehead bandeau. Accompanying information describes as bridal of 1890s. The bridal dress is a part of an original wedding dress. The dress was never worn. The bride, a sixteen-year-old girl, ran away from home the night before the wedding. (The groom was an old man). The mother placed all the bridal clothes in the daughter's room and locked the door. It was not opened until after the mother's death. The doll's dress is made from parts of the original dress. Doll body is hand-made. Dress is hand and machine-made. Deterioration of the lace.""</abstract>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>72 cm</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Edith Dabney Doll Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll9:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Box 3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll9/id/123</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-05-28</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll9</alias>
+         <pointer>123</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll9/123/json"
+                        timestamp="2017-02-07 09:41:24">{"title":"Bride of 1890s","descri":"Female adult, China shoulder head on cloth body, China forearms and lower limbs with molded boots, molded and painted features and hair, blonde, blue eyes, jointed at shoulders and hips, linen underwear with lace trimming, cream silk under-skirt with self fabric ruffle: cream stain bridal dress has slightly longer pointed back train, pleats at waist: lace covering on front panel: lower skirt of front side to back has vertical tucks decorated with pearls and beads, tucks released as ruffle at hem, lower part of skirt reinforced by adding thick material in between fashion fabric and lining, deep squared neck has lace collar, back opening, lace finishing on sleeves, pointed waist with pearls and beads decoration, ribbon bow on back, lace bridal veil with pearl and beads decoration at forehead bandeau. Accompanying information describes as bridal of 1890s. The bridal dress is a part of an original wedding dress. The dress was never worn. The bride, a sixteen-year-old girl, ran away from home the night before the wedding. (The groom was an old man). The mother placed all the bridal clothes in the daughter's room and locked the door. It was not opened until after the mother's death. The doll's dress is made from parts of the original dress. Doll body is hand-made. Dress is hand and machine-made. Deterioration of the lace.\"\"","notes":"72 cm","date":{},"coverb":"1890s","subjec":"Dolls","covera":{},"proven":{},"provea":{},"associ":{},"source":"Box 3","object":{},"creato":{},"contri":{},"publis":{},"type":{},"format":{},"identi":{},"langua":{},"relati":{},"rights":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering \treprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html  \tMention the \u201cItem number\u201d or \u201cItem URL\u201d in your request.","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","fullrs":{},"find":"124.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2014-05-28","dmmodified":"2014-05-28","dmoclcno":{},"dmrecord":"123","restrictionCode":"1","cdmfilesize":"549","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

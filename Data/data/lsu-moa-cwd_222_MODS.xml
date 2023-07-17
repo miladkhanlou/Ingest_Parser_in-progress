@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>committee of the whole</title>
+  </titleInfo>
+   <name displayLabel="Artist">
+      <namePart>Durieux, Caroline, 1896-1989</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCaptured>8-10-04</dateCaptured>
+      <dateCreated keyDate="yes">1977</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Abstract paintings</topic>
+   </subject>
+   <abstract displayLabel="Description">Abstract design of swirling lines, weaving in and out of each other. Form is composed of five "E" shaped organic, rounded forms interlocking on different planes and in different directions. Four pairs of spirals are arranged loosely corresponding to the four corners of the central mass. The image is in various shades of gray and black, and the line has various textures, rough and smooth.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Black and white cliché vérre</note>
+      <extent>24-1/8 x 20-5/8 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n97093352" displayLabel="Contributing Repository">
+<namePart>Louisiana State University (Baton Rouge, La.). Museum of Art</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Caroline Wogan Durieux Works of Art</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/d3827.html</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-moa-cwd:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="https://www.lsumoa.org/ ">LSU Museum of Art, Shaw Center for the Arts, Baton Rouge, LA</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail artmuseum@lsu.edu with questions or comments</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the Louisiana State University Museum of Art. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Caroline Wogan Durieux Collection at the LSU Museum of Art, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Accession Number">94.3</identifier>
+   <identifier type="local" displayLabel="Object File Name">cd000166</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/CWD/id/186</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2004-08-10</recordCreationDate>
+      <recordChangeDate>2018-11-14</recordChangeDate>
+  </recordInfo>
+   <extension>
+      <imageBitDepth>36 Bit-depth</imageBitDepth>
+      <digitizedBy>JC</digitizedBy>
+      <extentArchival>1:1</extentArchival>
+      <colorMode>Color</colorMode>
+      <CONTENTdmData>
+         <alias>CWD</alias>
+         <pointer>186</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/CWD/186/json"
+                        timestamp="2017-01-05 14:12:45">{"title":"committee of the whole","creato":"Durieux, Caroline, 1896-1989","date":"1977","subjec":"Abstract paintings","descri":"Abstract design of swirling lines, weaving in and out of each other. Form is composed of five \"E\" shaped organic, rounded forms interlocking on different planes and in different directions. Four pairs of spirals are arranged loosely corresponding to the four corners of the central mass. The image is in various shades of gray and black, and the line has various textures, rough and smooth.","notes":{},"editio":{},"type":"Image","medium":"Black and white clich\u00e9 v\u00e9rre","sizewe":"24-1\/8 x 20-5\/8 in.","format":"jpeg 2000","source":"Louisiana State University Museum of Art (http:\/\/appl003.lsu.edu\/museum\/moa.nsf\/index\/)","reposi":"Finding aid for the original photographs: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/d3827.html","rights":"Physical rights are retained by the Louisiana State University Museum of Art.  Copyright is retained in accordance with U S copyright laws.","cite":"Caroline Wogan Durieux Collection at the LSU Museum of Art, LOUISiana Digital Library, Baton Rouge, La.","contac":"E-mail fhuber@lsu.edu with questions or comments","frame":{},"access":"94.3","langua":{},"object":"cd000166","item":"See 'reference url' on the navigation bars.","collec":"Homepage: http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_CWD.php?CISOROOT=\/CWD;   List of images: http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/CWD","image":"300 dpi","imaga":"36 Bit-depth","color":"Color","extent":"1:1","imagb":{},"file":{},"hardwa":{},"catlog":{},"catalo":"2003-12-02","digiti":"JC","publis":{},"digita":"8-10-04","credit":"Mr. and Mrs. Stephen G. Henry","contri":{},"fullrs":{},"find":"68721139102003_441.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2004-08-10","dmmodified":"2008-03-19","dmoclcno":{},"dmrecord":"186","restrictionCode":"1","cdmfilesize":"236972","cdmfilesizeformatted":"0.23 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <creditLine>Mr. and Mrs. Stephen G. Henry</creditLine>
+      <imageResolution>300 dpi</imageResolution>
+  </extension>
+</mods>

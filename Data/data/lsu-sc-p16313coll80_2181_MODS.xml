@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>To Captains of Steamboats.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001171</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Evariste Blanc</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1853-03-16</dateIssued>
+  </originInfo>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1853</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1853-03-15</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">TO CAPTAINS OF STEAMBOATS -- FIFTY DOLLARS REWARD will be paid for the apprehension of the Black Boy JOHN, who ran away this morningHe was dressed with a blue cloth coat with large white buttons, and a pair of yellow cottonade pantaloonsHe is about 28 year sold, 5 feet 3 1/2 or 4 inches high, stoutly built, very black skin, a handsome round face, very regular features, no beard, very white teethHis shoulders are rather roundHe is very intelligent, and speaks French and EnglishAs he came from StLouis, Mo., where he has his relations, it is supposed that he might attempt to go back to the same placeThe above reward will be paid to any one who will arrest him and put in any jail between this city and StLouis, by informing the subscriber ; or if he is brought to him, the expenses would be paid beside the rewardEVARISTE BLANCNew Orleans, March 15, 1853mh16</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">black</note>
+   <note type="content" displayLabel="Slave Owner">Evariste Blanc</note>
+   <note type="content" displayLabel="Slave Name (Age)">John (28)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Slave Presumed Destination">StLouis, Mo.</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>New Orleans daily crescent([New Orleans, La.]) 1851-1866</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015753/1853-03-16/ed-1/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015753</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1203</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-03-01</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1203</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1203/json"
+                        timestamp="2017-02-13 13:33:01">{"title":"RSA00001171","object":"sn82015753","publia":"New Orleans daily crescent([New Orleans, La.]) 1851-1866","date":"1853-03-16","year":"1853","film":"page 2, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015753\/1853-03-16\/ed-1\/seq-2\/","unique":"To Captains of Steamboats.","person":"Evariste Blanc","parish":"New Orleans, La.","digita":"1853-03-15","acknow":{},"public":"Evariste Blanc","town":"New Orleans, La.","relati":"John (28)","slave":"M","slavea":"black","slaveb":"N","slavec":"StLouis, Mo.","reward":{},"multip":{},"physic":"Y","persoa":"Y","transc":"TO CAPTAINS OF STEAMBOATS -- FIFTY DOLLARS REWARD will be paid for the apprehension of the Black Boy JOHN, who ran away this morningHe was dressed with a blue cloth coat with large white buttons, and a pair of yellow cottonade pantaloonsHe is about 28 year sold, 5 feet 3 1\/2 or 4 inches high, stoutly built, very black skin, a handsome round face, very regular features, no beard, very white teethHis shoulders are rather roundHe is very intelligent, and speaks French and EnglishAs he came from StLouis, Mo., where he has his relations, it is supposed that he might attempt to go back to the same placeThe above reward will be paid to any one who will arrest him and put in any jail between this city and StLouis, by informing the subscriber ; or if he is brought to him, the expenses would be paid beside the rewardEVARISTE BLANCNew Orleans, March 15, 1853mh16","subjec":{},"type":{},"format":{},"langua":{},"digitb":{},"digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collectionIdentify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001171.jpg","find":"1267.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-01","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"1203","restrictionCode":"1","cdmfilesize":"70274","cdmfilesizeformatted":"0.07 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

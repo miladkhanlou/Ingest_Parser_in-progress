@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$20 REWARD.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000506</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Belcher &amp; Tanner</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1860-01-14</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Bayou Marangouin, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Bayou Marangouin, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1860</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1859-12</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$20 REWARD. RANAWAY from the Pantation of Belcher &amp; Tanner, on Bayou Marangouin, about six weeks ago, a negro man named BILL, Copper-colored, about five feet six inches high, square shoulders, chunky built, bery flat nose, and has several scars on his legs. The above reward will be paid for his delivery to the plantation, as above. BELCHER &amp; TANNER. Jan. 14th-2tpd.</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">copper</note>
+   <note type="content" displayLabel="Slave Owner">Belcher &amp; Tanner</note>
+   <note type="content" displayLabel="Slave Name (Age)">Bill</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$20</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 2</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Sugar planter. : (West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]) 1856-1925</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86079096/1860-01-14/ed-1/seq-3/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86079096/1860-01-28/ed-1/seq-3/; </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86079096</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/697</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-22</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>697</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/697/json"
+                        timestamp="2017-02-13 13:33:20">{"title":"RSA00000506","object":"sn 86079096","publia":"Sugar planter. : (West Baton Rouge [i.e. Port Allen, West Baton Rouge Parish, La.]) 1856-1925","date":"1860-01-14","year":"1860","film":"page 3, column 2","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079096\/1860-01-14\/ed-1\/seq-3\/","unique":"$20 REWARD.","person":"Belcher &amp; Tanner","parish":"Bayou Marangouin, La.","digita":"1859-12","acknow":{},"public":"Belcher &amp; Tanner","town":"Bayou Marangouin, La.","relati":"Bill","slave":"M","slavea":"copper","slaveb":"N","slavec":{},"reward":"$20","multip":{},"physic":"Y","persoa":"N","transc":"$20 REWARD. RANAWAY from the Pantation of Belcher &amp; Tanner, on Bayou Marangouin, about six weeks ago, a negro man named BILL, Copper-colored, about five feet six inches high, square shoulders, chunky built, bery flat nose, and has several scars on his legs. The above reward will be paid for his delivery to the plantation, as above. BELCHER &amp; TANNER. Jan. 14th-2tpd.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86079096\/1860-01-28\/ed-1\/seq-3\/; ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000506.jp2","find":"761.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-22","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"697","restrictionCode":"1","cdmfilesize":"68249","cdmfilesizeformatted":"0.07 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

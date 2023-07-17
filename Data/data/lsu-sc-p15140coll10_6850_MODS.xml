@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 31</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2256</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2256</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2256/json"
+                        timestamp="2017-02-03 08:24:51">{"title":"Section 7, Page 31","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[31]\n\u25a0ii imrvfrom five to twelve feet, although there are but few points where\nrtZiSgh as that last named.\n11 v    ross the Bayou Mason, near the present ferry, by a bridge of one hundred\nE and abutments forty feet high.    The Mason is a stream of considerable\nfeet ton \u2022    ^oWjng from Arkansas; and, as it is navigable to and above tbe place\n\"h^011 we propose crossing, the bridge should be provided with a draw.    Beyond\nere Mason, we meet the elevated lands called the  \" Mason Hills,\" before\nken of-    They form a bluff on the bayou,  and extend twelve miles on one\n' entirely above the highest water, and therefore requiring little cost for\ninstructing a road over them.\nOn leaving these hills, we cross the branches of a slough called \" ihe Couloirs,\"\nhich branches unite at-a short distance below our line, forming there a proper\nbsvou From this point we encounter the swamp again, which continues ten\nmiles and a quarter, crossing the Bceuf River at five miles and a half, and \" De\nHart's swale\" at nine miles, from the Couloirs. The Bceuf River is one hundred\nfeet wids. and the water rises about thirty feet. It is proposed to cross it about\nbglfamile below the present ferry, on the plantation of Mr. Hash. It will require a bridge of one hundred feet span, with abutments thirty-five feet high.\nThis river and the Bayou Mason have regular channels, and the water at its\nordinary stage lies far below the banks: in the Mason, it is now twenty feet below\nihe eastern or lowest bank; and in the Bceuf River twenty-one feet. The De Hart\n\u25a0wale, on the contrary, is at the bottom of a general depression, extending half a\nmile towards the west, and one mile and a quarter towards the east. The approaches to this swale require a higher embankment than at any other place\nthrough the swamp. It will average from twelve to fifteen feet for a distance of\none mi'e and three-quarters.\nA mile and a half beyond the De Hart swale is the Bayou Bonne Idee, the\nbanks of which are above the highest flood. The stretch of swamp last described,\nfrom the Couloirs, at tbe end of the Mason hills, to the Bonne Idee, is called the\n\"Bceuf swamp,\" as the Bceuf River runs through the middle of it. It is 10\u00a3\nmiles across, as I mentioned before, and the average height of embankment\n\u25a0cross it, exclusive ofthe high part of it before noticed, approaching the De Hart\n\"wale, is about seven feet. We cross the Bonne Idee, near the residence of Mr.\nMorrell, who lives on its eastern bank, on au elevated piece of land. A bridge of\nlOOfeet span, with 20 feet abutments, will suffice to pass tbe water at its highest\nstage.\nAfter crossing the Bonne Idee, we take advantage of a bend in that stream,\nyine nearly in our course, to follow its bank for two miles, which, being above\nireshets, will require a bank not higher than two feet; thence we descend by\nvery gentle slope l\u00a3 miles, through another piece of swamp, called tbe Gallion\nawp, to tbe Gallion Bayou ; and beyond it still another half mile to the end of\nTbeBtTamp' th.e.edSe o1' Prairie Mer Rouge, on the land of Captain A. A. H. Knox.\nthree divisions of the swamp which I have named\u2014that is, the Mason, the\n&gt; and the Gallion swamps\u2014have no communication with each other north of\ndjyj \u2022 ne :,   ls niay be inferred from the fact, that the highest floods in the several\nfrom0\"!\/ Z n0t occur at the satne time, or even in the same year.    The streams\nbein\u00bb    re \u25a0 *'le^ are named have, therefore, independent channels,  the banks\nfloods M j    ?'u'y high to prevent the water flowing from one to the other even in\ncation -    1 -i   *' between Bayou Mason and tbe River Bceuf there is no communi-\nflowed e t'le Boeuf, Bonne Idee, and Gallion, do not unite unlil they have\nSesame-erJl mi'eS towardB the south.    Hence the height of the freshets is not\nBceuf. tkln o     e svvamps,    This is most perceptible in the case of the Gallion and\nformed h&amp;  i \u00b0       t'ie Bceuf coming from above, while that of the Gallion, being\n\u2022^lativB l     i    back-water ofthe junction, makes a difference of ten feet in the\nFr^1^18^ the highest water,\n^\u2022tei-ally ?   , \"rovidence to the edge of Prairie Mer Rouge the line conforms\n\"^ght Lr !j!e ct!u&gt;*e of the road usually traveled, but cuts off its bends.     In a\n^\u2022Mbv        i'8tance between these points is 36i miles, by the usual road,\nf0a(J' and th  '\"i 3y^ milea- Tlle actual survey was carried over ihe ordinary\nn^'taoissan   P        f\u00b0r \u00b0Ur ProJected line fixed by authentic information and by\nb P^in M I derived   much information from James C. Drew, Esq., and\nB\u00abckinail j?W,f'' surveyor, both of Lake Providence ; from Mr. Murrell and Mr.\n\u2022   \u00b0th of whom live in the swamp, and are highly intelligent in regard","fullrs":{},"find":"2257.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2256","restrictionCode":"1","cdmfilesize":"580669","cdmfilesizeformatted":"0.55 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

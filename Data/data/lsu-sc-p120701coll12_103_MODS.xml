@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 14</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/392</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>392</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/392/json"
+                        timestamp="2017-02-09 16:30:55">{"title":"Page 14","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"If\n\\-A!-\n\/-,^\\\nS 0 U T i 1 - W E S T E R N J O U It N AI,.\nOtbe\nington, Charleston, New Orl mis-. Cincinnati, and perhaps ir\nsome fiber places, fn m ',. hich the members can bo suppli d\nfed to the regular numbers of a quarterly report, or journnllon with measured pace of meditation, bis hands cross\nof the nrogress of ihe Lyceum, containing the names of nil thoughtfully bi hind him, sometimes stopping, tin n ndvnncin\nconnected with il wilh useful'statistics, or accounts of the now dropping his chin upon his breast, and now raising 1,\n.    ' ,. i'  ,: ,,. eyes to the heavens, which began lo bo scattered with slai\neui'lh and its produclions. \u2022&gt;' ., .      , ,?\nEvery patron .very life member, every three honorary, \"Ah,\" at length he said, inn low, self-musing voice, \",-v\nnn | every ten sonior corresponding members, and every rything has a place, everything a hope but I. Behold y,\ntwenty juniors, will be entitled, the firsl year, to fifty mineral rose; it buds, it bursts open, it expands to maturity, it li,-,\nspecimens, selected, labi lied, and described ; and in ihe sue- its little fairy life of fragrance and beauty, charming all e-y,\ncocding years, to such minerals, sin lis, plants, dra\u00bb i'ngs, and and filling tho whole uir with odour. Fonder tree, from i\nother specimens, both of nature and art, as can be furnished bending limbs each breeze shakes down fruit, which refresh,\nfrom the collections, which shall be made in tho progress of the peasant passing by to his toil, Yonder planet, it has ii\n.i , j11Sfi|.jtJon orbit.    Its course is fixed.    It bus burned even  thus sine\nA deposit of the collections is providedin Philadelphia.\u2014 time began; over bright, over careless.    1,1 alone, am ndril\n- intended in New York, Boston,Baltimore, VVash-|withoul path, withoutpurposi ; poor, friendless, obscure,pow\nrlcss, neglected.    Ah, mol beautiful star, didst  thou eve\n.:-\u25a0 mi , bt ing so forlorn and unnecessary?\"\nwith ihe specimens they will bo entitled lo. \"(-'n id-even to you, my fair lad,\" said an old man with i\n\\i present, any boxes, letters, or oilier communications, beard descending to his breast, and a'bright, earnest, intelli\ndesigned for the Universal  Lye.ami, may be directed (post g\u00abit gaze.    \" Can you give lo a poor wanderer a airline tt\npii I) to J isiah II libra \u2022!-:. c ire'of W. Marshall crc Co., cor- Mp lli;-' on ''is way?''\nue'r of Market and Seventh streets, Philadelphia. \"Upon my word, good friend,\" said the boy jocosely, \"I\nSince the above plan was first presenteel to the friends of \"'as just going to ask tho same favor of you.\"\nseienco and relfj ion, m'v  nihs since, tho most encouragin ;\\    \" A!!-\" ''\"'dim \\' am hungry I\"\nand animating progress has been mndo for carry!, fit into     \" Old man,\" said the other, \"I nm poor as yourself, perhap*\nfull operation.    Distinguished individuals from all parts of poorer; but my mother's house is about a mile distant in the\nthe Union have expressed their decided approbation ofthe'own; you shall there havo bread, if that will content you\"\nobject and plan, with their intention in aid of its operations.     \",: *'\u2022''\"\u2022 ''\"' r am weary of my way.\"\nProm many, liberal com ibtttions hive been matle, i f si eei I    \"Whereliaygyou been?\"\nmens of nature and art, especially of minerals, and an cx-1    \"'' ver tho world.    I am a pilgrim and a philosopher, and\nt-'u-iive i- irresp mJ nee   lUblishi I of tho most interesting nnd \\m ir !l'lan tnnt| ; cnn l\"\u00bblf n veal the future.\"\nprofitable characl r.    From fill   n to twenty tons of mine-     \" V\\ cil, well.\" rejoined the boy, with a careless look attho\nnils have been collected, and s]  cimens of various kinds, Cs-venerable wayfarer, \"go en,  I will follow; you shall have\npecially of juvenile improvem nt, have bei n sent out to near- some food, pom- wanderer.\"\nly every quarter of the g] ibe,    Numerous sea caj tains nnd     \"Stop,\" said tie: man, \"you think mo either a lunatic or an\nothers-am n have nlrcadj c ntrihutcd to tho collection, and impostor.\"\nmany have promised to celled I irgc qunntili is of such spe-     \"One or the other, unquestionably,\" replied the- boy. smil-\ncimensas may hi reafu r com \u2022 in tli ir way, for general dis-\\mS-    \" He can scarcely be less who talks of rending the veil\ntrmution among the\nihemsclve's in ihe si\n.nit may interest\nrem mat which is to come.\"\nMy sen, hi us pause awhilo; iny hunger can wait.    I will\nEnough basalready '  . n done in prove that the plan open: os'' &gt;'oun question.    Does man never look into the future?\"\na door to the friends of scicne \u25a0 an 1 humanity over tin ivholc     \"No.\"\nworld, without disturbing any vit ws or ; rejudiccs they may     \"And when the husbandman puis seed into the ground, does\nhave on other subjects, wh lb r political, n ligious or social, n0 n '' 1:nmv lh:\" '\" limo it will spring up to harvest?\"\nlo co-op irate will, e ch o:h r in iho two -Treat obii ctsof sell.     \" 11\" ih inks it n ill.\"\nimprovement and the redemption ofthe human family from\nignorance an I \\ ice.\nThe- fri in Is,,( edueati in nnd of science, in nil parts ofthe\ncountry, are therefore most cordially invited to participate in\nihe operations and tho hi in &lt;:,:.\u2022\u25a0 ,,f tho institution.\n\u25a0I ISl Ml   I10LDROOK,\nActuary uf the Universal Lyccnrn.\nA   BONNE   DOUCHE   FOR   THE   PHRENOLOGISTS.\nThe sun ha I s i over the little town of Ajacio, in that isl-\n\" And ili.it tho olive will produce the olive, and the grape\n,he grape?\"\n\"Ay.\"\n\" i &gt;\u2022\u25a0) s nol the husbandman hum- that one soil is most cat\ndilated for the melon\u2014and one for tho grass\u2014that corn\nsprings win re the pine dies\u2014thai thecyprus, the poplar and\ntho willow will best flourish if planted in ground best suited to\ntheir wauls and nature?\"\n'\u25a0 Vy.\"\nsb n.    I have discovered a sublime secret.    Do\nand ofthe Mcditerrane, n to whoso frngant valleys the bees nol smile.    Ho who made yonder heavens, has doubtless left\nswarm for th, ir unwont. d (1 ast of honey.    The moon rose many othi.- mysteries here to be developed in the course of\nover the blue sea end winding co .-'..    A young boy walked slowly rolling ages.\"\nflowlyalong tho rocky beach,    He was quite alone, and went!    \"True.    Goon.\"\n\u25a0il","fullrs":{},"find":"393.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"392","restrictionCode":"1","cdmfilesize":"1796573","cdmfilesizeformatted":"1.71 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

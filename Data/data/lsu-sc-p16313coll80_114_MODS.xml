@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$50 Reward.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001888</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Henry B. Dabbs</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1850-07-16</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially  mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Nashville, Tn</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Nashville, Tn</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1850</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1850-07-01</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$50 REWARD--Ranaway from the subscriber on board the steamer Osceola, about 5 o'clock on the evening of the 1st inst. a bright Mulatto man named PRINCE, about 30 years of age, about 6 feet high, stout, heavy set, high forehead, speaks quick when spoken to. Had on when he left a dark summer coat, pale blue cotton pants, and an old fur cap. The above named boy was seen soon after he left, on St. Charles street, between Julia and St. Joseph streets, where his mother is now living. Any person who will arrest and secure him, so that I get him again, shall receive the above reward. All persons are warned not to harbor or employ him. Steamboat officers and ship masters are also warned not to carry him off. Any information addressed to me, at Nashville, Tenn., or Dr. C.H. DABBS, Munroe, La., or J.H. Moore, No. 107 Poydras street, this city, respecting him will be thankfully received. HENRY B. DABBS. jy13 3t*</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">bright mulatto</note>
+   <note type="content" displayLabel="Slave Owner">Henry B. Dabbs</note>
+   <note type="content" displayLabel="Slave Name (Age)">Prince (30)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$50 </note>
+   <note type="content" displayLabel="Slave Presumed Destination">seen on St. Charles street, New Orleans</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">Y</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 4</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Daily crescent. : ([New Orleans, La.]) 1848-1851</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015378/1850-07-16/ed-1/seq-3/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015378</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2022</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-03-16</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2022</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2022/json"
+                        timestamp="2017-02-13 13:32:54">{"title":"RSA00001888","object":"sn82015378","publia":"The Daily crescent. : ([New Orleans, La.]) 1848-1851","date":"1850-07-16","year":"1850","film":"page 3, column 4","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1850-07-16\/ed-1\/seq-3\/","unique":"$50 Reward.","person":"Henry B. Dabbs","parish":"Nashville, Tn.","digita":"1850-07-01","acknow":{},"public":"Henry B. Dabbs","town":"Nashville, Tn.","relati":"Prince (30)","slave":"M","slavea":"bright mulatto","slaveb":"N","slavec":"seen on St. Charles street, New Orleans","reward":"$50 ","multip":{},"physic":"Y","persoa":"Y","transc":"$50 REWARD--Ranaway from the subscriber on board the steamer Osceola, about 5 o'clock on the evening of the 1st inst. a bright Mulatto man named PRINCE, about 30 years of age, about 6 feet high, stout, heavy set, high forehead, speaks quick when spoken to. Had on when he left a dark summer coat, pale blue cotton pants, and an old fur cap. The above named boy was seen soon after he left, on St. Charles street, between Julia and St. Joseph streets, where his mother is now living. Any person who will arrest and secure him, so that I get him again, shall receive the above reward. All persons are warned not to harbor or employ him. Steamboat officers and ship masters are also warned not to carry him off. Any information addressed to me, at Nashville, Tenn., or Dr. C.H. DABBS, Munroe, La., or J.H. Moore, No. 107 Poydras street, this city, respecting him will be thankfully received. HENRY B. DABBS. jy13 3t*","subjec":"Fugitive slaves--Louisiana.; Racially  mixed people--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.;","type":"text","format":"clipping","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001888.jpg","find":"2002.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-16","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"2022","restrictionCode":"1","cdmfilesize":"88353","cdmfilesizeformatted":"0.08 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

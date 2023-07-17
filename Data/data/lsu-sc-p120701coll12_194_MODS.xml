@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 14</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/483</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>483</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/483/json"
+                        timestamp="2017-02-09 16:30:52">{"title":"Page 14","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"'I. IJH\nno\nS O U T H -WESTEltN J O U RNA L.\n'\u25a0\u25a0SvrV\nrff.\ni&gt;\n\u00ab1;i};:\nthe utter blackness of the midnight storm, when every star in\nheaven is quenched, and the laboring vessel, in mid-ocean,\nreels, like a drunken man, on the crested top of the mighty\nwaves, that little bar of steel will guide the worn and staggering helmsman on his way,\u2014I feel that there is a holy philosophy in the arts of life, which, if I cannot comprehend, I can\nreverence.\"\n\"Mechanics of America, respect your calling, respect\nyourselves. The cause of human improvement has no firm\ner or more powerful friends. In the great Temple of Nature, whose foundation is the earth,\u2014whose pillars are the\neternal hills,\u2014whose roof is the star-lit sky,\u2014whose organ-\ntones are the whispering breeze, and the sounding storm,\u2014\nwhose architect is God,\u2014there is no ministry more sacred\nthan that of the intelligent mechanic ! \"\nMETEOROLOGIC ITEMS.\nRead belbro the Lyceum, March 10, 183S.\nIn presenting to the Lyceum an abstract of the Meteoro\nlogic Register for February, 1 deem it proper to give also a\nsalmagundi of meteorologic trash\u2014a spice of several topics\nand not much of either.\nAnd first\u2014the severity ofthe past month, with a mean temperature 11\u00b0 lower than that of January, suggested to me to\nmake some inquiry in regard to cold winters in this region\nThe results of this inquiry, have furnished some facts of in\nterest, although the information is less specific than could be\nwished.    The winter of 177!)\u201480, we know from various\nrecords, and particularly from the details of suffering- in revo.\nlutionary history, was one of the coldest in the memory of\nman.    An aged and  respectable lady, still  resident  in this\nvillage, relates that in that winter, her father and family landed at Natchez; and that such  was the cold, that the ice projecting from the banks of the Mississippi, rendered it impossible for the boats to land; but that slabs were extended from\nthe boats to the ice, upon which they landed.    No parallel\nto this has been witnessed since, if we may credit the memory of one who has resided in Natchez since 1782.    \u25a0 In the\nsame winter,' says a venerable member of this Lyceum, ' I\nwas told by Gen, Mackall of Georgia, that the Savannah,\nabout latitude 32\" north, was completely frozen over.'    The\nAmerican Almanac of last year contains many interesting\nfacts in regard to this winter, but all in regard to a more\nnorthern latitude.    These remarks are here made to show\nhow widely extended were its effects.    I have been told by\nthe aged  Christopher Miller, of Natchez, that one winter\nsince that time, but for the date he could only say it was many\nyears since, the ice in the Mississippi floated past Natchez in\nsuch vast quantities, as, in his opinion, to render it impossible\nfor one to cross in safety.    No one however attempted it to\nhis knowledge.    From a register of February, 1823, furnished me by the member above alluded to, I find tho thermometer at 3 P. M. ofthe 13th, up to 74\"\u2014nearly summer heat-\nand on the morning of the loth, down to 5j\u00b0, showing a fall\nof 08i\" in thirty-nine hours.    On the morning of tho lGth,\nthe temperature was +4 \u00b0, which is the lowest mark I can\nfind on record for this latitude.    President Dubuisson says\nthat he has, on one occasion, seen it \u20142J, which is much\nlower  than  any thing furnished  by  the  tables of mam-\nyears.\nThe number of meteors for the past month has been ver\u00bb\nsmall, and their size remarkably diminutive.\nThe greater part of the month has been very unfavorable\nfor celestial observations ; yet we have been gratified wilh\nseveral exhibitions of our evening halos of more than ordinary splendor.    In the January number of Silliman's Jour\nnal of Science, there is an article from the pen of Willis\nGaylord, which attempts to account for these halos.   Hoiv\nfar he has succeeded, I propose here briefly to examine. The\nwriter assumes that \" in no part of the United States is thi,\nrich garniture ofthe heavens displayed in so striking a man-\nner as in the valley of the great  lakes and the country iin.\nmediately south-east of them;\" and then proceeds to give hij\nreasons for this fact.     These are arranged to show, in a few\nwords, that the reflections of the sunshine from alternate surfaces\u2014allowing perspective its legitimate effect\u2014produce the\n\"crowns of glory\" which occasionally rest upon the retiring\n\"king of day.\"    For instance, if Lake Huron lie between\nthe observer and sunset, but sufficiently far west of him, lo\nreceive the direct rays of the sun, when he has set to the observer, the reflection of these rays might rise to a visible region of the atmosphere, and there appear a \" crimson sunset\"\nBut if mountains and hills lie between the observer and Lake\nHuron, these might, in places, interrupt tho reflected light\nand thereby divide the colored atmosphere into thopencilsoi\nbrushes, we so often witness just aftei sunset.\nHaving had occasion to compare the evening splendors of\nthose regions, with these of our own, by residence in both\nI can cheerfully testify that the latter are vastly the more varied and beautiful. Here the halos referred to by Mr. Gay-\nlord, are not, as these, confined to the summer half of the\nyear, but are frequent at all seasons. Now, if we admit thai\nthe reflections from lake, hill, and dale cause these halosin\nthe \" valley of the lakes,\" I fear we shall have lo seek for\nanother cause to produce the same eflect, in our own region.\nThe vast forest and prairie region, lying west and south-wesl\nfrom us, presents neither water, hill, nor mountain, nor any\nother objects, which, as I conceive, could cause the variety\nin the magnificent displays in question. And even werelhii\nobstacle removed, I see not how the theory of Mr. G. is to\naccount for the fact, that, very often, two successive evening!\npresent gorgeous sunsets, the one broken into pencils anJ\nthe other entirely unbroken ! Every fair evening should\nbring with it a halo.\n\" Mountains sink not down,\nNor do the vallies rise.\"\nThe truth is, the cause assigned, though ingenious and answering to the geography of the  writer's region, will apply\nto few others; for these halos appear, so far as I can ascertain, in all parts of the United States.\nI have been in the habit of attributing the great superio\"'\nty of our sunsets in their deep and varied colors, to the ex-\ntreme humidity of our southern atmosphere ; every partic\"\nof watery vapor reflecting and refracting the rays of the sun.\nafter sunset, but while the visible atmosphere west still receives his direct light.    Now, though this view of the sot\nfu\nSi,\nus&gt;\nfid\npre\nIU.S\nesti\nLy,\nthe\nsetti\nA\nings\nby t.","fullrs":{},"find":"484.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"483","restrictionCode":"1","cdmfilesize":"1942307","cdmfilesizeformatted":"1.85 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

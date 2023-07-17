@@ -1,7 +1,7 @@
 #### WHAT THIS SCRIPT DOES ####
-###1.   Attribute and Tag finder for all the collections
-###2.   Gets the xml paths of all xmls
-###3. write the xml paths, errors in xml paths according to the write tag and attribute
+###1  Attribute and Tag finder for all the collections
+###2  Gets the xml paths of all xmls
+###3write the xml paths, errors in xml paths according to the write tag and attribute
 
 ############################################ Imports ############################################
 import xml.etree.ElementTree as ET
@@ -37,7 +37,7 @@ args = parser.parse_args()
 #<<<<<<<<<<<<<<<<< PART I: Parse xmls and get attribute and tags and write to text file >>>>>>>>>>>>>>>>>>>>>#
 #****************** OPTION 1 | Parse xmls and get all the tags and attributes ******************#
 
-#2. Triger the function to get and Write the unique tags and attributes to csv
+#2Triger the function to get and Write the unique tags and attributes to csv
 def MODs(directory):
     modsPaths = []
     files = listdir(directory)
@@ -49,7 +49,7 @@ def MODs(directory):
     return modsPaths
 
 
-# 1. Parse each XML 
+# 1Parse each XML 
 allTags = [] #NEW (All Tags)
 allAtrrib = [] #NEW (All Attributes)
 uniqueTag_Dict = {} #NEW (Unique TagNames with the number of repitation in a dictionary)
@@ -190,7 +190,7 @@ def PathRepeatCheck(ntpath):
 ######## unique errors ########
 def ErrorRepeatCheck():
     uniqueErrors = []
-    #elem. Handeling Duplicated Errors in attributes and tags
+    #elemHandeling Duplicated Errors in attributes and tags
     for err in errors:
         if err not in uniqueErrors:
             uniqueErrors.append(err)

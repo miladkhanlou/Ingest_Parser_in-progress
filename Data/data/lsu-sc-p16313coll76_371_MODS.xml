@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Louis Sheppers to Auguste Doussan, 1859 Mar. 15</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Sheppers, Louis</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1859-03-15</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Doussan, Louise Perrin</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sheppers, Louis</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Doussan, Auguste Alexandre</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Baton Rouge (La.)</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Paris (France)</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Grasse (France)</topic>
+      <topic>History</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana</topic>
+      <topic>Economic Conditions</topic>
+      <topic>19th Century</topic>
+   </subject>
+   <abstract displayLabel="Description">Auguste Doussan was the younger brother of Antoine Doussan.  He practiced medicine in Grasse, France, and married Louise Perrin, who was a relative of the Allain family of Louisiana. Louis Sheppers succeeded Antoine Doussan in managing affairs in Louisiana for Auguste Doussan and his wife Louise Perrin Doussan in the 1850s.Letter includes financial statements for Louise Doussan and a letter from Sheppers dated March 15, 1859, to Auguste Doussan in Grasse.</abstract>
+   <note type="content" displayLabel="Summary">Baton Rouge, March 1, 1859, 'État des Valeurs Appartenant à Madame Louise Doussan, Demeurant à Paris, entre les Mains de Louis Sheppers Son Agent à la Louisiane.'  Also attached is a letter from Sheppers dated March 15, 1859, to Auguste Doussan in Grasse.
+</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>1 letter.</extent>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+<languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Doussan family papers, 1827-1872</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll76:collection</url>
+      </location>
+      <titleInfo displayLabel="Series">
+         <partName>II. Financial Papers, 1842-1895</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4800.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>U: 376</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item  is therefore in the public domain.  Permission to reproduce this image must be  requested through the Special Collections Division, Louisiana State University  Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Doussan Family Papers, Mss. 4800, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll76/id/776</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-01-30</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll76</alias>
+         <pointer>776</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll76/776/json"
+                        timestamp="2017-02-08 15:15:56">{"title":"Louis Sheppers to Auguste Doussan, 1859 Mar. 15","creato":"Sheppers, Louis","date":"1859-03-15","extent":"1 letter.","descri":"Baton Rouge, March 1, 1859, '\u00c9tat des Valeurs Appartenant \u00e0 Madame Louise Doussan, Demeurant \u00e0 Paris, entre les Mains de Louis Sheppers Son Agent \u00e0 la Louisiane.'  Also attached is a letter from Sheppers dated March 15, 1859, to Auguste Doussan in Grasse.\n","donor":"Auguste Doussan was the younger brother of Antoine Doussan.  He practiced medicine in Grasse, France, and married Louise Perrin, who was a relative of the Allain family of Louisiana. Louis Sheppers succeeded Antoine Doussan in managing affairs in Louisiana for Auguste Doussan and his wife Louise Perrin Doussan in the 1850s.Letter includes financial statements for Louise Doussan and a letter from Sheppers dated March 15, 1859, to Auguste Doussan in Grasse.","langua":"French.","type":"Text.","subjec":"Doussan, Louise Perrin; Sheppers, Louis; Doussan, Auguste Alexandre; Baton Rouge (La.)--History--19th Century; Paris (France)--History--19th Century; Grasse (France)--History--19th Century; Louisiana--Economic Conditions--19th Century","contri":"II. Financial Papers, 1842-1895","addres":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )","findin":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4800.pdf","color":"U: 376","cite":"Doussan Family Papers, Mss. 4800, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, Louisiana.","rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item  is therefore in the public domain.  Permission to reproduce this image must be  requested through the Special Collections Division, Louisiana State University  Libraries.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Mention the \"\"Item number\"\" or \"\"Item URL\"\" in your request.   ","file":"Jpeg2000","digiti":"Images digitized using a Epson Flatbed Scanner 110000XL and converted from tiff to jpeg2000 with Photoshop software.","source":"See 'reference url' on the navigation bar. ","publis":{},"fullrs":{},"find":"804.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-01-30","dmmodified":"2015-01-30","dmoclcno":{},"dmrecord":"776","restrictionCode":"1","cdmfilesize":"634","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Images digitized using a Epson Flatbed Scanner 110000XL and converted from tiff to jpeg2000 with Photoshop software.</hardwareSoftware>
+  </extension>
+</mods>

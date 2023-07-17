@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M60</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1319</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1319</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1319/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"M60","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM60\nMonsieur Dn. Martin Duralde\nCommandt. Civile Et Militaire aux\nOpelloussas\nFranc. Duplessis Lieute. demiliu Et habitant dece\nposte aL\u2019honneur deVous Exposer avec Respect, que\nhier sur les 5 heures duSoir ayant Et\u00e9 Ches Monsr\nLesassier, y atrouv\u00e9 le \u222b. Alexis fulton Charpent\ndece poste, lequel il y a quelque tems luy avoit __\nfait des Roux de Charette, et ayant Employ\u00e9 une\nparti dubois Vert il n apas laiss\u00e9 aux assemblage\nle jour Convenable pour ce remplir aux Efforts que\nferoit le dit bois en S\u00e9chant, Dans l\u2019incertitude ou\nJ\u2019\u00eatois de Savoir s\u2019il Etoit Oblig\u00e9 a la r\u00e9paration des\ndittes Roux, que quoique n\u2019ayant Jamais Servi ce\ntrouvent dans limpos\u222bibilit\u00e9 de rouller sans cette__\npetitte r\u00e9paration de peu d\u2019heures. Jelepriay de Venir\nChes moy finir son ouvrage lui en offrent le payement\nce quil me refusa quoique Jeluy Observai que Je\nCroyai qu\u2019il y Etoit Oblig\u00e9__\nLe dit \u222bieur fulton insista qu\u2019il ne le feroit_____\nny pour argent Et autrement, avec beaucoup d\u2019hummeur_\nEt emportement, ce qui me prouva qu\u2019il Cherchoit a_\na m\u2019offensser Et m\u2019en vouloit encore depuis l\u2019epoque_\nqu\u2019il travailla Ches moy pour l avoir tenu aux Respects\nqu\u2019il me devoit Et a ma famille en ne luy permettans\nauquune lissence, l\u2019ayant reconnu d\u2019un Carractere\n2\nM60\npour le quel m\u00eame motif Monsr Roman lemis hors\nde Ches luy, ces raisons Joint au Silence que je luy\nimposai un moment auparavant, sadressant amoy en\ntenant despropos Et injures les plus Outragents Sur ce\nDernier_ Jeluy Ordonnai, que \u222b\u2019il en avoit d\u2019autre atenir,\nd aller a la personne, que je ne voulais point les Ecouter, ce\nqui Ogmenta sarage Et le dessin quil avoit pr\u00e9m\u00e9dit\u00e9,\ns\u2019approchant demoy, Blasphement, Temp\u00eatant, Et finis\npar me menacer de Coup de poings. Provoqu\u00e9 par la\nConduite d\u2019unpareil homme qui n\u2019a rien aperdre__\nEtant Erran sans famille ny propriet\u00e9, jeluy r\u00e9pondit\nque ma personne ny Constitution n\u2019etoit point faitte\npour ce m\u00e9surer avec luy. Et que je sauray le faire\npunir, il Tomba sur moy quoique dans la Salle Et\ndevant madame Lesassier pour laquelle il ne porta\naucun re\u222bpect, &amp; n\u2019a eu auquune retenu, Et proffitant\ndecelle que l\u2019honnettet\u00e9 m\u2019imposoit, me frappa de\nplusieurs Coups depoing, Et eut finis par me __\nmutiler Et me laisser sur le Carreau sans l\u2019adresse\nque Jay eu a enparer la plus grande partie Et le __\nsecour de Made LeSassier Et de ses Domestiques ;\nJe reclame Monsieur Votre Justice pour le\npunir suivant que vous Croirez qu\u2019il m\u00e9rite pour\nunpareil assassin Et forfait intent\u00e9 Contre un __\npere de famille qui ce flatte d avoir toujours m\u00e9rit\u00e9\nlestime de tous ses superieurs Et generallement de\ntous lemonde par une Conduitte sivy int\u00e9gre\n3\nM60\nEt honnette. __ Grace que Jespere de votre\nJustice Et ferez Droit aux opelloussas ce 15 .. aoust\n1795\n= F. Duple\u222bsis =\n\u222boit \u222bignifi\u00e9 au Sr. fulton pour y r\u00e9pondre\nAux Opeloussas le 22 Aout 1795\nMr. Duralde","typa":{},"genera":{},"fullrs":"Volume7\/M60.pdf","find":"1321.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1319","restrictionCode":"1","cdmfilesize":"52318","cdmfilesizeformatted":"0.05 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

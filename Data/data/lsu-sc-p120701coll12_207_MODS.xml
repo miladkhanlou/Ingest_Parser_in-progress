@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 10</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/496</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>496</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/496/json"
+                        timestamp="2017-02-09 16:30:54">{"title":"Page 10","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"i\nI v.\n\u2022\u20221$\n$\nrl \u25a0)'\nI    J?'.;'\nI2U\nS 0 U T II -W E S T E R N   J o U It N A L\nsingular appearance of being leafless and covered with golden fruit in the midst of winter. These berries are eaten by\nhorses and cattle as soon as they fall, especially when the\ngrasses are gone. Birds also feed upon them, especially robins in winter; upon which a singular narcotic effect is pro-\nduccel, whereby they are so far deprived of muscular motion\nas to bo unable to fly or escape from those who attempt to\ntake them. I have seen a similar effect produced in children who have eaten many of them : for the berries although\nextremely bitter and narcotico-acrid when green, are rather\npleasant when they have been exposed to the frost. Cat\nand sheep have been killed by having eaten largo quantities\nof them.\nThe inner bark of this tree, especially of tho root, is one\nof the best vermifuges known in the south; and is that generally used by the inhabitants for such purposes in children.\nIf given in too largo quantities, especially in March and\nApril while the sap is rising, it produces dilatation ofthe pupil, stertorous breathing, and other symptoms which soon\npass oil\" without any permanent injury. It is also a valuable medicine for horses in spring, for improving tho state of\ntho blood and causing a fine coat of hair to bo produced.\nThis is one of the most valuable trees in the southern\ncountry, in another point of view, that of timber either for\nfencing or for oilier purposes, and for none is it more nscful\nthan for fuel. For tho latter purpose the older trees are\neepial to the best hickory; and its growth is so rapid that it\nwill doubtless be found a matter of great importance to cu\ntivate it in largo quantities, as the natural forests disappear\n&gt;^r before agriculture. Tho china tree can be cultivated with\nmuch less labor, with more cerlainty and in a shorter time\nthan even the; black locust: and in all respects it is much\nmore valuable.\nOn the cultivation of it we transcribe the following extract from tho Southern Agriculturalist, for June, 183G, viz:\n\u25a0 \" Tin; best method of cultivating the Pride of India, that\nI have discovered is the following. Make a hole about six\ninches deep and fill it with well rotted manure from the stable, or compost, with old forest leaves, every eight feet; into\neach of which drop four or live berries, which arc to be\nlightly covered. This should bo done in March or April.\nWhen they begin to come up attend the young plants as you\nwould cotton, keeping down the grass and weeds, and pulling\nup the weak and slender shoots, leaving only ono of the most\nhealthy and vigorous. Go over this twice in the course of\nthree months, with a plough, turning over tho furrow to the\nplants. The young trees will rapidly grow to the height of\nsix or eight feet. During this time, you must occasionally\nstrip off the leaves and lateral shoots in order to trim the\nsteins to a proper length. Keep them merely as straight\ntwigs, (to which they will naturally tend,) until the next\nspring, when you will direct them to grow as upright as possible, keeping down weeds and grass as during the year previously. In this year they }vill attain the thickness of about\ntwelve inches in circumference, and by tho next spring the\nheight of twelve or fifteen foot. Tho growth may however\nbe improved by the use of the hoc and manure. They may\nnow be permitted to put out lateral limbs, suffering Ihe most\nvigorous In continue, and removing the weak ones, whi|,.\nyoung, with a priming knife. This will preserve the cpialj.\nty and benuty of the timber, making it, in fifteen years, fit\nfor all manner of furniture.\"\nWe would suggest the facility of procuring scions by pre.\nparing long trenches with manure, &amp;c. instead of the holes,\nfor the purpose of sprouting the seeds; from which as a nip.\nscry the young shoots may be safely removed after Iho first\nyear, and planted in rows about eight or ten feet apart each\nway. In this manner, by preparing the ground for the reception ol each plant, many of our old waste fields might bo\nconverted in a few years, into forests of this most valuable\ntree.\nThe author above quoted further observes, \"tho value of\ntho wood cannot be too highly appreciated. It may be sawed into boards from twelve to eighteen inches wide, fit for almost any purpose, or into wainscoting of the; most beautiful\nshades. It is a light sonorous wood, not apt to split, and capable of very high polish. It is entirely divested of any resinous matter, and thereby is fitted to receive the most beautiful- varnishes. It possesses powerful vermifuge qualities, anil\nis therefore suitable for all furniture for the bedchamber, as\nno bugs, nor any other insects will infest it. The lexturcor\nquality of the wood may be improved by being grown on\nland of a clay bottom ; but it will grow on tho loosest sandy\nloam. It should be raised from the seeds in the manner 1\nhave described. If transplanted when large, its top roots\nwill never grow, and it will be more liable to be blown down,\nbeing supported only by lateral roots, which derive their pabulum from the rich loam on the surface, and give to tho wood\na soft spongy texture.\n\" As an article for fence posts I can safely recommend it\nas one ofthe cheapest and most durable. In this latter quality it approximates more nearly to cedar than any wood 1\nknow. It may be planted along tho line to be covered by\nthe fence, and the rails may ho nailed to the tree as a post.\nThe superfluous branches will afford excellent fire wood.\n\" Horses, cows, hogs and sheep will eat the leaves greedily. When dried and mixed with hay, it is the best medicine I know for cattle of every kind. Such are the vermifuge qualities of the entire tree, that I never fail to give itlo\nmy animals every spring. A fow leaves given to a horse\nonce or twice a week, will afford him a most beautiful coal\nof hair. A decoction of its root in small doses administered\nto children every morning for eight or nine days, will efl'ec-\ntually destroy worms in them.\" M \u25a0\nExtraordinary Experiment.\u2014Professor Locke, of\nthe Medical College of Ohio, has invented a thermo-electric\ninstrument, of such delicacy and power, that by tho electricity\ngenerated by the warmth from a touch of the finger, a magnetic needle eleven inches long, and weighing one and a hall\nounces, suspended like a compass needle, is not only reflected.\nbut made to rotate rapidly and repeatedly round. This is tho\nmore surprising, as the electric conductor does not touch tho\nconductor, but passes one-fourth of an inch from it. Perhapf\nso much motion has seldom before been produced by so little\nheat.\u2014Cincinnati Republican.","fullrs":{},"find":"497.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"496","restrictionCode":"1","cdmfilesize":"1868724","cdmfilesizeformatted":"1.78 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 123</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Crops</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cauliflower</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Farm produce</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Crates</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Harvesting</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Farmers</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Men</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hats</topic>
+   </subject>
+   <abstract displayLabel="Description">Page 123 of the album includes four photographs.; Photograph 1 [1] shows four men loading cauliflower in produce crates.; Photograph 2 [2] shows rows of cauliflower in a field while four men pack harvested cauliflower in produce crates.; Photograph 3 [3] shows four men packing cauliflower in produce crates in a field.  Stacks of packed crates shown on the right in foreground.; Photograph 4 [4] shows five men packing cauliflower in produce crates in a field.; Most crates in Photos 1-4 are printed with "Grown in Louisiana / Louisiana Distributing Co.  Thibodaux, LA" or "Grown by Claiborne Co. / White Castle, LA".</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="citation/reference" displayLabel="References">Compare Photographs 1-4 to the following publication.  G.L. (1913, May) Preliminary Report on Winter Cauliflower. Louisiana Bulletin, No. 140, p. 13.  Photograph caption reads, "Crates of Cauliflower."; Also compare photographs to additional publication. Wilkinson J.W. (1916, July) December Cauliflower. The country gentleman, Vol. 81 (No. 28), p. 9.  Retrieved August 4, 2014, from http://books.google.com/books?id=8-1EAQAAIAAJ&amp;pg=PA1325&amp;lpg=PA1325&amp;dq=louisiana+cauliflower+Tiebout+country+gentleman&amp;source=bl&amp;ots=9OXH3Ur86B&amp;sig=a3R6Mfi_hypf1Se0AyCAp0XyL6o&amp;hl=en&amp;sa=X&amp;ei=OI3JU8KDLKHG8QH4z4CwAg&amp;ved=0CB0Q6AEwAA#v=onepage&amp;q=louisiana%20cauliflower%20Tiebout%20country%20gentleman&amp;f=false</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3871</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3871</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3871/json"
+                        timestamp="2017-02-01 13:53:06">{"title":"Page 123","compoa":{},"photog":{},"notes":{},"biogra":{},"descri":"Page 123 of the album includes four photographs.; Photograph 1 [1] shows four men loading cauliflower in produce crates.; Photograph 2 [2] shows rows of cauliflower in a field while four men pack harvested cauliflower in produce crates.; Photograph 3 [3] shows four men packing cauliflower in produce crates in a field.  Stacks of packed crates shown on the right in foreground.; Photograph 4 [4] shows five men packing cauliflower in produce crates in a field.; Most crates in Photos 1-4 are printed with \"Grown in Louisiana \/ Louisiana Distributing Co.  Thibodaux, LA\" or \"Grown by Claiborne Co. \/ White Castle, LA\".","typea":{},"date":{},"publis":{},"subjea":"Agriculture--Louisiana.; Crops.; Cauliflower.; Farm produce.; Crates.; Harvesting.; Farmers.; Men.; Hats.","geogra":{},"aquisi":{},"box":{},"folder":{},"series":{},"subser":{},"reposi":{},"type":{},"source":{},"dates":{},"item":{},"relate":"Compare Photographs 1-4 to the following publication.  G.L. (1913, May) Preliminary Report on Winter Cauliflower. Louisiana Bulletin, No. 140, p. 13.  Photograph caption reads, \"Crates of Cauliflower.\"; Also compare photographs to additional publication. Wilkinson J.W. (1916, July) December Cauliflower. The country gentleman, Vol. 81 (No. 28), p. 9.  Retrieved August 4, 2014, from http:\/\/books.google.com\/books?id=8-1EAQAAIAAJ&amp;pg=PA1325&amp;lpg=PA1325&amp;dq=louisiana+cauliflower+Tiebout+country+gentleman&amp;source=bl&amp;ots=9OXH3Ur86B&amp;sig=a3R6Mfi_hypf1Se0AyCAp0XyL6o&amp;hl=en&amp;sa=X&amp;ei=OI3JU8KDLKHG8QH4z4CwAg&amp;ved=0CB0Q6AEwAA#v=onepage&amp;q=louisiana%20cauliflower%20Tiebout%20country%20gentleman&amp;f=false","rights":{},"contri":{},"to":{},"catalo":{},"compou":{},"ocr":{},"cite":{},"collec":{},"fullrs":"Volume167\/LSUAgExt160_Page 123.jpg","find":"4155.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2014-08-25","dmmodified":"2014-08-25","dmoclcno":{},"dmrecord":"3871","restrictionCode":"1","cdmfilesize":"9349347","cdmfilesizeformatted":"8.92 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

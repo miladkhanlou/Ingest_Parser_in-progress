@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Description de la Louisiane, nouvellement decouverte au sud'oüest de la Nouvelle France, par ordre du roy</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+      <namePart>Hennepin, Louis  (1640-1705)</namePart>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1864</dateCreated>
+      <publisher>A Paris: Chez Amable Auroy</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Indians of North America</topic>
+      <topic>Mississippi River Valley</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana</topic>
+      <topic>Description and travel</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mississippi River</topic>
+      <topic>Discovery and exploration</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mississippi River Valley</topic>
+      <topic>History</topic>
+      <topic>To 1803</topic>
+   </subject>
+   <abstract displayLabel="Description">Louis Hennepin, a Recollet Friar (member of an order of reformed Franciscans), arrived in New France in 1675.  After spending four years as an itinerant missionary, Hennepin joined an expedition of the great French explorer Robert Cavalier, Sieur de la Salle, intent on probing the Mississippi. Hennepin and two companions ventured up the Mississippi as far as the Falls of St. Anthony (the site of Minneapolis), and returned to the Great Lakes by an alternate route. In 1683, Hennepin published an account of his adventures, Description de la Louisiane.  An immediate best-seller, the book went through numerous editions and was one of the most widely read first-hand descriptions of New France.  The map that accompanies the volume, entitled "Carte de la Nouvelle France et de la Louisiane Nouvellement découverte," makes it the first cartographic appearance of Louisiana as a place-name.</abstract>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>LaColl Rare F352 H52</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>LSU Special Collections: Louisiana and Lower Mississippi Valley Book Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/112</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2006-07-24</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>112</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/112/json"
+                        timestamp="2017-02-02 09:47:13">{"title":"Description de la Louisiane, nouvellement decouverte au sud'o\u00fcest de la Nouvelle France, par ordre du roy","creato":"Hennepin, Louis  (1640-1705)","date":"1683","dates":{},"publis":"A Paris: Chez Amable Auroy","contri":{},"subjec":"Indians of North America--Mississippi River Valley; Louisiana--Description and travel; Mississippi River--Discovery and exploration; Mississippi River Valley--History--To 1803","descri":"Louis Hennepin, a Recollet Friar (member of an order of reformed Franciscans), arrived in New France in 1675.  After spending four years as an itinerant missionary, Hennepin joined an expedition of the great French explorer Robert Cavalier, Sieur de la Salle, intent on probing the Mississippi. Hennepin and two companions ventured up the Mississippi as far as the Falls of St. Anthony (the site of Minneapolis), and returned to the Great Lakes by an alternate route. In 1683, Hennepin published an account of his adventures, Description de la Louisiane.  An immediate best-seller, the book went through numerous editions and was one of the most widely read first-hand descriptions of New France.  The map that accompanies the volume, entitled \"Carte de la Nouvelle France et de la Louisiane Nouvellement d\u00e9couverte,\" makes it the first cartographic appearance of Louisiana as a place-name.","notes":{},"langua":{},"transc":{},"digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":"Louisiana and Lower Mississippi Valley Book Collection","collec":"LaColl Rare F352 H52","sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":{},"format":{},"imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":"Volume6\\sd000400.tif","find":"113.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2006-07-24","dmmodified":"2006-09-19","dmoclcno":{},"dmrecord":"112","restrictionCode":"1","cdmfilesize":"636711","cdmfilesizeformatted":"0.61 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

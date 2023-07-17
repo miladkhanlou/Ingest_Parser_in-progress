@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Canal Street, from the corner of Robertson Street</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1930</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>New Orleans (La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Canal Street (New Orleans, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Urban landscapes</topic>
+      <topic>Louisiana</topic>
+      <topic>New Orleans</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">See also 176229a-c, e-o. The camera appears to be atop a platform standing on the corner of Robertson and Canal looking toward the river on Canal. The image shows pedestrian and vehicular traffic on Canal with the Krauss Building, Southern Railway Terminal, and the Saenger Theater on the left of frame.</abstract>
+   <note type="content">Photographer unknown.</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>640 x 480</extent>
+      <note type="medium">resin-coated paper prints</note>
+      <extent>5.00" x 7.00"</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-nonegexposures:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>New Orleans Negative Exposures Prints</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>New Orleans Negative Exposures and Prints, circa 1900-1930</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">New Orleans Negative Exposures and Prints, Mss. 173703-07, 176212-176235, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">17620029dp</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/NONegExposures/id/40</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2005-11-15</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <collectionSource>IRP</collectionSource>
+      <CONTENTdmData>
+         <alias>NONegExposures</alias>
+         <pointer>40</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/NONegExposures/40/json"
+                        timestamp="2017-01-03 12:52:58">{"title":"Canal Street, from the corner of Robertson Street","audien":"No","descri":"See also 176229a-c, e-o. The camera appears to be atop a platform standing on the corner of Robertson and Canal looking toward the river on Canal. The image shows pedestrian and vehicular traffic on Canal with the Krauss Building, Southern Railway Terminal, and the Saenger Theater on the left of frame.","date":"ca. 1930","creato":"unknown","subjec":"New Orleans (La.)--Photographs; Canal Street (New Orleans, La.)--Photographs; Urban landscapes--Louisiana--New Orleans--Photographs","identi":"17620029dp","relati":"New Orleans Negative Exposures Prints","type":"jpg","format":"640 x 480","publis":"Resin-coated paper prints; 5.00\" x 7.00\"","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.","contri":"IRP","source":{},"cite":"New Orleans Negative Exposures and Prints, Mss. 173703-07, 176212-176235, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","fullrs":{},"find":"41.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2005-11-15","dmmodified":"2005-11-15","dmoclcno":{},"dmrecord":"40","restrictionCode":"1","cdmfilesize":"219610","cdmfilesizeformatted":"0.21 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

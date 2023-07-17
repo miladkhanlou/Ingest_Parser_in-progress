@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 03</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/592</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>592</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/592/json"
+                        timestamp="2017-02-09 16:30:56">{"title":"Page 03","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\n227\nhave been a man of peace or he would have carried such\nweapon before.) He now felt himself quite safe, and as\nbrave as Julius Cresar. When attacked, he found that he\ncould shoot the dogs with a great deal of ease and safety\nBut the next feeling was to shoot every dog he saw, whether\nattacked by him or not, and especially if there should be\nany thing like a menacing growl. Finding the disposition\nto shoot became so irrepressible, and the war spirit so in\ncreased upon him, he concluded to lay aside the pistol.\nLet our country, in an unfortunate hour, adopt military\nexercise in our seminaries of learning\u2014let a half million\nof youth be turned out of such institutions, all with the feel-\nino-so common to military men, a conviction that if they had\nthe opportunity, they could distinguish themselves, could our\ncountry havo any assurance of the continuance of pence?\nLet war occur\u2014let great armies be assembled, and become\naccustomed to, and in love with military life\u2014let them, by\nthe force of discipline, be at tho command of one man, and\nwho would underwrite for a continuance of our republican\ninstitutions, or our liberties? These are not fancy sketches,\nbut the lessons of sober experience taught us in history.\nMilitary education is objectionable, in the second place, because it has a tendency to create false notions of honor. It\nmay be readily guessed that I esteem the spirit of dueling a\nfalse notion of honor. What is true honor ? It is that unswerving principle of integrity, anel justice, which requires\nnot the promptings of interest or the authority of the civi\nmagistrate to produce it. If this be true honor, (and who\nwill deny it?) what has the revenge, or fear of losing character, ol tho duelist to do with it? Just nothing at all. I\nneed not reason against dueling, for it is one of those fashion-\nfollowing principles which can hear no reason. I lake it\nfor granted that the practice is disapproved by all wise and\ngood men, even by many who will in an unguarded moment\nhe drawn into it.\nI shall certainly obtain a verdict against military education\nby all the members of this association if it can be made to\nappear that it fosters that foul spirit. To establish this tendency, we only have to look over the records of AVest Point\nMilitary Academy, and any other institution in the United\nStates of the same size and age, and if the former has not a\ngreater proportion of its students who have been engaged in\nduels, I will give up the contest.\nA third plan is manual labor, either on a farm, or at some\nbranch ol mechanism. In recommendation of this system\nwe will say, that it is natural. It is evident that our Maker\nintended that man should engage in this exercise, by making\nit necessary to his comfort and convenience. Even before\nthe fall he was required to \" dress \" and \" keep\" the garden.\nCan man find out a better mode of exercise than he who\nmade him ?\nThis system is philosophical. By the changes wrought\nin other objects, and tho ingenuity necessary to the performance of the work, the interest of the mind is kept up. It is\nuseful\u2014increasing personal comforts, and national wealth.\nIt promotes independence of character. Who is so independent as he who feels that he has resources for competency and\nw\ncomfort within himself. I was once much struck with-\nthe observation of a poor orphan, who had succeeded in procuring a tolerable education. He was speaking of his destitute condition, and all at once he seemed to take courage, and\nsaid, \" I have got my education, and I can make out to get\nthrough the world.\" It would promote originality. Forming the habit of taxing his own ingenuity for the supply of\nhis wants, he would be likely to do the same in his mental\noperations. It would greatly diminish the expense of education, and by that means bring it within the reach of a\ngreater number. It would have a grcat tendency to do away\nthat absurd distinction in society which makes the standing\nof a man depend upon his occupation. If there be any reason in our republican institutions, moral, and mental worth,\nshould constitute the only ground of distinction.\nFinally.it would greatly promote morality in our institutions of learning. While idleness is the mother of vice, employment promotes virtue. I have not space to argue these\nprinciples at length, they seem to mc to commend themselves\nto every man's understanding.\nBefore emitting this subject we will notice a few objections.\nIt is said that manual labor will make the student awkward\nand ungraceful in his movements. In reply to this I would\nask whether the mere student is generally remarkable for\nhis grace? To the charge most book worms will plead not\nguilty. The charge against manual labor might be true if\nthe amount were sufficient to stiffen the limbs, but wher, it is\nonly to promote health, and strength of body, it will have\njust tbe contrary effect.\nBut it is objected that it will make tho student a sloven.\nIf this were true, wc should not be without some consolation,\nit would not inflict a race of dandies on the world. \" Better, infinitely, that the bar, the bench, the halls of legislation,\nand the pulpit, should bo filled with men careless of their\nappearance, and slovenly in their dress, but whose firm\nframes and brawny muscles indicate their sex, and whose\noriginal minds poise themselves on their centre, rather than\nto be desecrated by mincing things of powder and perfumery,\nnauseous specimens of diluted manhood, scribbling sentimentally in albums, and lisping insipidity.\"\nIt is objected, if labor were made a positive requisition, a\nyouth of high spirit would not submit to it. It is forgotten\nby the objector, that the whole college course is a possitive\nrequisition, but who ever thought that it was proof of a wanl\nof high mindedness to submit to the course.\nWo have so protracted our remarks on physical training\nthat it would bo out of place to enlarge on the intellectual\nand moral part of our subject. Physical training only becomes important as it bears directly on these. The amount\nof its influence on these is hard to be estimated.\nTill the whole of our nature is taken into account in the\neducation of our youth, the highest capabilities of our nature\nwill not bo arrived at. It becomes every philanthropist,\npatriot, and christian to give his countenance and support to\nan improved system of education. In these remarks, I have\nbeen much indebted to a pamphlet written by Rev. Theodore\nD. Weld.\n.';V|\n1.'\nk4\\\nk\nfl","fullrs":{},"find":"593.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"592","restrictionCode":"1","cdmfilesize":"1688000","cdmfilesizeformatted":"1.61 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

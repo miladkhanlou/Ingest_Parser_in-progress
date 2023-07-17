@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 04</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/348</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>348</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/348/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 04","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"1S2\nSOU T II-WEST E R N J 0 U R N A L\n: :'!'&gt;''\u2022'\nwill ensure our sympathy. He has not, it is true, the majesty of Milton ; but his winning mildness has moral influence\nquite equal to that or the prince of English epic. No bad\nman ever loved to read Cowper, The following extract exemplifies this remark:\n\"Oh, for a lodge in some vast wildclncss!\nSome boundless contiguity of shade,\nWhere rumor of oppression and deceit,\nOf unsuccessful or successful war,\nWight never reach me more!    My ear is pained,\nMy soul is sick with every day's report\nOf wrong and outrage, with which earth is filled.\nThere is no flesh in man's obdurate heart:\nIt does not feci for man: the natural bond\nOf brotherhood is severed, as the flax,\nThai falls asunder at the touch of fire.\"\nIn moral and religious poems of excellence, the English\nlanguage is very rich. Our Young, Banyan, Rogers, Campbell, Montgomery, challenge competition. It is a fact, likewise, that those who speak the English, have more weight ol\nmoral and religions character, than all the rest of the civilized world. Whethet this character or our poetry be th\ncause or the eflect, the case is a strong one, in favor of the\nposition I have taken, that poetry forms the character.\nNo kind of writing is so captivating to most readers as\ndialogue, because, perhaps, various opinions are expressed on\nthe same subject, and the charms of sprightly conversation,\nmid the powers of poetry arc combined. There are delicate\nshadesof character, which cannot be described. It requires\nthe voice and expression or countenance, and graphic gesture,\nfully to exhibit them. There is a mingling of opposite\nprinciples, a blending of good and evil in the human heart,\nwhich nothing but the skilful hand of the dramatist can bring\nout in their just proportions. The theatre has become a\nschool of vice; because intrigue, treachery, and licentiousness, are the distinguishing characteristics or the plays. The\nfatalism resorted to by writers who are incapable ol' inventing a consistent and natural plot, to bring about the catastrophe, is another feature highly objectionable. It destroys that\nbalance of powers in the young mind, and saps the foundation ol healthy morals. The fearful corruption of morals in\nFrance, and the desperate depravity of taste, first began to\nshow itself on the stage. Thence it descended to novels and\ntales; and now a novel, to be popular, must contain at least\nmurder or adultery.\nEnglish comedy, though not so bad in this respect, is by-\nno means free from the charge of immoral tendency. Our\ntragedy is of a different character. To Shakspeare, we are\nno doubt, indebted for its high moral tone. It is fastidious\naffectation to condemn the great masterof the drama for want\nof delicacy, lie wrote to represent human nature as it is,\nwith all its beauty and all its blemishes. So peif'ect are his\nportraitures, so exact in every lineament; with such a master\npencil does he blend the lights and shades of character, thai\nwe become acquainted with every dramatis persona. II\nthere be any legitimate objection to   reading Shakspeare, it\n stbe.reduced to  this, that a knowledge of the human\nheart is dangerous to a feeble mind.\nShakspeare, I have always regarded as the father of mental\nphilosophy. He presents the workings or mind Under so many circumstances, that every faculty is laid open to inspection.\nIn his plays we have every grade of intellect, from the p,\u201e\nfesscd buffoon to the grave philosopher, each speaking hi,\nown language. Take one example\u2014Hamlet. Observe bow\nthe great mind of that unhappy prince strives (or inasterv\nover ferocious passions, and struggles with temptations too\n[strong for even his generous and virtuous disposition to overcome. And in tin; general breaking up of mental and moral\nrestraints in the sad catastrophe, the desperate energy and J,,\ntermined revenge, give one of the finest bird's eye views of\nthe mind diseased, to be found on earth. This is but one\nfrom a thousand instances ol' his matchless power, '[\"y\ninfluence of such a poet cannot be calculated. If all thc-\nideas, all the insight into human character, all the language\nof passion, that come directly or indirectly from Sliakspeare,\nwere to be subtracted from the English language, they could\nnot be supplied in a century. People who read such worta\nmust and will think, and their modes of thinking will [,,,\nfashioned on their models.\nLyric poetry has always occupied a prominent place in\nthe literature of every country. Its influence is not so pervading and permanent as the epic, because its compass ii\nmore circumscribed. But in its own proper sphere it acts\nwith even more power. Perhaps the reason is that tlio point\nof an ode being single;, the mind fastens on it more strongly,\nthan if it were complex. The immoral tendency of Anac-\nreon and Horace is urged by those who object to the study ef\nthenncient languages, as an ai jument to support their case.\nMany a pure mind, say they, has been poisoned by the licentious odes of Horace. 1 do not adopt this argument as tiin.\nbut to show that I am not singular in my opinion, that potts\nexert great influence on character. Some one, I know not\nwho, has very justly remarked, \"give me the writing of th\u00ab\nsongs and ballads of a nation, and I care not who makes the\nlaws.\" The songs of Burns, in the Scottish dialect, are quite\nequal to any lyrics of any age or country. His name is held\nin such detestation by the Kirk, that it cannot be mentioned\nin the presence of u rigid deacon, without receiving an anathema. And why? Not because he wrote bad poetry, bill\nbecause he attacks the dogmas of the church in his songs, and\nit fears him. I need not speak of the demoralizing influence\nof Byron and Rochester. These, and some others, contain\nmines of putrid thought. The dissolute character of those\nwho read such works with avidity, is quite enough to prove\nthem beyond dispute. \u2022'\u2022#\u2022\u2022\nSKETCH OP A VISIT TO INDIA.\nBexl before the Ji-il'.rsMM CoIIcko anil ff, ihtngton Lyceum, August 6,163T. tj\nS. C. MuitwiN, M. 1).\nA  lurancevile of three long months, upon an India ship,\nhud completely exhausted all  the ordinc\nnary resources,\nthai\nserve to keep at bay the little demon ennui, during the period\nif our novitiate. Storms, adverse winds, bright sun-self,\n\u2022\u25a0aim:, ami gentle breezes, no longer were sufficient to avert\nthe apathy that was stealing over us. The usual sources of\nlmusement had lost their power to charm, and the restlessneM","fullrs":{},"find":"349.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"348","restrictionCode":"1","cdmfilesize":"1788598","cdmfilesizeformatted":"1.71 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

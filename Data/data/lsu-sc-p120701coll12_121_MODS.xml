@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 13</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/410</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>410</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/410/json"
+                        timestamp="2017-02-09 16:30:59">{"title":"Page 13","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN J 0U R N AL.\n45\nSOUTH-WESTERN JOURNAL.\nNATCHEZ, JANUARY  15,  1838,\nTo CORRESPONDENTS.\u2014A mnrccaii, \" Nothing beautiful\nbut Mind,\" from the pen of a lady of Amite county, shall appear in our next.\nWe acknowledge our obligations lo a tasteful correspondent, who has commenced making a choice selection of American poetry, for insertion in tho South-Western Journal.\u2014\n\" Columbus\" shall grace the columns of our next number.\u2014\nWe more than suspect this auxiliary, to our Journal, lo be a\nlady also.\nThe Discussion, on the comparative importance of Mathematics and the learned languages in general education,between\nMessrs. Professors Forshey and Wyche, will appear in our\nnext.\nImpulsive Writing.\u2014Some writers, coarse and unpolished in their styl-.; nre yel impulsive on the minds of others-\n\u2022 Their roughnesses are, like ihe floats of tho water wheel in a\nsteamboat, capable of stirring the element nroimd them into a\nwhite foam:    A pretty good salvo for indifferent editorials !\nTun Sundered Continents,\u2014The vast ruins of Pa\nlenque and Mitlan, in tlio provinces of Chiupa and Oaxaca in\n\u2022the vast solitudes of Yucatan, having so palpably a Phoenician origin, bring to mind the old Egyptian tradition, related\nby Plato, that the vast island of Atlantis, lying opposite the\npillars of Hercules, was sunk by an awful convulsion. [See\nPI ito's Timasus, p. 20, sec. a, Ed. Steph.] In the same section we find the following:\u2014\" The course of ages,\" adds Cri\nWe saw him once-\nheard\nin a situation which awakened the emotion of moral sublimity in every bosom that throbbsd undor the action of his genius:\nit was in a sermon lo the Pastoral Association of the clergy\nof Massachusetts\u2014about two hundred ministers, gathered in\nPark street church, and listening with breathless attention to\nhim, who might, at that time, have been considered their elder\nbrother. His sermon was on ministerial character nnd graces.\nWe remember ihat every sentence in that sermon flowed like\nsublimated spirit. Condensed\u2014stripped of verbiage\u2014chastened to naked simplicity and directness of thought, the discourse was more an influence lhan a form. We recollect\nihat he compared classical ornaments, in an oration for God,\nto the \"stars on a winter's nighl\u2014clear, but oh, how cold!\"\n Il was near the close of the sermon that\nwe felt and witnessed the power of the speaker. The subject had swelled to an awful importance in his hands; he had\nbrought ihe ministers of the sanctuary before the Shekinah;\nhe summoned them to the altar that darted ils lightnings on\nDathan nndAln'ram; and bade them beware that they had\ntodo with a Spirit.\n All at once ho seemed entranced\u2014gazed\nm vacancy\u2014and exclaimed with the energy of a Demosthenes\u2014Bui, what form is that I see, more dee-ply scarred\nwith thunder lhan the rest\u2014around whom a thousand wretch-\n1 beings crowd with furious gestures and agonizing imprecations! It is an unfaithful minister, who went down to the\nworld of woe himself, and was tho cause of the perdition of\nthe souls committed lo his charge I\nTin's sentence, uttered in his terse', strong, nnd fearful language, tinned every fiice pale in the vast audience. The old\ni: , \"brought on the inevitable hour, the disastrous night,|'r\"'\"I's'ers shuddered\u2014and in tho cold, tearful eyes of tho\nwhen, amid tho quakings of tho earth, and the swellings of younger, largo watery drops collected, as the sense of fear,\nthe sea, all the warriors of Athens were swallow, d up by the and its agony, entered their beans like an arrow.\nearth; and the billows covered the Atlantic islo forever more. ~   \" ~\nTin: Father of  Waters.\u2014( nateaubnand says that\nTo this day that part ofthe ocean is inaccessible, and cannot\nbe explored ; and the mud ofthe .sunken continent checks the\nmariner that would visit its shore.\"\nAre not the Canaries the remains of that  vast isthmus\nwhich once connected Africa to America?\nSketch of the late Rev, Dr. Griffin.\u2014ft was in\npulpit oratory that this mighty intellect was aroused to its\nfull vigor. Ho was the \"son of thunder\" when the lion\nwithin him \"shook the dew from his mane.\" His appearance was commanding. With a stature exceeding six feet;\na noble countenance, and, in bis latter days, with hair as\nwhite as the snows of Labrador,\u2014his look was more than\nvenerable\u2014it was princely.    Tho Idandness and polish of\nthe true name oftheancieiit Rio Grande, or Mississippi, seen by\nDe Soto, was Mesarhebe !\nLiterary Credit.\u2014Tho Lyceum,  in Newport, Ken.\nlucky, has issued bank notes.whichareiii good repute all along\nthe river.    Wo would also recommend tho paper of the Jefferson College and Washington Lyceum for general circula\ntion.\nGeological Survey of Mississippi.\u2014We are pleased\nto learn that there is a movement, in this community, in favor\nofa Geological Survey of Mississippi, under tho authority of\nthe Slate.   This will, doubtless, not only add immensely to\n(he known natural wealth of our territory, but also to tho accu-\nSouthern manners (for at tin- North he was called a South-I mttlation of scientific knowledge.    Should not a Geological\neruer) made him a delightful companion; and his conversation in tho social circle', surrounded by the fairest works of\nGod, was as spiriluellc and enchanting as low, mellow music\nnt night-Jail, But when he appeared in the sacred desk, as\nthe orator for heaven,\u2014the insulted dignity of the broken\nlaw thundered in his sentences, and, oftentimes, fell upon the\nStartled conscience, like the summonings of the trumpel of\nretribution.\nlie connected with a Trigonometrical Survey, settling\nthe true bearing and longetndeof every place of importance\nin the state 1\nThe Jefferson College and Washington Lyceum have sent\nin a petition to the Legislature, praying for a Survey.\nFavcv.\u2014Fancy is the water of crystallizations, without\nwhich all the fairest forms of fife crumble to dust.\u2014lean Paul","fullrs":{},"find":"411.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"410","restrictionCode":"1","cdmfilesize":"1830788","cdmfilesizeformatted":"1.75 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

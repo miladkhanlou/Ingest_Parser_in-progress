@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 27</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/583</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>583</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/583/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 27","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"S 0 U T II -W E S T E R N   JOURNAL\n213\nund both are exactly similar in the design of their ornaments,\nthe cornice of the inner part only differing in being formed\nof the serpent with the sacred bonnetThe destruction of\nlhc walls is a matter of extreme regret, as, like those of th\nother temples, they certainly depict the progressive stage's ofl\nsuae historical event, tho triumph of some hero, and, in many places, the figures nre grouped with a graceful case that\ndeparts from the usual severity of the Egyptian pencil\nIn one group a hero has vanquished an enemy, who lies\nextended prostrate before him on the ground, while three oth\ncr persons are, apparently, expressing their gratituele for de\nlivery; and the victor, in an attitude of earnest declamation,\nis in the act of returning their address with the warmth and\nanimation of a DemosthenesAn aeljoining compartment\nrepresents offerings of inrense to the same hero, who here\nbears a standard, or some warlike emblem; and other groups\nmuch broken and defaced, show graceful combinations and\nexpressive forms.\nIn the large compartment above, the honored chief is receiving a presentation from the divinity itself, under the form\nof Isis: and in the centre of this picture priests are bearing\non their shoulders a large altar, surmounted with a boat, in\nthe same manner as on the inner walls of tho sanctuary, in\nthe temple wo last saw, to the southward of this.\nReaching this, the northern extremity of tho island of El-\nephantina, we embarked in a small boat, and made the circuit of il by waterThe scenery, from every point of view,\nis highly picturesque\u2014bold granite rocks, clusters of small\nislands in thestream, intervening spols of verdure, scattered\npalm grounds, water raised by wheels and oxen, fertile gardens, and interesting ruins.\nLanding on the western bank of the Nile, opposite to Assouan, we ascended the long and tedious hill of sand, which\nextends over to the edge ofthe river, and after a weary walk,\nin a scorching sun, we reached the ruined Christian monastery on its summitAlthough one finds no remains of art\nwithin its mud-built walls to repay, in gratification, the difficulty of the way, yet it is impossible to continue long amid\nsuch silent desolation without having all the feelings of th\nheart brought into action, without becoming oppressed with\na reflective melancholy, as sad as the sterility of the scene\nihat inspires itWe walked round the building, ascended\nthe tops of its ruined walls, and traversed it in every dircc\nlion without being able to form any thing like a correct idea\nel\" its planIt appeared to be a mass of confused chapels,\nballs, long galleries, dark and confined cells, and even ramparts of fortification, built at different periods, subsequently\nfallen into decay, in the order of their successive erection^\nafterward repaired, and converted to different uses, and now\nfirming an extensive, but nn irregular and dilapidated pile.\nEvery portion of the building was rudely constructed, and\nthe interior decorations wero not less so; the chapels, of|\nwhif h there must have been a considerable number, each\nhaving, apparently, its tutelar saint, were whitewashed, and\npainted on tho inside with full length portraits of hermits,\nwhose features and drapery, from the instability of the colors, were now indistinctly mingled, and not one even of the\nenumerable Greek sentences on the walls, could be accu\nrately copied without much labor and a long stay, having\nbeen written with a loose red chalk, ihat was at first, mosf\nprobably, imperfect, and is now scarcely legible.\nEgyptian Monuments.\u2014Had not the monuments of\nancient Egypt been multitudinous in their number, and imperishable from their greatness, none of them would have\nbeen left undestroyed by the various inundations of fanatics\nand foreigners who have, from time to time, overflowed the\nlands of the NileThe Persians and the Saracens, under\nthe influence of religious passion, did all they could for the\noverthrow and ruin of works happily too majestic for their\npuny devices; nnd since invading armies have left the gorgeous ruins in peace, hordes of European travellers have\nbeen doing their best to annihilate what thirty and forty centuries have sparedThere is scarcely a pillar, or temple, or\nmonument, which some hand or other has not been busy in\ndamagingThe beautiful tomb of Osiris, which Belzoni\nlaid open, is already nearly a heap of ruinsNo man has\nbeen a more ruthless rnvager than Champollion himself,\nwith all his pretended respect for Egyptian antiquities, and\nprofessed services to hieroglyphic learningFor one traveler who has visited Egypt to unravel and to honor the venerable records of her solemn history, a hundred come lo defile and deface them.\nA German Prince, whose proceedings are seldom spoken\nof in Egypt without some addendum of reproach, thought it\na very fine thing to leave his distinguished name in large\nblack and filthy characters on the most prominent part of tho\nlarge sarcophagus in the sepulchre of Remesis the Fifth.\nThe dilapidations of some of the most striking remains of\nEgyptian antiquities have long been witnessed with sorrow\nand shame by every thoughtful traveller, and many a wish\nhas been vainly uttered that measures should be taken for\ntheir preservation.\u2014Even within a few years, some of the\nmost interesting nnd ancient buildings\u2014as the temple cf A-\nbydos and Hermopolosis\u2014have been wholly overthrown, and\neven the sites they occupied are scarcely traceableTin-\nattention of the Pacha has, however, lately been particularly\ncalled to the subject, and he requested DrBowring to draw\nup a plan for the preservation of the monuments that remain, for the prosecuting future discoveries, and for the formation of a museum of Egyptian antiquities in CairoIn\nconsequence of DrBowling's recommendation, a permanent commission has been formed al Caiio, by thedirection\nof Mahomet Ali, consisting of the principal Ministers of\nState, of the Consul Generals of England, France, Austria,\nand Russia, the President and Secretary of the Egyptian Society, and othcT appropriate persons, to whom is to be committed the guardianship of the monuments of EgyptA sum\nis to be placed annually at their disposal, to enable them to protect the various temples, tombs, and works of art, to pursue\nnew investigations; to employ fit persons in order to report\non the state of existing antiquities, and lo provide for their\nsafe and proper keepingNo ancient monument will be removed in future without their sanction, which is also necessary to allow any person to commence or to continue excavations   They will facilitate the researches of the curious and\nm\n.--'I-\"'\n*!\n1\n\u2022'.\nml\n4\n\u25a0i-\nMl\ni","fullrs":{},"find":"584.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"583","restrictionCode":"1","cdmfilesize":"1773133","cdmfilesizeformatted":"1.69 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 12</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/551</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>551</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/551/json"
+                        timestamp="2017-02-09 16:30:52">{"title":"Page 12","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"i , \u25a0\nISS\nSOUTH-WESTERN   JOURNAL.\nIn the examination of [lie Sophomore class, the Committee wero surprised and delighted in contemplating tho evidence before them of ihe fact, that minds so young, and especially femab) minds, could be made, by means of the new\nmethod of instruction, to comprehend the preliminary principle's of the higher blanches of science. In tho examination\nof the Junior and Senior classes, there were further and fuller devel ipments. These young ladies had travelled the\nsame path which the Sophomores wero travelling, but they\nnow had attained and were occupying a more elevated and\ncommanding position. The reality of their attainments\nwas fully evident. They fully understood the subjects upon\nwhich they wero examined. From their perfect familiarity\nwith tho whole of the subject, and tho readiness and accur.;-\ny of their replies lo every question asked by the Commitl\nTho Committee noticed, with both interest and adm'\ntion, the peculiar kind of government which the Prineinnl\nhas succeeded in establishing.    It is truly paternal and th\ntoo of the most aflecti6nnte and efficient kind.    Th\u2122 \u201e\u201e,,\nas ono united, harmonious nnd affectionate family,    qu\nteachers are kind, conciliating and affectionate, but\ne is generally excluded.    They had just exhibited such\nilieir proficiency and success, so far ns they had\n,    .   the other s :;, in any institution in tho land, would\nto show.    They had exhibited capabilities of com-\n\u25a0 \u25a0 what tiny had begun\u2014capabilities of acquiring a\ne of the whi I \u2022 circle ofthe higher branches of sci-\ne,    i.l of taking their scats among the best educated ol\ni n  .. in the land. The Committee are not only prepared\nid i]: tho language of the report of the last examination,\n1.-  ,, \"We have not attended an examination in any school\n:ollege in the United States, where we have witnessed a\n:   accurate and thorough knowledge of tho subjects to\nthe examination extended,\" but we would also say\n. the institution has no1 Iy held on its course    It has fully\nified the fond anticipation of its friends.    Tho lovely bud\n' mplated with so much interest at the last examination, is\n.- unfolding, nnd becoming a beautiful flower.    If it L\n11 illy watered and constantly nourished, nnd if it, at the\nle tone, enjoy tho smiles and sunshine of  Heaven, wo\npoet soon to witness (lie production of such fruit as\nejoieo   and gladden tho hearts of multitudes in the\nlac I.\nIn the musical department, under the instruction of Mrs.\nBruner.tho samostrict adherence to the two favorite rubs ol\nthe institution, is carefully observed. The Committee were\nfavored with several pieces of music, both by young beginners nnd also by those who had attained a high degree of\nknowledge and skill, Although tho late indisposition of\ntheir amiable and accomplished instructress prevented her\nfrom bestowing so large an amount of labor upon her pupils\nas she bestowed upon them during the former session, anel\nwhich she hopes lo bestow upon them dining the next session, yet the progress which they had made, and their evi\ndent accuracy anel skill, boro ample testimony to their own\ntalents and industry, and to the superior ability, splendid attainments, and untiring energy of their excellent instructress.\ncommand.\ning.    The pupils arc familiar with their teachers, affectioi\nate, respectful, obedient and happy.\nThe Commitlee also observed with pleasure, the professior.\nn! enthusiasm of the teachers, and also their success in communicating il lo their pupils.    The communication of know.\nbdge by the teachers, and the reception of it by the pupils\nseem to aflord &lt; njoyment of the highest kind to both, so ihat\ninstruction nnd study are no longer a drudgery, but rather a\ndelight.    Failure in the communication of knowledg\/, seems\nit v.,.; f.dly evident to them that the whole subject had been toe hstitute no part of tho calculations of ihe teachers. Sue-\n'.Iy studied an I fully digested, and not that a particu- cessful effort often repealed, assures the pupils of the gbilily\nlar pari uu3 prepared especially for examination.    It is im- of their teachers, and inspires them with full confidence in\npoi ibb that there should bo any mistake, in relation to this their own power.    The natural consequence i;, that one\nfie.t.    ', he position of these young- ladies was interesting and achievement succeeds another so rapidly that it forms a con-\nnoblo.    They had engaged in the study of several branches tinual triumph.    The instructors and instructed mingle their\nice, from the study of which their sex in some mea- affections and enjoyments together.    They are tilled wilh\nenthusiasm, and animated wilh similar ardor and zeal; they\npress forward to the achievement of new triumphs.\nSuch are the affections of thopupils for their teachers,and\nsuch are tin ir obedience and faithfulness in the discharge of\nduly, that it was stated to the Committee as an important fact,\nthat no punishment had yet been inflicted on any member of\ntho three higher classes.\nTho Committee also observed with surprise nnd pleasure,\nthat their were no bad scholars in anyof these classes. Soma\ndi.-j layed more talent, discrimination and reo lin ss than others, but all appeared to bo well acquainted wilh the. subjects\nWhilst many dotil I and some disbelii ve that the minds of\nchildren so young, and female minds of greater maturity, am\nea] ible of engaging in the successful study of the difficult\nand higher brunchesof science, the Committee feel assured,\nthat if any such hed attended this examination and witnessed\ntho attainments undoubtedly made, such doubt-; and disbelief\nwould have disappeared from every candid mind, before llic\nmass of evidence presented; whilst theyaro fully aware ihat\nmany efl'orts to instruct such minds ill the highi r branches of\nscience have failed, they bear full and unequivocal testimony\nto tho fact, that in this institution the effort has succeeded.\nThe Committee hesitate not to say, that if tho course ot\nstudy be enlarged, and additional teachers employed, according to the views of the Principal, whenever he is enabled lo\ndo it, and if the institution can bo kept in operation a few\nyears upon the same principles upon which it is now conducted, and if parents and guardians can only be persuaded lo\nivo their (laughters anel wards a thorough education! Natchez and the State of Mississippi, and tho South-Wcst, will\nsoon enjoy the benefit of possessing a lurge number ol ladies\nof highly cultivated minds, whoso learning and accomplish\nnients will not be inferior to that of any of their sex in other\npails of the United States, and whoso power will rest on tha\nsure basis of moral and intellectual worth.\nii","fullrs":{},"find":"552.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"551","restrictionCode":"1","cdmfilesize":"1755296","cdmfilesizeformatted":"1.67 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

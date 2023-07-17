@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 13</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/535</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>535</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/535/json"
+                        timestamp="2017-02-09 16:31:05">{"title":"Page 13","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"j^UTH.WESTERN JOURNAL.\n173\n,,-v there millions of bones of this animal, and collected\nwme nmong which were seventeen tusks, six feet long anel\ncue in diameter, but most of them were much decomposed.\nThis coincides with what the Camanche Indians tell of immense accumulations of these remains in certain places near\nthe Arkansaw river, and it is perhaps upon this circumstance\nthat they have founded tho following tradition. They say\nihat, in times long past, when their remote ancestors lived,\ntins animal inhabited all the country as far as was known to\nthem, and ranged, in large herds, the wide-extended prairies\nof the west. As no prcdaccous animal lived that could destroy them, the race increased rapidly, and became so numerous, that they were destroying the pasturage of the bison\nand deer, which suffered in consequence, and the game of\nthe Indian was becoming scarce. The \"Giver of breath\"\nsaw this and was angry, and he caused them all to die of a\n..veiling of the throat, (perhaps a figurative expression for\nhunger.) In South America, immense numbers of these\nri-inains are found, which have always been considered, by\ntho natives and their conquerors, as the bon\"s of giants; and\nihe guides point out to travellers the marks of the thunder\nwhich they suppose to have destroyed them.\nIt is from a similar tradition that a place near Santa Fe d\nBogota, where numbers of these remains are found, has re\nreived the name of the Giants' Camp.    Humboldt says, that\nthere is an immense collection of them at this place, whicl\nii 9000 feet above the sea.\nla most cases, thcie is sufficient evidence that these animals died upon the spot where their remains are found, and\nihat they have not been transported by water; for not only\nare the bones unworn by water, but the skeleton is often\nfound in an upright or standing position, just as the animal\nsank into Ihe marsh or mud, clay or sand in which it is discovered.    Thus arc found  those of the Osage river, those\nmentioned by Deckay and others, and many of those of Big\nBone Lick, notwithstanding the reports given by Bullock\nand William Cooper, who report the bones to have been\nscattered promiscuously, broken and water-worn; \"some of\nthe large fragments of the tusks of the elephant are worn\nquite flat and smooth, as if they had lain half buried in a\nwater course, and worn down by Ihe action from above.\" *\nIt is evident here, that the writers of the article referred to,\nwere not aware of the fact, that all elephants which have\nhuge tasks, wear away the under part of them by rubbing\nagainst the earth, rocks, and trees, thus giving them a flattened appearance and a smooth surface below; and this flattening, which took place in the animals' life time, was attributed, through ignorance, to tho wear produced by water\nafter their death.\nNo indications have been discovered of tho waters of the\nmastodon must have ceased to exist at a comparatively recent\nepoch, perhaps since the existence of man, though long previous to his earliest historical records.\nThere is a tendency in the mind of man which it is necessary to guard against when we approach a subject ol this\nkindj it is that feeling which leads us to attribute to mysterious agency, and to consider as beyond the scope of our reason, every effect whoso cause is not readily appreciable to\nus. It has caused writers to throw around the existence and\ndisappearance of the species which have become extinct, a\nveil and a mystery that belongs not to them. There is nothing hidden, nothing incomprehensible in the extermination\nof species of animals; the Dodo of the Isle of France, has\nceased to exist within the lust century, in consequence of\nknown causes; the Kangaroo of New Holland, is rapidly\ndisappearing from the plains where it was once the only representative of the graminivorous tribes; the Hippopotamus\nand Rhinoceros are now rare in their own native jungles.\nAll of the thick-skinned animals not protected by man nre\nhastening on to extinction; nor will he, with all his power\nand care, be able to save the Elephant from the same impending doom, The mind is prepared, by the contemplation of\nsuch future revolutions, to look for tho signs of others, of an\nanalogous nature, in the monuments of tho past. Instead of\nbeing astonished at the proofs there manifested of endless mutations in the animate world, they will appear to one, who\nhas thought profoundly on the fluctuations now in progress,\nto afford evidence in favor of the uniformity of the system\nunless we are precluded from speaking of uniformity, when\nwe characterize a principle of endless variation.\nK we are ignorant of tho precise causes that operated to\nihe extermination of extinct species, it is because we arc nol\nsufficiently acquainted with tho circumstances amidst which\nthey lived; but we may be assured that they ceased to exist\nin consequence of those general laws of coexistence, which\nwero given not for the benefit of individuals, nor species, bul\nfor the universal good.\nThere are nine species of Mastodon received by naturalists, six of which are indicated by Cuvier.* Others have\nalso been described by naturalists, but have not been recognized by the best authorities, from suspicions that the differences were not sufficient to authorize the formation of new\nsea having passed over the remains of these animals; no remains of Zoophytes or shells have been found upon the\noones or in the layers containing them. The bones are often\nfound along with tho remains of recent animals, as the elk\nand bison. From these facts, and Others of a similar nature\nmat might bo produced, wo are led to the conclusion that the\n' Sen Fcalhemonliaugh's Monthly Journal ofGooIoey, No, 0\u2014Article, No-\n\u00ab\u00bbol nig Uono ,.jL-k, w. Coopor, p, 214.\nSpecies 1st. Mastodon Giganteum; the great Mastodon\nof North America, erroneously called Mammoth by the English.    Cuvier's Osscmens Fossiles.\nSpecies 2d. Mastodon Augustidens; found in Simorre,\nSouth of France, Tuscany, and Switzerland. Cuvier's Osscmens Fossiles.\nSpecies 3d. Mastodon Cordillerarum. This species was\nfounded on some teeth discovered by Humboldt, near the volcano of Imbaburra, in tho kingdom of Quito; and also in\nthe province of Chiquitos, near Santo Crux do la Sierra. Cuvier's Ossemcns Fossiles.\nSpecies 4th. Mastodon Humholdti. Founded upon teeth\nfound by Humboldt at Conception in Chili.    Cuvier.\n\u2022Sco Cuvlcr'a Omrcinciis FoMllM, 3d million, volume I. Artiele-Vmn\nMastodon*,\n\u25a0 Am\n, u\n','. &lt; |\n'\u2022::., I!'\nm\n, t- \u25a0 ',\ni!\n!\u25a0","fullrs":{},"find":"536.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"535","restrictionCode":"1","cdmfilesize":"1643641","cdmfilesizeformatted":"1.57 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

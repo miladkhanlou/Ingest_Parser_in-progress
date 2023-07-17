@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 2</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2111</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2111</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2111/json"
+                        timestamp="2017-02-03 08:24:45">{"title":"Section 3, Page 2","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"riant life, and comparative poverty and imbecility, are the alternatives\nwhich seem to be presented ; the realization of which may depend, in a\nmuch higher degree than we have supposed, upon our own individual\nagencies.\nIt is time that we were truly aroused to the urgencies and necessities of the occasion, whilst all the world around us is in motion. The\ninteriors of many of our great states arc as difficult practically of\ncommunication with their commercial cities, or with each other, as\nthey would be were the restraints of separate governments and\ncustom-house collectors interposed between them ! Roads for many\nmonths of the year almost impassable, and at all times of enormously\ncostly and laborious transit;\u2014rivers with their insecurities and detentions, and frequent and frightful losses, exclude us from intercourse and\neasy connection with each other, except upon the borders of the very\nlargest rivers. For many months of the year the citizens of Louisville\nmight reach New-Orleans by way of New-York sooner than by that\nof the Ohio and the Mississippi! Nashville is at all times as distant\nand of more hazardous approach to New-Orleans than is New-York.\nLittle Rock is practically as far from the ocean as if seated at the\nFalls of St. Anthony. But this is not the worst. Whole regions of\nimmense fertility within our limits are shut out entirely and hopelessly from any market whatever, and in not one of our states can the\ncitizens of the interior reach their shipping or commercial points in\nless time than it would take a citizen of Boston to visit New-York,\nPhiladelphia, Baltimore and Washington, and even in many cases to\nstop at each of the points\u2014and return to his home ! Thus is it, that\nour prosperity is interrupted by causes which tend to separate us in\ninterests and in feelings ; and thus is it that we seem incapable of\nalliance for any great purpose, whilst other sections of the Union\nconstitute, so far as their interests are concerned, always a unit.\nIf we compare the ten northern states, Maine, New-Hampshire,\nVermont, Connecticut, Rhode Island, Delaware, New-Jersey, Massa-\nchusetts, Pennsylvania, New-York, with the ten southern, Maryland,\nVirginia, North and South Carolina, Georgia, Alabama, Florida,\nLouisiana, Arkansas, Tennessee, we find the population of each class\nof states being nearly equal, the North has 6,838 miles of railroad in operation, whilst the South has but 2,309. Thus, in the comparison of population, the North has three miles of rail-road to our\none. The comparison wrould be still more striking, were the states\nof the South-west compared with those of New-England. If we\ncompare, in regard to territory, the area of the Northern states is\nless than one-fourth that of the Southern, or one-sixth, including Texas.\nThus the North has four times, or including Texas, six times the extent of rail-roads to the square mile that we have.\nThe average cost of rail-roads at the North has been at least\ndouble that of the South;* therefore, each individual of the North has\n* January 1st, 1849, there were in Massachusetts, and the adjacent states, 1,259 miles\nof rail-road, costing $47,322,938\u2014equal to $37,587 72 per mile. The average coat of 247\nmiles of road, in jJorth Carolina, was $12,806 per mile ; of 51 miles in Alabama, it was\n$10,763 ; of the Central Road of Georgia, 190 miles long, it was 312,702 per mile, and the\nMacon and Western Hail-road, 101 miles, cost only $6,218 per mile. The Jefferson Railroad, Indiana, cost $8,064 42 per mile\u201466 miles.","fullrs":{},"find":"2112.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2111","restrictionCode":"1","cdmfilesize":"584682","cdmfilesizeformatted":"0.56 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

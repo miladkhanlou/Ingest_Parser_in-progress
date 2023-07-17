@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Folder 1a-06, Hermann Moyse, Sr. Letters, 1918 Jan. 9-Mar. 18</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Moyse, Hermann, 1891-1985</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name displayLabel="Author">
+      <namePart>Charmais, M.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1918</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>World War, 1914-1918</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Atlantic Ocean</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Blois (France)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Loir-et-Cher (France)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>France</geographic>
+   </subject>
+   <abstract displayLabel="Description">This folder contains eight letters from January 9 through March 18, five of which Hermann Moyse wrote to Rosalie Gottlieb.  The folder also contains a telegram dated January 20, from Moyse to his brother-in-law Lep Sommer, announcing Moyse's safe arrival in France, a letter from Moyse to his parents Simon and Flora Moyse, and a letter from a Frenchman to Simon and Flora Moyse. In the letters, Moyse writes of his brief stay in New York shortly before his deployment to France, of his trip across the Atlantic Ocean, of his favorable first impressions of France, praising the country's natural beauty and the friendliness of its people, and, in a letter to Gottlieb dated March 12, of his first visit to Paris ("[N]othing I have ever read or heard about Paris from its beauty on down, inclusive, was exaggerated").  Moyse notes in the same letter that "it is the ninth wonder of the world to the French how lively and gay the Americans are and how rapidly and efficiently we work."A letter written in French and dated March 3 is from a man named M. Charmais in the town of Disly-Loir-et-Cher who informs Moyse's parents that he has had the pleasure of meeting their son, and, as someone with a son and son-in-law at war, would like to compliment the Moyses on raising such a 'good and sweet son.'</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>8 letters.</extent>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <genre>correspondence</genre>
+   <language>
+      <languageTerm type="code">en; fr</languageTerm>
+  </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Hermann Moyse, Sr. World War I Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4671.pdf</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p15140coll18%3Acollection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location">Louisiana State University: LSU Libraries</physicalLocation>
+      <url displayLabel="Institution Web Site">http://lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Mss. 4671, Box 1a: 6</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication.html</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll18/id/1637</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-06</recordChangeDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-11-24</recordCreationDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll18</alias>
+         <pointer>1637</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll18/1637/json"
+                        timestamp="2017-02-06 12:53:17">{"title":"Folder 1a-06, Hermann Moyse, Sr. Letters, 1918 Jan. 9-Mar. 18","creato":"Moyse, Hermann, 1891-1985; Charmais, M.","date":"1918","physic":"8 letters.","langua":"en; fr","type":"correspondence","covera":"New York (N.Y.); Atlantic Ocean; Blois (France); Loir-et-Cher (France); France","subjec":"World War, 1914-1918","descri":"This folder contains eight letters from January 9 through March 18, five of which Hermann Moyse wrote to Rosalie Gottlieb.  The folder also contains a telegram dated January 20, from Moyse to his brother-in-law Lep Sommer, announcing Moyse's safe arrival in France, a letter from Moyse to his parents Simon and Flora Moyse, and a letter from a Frenchman to Simon and Flora Moyse.&lt;br&gt;&lt;br&gt; In the letters, Moyse writes of his brief stay in New York shortly before his deployment to France, of his trip across the Atlantic Ocean, of his favorable first impressions of France, praising the country's natural beauty and the friendliness of its people, and, in a letter to Gottlieb dated March 12, of his first visit to Paris (\"[N]othing I have ever read or heard about Paris from its beauty on down, inclusive, was exaggerated\").  Moyse notes in the same letter that \"it is the ninth wonder of the world to the French how lively and gay the Americans are and how rapidly and efficiently we work.\"&lt;br&gt;&lt;br&gt;A letter written in French and dated March 3 is from a man named M. Charmais in the town of Disly-Loir-et-Cher who informs Moyse's parents that he has had the pleasure of meeting their son, and, as someone with a son and son-in-law at war, would like to compliment the Moyses on raising such a 'good and sweet son.'","locati":"Mss. 4671, Box 1a: 6","source":"Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4671.pdf","contri":{},"notes":{},"publis":{},"format":{},"relati":{},"rights":{},"contac":{},"catalo":{},"imaga":{},"color":{},"extent":{},"imagb":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"1638.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2010-11-24","dmmodified":"2010-11-24","dmoclcno":{},"dmrecord":"1637","restrictionCode":"1","cdmfilesize":"9447","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

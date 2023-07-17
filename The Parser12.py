@@ -1,7 +1,7 @@
 #### What to expect ####
-###1.   Find unique attributes and tags in directory containing xml files
-###2.   A metadata containing all the possible Xpaths in xml files, alongside of number of repitition and field assosiated with every path.
-###3.   To get the final metadata for ingesting to LDL, we will parse into the xml files one more time and get paths, then we'll compare those paths to paths in previous step and will create another csv with the right field name and text within new xpath we parsed
+###1  Find unique attributes and tags in directory containing xml files
+###2  A metadata containing all the possible Xpaths in xml files, alongside of number of repitition and field assosiated with every path.
+###3  To get the final metadata for ingesting to LDL, we will parse into the xml files one more time and get paths, then we'll compare those paths to paths in previous step and will create another csv with the right field name and text within new xpath we parsed
 
 
 import xml.etree.ElementTree as ET
@@ -110,6 +110,8 @@ def dataToCsv(arg):
     df_attTG.to_csv("{}.csv".format(arg.output_attribsTags), index=0)
     print("An attribute/Tag csv file saved in this directory: {directory}.csv".format(directory = arg))
 
+
+
 ######################################################################## Part II: Get the XML Path , check for spelling and errors in each xml path according to Part1 ########################################################################
 def inpute_csv(arg):
     print("Reading the input csv, containing Attributes and Tags in LDL collections------------------")
@@ -187,7 +189,7 @@ def PathRepeatCheck(ntpath):
 def ErrorRepeatCheck():
     # unique errors 
     uniqueErrors = []
-    #b. Handeling Duplicated Errors in attributes and tags
+    #bHandeling Duplicated Errors in attributes and tags
     for err in errors:
         if err not in uniqueErrors:
             uniqueErrors.append(err)
@@ -267,10 +269,8 @@ class xmlSet(object):
 
 ## Main parse function
 def parse_mods(filename,DataFrame):
-    print(filename)
     root = ET.iterparse(filename, events=('start', 'end'))
-    print(root)
-    #get pids
+    #get pid names
     data = {}
     pid = getPid(filename)
     data.update({"PID": pid})
@@ -291,10 +291,10 @@ def xml2workbench(root,data_frame):
     field_with_text = {}  #add fields to dictionary
     for Xpaths in list(data_frame["Fields"]):
         field_with_text[Xpaths] = []
-    
+    test = []
     result_dict = {} #the paths with the text in them with the name of paths, it will be epty out in every iteration (perpuse is only for comparison with master csv)
-    for a,elem in root:
-        if a == 'start':
+    for event,elem in root:
+        if event == 'start':
             ## we are creating xml paths in this condition
             attribs = [] 
             atribValues = []
@@ -314,16 +314,17 @@ def xml2workbench(root,data_frame):
                 pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
                 path = '/'.join(pathName)
                 path_list.append(path)
-        else:
             # Retrieve text from the nested XML path that get closed after the final open one
             if path in path_list and elem.text is not None and elem.text.strip() != "":
                 result_dict.setdefault(path, [])
                 result_dict[path].append(elem.text.strip())
-                # print("Text from {}===========> {}".format(path, elem.text.strip()))
             elif elem.text is None:
                 continue
+
+        elif event== 'end':
             pathName.pop()
-                
+    for i, j in result_dict.items():
+        print("{} ----------> {}".format(i,j))
     ##compare xml paths we created from the directory of mods to the master csv we parsed before, and write the texts from value of result_dict dictionary to the field defined in master csv        
     Field_from_csv = []
     for paths, values in result_dict.items():
@@ -378,6 +379,10 @@ def main():
         with open(args.output_directory, 'w') as csv:
             data.print(csv)
 main()
+
+
+
+
 
 #Run on LDL_Content data 
 #Step1: get the attribute and tags:                 >>> python3 The\ Parser7.py -i Data/LDLContent -oat Output/LDL_Content_attTags_may19 

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 17</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/606</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>606</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/606/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 17","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\n243\nperpetuation of ourselves. Then, in all our getting of knowledge\u2014lot moral culture bo the corner stone. It is the link\nthat connects with Angels and Jehovah himself\u2014and in caz\ning upon tho King of Kings, we shall be changed into the\nsame image, from glory to glory. Guided by animal im\npulses alone, we are no better than the beasts that perish,\nIntellect, with the full stretch of all its gigantic powers un\ncontrolled by moral principle, is at best but a blind Cyclops\n\u2014a Polyphemus with his thunderbolts and a demon's heart\nto guide them.\nAnimalism\u2014mere brute propensity, we nre sorrow to say-\nit, is in tho ascendancy among us. Its results you all see in\nthe vice and crime prevalent in our land. And vice is a\ncontagion of the most terrible virulence\u2014more contagious\nand fatal than plague or cholera. Our old men have died of\nit, our young men, many of them have also caught tho disease, and they ton will die, yes, die eternally, if they are not\ncured. Our children are now exposed to tho same contagion.\nWhat parent, what philanthropist, then, can sit still or be\nidle, amidst this moral desolation. Ho deserves not the name,\nnor the habitation of a man who would not bo up and doing.\nThe mountain defile, the tiger's lair, or the den of the hooting owl, would better suit the moral and intellectual sluggard,\nthan the abode's of man. Tho march of mind, the march of\nmorals is onward, but as long as wc arc exposed to the contagion of moral pestilence, it becomes us to be vigilant. Let\nus throw a strong cordon all around us. Our Civil Associations, our Literary Societies, our benevolent enterprises,\nour Sabbath Schools, and Maternal Bands, arc our out-posts.*\nWe need strong nerves, wise heads, and kind hearts to man\nthem. Who, then, will to the rescue. Lag who may, let\nour motto, friends, be ever onward.\nSelections from Foreign Journals.\nANCIENT DAYS.\nBY  MICHAEL  J.  QXIN,  AUTHOR  OP  NOCnMAIIAL,  &amp;C.\nNo trains of thought are more interesting than those\nwhich lead the mind back to the patriarchal ages. It is delightful to catch tho vistas that open here and there occasion\nally through tho shadowy courses of history\u2014to behold the\nfathers of mankind seated beneath tho spreading tree, or inhal\ning at ihe doors of their tents the spicy breezes of the morn\ning\u2014attended by their families\u2014dispensing the lessons of\nwisdom which they learned from tradition, or collected from\ntheir own experience. One always associates with such\nscenes a halcyon tranquility that knew no interruption from\nday today\u2014the pure fountains from which the maidens drew\nsupplies of the clement so essential to all domestic purposes\u2014\ndie boundless pasturages in which herds and flocks roved at\nwill\u2014the fruitage anel fragrance of Arabia\u2014tho milk and\nhoney of Canaan\u2014the cedars of Lebanon\u2014tho palms bordering the Jordan\u2014tho comprehensive affections of an Abraham, and the beauty of a Rebecca.\nGlancing from these woodland and pastoral scenes to the\nnations oven then employed in the production of objects that\nindicate progress in all the arts of civilized life\u2014their agri-\n'Allusions to our Cily Sociclieg,\nculture carried to a high degree of perfection\u2014their commerce conducted over distant seas\u2014their wars waged by vast\narmies\u2014their weapons, chariots, armour, helmets, shields.anel\ncostume manufactured with a degree of skill, and embellished\nwith a multitude of ornaments, not excelled in elegance even\nat tho present day\u2014we lapse into reveries from which it is\npainful to be disturbed by the calculations of chronology.\nIndia\u2014China\u2014Egypt\u2014what store-houses of the ancieni\ndays I In which did Civilization commence her career ?\nWhere did the spider first teach man to spin the thread, and\nto weave the net ? The fall of the Tower of Babel, did it\ngive rise to the Pyramids ? What \" desolate cities \" were\nthose\u2014where were those \" desert houses reduced into heaps,\"\nof which Job speaks ? Who were the accumulators of the\n\" treasures hidden\" in the earth long before his time, to\nwhich he alludes? \"Desolate cities\"\u2014\"ruined\u2014deserted\nhouses,\" \" treasures hidden \" in places no longer remembered\u2014at an epoch full fifteen hundred years at least before the\ncommencement of the Christian era ?\nHow many ages did it require to produce the population\nthat built and decorated the cities which had then become\nlesolate? Whence did they derive exuerience in the cultivation of thoso arts of manufacture by which only large\ncities can be supported ? Even now the notion of treasure\nbeing buried in the earth by opulent people who flourished\nin ancient times is so prevalent in tho East, that travellers arc\nconstantly suspected by the natives as having no other object\nfor their researches than the discovery and appropriation of\nsuch deposits. Only imagine riches that had rusted in their\nunknown sepulchres long before Job took- counsel of the\nThemanite! Ho moreover speaks familiarly of a state of\ncommerce in which gold and silver were exchanged for dyed\ncloths, conveyed to his country from India, and for precious\nstones from Ethiopia. Luxuries such as these prove a condition of society then existing in Ethiopia, Syria, and India,\nwhich must have attained a high degree ol refinement. Bin\na similar degree of civilization must have been known lo the\ncities that had then the ivy mantling their ruined houses\u2014the\nwind murmuring through their desolate, streets !\nThese are not dreams ! Tho traces of towns and temples\nengulfed in the earth and sea by tho earthquakes and the\ninundations which havo visited India at periods lost to tho\nmemory of man; the numberless ruins to bo found in all parts\nof Syria, of cities of which history nnd tradition are silent,\nand whose very names have perished; the mighty devastations on tho banks of tho Nile, bear ample testimony to the\nfacts alluded to by the simple and.upright mourner of the\nland of Hits. When, in consequence of a famine, Abraham\nquitted his own country and went down to Egypt, it appears\nlo have been even nt thnt period\u2014eighteen hundred years and\nmoro before tho beginning of our era\u2014the granary of nations.\nFrom the scriptural narrative it is manifest that his son Joseph\nfound the Egyptians fnr advanced in many of the arts that\nembellish a refined state of society. Pharoah presented Joseph\nwith a \" ring from his own hand,\" a \" robe of silk,\" a neck\nchain of gold,\" and a chariot. Egypt appears to havo been\nat that time universally cultivated. Money was already in\nuse, for Joseph's brothers are said to have taken considerable","fullrs":{},"find":"607.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"606","restrictionCode":"1","cdmfilesize":"1705214","cdmfilesizeformatted":"1.63 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

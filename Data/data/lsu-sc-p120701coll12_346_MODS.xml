@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 29</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/618</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>618</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/618/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 29","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN   JOURNAL.\nfrom lhc. dark nnd shapeless mass. The mountains of Caf\nfraria, the home of tho lion and tho ostrich, have received\nmany intelligent freemen, who seek, in imitation of the colo\nnists of Massachusetts and Virginia, an empire of equal\nlaws in those almost unknown numerous little republics,\nwhich arc scattered along the Atlantic coasts of that conti\nnent, professing the principles of our government\u2014adopting\nliterally our constitution.\n\" On the American continent numerous republics have been\nestablished in professed imitation of our own. They have\nnot equalled the prototype, but still they manifest a spirit of\nimprovement. Ono bright star alone of kindred ray has\nbeen added to the constellation, which has long attracted the\neye of the navigator on the sea of revolution. May the\nbeams it throws, far to the west, teach all beholders the difference between the pure light of freedom and the flash of\nthe meteor that gleams through the dark wastes of revolutionary Mexico.\n\" Thus we have endeavored to catch a bird's eye view of\nthe political aspect of the world. In this excursion we have\nseen that the whole mass of mankind is in commotion, anxiety and excitement, striving with energy for intellectual improvement and the advancement of liberal principles. Was\nit always thus from the beginning of the world? or has\nthe influence of the spirit and tho dissemination of the principles, so eloquently set forth in that instrument which we\nhave just heard read, aroused the dormant energies of man.\n\" Our stars have shone on every horizon\u2014the beacon fires\nwo kindled have been answered from the hills of every land,\nand the loud shout which a new-born nation sent forth has\nbeen echoed from every mountain and reverberated through\nevery valley. Whenever a people have asserted their rights\nwith tho sword, they have cited our example. When\nthrough toil and danger, they havo accomplished the objects\nof their wishes, they have sought our alliance, and hailed us\nas friends and brothers; and, when the oppressor proved too\nstrong, they sought an asylum and a refuge on our shores.\nThis is not fancy\u2014it is sober truth.\"\nIt is a fact of which few are aware, that at Satartia, on the\nYazoo river, moulder the ruins of a dilapidated Fort, which,\nduring French ascendancy in this country, was tho abode and\nasylum of civilized man. Though the fact that tho French,\na long time anterior to the revolution, bad a Fort upon the\nYazoo river, is incidentally mentioned in connection with the\nearly history of General Washington, yet little, even at that\nperiod, seems to have been known of its locality, its object,\nor its destiny; and its mention has faded from tho page of\nAmerican history, and its recollection from the mind of man.\nBut it is on that account encircled with unusual interest, and\nclothed in imaginary grandeur; as fancy unrestrained by\nfact, must weave its history, rear again its splendid but fallen\nwalls\u2014people its silent arcades\u2014string anew the lute by\nwhich the lover softened and civilized the dusky forest maiden ; and mount the deep-mouthed cannon, whoso thunders\nwero heard far along the sluggish waters of the Yazoo.\nThe ditch, which surrounded this once secure and majestic\nFort, is one mile in circumference, and notwithstanding a\nflood of years have poured their obliterating wateTs upon it,\nthe depth is yet about three and a half feet. The dirt which\nwas thrown from it, rises about the same distance above the\nsurface of the surrounding country\u2014making the distance at\npresent, from tho bottom of tho ditch to the top of the embankment, from six to seven feet. This ditch is perfectly circular, and must have been of a grcat depth at the time of its\ncompletion\u2014otherwise its every vestige would have long\nsince disappeared; for such is its age, that the trees which\nhave grown up, both in the ditch and upon the embankment,\nequal in size, and have in every particular the resemblance\nof those of the neighboring forests. The surface of the\nearth, on the inside, is perfectly level, with the exception of\nhero and there a mound, seemingly designed to give the inmates, a view and command of the river, which meanders\nat a distance of two hundred yards from its north-western\nboundary. Tho ruins indicate nothing of the character and\nconstruction of tho Fort, further than the embankment and\ncircular ditch already described. This fort must have been\nconstructed as early, or nearly so, as the settlement of New\nOrleans, nnd have astonished the wild Indian, before he\nlearned the name of the far-firmed \"Natchez.\" Of the history of this desolate home of the soldier, the Indians themselves know but little, having left its tradition behind them, in\ntheir chase after the wild deer of the wilderness. The only\ninformation in relation to it was derived from an Indian, who\nbore some visible traces of his French ancestry, and claimed A\nto be a descendant of a Princess of Yazoos and the FrcnchW\nommandant at the Fott. He lived upon the spot at the time\nthe country was settled by tbe whites, and the tradition, as it\nhad reached him, represented tho French ns once having an\nextensive and lordly possession there, of which the Fort\nwas the centre. They traded wilh the Indians, and attempted to posses themselves of the Yazoo valley. After years of\nlabor and suffering, when they believed themselves nearest\nthe accomplishment of their object, and tho surrounding Indians most peaceful and friendly, the Yazoos suddenly made\na descent upon them, and surprised and massacred the inhabitants of tho Fort. This, he says, originated in the maltreatment of the Princess, his maternal ancestor, by the\nFrench ; but most probably from a desire of plunder in the\nIndians.\nIf some lover of fiction would visit this spot, he might lay\na foundation for some of fancy's brightest and loveliest creations a theme which would render romantic tho mention ol\nthe wilds of Mississippi.\u2014Canton Herald.\nAntiquities from Greece and Asia.\u2014We find in\ni Paris paper the following piece of news:\n\" The American Commodore Elliot has, on board tho Constitution, at Malta, a largo collection of very curious antiquities, which he has taken during his cruise in the Levant,\nfrom the plains of Marathon anel Troy, the neighborhood of\nAthens, Corinth, and Sunium, different parts of Syria, especially Balbcc, tho Holy Land, and Egypt. The most curious\narticle in this collection, are two sarcophagi of marble, found\nnear Beyroot, on the site of the city of Beryta,    They were","fullrs":{},"find":"619.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"618","restrictionCode":"1","cdmfilesize":"1823493","cdmfilesizeformatted":"1.74 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

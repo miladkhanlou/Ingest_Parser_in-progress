@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 21</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/577</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>577</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/577/json"
+                        timestamp="2017-02-09 16:31:01">{"title":"Page 21","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"t-M\nSOUTH-WES T E R N JOURNAL.\n213\nbound us before. Wo invest them with transcendent beauty\nThey are now lovelier than the beings of this world. Their\nbosoms throb upon ours with better sympathy. Their eyes\nlook deep into ours with exceeding love. Strange intellectual power I    What a reunion between the severed I\nCan it be possible that in this spirit dialogue but one spirit\nhas a part\u2014answering itself, and creating but an imaginary\nHiss! No: no: Intellect has a voice that can summon its\nloved from the spirit world. In the arms of my soul, I may,\nivilh due submission to lhc Great Father of spirits, clnsp the\nspirits of my dead. Again upon my heart can I lay the spirit babe', to whom I sobbed a farewell, long years gone by.\nNot only in the arms of my fancy, but really anel indeed in\nintellectual affinity, may I embracemy sweet departed daughter, whose angel spirit in life pined for my happiness, and\nwhose last accent, as her- tongue froze in death, murmured\nmy name !\n[s Intellectual Education Important? Is it power, like\nthai of the visioned Deity, seen by the river Chebar, wheel\nwithin wheel, self-moved and full of the eyes of a fearful intelligence? 'I ako cure, tin n, of your vocation, ye teachers\nof youth and creators of the intellect!\nAmidst the records of mind, I select one of tho most prominent instances of intellectual power and capacity. The\nname ol Bacon is a star of the first magnitude in the horizon\nol intellect. It shines as fur as letters are known, or wherever philosophy has triumphed over snvagisinand ignorance.\nAh, his was an intellect, which, take it all in all, we may\nnever see its like again, while the English language continues lo he tin; medium of literature to three-fourths of the\nworld,\nA keen critic into the elements of Bacon's intellectuality,\nhas finely siiel of him, \"That his understanding'resembled\nthe tent which the fairy Paribonou gave to Prince Ahmed,\nFold it; and it seemed a toy for a Lady's hand,\u2014spread it,\nand the armies of powerful Sultans might repose beneath its\nshade.\"\nTo give to the human mind a direction which it shall re\nlain for ages is ihe rare prerogative of a few imperial spirits.\nThis was Bacon's prerogative.\nThe true philosophical temperament may be described in\nfour words :\u2014much hope, little faith\u2014a disposition to believe\nthat any thing, however extraordinary, may be done ; an indisposition to believe that any thing extraordinary has been\ndone    In those points the constitution'of Bacon's mind seems\nfame was greener than iho laurel. His power was that of a\nmonarch. Yet amidst all this ink llectual wealth and splendor\u2014with a reach of intellect, rarely surpassed, and which\ndistanced all that antiquity had done before him\u2014and shaped\nthe judgment, the reason, and the philosophy of all coming\ntime, there was an awful defect in his Education, which sent\nhim, notwithstanding his great powers, a heart-broken, drivelling and despised old man to Iris grave.\nThere was that in him which more lhan justified Pope's\nantithesis:\n\" The brightest, wisest, meanest of mankind.\"\nI\nn:.\nto have been absolutely perfect.\nA writer has elegantly applied to him the elevated stand in\nintellectuality which Milton gave to the scope of his Archan-\ngel who first surveyed the now creation :\u2014\nRound lie surveyed, and well might, where he stood\nSo high above the circling canopy\nOf night's extended shade,\u2014from eastern point\nOf Libra, to the fleecy star which bears\nAndromeda far oil' Atlantic seas\nBeyond the horizon.\"\nHe wrote of himself: \" I have taken all knowledge to be\nmy province,\"\nEvery thing that study could accomplish was his.    His\nMy purpose only is, by such a dreadful example, to introduce tho last and chief division of my subject,\u2014the Moral\nPower of Education.\nThis was what Bacon lacked. This was the desideratum\nwhich made him vulnerable, and allied his splendid and far-\nreaching intellect to the lowest associations of moral degradation.\nBy the Moral Power ol Education, I mean its influence\non the heart and upon the formation of principle. The memory may be freighted with the lore of all time.thefancy laden \u25a0\nwilh every thing glittering in tho rainbow of genius, tho\njudgment may be perfected, and every intellectual power developed to a giant proportion, and yet the man is not half\nmade\u2014the object of his Education is not half accomplished\n\u2014and in the midst of all intellectual wealth, the man of\nMind may be a moral beggar.\nThis is a point in my subject which demands a irrster ^\nhand, to throw its own imperishable colors on the canvass of\ntime\u2014colors which, when the strongest seen there, are but\ntho eclipse of that bolder moral  picturing which  Eternity\nbears upon ils unwasting tableaux.\nWell may the Teacher of Mind regard his vocation with\nawe, and say of himself as Young said of his species:\n\" Man is the maker of eternal fates.\"\nOn this ground the Educationist wields the power of Oei-\nty\u2014a creator of immortal excellence anel a happiness as limitless as the years of God.\nThe first dawnings of tho morning of Education should\nbo moral suasion\u2014a gentle traclation of the better feelings\nof the infant heart into such courses as will infuse a blessedness through its moral sensibilities. Teach the smallest\nchild to be kind to another, and give of its choicest toys to\nincrease the pleasure of another child, anel it will feel a glow\nin its bosom richer than all the joys of a narrow selfishness;\nteach that child to forgive an injury, and while he puts his\nlittle arms round the offender's neck, to kiss away his wrong,\nhe feels godlike! oh, he would be forever forgiving offences !\nTeach him the claims of duty\u2014how every selfish foeling\nhould give way to the requisitions of duty\u2014how rest, and\nease, and play, and pleasure should intermit\u2014until its littlo\nicart could feel the better pleasure of its duty done\u2014and he\nhas learned the great secret'of being happy through all\ntime.\nTeach him the preciousness of words of truth, and he will\never, of choice, speak those words. Teach him gently, by ev-","fullrs":{},"find":"578.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"577","restrictionCode":"1","cdmfilesize":"1712130","cdmfilesizeformatted":"1.63 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

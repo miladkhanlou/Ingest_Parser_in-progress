@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>N.O.G.NTrack, Main Bridge and Pavilion in Rear, Abita Springs, La</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes" qualifier="questionable">1909</dateCreated>
+      <dateCreated point="end" qualifier="questionable">1913</dateCreated>
+      <publisher>Published by ChasWSchmidt, Abita Springs, LaPrinted in Germany</publisher>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Picture postcards</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Photographic prints</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Abita Springs, La</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Postcard : color ; 3 x 5 in.</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Postcard Collections</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/special/findaid/3645post.pdf</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Range E:65 (short shelf)</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright of the original materials is retained by descendants of the creators of these materials in accordance with U.Scopyright law.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Postcard Collection, Mss3645, 3754, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll10/id/1109</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2013-02-01</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll10</alias>
+         <pointer>1109</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll10/1109/json"
+                        timestamp="2017-05-16 09:45:25">{"title":"N.O.G.NTrack, Main Bridge and Pavilion in Rear, Abita Springs, La","date":"1909? - 1913?","descri":"Postcard : color ; 3 x 5 in.","notes":{},"covera":"Abita Springs, La.","subjec":"Picture postcards.; Photographic prints.","publis":"Published by ChasWSchmidt, Abita Springs, LaPrinted in Germany","digitb":"LSU Libraries Postcard Collections","contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","reposa":"Finding aid: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/3645post.pdf","source":"Range E:65 (short shelf)","cite":"Louisiana Postcard Collection, Mss3645, 3754, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Physical rights are retained by the LSU LibrariesCopyright of the original materials is retained by descendants of the creators of these materials in accordance with U.Scopyright law.","contac":{},"image":{},"identi":"See 'reference url' on the navigation bar","collec":{},"biogra":{},"summar":{},"langua":{},"type":{},"reposi":{},"object":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"hardwa":{},"digiti":{},"digita":{},"transc":{},"fullrs":{},"find":"1110.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2013-02-01","dmmodified":"2013-02-01","dmoclcno":{},"dmrecord":"1109","restrictionCode":"1","cdmfilesize":"320","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

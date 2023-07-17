@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Mobile Pipeline Co.</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>Davis, Donald W.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <publisher>Donald WDavis Collection</publisher>
+      <dateIssued keyDate="yes">1997</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Signs and signboards</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Marathon Oil Company</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Texaco</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Inc</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mobil Corporation</topic>
+   </subject>
+   <abstract displayLabel="Description">Signs for Mobil Pipeline Co, Texaco Loading Dock, Marathonm at Burns Point, Bayou Sale Road, LA, 1997.</abstract>
+   <note type="content" displayLabel="Sub-category">Oil and natural gas</note>
+   <note type="content" displayLabel="Category">Mineral extraction</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <genre>photograph</genre>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/n83230635"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana Sea Grant College Program</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <note type="ownership" displayLabel="Source Note">Donald WDavis Collection</note>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Sea Grant Digital Images Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sea-p15140coll21:collection</url>
+      </location>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by Donald WDavisCopyright is retained in accordance with U.Scopyright laws Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Donald WDavis Slide Collection, Louisiana Sea Grant Collection Images, Louisiana Digital Libraries.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll21/id/2239</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-09-07</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll21</alias>
+         <pointer>2239</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll21/2239/json"
+                        timestamp="2017-05-16 08:50:30">{"title":"Mobile Pipeline Co.","date":"1997","descri":"Signs for Mobil Pipeline Co, Texaco Loading Dock, Marathonm at Burns Point, Bayou Sale Road, LA, 1997.","notes":{},"format":"TIF","source":"Donald WDavis Slide Collection, Louisiana Sea Grant Collection Images, Louisiana Digital Libraries.","creato":"Davis, Donald W.","subjec":"Signs and signboards--Louisiana; Marathon Oil Company; Texaco; Inc.; Mobil Corporation","catego":"Mineral extraction","subcat":"Oil and natural gas","publis":"Donald WDavis Collection","rights":"Physical rights are retained by Donald WDavisCopyright is retained in accordance with U.Scopyright laws Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","reposi":"Donald WDavis Collection","contac":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the Title or File Name in your request.","contri":"95","type":"ddavis0361.tif","identi":{},"langua":{},"relati":{},"covera":{},"coverb":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"2240.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-09-07","dmmodified":"2012-04-20","dmoclcno":{},"dmrecord":"2239","restrictionCode":"1","cdmfilesize":"5419225","cdmfilesizeformatted":"5.17 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

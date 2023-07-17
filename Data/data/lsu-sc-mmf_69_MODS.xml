@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Comentario al Apocalipsis</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Alternative Title">
+      <nonSort>The</nonSort>
+      <title>Beatus Manuscripts</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Saint Beatus, Presbyter of Liebana, d. 798.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1900-01-01</dateCreated>
+      <place>
+         <placeTerm>Spain</placeTerm>
+      </place>
+      <publisher>Madrid: Edilán, 1975</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">In 776 Beatus, a staunchly orthodox monk from the monastery of San Martín de Turieno in Liébana in northern Spain, assembled a commentary on the Book of Revelation, also known as the Apocalypse. Lavishly illustrated and known today as the Beatus manuscripts, the copies of this text made by medieval scribes and illuminators hold a singular place in the history of medieval illumination. Ranging in date from around 885 to around 1240, the surviving Beatus manuscripts and fragments comprise over fifteen hundred individual illuminations.  Vol. 2 contains H.A. Sanders' 1930 transcription of the Latin text, and commentaries on Beatus' work.</abstract>
+   <abstract displayLabel="Contents">Commentary on the Apocalypse</abstract>
+   <note type="content" displayLabel="Illustration">131 miniatures with over 1,200 motifs of Visigothic-Preromanic art</note>
+   <note type="content" displayLabel="Details">V. 1, facsimile; V. 2, transcription and commentary</note>
+   <note type="content" displayLabel="Century">10th century</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <note type="script">Caroline minuscule</note>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">Latin</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-mmf:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Medieval Manuscript Facsimiles Inventory</title>
+      </titleInfo>
+  </relatedItem>
+   <relatedItem type="original">
+      <location>
+         <physicalLocation displayLabel="Current Location of Original">Gerona Cathedral, Gerona, Spain (http://www.catedraldegirona.org/ )</physicalLocation>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Rare BS2825 .B37 1975 FLAT, v. 1-2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <note type="citation/reference" displayLabel="Bibliographical References">In Apocalipsin libri duodecimo</note>
+   <identifier type="local" displayLabel="Object File Name">mm00035</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/MMF/id/419</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2015-02-11</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>MMF</alias>
+         <pointer>419</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/MMF/419/json"
+                        timestamp="2017-02-03 14:39:15">{"title":"Comentario al Apocalipsis","creato":"Saint Beatus, Presbyter of Liebana, d. 798.","centur":"10th century","date":"975","origin":"Spain","conten":"Commentary on the Apocalypse","illust":"131 miniatures with over 1,200 motifs of Visigothic-Preromanic art","script":"Caroline minuscule","scribe":"Unknown","curren":"Gerona Cathedral, Gerona, Spain (http:\/\/www.catedraldegirona.org\/ )","descri":"In 776 Beatus, a staunchly orthodox monk from the monastery of San Mart\u00edn de Turieno in Li\u00e9bana in northern Spain, assembled a commentary on the Book of Revelation, also known as the Apocalypse. Lavishly illustrated and known today as the Beatus manuscripts, the copies of this text made by medieval scribes and illuminators hold a singular place in the history of medieval illumination. Ranging in date from around 885 to around 1240, the surviving Beatus manuscripts and fragments comprise over fifteen hundred individual illuminations.  Vol. 2 contains H.A. Sanders' 1930 transcription of the Latin text, and commentaries on Beatus' work.","biblio":"In Apocalipsin libri duodecimo","public":{},"associ":{},"altern":"The Beatus Manuscripts","langua":"Latin","genres":{},"facsim":"Madrid: Edil\u00e1n, 1975","extena":"V. 1, facsimile; V. 2, transcription and commentary","call":"Rare BS2825 .B37 1975 FLAT, v. 1-2","contri":{},"publis":{},"type":"Text","format":{},"source":"Louisiana State University Libraries, Special Collections, (http:\/\/www.lib.lsu.edu\/special)","covera":{},"coverb":{},"catlog":{},"catalo":{},"object":"mm00035","plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"imagb":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","identi":"See 'reference url' on the navigation bars.","collec":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_MMF.php?CISOROOT=%2FMMF","dates":"975","fullrs":{},"find":"420.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2015-02-11","dmmodified":"2015-02-11","dmoclcno":{},"dmrecord":"419","restrictionCode":"1","cdmfilesize":"567","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

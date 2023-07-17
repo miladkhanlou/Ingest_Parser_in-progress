@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 12</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/356</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>356</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/356/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 12","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"140\nSllllTll  WES T E R N   .1 0 11 1? N A I,\n\u25a0&gt;?\u25a0\u201e*\u25a0\u25a0';\n&lt;'1 it\nBleed, and die I    And stjll, beyond, the glorious\nResurrection \u25a0* \u25a0 &gt;,:v \u25a0 shall conic:\u2014each from the\nOther lung withdrawn, by thought-engulfing periods of lime.\nHark!\n:: v ear, altum d to heavenly sound,\nIt smote: a solemn peal' 'Twas eternity's chronometer\nThat spoke!   A long expected festival has come.\nThat thundering peal an invitation bears to every\nHeavenly guest!   Roll on, duration, endless, infinite,\nRoll forever on!\nClock or Eternity, pause not I   Display thy\nSigns; record Ihe lapse of years and days; each\nMinnie tell; whose sole extent is more Ihan\nEarth's long age; whose seconds centuries of earthly time !\nThe rolling worlds above, beneath, around,\nCompose thy complicated and mysterious parts.\nVon girdling galaxy, revolving Initspride,\nThy balance wheel; thy pendulum, the restless\nSun of heaven ; thedistant oibs thy ponderous\nRolling wheels, and levers strong.\nThy dial plate, Immensity itself!   Thy traverse\nHands,colossal bars of undecaying light,\nClock or Eternity! Immense,unweailed,\nPeifeel workmanship of Heaven! with solemn\nPeal,proclaim the march of deathless time!\nVickstturg, Apr,:. ls:sn.\nC. K. M.\nFor the Soutll-Woatcru Juurnal.\nFLOWERS.\nYes!   Ye are nature's garland finely wrought,\nWhere grace and beauty in each shade unite,\nTo show ihe bandy-work, with wisdom fraught,\nOf one whose power is matchless\u2014infinite.\nThe fairest ornaments of this green earth,\nSought for and cherished by the grave and gay,\nGladding tin brilliant scenes of festive mirth,\nOr breathing incense on the mouldering clay!\nYe ai \u25a0 the charm of every land and clime,\nWherein Intelligence lias deigned to dwell,\nForming a coronal for friendship's shrine,\nOr wreathing beauties round the poet's shell.\nSweet forms of loveliness, which first the eye\nOf childhood charm\u2014season of budding flowers\u2014\nThrown in the lap ol' innocence, supply\nThe childish wan's of many passing hours.\nWho that hath wandered through the flowery mead,\nTo gather Spring's first offerings with delight,\nAnd sought some winding pathway in ihe glade,\nWhere blooms the wild rose, near some rocky height,\nOr sweet-brlai  ihe earliest boon of spring,\nWhich throws its fragrance on the balmyair,\nWhere bads and blossoms round arc opening,\nHuh not youth's visions felt more bright and ihirl\nAnd who thai once has breathed among Ihose hills,\nCr iwned with the verdureof ihe liveliest green,\nAnd heard the music of the rippling rills,\nCi ttld re: forget the freshness of such scene'!\nThcchesnul (lowers which fill Ihe forest round,\nWith fragrance sweeter than ihe orange groves,\nCausing young hearts in ccstacy to bound,\nWill raptures which their genial power bestows.\nThe lllach, apple bl om, ah! how sweet,\nInhaled within .New England homes so dear.\nWhere round their hearths, the loved and faithful meet,\nTo taste ihe pleasures of each budding year.\nLike flowers ye've perished, whoso oil with :..\u00bb-,\nSought those loved haunts, with hearts so blithe nnd gay\nAs if the world from death was always free,\nAnd nature's sweets could never pass away.\nAh ! these were halcyon days, nnd blissful hours,\nUnknown to grief or wo, with bliss most rife,\nFragrant with all the memory of flowers,\nTrue emblems ol\" the joys of early life,\nI love you still\u2014though deep is drawn Ihe sigh,\nWhen on my soul your fading beauties steal;\nThe past,\u2014the present,\u2014tear-drops fill my eye,\nAs the loved forms your histories reveal.\nFlowers\u2014ye arc \"the poetry of earth,\"\nWhose every aspect cheers the pensive mind,\nTho' delicate, and perishing, your worth\n1-- fell by every soul of intellect refined,\nFor who has looked upon the past loved hours,\nOf home, and hearth, and social joys gone by,\nWho has not mingled sentiments with flowers,\nMade sacred by the light of friendship's eye-1\nOli! ye are eloquent; your very breath\nIs redolent with all that's bright below,\nTelling of climes where there shall be no death,\nTo touch the heart with bitterness or wo\u2014\nWhere ye shall bloom more beautiful and sweet,\nWith fadeless hues, no more to droop, and die,\nBut near the fount of life and mercy seat,\nIn full perfection meet the raptured eye.\nCottage Hall, Jacksm, \/.\u00ab., April ii, 18118.\nS. li. T\n\u2022fill-; VALUE OF THE CLASSICS.\nThe following is the conclusion of an able essay, published in the Southern Literary Messenger, from the pen of a\nitlldent at the  University of North  Carolina:    \"ft is now\ngenerally admitted by competent judges, that it is impossible\n,o understand English in all its power, beauty, copiousness,\nwithout a previous acquaintance with the Classics.    Buttle\nmultitude, in the true spirit of English vanity, arc constantly\nproclaiming the entire independence of their language, and\n\u25a0amiiingly assert, that it needs no plumage borrowed from\nany tongue under heaven.     Mark you ! this was not said\nmlil the huge,  misshapen skeleton of the Anglo-Saxon had\nreceived a filling up\u2014a beauty and proportion from the much\nibiiseel Latin and Greek.    Now, as the English language\nhas declared her Independence,and set up for herself, it isbut\nair that she should surrender back  to Greek and Latin the\nlnrmonious and expressive words, the poetical imagery, ami\nich mythology which she has stolen from them, but which\nihe has just found out she does not need.     Let  her do this,\ntnd what does she become ?\u2014what she was originally.   ii\u00ab-\ndis indigestaque mole*.    Wo have never known the coram\u2122\nsense rule, viz :  That to know the whole, wo must know all\nthe parts,\u2014to be dispensed with, except in the case of the\nEnglish language, which it appears can be perfectly known\nwithout previously studying the languages of which it is mails\ni,|).    We however have no fears that our boasted vernacular\nwill be able to sustain her declaration, since Greek and I&gt;0'\nman ideas, illustrations, and allusions, are so interwoven \u00bb'itk\nit, that they have become an inseparable part and parcel of it.\nThose who would know the nice and delicate shades of WW11'","fullrs":{},"find":"357.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"356","restrictionCode":"1","cdmfilesize":"1661178","cdmfilesizeformatted":"1.58 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

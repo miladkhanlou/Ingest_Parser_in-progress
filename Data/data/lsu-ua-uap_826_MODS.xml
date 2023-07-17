@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Cadets at attention, with President's Residence and Chemical Laboratory in distance</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated point="start" keyDate="yes">1890</dateCreated>
+      <dateCreated point="end">1900</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Military cadets</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Military education</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana State University President’s Residence (Baton Rouge, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana State University Chemical Laboratory (Baton Rouge</topic>
+   </subject>
+   <abstract displayLabel="Description">Album, p. 14</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Gelatin silver prints; 9.45in x 7.48in</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Folder">
+         <partNumber>Folder none</partNumber>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>LSU Photograph Collection, 1886-1926</title>
+      </titleInfo>
+      <titleInfo displayLabel="Series">
+         <partName>Photograph Album Vol. I Box 42</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 42</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.</note>
+   <identifier type="local" displayLabel="Item Number">a50000530</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3255</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-01-26</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <hardwareSoftware>Scanned with Digibook 1000 at 300 ppi; saved as a TIFF and converted to JPEG2000</hardwareSoftware>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3255</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3255/json"
+                        timestamp="2017-02-01 13:53:11">{"title":"Cadets at attention, with President's Residence and Chemical Laboratory in distance","compoa":"0","photog":"Unknown","notes":"Album, p. 14","biogra":{},"descri":{},"typea":{},"date":"c. 1890-1900","publis":"Gelatin silver prints; 9.45in x 7.48in","subjea":"Military cadets--Louisiana--Baton Rouge--Photographs.; Military education--Louisiana--Baton Rouge--Photographs.; Louisiana State University President\u2019s Residence (Baton Rouge, La.)--Photographs.; Louisiana State University Chemical Laboratory (Baton Rouge","geogra":{},"aquisi":"LSU Photograph Collection, 1886-1926","box":"42","folder":"none","series":"Photograph Album Vol. I Box 42","subser":{},"reposi":{},"type":"Scanned with Digibook 1000 at 300 ppi; saved as a TIFF and converted to JPEG2000","source":"Louisiana State University Libraries, Special Collections","dates":{},"item":"a50000530","relate":{},"rights":{},"contri":{},"to":"To inquire about ordering copies of these images, email lsudiglib@lsu.edu See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Include the \"Item URL\" in your request. ","catalo":{},"compou":"See 'reference url' on the navigation bars.","ocr":{},"cite":"LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.","collec":"http:\/\/www.lib.lsu.edu\/special\/archives\/digital","fullrs":{},"find":"3539.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2009-01-26","dmmodified":"2009-01-27","dmoclcno":{},"dmrecord":"3255","restrictionCode":"1","cdmfilesize":"1510492","cdmfilesizeformatted":"1.44 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

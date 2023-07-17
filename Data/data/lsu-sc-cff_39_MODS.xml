@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>M35</title>
+  </titleInfo>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/1309</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-04-07</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>1309</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/1309/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"M35","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":{},"subjec":{},"digita":{},"reposa":{},"reposi":{},"physic":{},"type":{},"descri":{},"digitb":{},"item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":{},"source":{},"identi":{},"relati":{},"catalo":{},"catala":{},"transd":"1\nM 35\nMonsieur\nauguste Doussan\nh\u00f4tel des [abeilles], Rue du foin St Jacques\nn\u00b0 19\nParis.\n2\nM 35\nBaton-Rouge 5 d\u00e9cembre 1827.\nmon cher auguste\nJ\u2019ai re\u00e7u tes lettres de juillet et ao\u00fbt dernier. j\u2019ai \u00e9t\u00e9\n\u222batisfait de ton style et des d\u00e9tails que tu me donnes.\nj\u2019y ai vu cependant avec peine que tu t\u2019occupes trop\nexclusivement de la botanique [rature]. C\u2019est une Science trop\nattrayante, je crains que tu ne t\u2019y livres trop \u00e0\nl\u2019exclusion des autres branches de l\u2019art de gu\u00e9rir. tu\nne dois \u00e9tudier la botanique que comme m\u00e9decin et\nnon comme naturaliste. je pense que le cours que\ntu en as fait cette ann\u00e9e te Suffira jusqu\u2019\u00e0 _______\nl\u2019\u00e9poque de ton examen. alors tu pourras la repasser\nun peu. Ce que je viens de dire de la botanique\nje le dis \u00e9gallement de la physique, des mathema-tiques\net m\u00eame de la chimie. un m\u00e9decin n\u2019a\npas besoin d\u2019approfondir les Sciences, mais il doit\nles conna\u00eetre. la clinique, mon cher auguste, la\nclinique. tous les jours tu dois assister \u00e0 une le\u00e7on\nde clinique. tu n\u2019y comprendras rien d\u2019abord ____\n[\u00e9crit \u00e0 la verticale dans la marge de gauche :]\nj\u2019ai remis \u00e0 l\u2019ami Faymoreau une queue et une dent de serpent \u222bonnette pour le Dr\nDonadieu. Si cet\nami changeaitt d\u2019avis et n\u2019allait pas \u00e0 Grasse, je te prie de faire parvenir cet objet \u00e0 son\nadresse\n3\nM 35\nmais avec le temps et l\u2019attention ces le\u00e7ons te\ndeviendront tr\u00e8s profitables.\nquoique tu ne m\u2019en parles pas je pense que cet\nhiver tu feras un cours d\u2019anatomie descriptive. tu\npourras en \u00e9t\u00e9 \u00e9tudier l\u2019anatomie g\u00e9n\u00e9rale et la physiologie.\nCes deux branches peuvent marcher de front.\nIl m\u2019est impossible de diriger tes \u00e9tudes \u00e9tant \u00e0 plus\nde deux mille lieues de toi, \u00e9tant persuad\u00e9 que tu\nferas d\u2019autant plus de progr\u00e8s que tu mettras plus\nd\u2019ordre et de methode dans tes cours, je t\u2019engage \u00e0 te\nlier et consulter avec quelque professeur et \u00e0 le consulter\n\u222bur le meilleur plan d\u2019\u00e9tudes \u00e0 Suivre. je Suis f\u00e2ch\u00e9\nqu\u2019il n\u2019y ait pas une chaire particuli\u00e8re pour cela\n\u00e0 l\u2019universit\u00e9.\nMr Faymoreau qui doit te remettre la pr\u00e9sente\nest un de mes intimes amis. il pourra te parler de\nmoi aussi longuement que tu le desireras, je t\u2019engage\n\u00e0 le bien recevoir. C\u2019est lui qui avait d\u00e9j\u00e0 marchand\u00e9\npour mon compte chez, Mr auzoux un Sujet anatomique\nartificiel. \u222bi celui que je t\u2019ai pri\u00e9 de me faire faire est\ncommenc\u00e9 fais le voir \u00e0 Faymoreau. je l\u2019ai pri\u00e9 de\n4\nM 35\nm\u2019apporter une Botanique de Lamark. Cependant \u222bi\ntu connais un meilleur ouvrage tu pourras changer cette\npartie des instructions queje lui donne. je m\u2019en rapporte\n\u00e0 toi. tu l\u2019aideras \u00e0 m\u2019acheter un microscope\nassez fort pour l\u2019\u00e9tude de la botanique ainsi que quelques \u2013\npinces. pour cela je m\u2019en rapporte encore \u00e0 toi.\ntu dois avoir re\u00e7u la lettre par laquelle je te\npr\u00e9venais que j\u2019avais autoris\u00e9 la maison [pettis ? pelti ?] [trou]\nd\u2019augmenter ta pension mensuelle. Tu me dis q [trou]\ndesires te composer une biblioth\u00e9que. je t\u2019engage \u00e0 _____\nn\u2019acheter que les ouvrages qui te \u222bont absolument ______\nn\u00e9cessaires pour tes \u00e9tudes. j\u2019ai ici une biblioth\u00e8que de\nplus de mille volumes qui n\u2019appartiendra pas \u00e0 ___\nd\u2019autres qu\u2019\u00e0 toi. tu y trouveras les meilleurs ouvrages de\nm\u00e8decine et les plus nouveaux, et assez d\u2019ouvrages de\nlitt\u00e9rature pour te d\u00e9lasser.\nadieu, mon cher auguste, je t\u2019embrasse\nde tout mon coeur ainsi que ta belle-\u222boeur\nDoussan\nta belle-\u222boeur t\u2019envoie par\nFaymoreau dix piastres pour\ntes \u00e9trennes du jour de l\u2019an.","typa":{},"genera":{},"fullrs":"Volume7\/M35.pdf","find":"1311.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2010-04-07","dmmodified":"2010-04-07","dmoclcno":{},"dmrecord":"1309","restrictionCode":"1","cdmfilesize":"59428","cdmfilesizeformatted":"0.06 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

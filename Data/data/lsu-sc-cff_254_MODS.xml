@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_1</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/890</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-08-27</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>890</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/890/json"
+                        timestamp="2017-01-13 13:22:50">{"title":"Page_1","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M80\ncette lettre fut publi\u00e9 Lettre de Jean Bapt Pistach a son noncle\na la Nelle Orleans \u2013 en Eustache\n1828 ou 29 Cher Noncle\nApr\u00e8s vous avoir donn\u00e9 des nouvelles de ma sant\u00e9\nqu\u2019est bonne Et d\u00e9sir\u00e9 que la votre soit de m\u00eame, j\u2019vous dirai que\nc\u2019est \u00e0 c\u2019t\u2019heure que faut que vous venez nous voir, et rester avec nous\npour le moins d\u2019ici \u00e0 une grande societ\u00e9 qui va se donner dans le mois\nprochain; Et que zapelons ici \u00e9lection. Ah! noncle n\u2019manqu\u00e9 pas d\u2019vini\ny parait que \u00e7a sra un grand frolick; Ah! Grand Dieu, qui fait\ndonc beau icite a c\u2019t\u2019heure. Partout zousque vous virez de bord, vous\nrencontr\u00e9 des hommes qu\u2019on \u00e9t\u00e9 nomm\u00e9s pour des places qui zapelons\ncandidat: Et qui sont les pus bons lapins du monde; y faut qui zont\nla poche bin grasse, ou bin pus bon credit qu\u2019moi dans les cabar\u00eats; car\nJesus de Dieu! en payant y des coups de rafraichissements. Mais c\u2019qui\ngna de bon c\u2019est qu\u2019zens profitons tout comme les autres, Et zamin\nj\u2019manquons d\u2019nous rafraichir par la m\u00eame occasion; y parait que\nla place qui zocupons est pus basse qu\u2019un autre place; et qui zapelons\nElecteurs ou popolation.\nTout ce qui marche sur deux jambes en sont. Y zont voulu m\u2019nomme\ncandidat, mais bernique; zaime bin mieux rester nomm\u00e9 \u00c9lecteur, a\ncause que buvons sans payer zeux aussite. Grand p\u00e8re, mon fr\u00e8re Et\nparrain sont presque toujours en riole; bin, si vous \u00c9tiez ici cher noncle\nn\u2019est_ce pas que seriez bon l\u00e0 pour former un quatrio. J\u2019vous dis\nqui n\u2019pensons pas plusse a leur r\u00e9colte qu\u2019a l\u2019an huit. Main les fem-\nmes fesant assez de bile Et de mauvais sang: J\u2019les laissons crier, car y\nconnaissent pas plusse c\u2019que c\u2019est que l\u2019gouvernement qui n\u2019connait-\nrons [trou] l\u2019paradis, et zallons toujours not train.\nVous zaller trouver mon inducation bin chang\u00e9 dampis qu\u2019vous avez\neu l\u2019honneur de m\u2019voir la derni\u00e8re fois. Dans c\u2019moment, J\u2019connais\naussi bin c\u2019que c\u2019est qu\u2019l\u00e9tat, qu\u2019ma pipe. C\u2019est que dame voyez vous,\n\u00e7a rouvre le cerveau que d\u2019entendre charer nos candidats de la paroisse\nAssomption, trois d\u2019la paroisse interne de lafouiche Epi yun dans la paroisse\nDarbonne qui est choisi entre une trat\u00e9 de candidats qui s\u2019montons dans\nles trois paroisses a plus d\u2019une centaine, Et qui apr\u00e8s que l\u2019choix est fait\ns\u2019nommons ensuite pr\u00e9sentants. Les trois paroisses nommons aussi un can-\n[fin, page 1]","typa":{},"genera":{},"fullrs":{},"find":"891.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-08-27","dmmodified":"2008-08-27","dmoclcno":{},"dmrecord":"890","restrictionCode":"1","cdmfilesize":"1528695","cdmfilesizeformatted":"1.46 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>RSA00001032</title>
+  </titleInfo>
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Partis Marrons.</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes">1852-03-18</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Lafourche Parish, la</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1852</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1852-03-02</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">PARTIS MARRONS de l'habitation de JEAN ROUSSEAU, paroisse de Lafourche--1nterne, rive gauche, le 2 mars 1852 : TROIS NEGRES américains, parlant anglais et un peu le français. L'un, Jarry, de belle taille, ayant une loupe sur le côté gauche de la tête. Un autre, Potney, de 5 pieds 6 pouces environ, excessivement noir, sans autres sigues connus. Le troisième, Bob, de 5 pieds 5 pouces environ, très n ir aussi, ayant un de ses yeux plus grand que l'autre et les pieds très plats. Les shérifs des paroisses où cet avis ar-rivera, sont instamment priés de nous préviner de l'arrestation de ces trois nègres ou de quelqu'un d'eux, si arrestation il y a. Une récompense libérale sera accordée à toute personne qui, faisant l'appréhension de ces nègres ou de quelqu'un d'eux, les ramènera à leur maître ou dans nos bureaux. 40</abstract>
+   <note type="content" displayLabel="Slave Name (Age)">Jarry; Potney; Bob</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">very black</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Owner">Jean Roussea</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 5</number>
+         </detail>
+      </part>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-03-18/ed-1/seq-3/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-03-21/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-03-28/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-04-01/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-04-08/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-04-11/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-04-15/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-04-18/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-04-22/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-04-29/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-05-06/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-05-09/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-05-13/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-05-16/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-05-20/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-05-23/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-05-30/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-06-03/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-06-06/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-06-10/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-06-13/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-07-04/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-07-08/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-07-11/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-07-15/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-07-18/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-07-22/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-07-25/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-08-01/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-08-01/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-08-08/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-08-15/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-08-22/ed-1/seq-4/;http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-08-29/ed-1/seq-4/;  http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-09-05/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-09-12/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-09-19/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-09-26/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-10-03/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-10-10/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-10-17/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-10-24/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-10-31/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-11-16/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-11-21/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-11-28/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-12-05/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-12-12/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-12-19/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1852-12-26/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-01-02/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-01-09/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-01-16/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-01-23/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-01-30/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-02-06/ed-1/seq-4/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1853-02-13/ed-1/seq-4/;</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86090609</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3410</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3410</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3410/json"
+                        timestamp="2017-07-10 10:51:44">{"title":"RSA00001032","object":"sn 86090609","publia":"Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?","date":"1852-03-18","year":"1852","film":"page 3, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-03-18\/ed-1\/seq-3\/","unique":"Partis Marrons.","person":{},"parish":{},"digita":"1852-03-02","acknow":{},"public":"Jean Roussea","town":"Lafourche Parish, la.","relati":"Jarry; Potney; Bob","slave":"M","slavea":"very black","slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"PARTIS MARRONS de l'habitation de JEAN ROUSSEAU, paroisse de Lafourche--1nterne, rive gauche, le 2 mars 1852 : TROIS NEGRES am\ufffdricains, parlant anglais et un peu le fran\ufffdais. L'un, Jarry, de belle taille, ayant une loupe sur le c\ufffdt\ufffd gauche de la t\ufffdte. Un autre, Potney, de 5 pieds 6 pouces environ, excessivement noir, sans autres sigues connus. Le troisi\ufffdme, Bob, de 5 pieds 5 pouces environ, tr\ufffds n ir aussi, ayant un de ses yeux plus grand que l'autre et les pieds tr\ufffds plats. Les sh\ufffdrifs des paroisses o\ufffd cet avis ar-rivera, sont instamment pri\ufffds de nous pr\ufffdviner de l'arrestation de ces trois n\ufffdgres ou de quelqu'un d'eux, si arrestation il y a. Une r\ufffdcompense lib\ufffdrale sera accord\ufffde \ufffd toute personne qui, faisant l'appr\ufffdhension de ces n\ufffdgres ou de quelqu'un d'eux, les ram\ufffdnera \ufffd leur ma\ufffdtre ou dans nos bureaux. 40","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-03-21\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-03-28\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-04-01\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-04-08\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-04-11\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-04-15\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-04-18\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-04-22\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-04-29\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-05-06\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-05-09\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-05-13\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-05-16\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-05-20\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-05-23\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-05-30\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-06-03\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-06-06\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-06-10\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-06-13\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-07-04\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-07-08\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-07-11\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-07-15\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-07-18\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-07-22\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-07-25\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-08-01\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-08-01\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-08-08\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-08-15\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-08-22\/ed-1\/seq-4\/;http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-08-29\/ed-1\/seq-4\/;  http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-09-05\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-09-12\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-09-19\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-09-26\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-10-03\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-10-10\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-10-17\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-10-24\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-10-31\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-11-16\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-11-21\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-11-28\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-12-05\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-12-12\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-12-19\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1852-12-26\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-01-02\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-01-09\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-01-16\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-01-23\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-01-30\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-02-06\/ed-1\/seq-4\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1853-02-13\/ed-1\/seq-4\/;","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries. ","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001032.jp2","find":"3228.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-06-20","dmoclcno":{},"dmrecord":"3410","restrictionCode":"1","cdmfilesize":"200053","cdmfilesizeformatted":"0.19 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

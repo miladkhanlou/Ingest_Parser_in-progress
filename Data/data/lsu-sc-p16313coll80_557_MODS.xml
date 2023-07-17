@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Notice.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000032</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Temple S. Coons</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1864-09-06</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Child slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Child slaves</topic>
+      <topic>Mississippi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Child slaves</topic>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Claibourn county Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Tensas, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchez Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Homes county Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Homes county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Waterproof, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Claiborn parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Near Waterproof, Louisiana</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchez, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Isequena county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Isequena county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>State of Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Hinds county Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Meridian Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Memphis, Tennessee</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Scott co., Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison co. Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchez, Mississippi</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Bushy co. Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Washington co., Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Canton, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Scott county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Homes county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison co. Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison county, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchez Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison parish La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Panola county Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Vicksburg, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>New Orleans La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Randolph co., Mo</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Hinds co., Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Madison co., Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Concordia parish La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchez Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Caldwell parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Houston, Texas</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Tensas parish, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Vidalia, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Jackson Tennesse</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchez, Miss</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Shreveport, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1864</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Notice.  The following named negroes have been placed in my care by order of his Excellency H.W. Allen, Governor of Louisiana:  Negro woman ELIZABETH, dark complexion; aged about 40 years.  Said to belong to Evan Jeffries, Claibourn county Mississippi.  PETER, aged about 50 years ; ELIZA, 45 years ; CHARLOTTE, 38 years; ELLEN, 25 years; JANE, 18 years and DARCUS, 20 years ; all of dark complexion.  Said to belong to the estate of Claudius Johnson, parish of Tensas, La.  Negro girl PATSY, aged about 12 years.  Judat, about 10 years; Hester, about 10 years ; Trice about 8 years old and Jack a boy about 10 years old ; all of dark complexion.  Said to belong to George Marshall, near Natchez Mississippi.  Negro woman MARTHA, of black complexion, aged about 38 years.  Said to belong to James N. Gwin, Homes county Mississippi.  Negro man LOUIS, dark complexion; aged about 49 years.  Said to belong to Messrs. Warfield &amp; Tibbetts, Homes county, Miss. Negro boy FRANK, dark complexion; aged about 10 years, belongs to Mr. Duncan, near Waterproof, La.  The said boy is now sick at the house of Capt. A. H. Payne, in Claiborn parish, La. RILEY, a negro boy of dark complexion: aged about 16 years.  Said to belong to Mrs. Anna Covington, near Waterproof, Louisiana.  MARIA, a negro girl: aged about 17 years, and NANCY, aged about 12 years ; both of dark complexion.  Said to belong to William Carter of Madison parish, La.  SUSAN, negro girl of dark complexion; aged about 18 years, and AMOS, a boy of light complexion ; aged about 5 years. Said to belong to Alfred Davis, Natchez, Miss.  MARY, a negro woman of dark complexion, aged about 45 years.  Said to belong to Mrs. Catheirn Eurtis, Isequena county, Miss.   MARY, a negro woman, aged about 25 years, and her male child about one year old. CEILY, a woman, aged about 55 years.  TARPER, a boy about 10 years, HENRIETTA, a girl about 8 years; SUSAN, a girl about 5 years; HENRY, a boy about 14 years; SARAH, a girl, about 18 years; VINA, a girl about 6 years ,and PATSY, a girl, about 3 years.  Said to belong to Robert Turnbull, Isequena county, Miss.  ELLICK, a negro boy, black complexion; aged about 18 years. Said to belong to Elijah Shuttleworth, state of Mississippi Shreveport, July 30th, 1864  Aug2 tf  The additional named negros have been placed in my care:  Charlotte, aged 55 years, and Gracey about 40 years, both of dark complexion, and said to belong to James Gosque, of Madison parish, La.  William, boy, aged 10 years; Mark, 13 years; both black, and said to belong to Richard McLemore, Madison Miss.  Julian, a girl, aged 15 years; black, said to belong to Blackhall.  Hinds county Mississippi.  Sarah Jane and Infant, aged 18 years; Adeline, a girl 21 years; Fanny 2 years; all griff, said to belong to Dr. King. Meridian Miss.  Daphny, a woman, aged 57, griff; Alfred, boy, aged 10 years, yellow; Henrietta, girl, 12 years, griff, said to belong to Dr. Chester, Memphis, Tennessee.  Henry, a boy, aged 12 years, yellow; said to belong to Frank Morgan, Scott co., Miss.  Joe; a boy, aged14 years, black; said to belong to Lewis Thompson, Madison co. Miss. Jerry, a boy, aged 9 years, griff; Gabriel, 10 years, black; Darcus, a girl, 9 years, black; said to belong to Sam'l Duncan, Natchez, Mississippi.  Emma Ann, 10 years, black; said to belong to Terry Dawson.  Mary a girl, aged 15 years, griff; Jane aged 80 years, griff, and Monroe, a boy aged 9 years griff; said to belong to Mag Harper, yellow Bushy co., Miss. Alice Ann girl 13 years, yellow; said  to belong to Ed. P. Johnson, Washington co., Miss.  Kemp a boy aged 14 years, black; said  to belong to James Brown, Canton, Miss.  Carly a girl aged 16 years, bright; Edward a boy aged 4 years, griff; Charlotte aged 50 years, black, said to belong to Wm. Harrison, Scott county, Miss.  Augusta a woman aged 30 years; Joshua a boy 71 years; David 4 years; Daphny a woman aged 40 years; Betty 5 years; Chairity 9 years; Linsey 3 years; Amand an infant, all griff; Joe a boy aged 39 years, black; Pink 11 years, black; Napoleon 16 years, black; Milly a girl 35 years, black; George a boy 11 years, black; Mary a girl 9 years; griff; Darcas 50 years, black ; Eliza 25 years, black; Tom a boy 6 years, black, Patsy a girl 4 years, black ; said to belong to Chas. Johnson, Homes county, Miss.  Cloe a woman agd 17 years griff; Emma 4 years, black; Rachael 7 years, black; said to belong to Robert Love, Madison co. Miss.  Mary Anna girl aged 7 years, griff; Arrena, 11 years, griff; said to belong to Thomas Love, Madison county, Miss. Caroline a woman aged 50 years, black; said to belong to Mrs. Lucinda Davis, Natchez Miss.  Henry Smith a boy aged 13 years; griff and Sandy 17 years, black; said to belong to Rice Ballard, Madison parish La.  Aleck a boy aged 17 years, black: said to belong to Robert Dickins, Panola county Miss. Malissa  girl aged 28 years, griff; said to belong to Victor Wilson, Vicksburg, Miss.  Rosetta a woman aged 40 years, black; Sam a boy 5 years, black; Loyd a boy 6 years yellow: said to belong to Henry Bartlett New Orleans La.  Sarah, a girl aged 21 years, griff, and infant Mary 2 years, griff, said to belong to George Cockerell, Randolph co., Mo. Clarissa a woman aged 24 years, black; said to belong to John McNeal, Hinds co., Miss. Scott a boy aged 19 years, yellow; said to belong to Dr. Thos. Phillips, Madison co., Miss.  Martha a girl aged 10 years, black; Joseph a man aged 55 years, black; said to belong to Dr. Page, Concordia parish La.  Henrietta a woman aged 21 years ; Henrietta 9 years ; Rachael 6 years, all griff; said to belong to Alfred Davis, Natchez Miss.  Guy a man aged 25 years; Minerva a woman 24 years; Alice 23 years; Henry a boy 5 years; Richmond 3 years, all griff; said to belong to Capt. Anthony Faulkner, Caldwell parish, La.  Mary a girl aged 12 years, black; Charlotte 18 years, mulatto; Indiana 14 years, mulatto; Gabriel a boy 13 years, griff; Elizabeth a girl 21 years, black; Bob a boy 27 years, black; Rachael a woman 28 years mulatto; Rhody Jane 45 years, black; Catherene 6 years, black; Bob a boy 9 years griff; said to belong to Hanna A. Matthews, Houston, Texas.  Elizabeth a woman aged 22 years, mulatto, and infant boy Eddy; Vandon a boy 8 years, black; Caroline a girl 5 years, black; said to belong to Claudius Johnson, Tensas parish, La. Polly a woman aged 40 years; Able a boy 9 years; Henry 5 years; Dolly a girl 8 years, all griff; said to belong to Col. Z. York, Vidalia, La.  Harriet aged 25 years; Albert a boy 5 years; Ailsee a girl 7 years, all black; said to belong to Mrs. Elvira Hurt, Jackson Tennesse. Pollidore a man aged 55 years, black; Louisa his wife 60 years; Ellen and infant, 31 years, girff; Victoria 9 years; Susan 7 years: Horace a boy 14 years; Elizabeth 11 years; Mary 10 years; Rachael 8 years; all griff; said to belong to Wm. Gasquet, New Orleans, La.  Aug 23  MARIA, a negro woman and child, said to belong to Saml. Duncan, Natchez, Miss. sept 6 The owner can recover the same by proof of Title and paying charges. TEMPLE S. COONS, Commissioner. aug23tf</abstract>
+   <note type="content" displayLabel="Slave Owner">Evan Jeffries; Claudius Johnson;  George Marshall; James N. Gwin; Messrs. Warfield &amp; Tibbetts; Mr. Duncan; Mrs. Anna Covington; William Carter; Alfred Davis; Mrs. Catheirn Eurtis; Robert Turnbull; Elijah Shuttleworth; James Gosque; Richard McLemore; Blackhall; Dr. King; Dr. Chester; Frank Morgan; Lewis Thompson; Sam'l Duncan; Terry Dawson; Mag Harper; Ed. P. Johnson; James Brown; Wm. Harrison; Chas. Johnson; Robert Love; Thomas Love; Mrs. Lucinda Davis; Rice Ballard; Robert Dickins; Victor Wilson; Henry Bartlett;  George Cockerell; John McNeal; Dr. Thos. Phillips; Dr. Page; Alfred Davis; Capt. Anthony Faulkner; Hanna A. Matthews; Claudius Johnson; Col. Z. York; Mrs. Elvira Hurt; Wm. Gasquet; Saml. Duncan</note>
+   <note type="content" displayLabel="Slave Name (Age)">Elizabeth (40);Peter (50); Eliza (45); Charlotte (38); Ellen (25); Jane (18); Darcus (20); Patsy (12); Judat (10); Hester (10); Trice (8); Jack (10); Martha (38); Louis (49); Frank (10); Riley (16); Maria (17); Nancy (12); Susan (18); Amos (5); Mary (45); Mary (25); male child (1);  Ceily (55); Tarper (10); Henrietta (8); Susan (5); Henry (14); Sarah (18); Vina (6); Patsy (3); Ellick (18); Charlotte (55); Gracey (40); William (10); Mark (13); Julian (15); Sarah Jane (18); Infant; Adeline (21); Fanny (2); Daphny (57); Alfred (10); Henrietta (12); Henry (12); Joe (14); Jerry (9); Gabriel (10); Darcus (9); Emma Ann (10); Mary (15); Jane (80); Monroe (9); Ann (13); Kemp (14); Carly (16); Edward (4); Charlotte (50); Augusta (30); Joshua (71); David (4); Daphny (40); Betty (5); Chairity (9); Linsey (3); Amand an Infant; Joe (39); Pink (11); Napoleon (16); Milly (35); George (11); Mary (9); Darcas (50); Eliza (25); Tom (6); Patsy (4); Cloe (17); Emma (4); Rachael (7); Mary Anna (7); Arrena (11); Caroline (50); Henry Smith (13); Sandy (17); Aleck (17); Malissa (28); Rosetta (40); Sam (5); Loyd (6); Sarah (21); Mary (2); Clarissa (24); Scott (19); Martha (10); Joseph(55); Henrietta (21); Henrietta (9); Rachael (6); Guy (25); Minerva (24); Alice (23); Henry (5); Richmond (3); Mary (12); Charlotte (18); Indiana (14); Gabriel (13); Elizabeth (21); Bob (27); Rachael (28); Rhody Jane (45); Catherene (6); Bob (9); Elizabeth (22); Eddy (infant); Vandon (8); Caroline (5); Polly (40); Able (9); Henry (5); Dolly (8); Harriet (25); Albert (5); Ailsee (7); Pollidore (55); Louisa (60); Ellen (31); infant; Victoria (9); Susan (7); Horace (14); Elizabeth (11); Mary (10); Rachael (8); Maria; child</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 3</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Shreveport news. : (Shreveport [La.]) 1864-1865</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">RSA00000027</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-09-06/ed-1/seq-1/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-09-06/ed-2/seq-1/ http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-09-13/ed-1/seq-1/ </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83016485</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/350</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2014-12-11</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>350</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/350/json"
+                        timestamp="2017-02-13 13:33:06">{"title":"RSA00000032","object":"sn 83016485","publia":"Shreveport news. : (Shreveport [La.]) 1864-1865","date":"1864-09-06","year":"1864","film":"page 1, column 3","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-09-06\/ed-1\/seq-1\/","unique":"Notice.","person":"Temple S. Coons","parish":"Shreveport, La","digita":{},"acknow":{},"public":"Evan Jeffries; Claudius Johnson;  George Marshall; James N. Gwin; Messrs. Warfield &amp; Tibbetts; Mr. Duncan; Mrs. Anna Covington; William Carter; Alfred Davis; Mrs. Catheirn Eurtis; Robert Turnbull; Elijah Shuttleworth; James Gosque; Richard McLemore; Blackhall; Dr. King; Dr. Chester; Frank Morgan; Lewis Thompson; Sam'l Duncan; Terry Dawson; Mag Harper; Ed. P. Johnson; James Brown; Wm. Harrison; Chas. Johnson; Robert Love; Thomas Love; Mrs. Lucinda Davis; Rice Ballard; Robert Dickins; Victor Wilson; Henry Bartlett;  George Cockerell; John McNeal; Dr. Thos. Phillips; Dr. Page; Alfred Davis; Capt. Anthony Faulkner; Hanna A. Matthews; Claudius Johnson; Col. Z. York; Mrs. Elvira Hurt; Wm. Gasquet; Saml. Duncan","town":"Claibourn county Mississippi; Tensas, La; Natchez Mississippi; Homes county Mississippi; Homes county, Miss.; Waterproof, La; Claiborn parish, La; near Waterproof, Louisiana; Madison parish, La;  Natchez, Miss.; Isequena county, Miss;  Isequena county, Miss.; state of Mississippi; Madison parish, La.; Madison Miss.; Hinds county Mississippi; Meridian Miss.; Memphis, Tennessee; Scott co., Miss.; Madison co. Miss.; Natchez, Mississippi; Bushy co. Miss.; Washington co., Miss.; Canton, Miss.; Scott county, Miss.; Homes county, Miss.; Madison co. Miss.; Madison county, Miss.; Natchez Miss.; Madison parish La.; Panola county Miss.; Vicksburg, Miss.; New Orleans La.; Randolph co., Mo.; Hinds co., Miss.; Madison co., Miss.; Concordia parish La.; Natchez Miss.; Caldwell parish, La.;  Houston, Texas; Tensas parish, La.; Vidalia, La.; Jackson Tennesse; New Orleans, La.; Natchez, Miss.","relati":"Elizabeth (40);Peter (50); Eliza (45); Charlotte (38); Ellen (25); Jane (18); Darcus (20); Patsy (12); Judat (10); Hester (10); Trice (8); Jack (10); Martha (38); Louis (49); Frank (10); Riley (16); Maria (17); Nancy (12); Susan (18); Amos (5); Mary (45); Mary (25); male child (1);  Ceily (55); Tarper (10); Henrietta (8); Susan (5); Henry (14); Sarah (18); Vina (6); Patsy (3); Ellick (18); Charlotte (55); Gracey (40); William (10); Mark (13); Julian (15); Sarah Jane (18); Infant; Adeline (21); Fanny (2); Daphny (57); Alfred (10); Henrietta (12); Henry (12); Joe (14); Jerry (9); Gabriel (10); Darcus (9); Emma Ann (10); Mary (15); Jane (80); Monroe (9); Ann (13); Kemp (14); Carly (16); Edward (4); Charlotte (50); Augusta (30); Joshua (71); David (4); Daphny (40); Betty (5); Chairity (9); Linsey (3); Amand an Infant; Joe (39); Pink (11); Napoleon (16); Milly (35); George (11); Mary (9); Darcas (50); Eliza (25); Tom (6); Patsy (4); Cloe (17); Emma (4); Rachael (7); Mary Anna (7); Arrena (11); Caroline (50); Henry Smith (13); Sandy (17); Aleck (17); Malissa (28); Rosetta (40); Sam (5); Loyd (6); Sarah (21); Mary (2); Clarissa (24); Scott (19); Martha (10); Joseph(55); Henrietta (21); Henrietta (9); Rachael (6); Guy (25); Minerva (24); Alice (23); Henry (5); Richmond (3); Mary (12); Charlotte (18); Indiana (14); Gabriel (13); Elizabeth (21); Bob (27); Rachael (28); Rhody Jane (45); Catherene (6); Bob (9); Elizabeth (22); Eddy (infant); Vandon (8); Caroline (5); Polly (40); Able (9); Henry (5); Dolly (8); Harriet (25); Albert (5); Ailsee (7); Pollidore (55); Louisa (60); Ellen (31); infant; Victoria (9); Susan (7); Horace (14); Elizabeth (11); Mary (10); Rachael (8); Maria; child","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"Notice.  The following named negroes have been placed in my care by order of his Excellency H.W. Allen, Governor of Louisiana:  Negro woman ELIZABETH, dark complexion; aged about 40 years.  Said to belong to Evan Jeffries, Claibourn county Mississippi.  PETER, aged about 50 years ; ELIZA, 45 years ; CHARLOTTE, 38 years; ELLEN, 25 years; JANE, 18 years and DARCUS, 20 years ; all of dark complexion.  Said to belong to the estate of Claudius Johnson, parish of Tensas, La.  Negro girl PATSY, aged about 12 years.  Judat, about 10 years; Hester, about 10 years ; Trice about 8 years old and Jack a boy about 10 years old ; all of dark complexion.  Said to belong to George Marshall, near Natchez Mississippi.  Negro woman MARTHA, of black complexion, aged about 38 years.  Said to belong to James N. Gwin, Homes county Mississippi.  Negro man LOUIS, dark complexion; aged about 49 years.  Said to belong to Messrs. Warfield &amp; Tibbetts, Homes county, Miss. Negro boy FRANK, dark complexion; aged about 10 years, belongs to Mr. Duncan, near Waterproof, La.  The said boy is now sick at the house of Capt. A. H. Payne, in Claiborn parish, La. RILEY, a negro boy of dark complexion: aged about 16 years.  Said to belong to Mrs. Anna Covington, near Waterproof, Louisiana.  MARIA, a negro girl: aged about 17 years, and NANCY, aged about 12 years ; both of dark complexion.  Said to belong to William Carter of Madison parish, La.  SUSAN, negro girl of dark complexion; aged about 18 years, and AMOS, a boy of light complexion ; aged about 5 years. Said to belong to Alfred Davis, Natchez, Miss.  MARY, a negro woman of dark complexion, aged about 45 years.  Said to belong to Mrs. Catheirn Eurtis, Isequena county, Miss.   MARY, a negro woman, aged about 25 years, and her male child about one year old. CEILY, a woman, aged about 55 years.  TARPER, a boy about 10 years, HENRIETTA, a girl about 8 years; SUSAN, a girl about 5 years; HENRY, a boy about 14 years; SARAH, a girl, about 18 years; VINA, a girl about 6 years ,and PATSY, a girl, about 3 years.  Said to belong to Robert Turnbull, Isequena county, Miss.  ELLICK, a negro boy, black complexion; aged about 18 years. Said to belong to Elijah Shuttleworth, state of Mississippi Shreveport, July 30th, 1864  Aug2 tf  The additional named negros have been placed in my care:  Charlotte, aged 55 years, and Gracey about 40 years, both of dark complexion, and said to belong to James Gosque, of Madison parish, La.  William, boy, aged 10 years; Mark, 13 years; both black, and said to belong to Richard McLemore, Madison Miss.  Julian, a girl, aged 15 years; black, said to belong to Blackhall.  Hinds county Mississippi.  Sarah Jane and Infant, aged 18 years; Adeline, a girl 21 years; Fanny 2 years; all griff, said to belong to Dr. King. Meridian Miss.  Daphny, a woman, aged 57, griff; Alfred, boy, aged 10 years, yellow; Henrietta, girl, 12 years, griff, said to belong to Dr. Chester, Memphis, Tennessee.  Henry, a boy, aged 12 years, yellow; said to belong to Frank Morgan, Scott co., Miss.  Joe; a boy, aged14 years, black; said to belong to Lewis Thompson, Madison co. Miss. Jerry, a boy, aged 9 years, griff; Gabriel, 10 years, black; Darcus, a girl, 9 years, black; said to belong to Sam'l Duncan, Natchez, Mississippi.  Emma Ann, 10 years, black; said to belong to Terry Dawson.  Mary a girl, aged 15 years, griff; Jane aged 80 years, griff, and Monroe, a boy aged 9 years griff; said to belong to Mag Harper, yellow Bushy co., Miss. Alice Ann girl 13 years, yellow; said  to belong to Ed. P. Johnson, Washington co., Miss.  Kemp a boy aged 14 years, black; said  to belong to James Brown, Canton, Miss.  Carly a girl aged 16 years, bright; Edward a boy aged 4 years, griff; Charlotte aged 50 years, black, said to belong to Wm. Harrison, Scott county, Miss.  Augusta a woman aged 30 years; Joshua a boy 71 years; David 4 years; Daphny a woman aged 40 years; Betty 5 years; Chairity 9 years; Linsey 3 years; Amand an infant, all griff; Joe a boy aged 39 years, black; Pink 11 years, black; Napoleon 16 years, black; Milly a girl 35 years, black; George a boy 11 years, black; Mary a girl 9 years; griff; Darcas 50 years, black ; Eliza 25 years, black; Tom a boy 6 years, black, Patsy a girl 4 years, black ; said to belong to Chas. Johnson, Homes county, Miss.  Cloe a woman agd 17 years griff; Emma 4 years, black; Rachael 7 years, black; said to belong to Robert Love, Madison co. Miss.  Mary Anna girl aged 7 years, griff; Arrena, 11 years, griff; said to belong to Thomas Love, Madison county, Miss. Caroline a woman aged 50 years, black; said to belong to Mrs. Lucinda Davis, Natchez Miss.  Henry Smith a boy aged 13 years; griff and Sandy 17 years, black; said to belong to Rice Ballard, Madison parish La.  Aleck a boy aged 17 years, black: said to belong to Robert Dickins, Panola county Miss. Malissa  girl aged 28 years, griff; said to belong to Victor Wilson, Vicksburg, Miss.  Rosetta a woman aged 40 years, black; Sam a boy 5 years, black; Loyd a boy 6 years yellow: said to belong to Henry Bartlett New Orleans La.  Sarah, a girl aged 21 years, griff, and infant Mary 2 years, griff, said to belong to George Cockerell, Randolph co., Mo. Clarissa a woman aged 24 years, black; said to belong to John McNeal, Hinds co., Miss. Scott a boy aged 19 years, yellow; said to belong to Dr. Thos. Phillips, Madison co., Miss.  Martha a girl aged 10 years, black; Joseph a man aged 55 years, black; said to belong to Dr. Page, Concordia parish La.  Henrietta a woman aged 21 years ; Henrietta 9 years ; Rachael 6 years, all griff; said to belong to Alfred Davis, Natchez Miss.  Guy a man aged 25 years; Minerva a woman 24 years; Alice 23 years; Henry a boy 5 years; Richmond 3 years, all griff; said to belong to Capt. Anthony Faulkner, Caldwell parish, La.  Mary a girl aged 12 years, black; Charlotte 18 years, mulatto; Indiana 14 years, mulatto; Gabriel a boy 13 years, griff; Elizabeth a girl 21 years, black; Bob a boy 27 years, black; Rachael a woman 28 years mulatto; Rhody Jane 45 years, black; Catherene 6 years, black; Bob a boy 9 years griff; said to belong to Hanna A. Matthews, Houston, Texas.  Elizabeth a woman aged 22 years, mulatto, and infant boy Eddy; Vandon a boy 8 years, black; Caroline a girl 5 years, black; said to belong to Claudius Johnson, Tensas parish, La. Polly a woman aged 40 years; Able a boy 9 years; Henry 5 years; Dolly a girl 8 years, all griff; said to belong to Col. Z. York, Vidalia, La.  Harriet aged 25 years; Albert a boy 5 years; Ailsee a girl 7 years, all black; said to belong to Mrs. Elvira Hurt, Jackson Tennesse. Pollidore a man aged 55 years, black; Louisa his wife 60 years; Ellen and infant, 31 years, girff; Victoria 9 years; Susan 7 years: Horace a boy 14 years; Elizabeth 11 years; Mary 10 years; Rachael 8 years; all griff; said to belong to Wm. Gasquet, New Orleans, La.  Aug 23  MARIA, a negro woman and child, said to belong to Saml. Duncan, Natchez, Miss. sept 6 The owner can recover the same by proof of Title and paying charges. TEMPLE S. COONS, Commissioner. aug23tf","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Fugitive slaves--Mississippi.; Slavery--Mississippi.; Slaves--Mississippi.;  Fugitive slaves--Tennessee.; Slavery--Tennessee.; Slaves--Tennessee. ; Racially mixed people--Louisiana.; Women slaves--Louisiana.; Child slaves--Louisiana.; Racially mixed people--Mississippi.; Women slaves--Mississippi.; Child slaves--Mississippi.; Racially mixed people--Tennessee.; Women slaves--Tennessee.; Child slaves--Tennessee.;","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":"RSA00000027","contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-09-06\/ed-2\/seq-1\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-09-13\/ed-1\/seq-1\/ ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000032.jp2","find":"402.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-11","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"350","restrictionCode":"1","cdmfilesize":"1348540","cdmfilesizeformatted":"1.29 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

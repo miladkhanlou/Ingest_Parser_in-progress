@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Esther Wright letter, 1857 April 19</title>
+  </titleInfo>
+   <note type="biographical/historical" displayLabel="Biographical Note">Esther Gertrude Wright (1844-1915) married (1865) David French Boyd (1834-99), who spent much of his teaching career at Louisiana State Seminary, later Louisiana State University, where he was Superintendent and President.  The Wright family and their relatives are notable for their management of plantations in Louisiana, their contributions to education and their military service during the Civil War. The Wright family owned property throughout Louisiana and Texas. Originally, the family of Jesse and Sarah Wright lived at North Bend plantation, Rapides Parish, but after Jesse Wright's death, his wife and younger children moved to Greenwood (Rapides Parish), owned by Sarah Wright's son-in-law, Leroy Harvard. After the Civil War, family members remaining at Greenwood (Sarah Wright, Mary Wright and, later, Sarah's sister, Ann Foland) divided their time between this plantation and the homes of Esther Wright Boyd in Baton Rouge, La. and Auburn, Al.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1857</dateCreated>
+      <dateCreated keyDate="yes">1857-04-19</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Wright, Sarah Robert Grimball, 1805-1881</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women</topic>
+      <topic>Religious life</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Books and reading</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sermons</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Music</topic>
+      <topic>Instruction and study</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <note type="content" displayLabel="Topics">writing, literature, and reading, religion; women</note>
+   <physicalDescription>
+      <form>letter (4 p.),</form>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Wright-Boyd Family Papers, Mss. 3362</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/special/findaid/3362.pdf</url>
+      </location>
+      <titleInfo displayLabel="Folder">
+         <partNumber>Folder 22</partNumber>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Civil War Context and Conflict at LSU Libraries</title>
+      </titleInfo>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 1</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>R:23</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Wright-Boyd Family Papers, Mss. 3362, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/401</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>401</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/401/json"
+                        timestamp="2017-02-03 08:22:56">{"title":"Esther Wright letter, 1857 April 19","subjec":"Wright, Sarah Robert Grimball, 1805-1881.; Women--Religious life--Louisiana.; Books and reading--Louisiana.; Sermons--Louisiana.; Music--Instruction and study--Louisiana.","descri":"Letter from Esther Wright to her mother, Sarah Wright, describing Esther's repentance for reading novels, the impact of a sermon she heard, and music lessons.","creato":"Boyd, Esther Wright, 1844-1915.","publis":{},"date":"1857-04-19","year":"1857","format":"letter (4 p.),","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )).","collec":"Wright-Boyd Family Papers, Mss. 3362","reposa":"http:\/\/www.lib.lsu.edu\/special\/findaid\/3362.pdf","rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","digitb":"Civil War: Context &amp; Conflict","langua":"en","topics":"writing, literature, and reading, religion; women","cite":"Wright-Boyd Family Papers, Mss. 3362, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","notes":"Esther Gertrude Wright (1844-1915) married (1865) David French Boyd (1834-99), who spent much of his teaching career at Louisiana State Seminary, later Louisiana State University, where he was Superintendent and President.  The Wright family and their relatives are notable for their management of plantations in Louisiana, their contributions to education and their military service during the Civil War. The Wright family owned property throughout Louisiana and Texas. Originally, the family of Jesse and Sarah Wright lived at North Bend plantation, Rapides Parish, but after Jesse Wright's death, his wife and younger children moved to Greenwood (Rapides Parish), owned by Sarah Wright's son-in-law, Leroy Harvard. After the Civil War, family members remaining at Greenwood (Sarah Wright, Mary Wright and, later, Sarah's sister, Ann Foland) divided their time between this plantation and the homes of Esther Wright Boyd in Baton Rouge, La. and Auburn, Al.","notesa":{},"source":"R:23","box":"1","folder":"22","identi":{},"relati":{},"findin":{},"catalo":{},"type":"unpublished","full":{},"fullrs":{},"find":"402.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-30","dmmodified":"2012-05-30","dmoclcno":{},"dmrecord":"401","restrictionCode":"1","cdmfilesize":"555","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <publicationStatus>unpublished</publicationStatus>
+  </extension>
+</mods>

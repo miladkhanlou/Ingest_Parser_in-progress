@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>France et Espagne</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+      <namePart>Canonge, Louis Placide</namePart>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1864</dateCreated>
+      <publisher>Nouvelle-Orleans, 1850.</publisher>
+  </originInfo>
+   <abstract displayLabel="Description">France et Espagne (1850) is about the Revolution of 1768, but in it Canonge was less concerned with following history than he was with creating a dramatic effect.  He introduced romantic characters to heighten the drama. The play was based on the novel Louisiana, written by Garreau and published in La Revue Louisianaise in 1845.</abstract>
+   <note type="content">Born in Louisiana to French parents, Louis Placide Canonge (1822-1893) exemplifies the continuing tradition of Louisiana literature written in French. As a young man, Canonge frequently visited Paris, where he developed a deep love for the arts and literature, as well as a taste for being culturally au courant. According to the Cambridge History of English and American Literature, he was the best dramatist produced by Louisiana.... He was a director of opera and a journalist of some note; he edited La Lorgnette, L'Entracte, Courrier, L'Impartial, Le Courrier Français, Le Sud, La Renaissance, L'Epoque, and L'Abeille, the last-named, founded in 1827, being the first French daily newspaper published in the United States. His plays followed the French romantic tradition, and were extremely popular because of their gaiety and enthusiasm.</note>
+   <physicalDescription>
+      <note type="medium">66 p. 23 cm.</note>
+   </physicalDescription>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">fr</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>PQ2203 .C47 F7 CAGE</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>LSU Special Collections: Louisiana and Lower Mississippi Valley Book Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">sd000402</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/248</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2007-02-16</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>248</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/248/json"
+                        timestamp="2017-02-02 09:47:12">{"title":"France et Espagne","creato":"Canonge, Louis Placide","date":"1850","dates":{},"publis":"Nouvelle-Orleans, 1850.","contri":{},"subjec":{},"descri":"France et Espagne (1850) is about the Revolution of 1768, but in it Canonge was less concerned with following history than he was with creating a dramatic effect.  He introduced romantic characters to heighten the drama. The play was based on the novel Louisiana, written by Garreau and published in La Revue Louisianaise in 1845.","notes":"Born in Louisiana to French parents, Louis Placide Canonge (1822-1893) exemplifies the continuing tradition of Louisiana literature written in French. As a young man, Canonge frequently visited Paris, where he developed a deep love for the arts and literature, as well as a taste for being culturally au courant. According to the Cambridge History of English and American Literature, he was the best dramatist produced by Louisiana.... He was a director of opera and a journalist of some note; he edited La Lorgnette, L'Entracte, Courrier, L'Impartial, Le Courrier Fran\u00e7ais, Le Sud, La Renaissance, L'Epoque, and L'Abeille, the last-named, founded in 1827, being the first French daily newspaper published in the United States. His plays followed the French romantic tradition, and were extremely popular because of their gaiety and enthusiasm.","langua":"fr","transc":{},"digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":"Louisiana and Lower Mississippi Valley Book Collection","collec":"PQ2203 .C47 F7 CAGE","sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":"66 p. 23 cm.","format":"JPEG2000","imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":"sd000402","identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":"Volume8\\sd000402.tif","find":"249.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2007-02-16","dmmodified":"2007-04-20","dmoclcno":{},"dmrecord":"248","restrictionCode":"1","cdmfilesize":"1392359","cdmfilesizeformatted":"1.33 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

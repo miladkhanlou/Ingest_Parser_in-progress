@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Nestling ivory-billed woodpecker and J.J. Kuhn, March 6, 1938.</title>
+  </titleInfo>
+   <name displayLabel="Creator">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+      <namePart>Tanner, James T.</namePart>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1864</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Bird watching</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Woodpeckers</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Tensas River National Wildlife Refuge (La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">James Taylor Tanner was born in Homer, New York, on March 6, 1914. He attended Cornell University and worked under Arthur A. Allen throughout the course of his graduate study. Tanner's master's thesis was titled "Sound Recording for a Natural History Museum." His Ph.D. dissertation, "Life History and Ecology of the Ivory-billed Woodpecker," was based on 21 months of field studies in the Singer tract in northeastern Louisiana, the last refuge for this nearly extinct species. In 1942 the National Audubon Society published Tanner's dissertation as "Research report number 1: The Ivory-billed Woodpecker."  The images presented here were taken by Tanner while on field study expeditions in Louisiana during the years 1935 to 1940.</abstract>
+   <note type="content">Tensas River National Wildlife Refuge, U.S. Fish and Wildlife Service, Ivory-Billed Woodpecker Records, Louisiana and Lower Mississippi Valley Collections, Mss. 4171</note>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-sce:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Special Collections Online</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Tensas River National Wildlife Refuge, U.S. Fish &amp; Wildlife Service, Ivory-Billed Woodpecker Records</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>LSU Special Collections: Louisiana and Lower Mississippi Valley Image Resources Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Special Collections Online, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_SCE/id/134</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2006-08-15</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_SCE</alias>
+         <pointer>134</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_SCE/134/json"
+                        timestamp="2017-02-02 09:47:13">{"title":"Nestling ivory-billed woodpecker and J.J. Kuhn, March 6, 1938.","creato":"Tanner, James T.","date":"1938","dates":{},"publis":{},"contri":{},"subjec":"Bird watching; Woodpeckers; Tensas River National Wildlife Refuge (La.)--Photographs","descri":"James Taylor Tanner was born in Homer, New York, on March 6, 1914. He attended Cornell University and worked under Arthur A. Allen throughout the course of his graduate study. Tanner's master's thesis was titled \"Sound Recording for a Natural History Museum.\" His Ph.D. dissertation, \"Life History and Ecology of the Ivory-billed Woodpecker,\" was based on 21 months of field studies in the Singer tract in northeastern Louisiana, the last refuge for this nearly extinct species. In 1942 the National Audubon Society published Tanner's dissertation as \"Research report number 1: The Ivory-billed Woodpecker.\"  The images presented here were taken by Tanner while on field study expeditions in Louisiana during the years 1935 to 1940.","notes":"Tensas River National Wildlife Refuge, U.S. Fish and Wildlife Service, Ivory-Billed Woodpecker Records, Louisiana and Lower Mississippi Valley Collections, Mss. 4171","langua":{},"transc":{},"digitb":"Special Delivery: A Showcase of LSU Libraries Special Collections","source":"Louisiana and Lower Mississippi Valley Image Resources Collection","collec":"Tensas River National Wildlife Refuge, U.S. Fish &amp; Wildlife Service, Ivory-Billed Woodpecker Records","sourca":"Louisiana State University Libraries, Special Collections ( http:\/\/www.lib.lsu.edu\/special )","type":{},"format":{},"imagb":{},"file":{},"digiti":{},"digita":{},"catlog":{},"catalo":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright is retained in accordance with U. S. copyright laws.","cite":"Special Delivery: A Showcase of LSU Libraries Special Collections, LOUISiana Digital Library, Baton Rouge, La.","to":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","relati":"http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_SCE.php?CISOROOT=%2FLSU_SCE","typea":{},"fullrs":"Volume6\\sd000905.tif","find":"135.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2006-08-15","dmmodified":"2006-09-19","dmoclcno":{},"dmrecord":"134","restrictionCode":"1","cdmfilesize":"525242","cdmfilesizeformatted":"0.50 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

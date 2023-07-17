@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 10</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/549</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>549</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/549/json"
+                        timestamp="2017-02-09 16:30:51">{"title":"Page 10","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"ua;.'\u00ab\nmy-\nImry\n\u25a0t*r .5 |i.-&lt;. Jj*   ,\nPi    V\n,, BE\"'''\nWfM.i\n! i'C:!'.' .'&lt;\nM  \u25a0\nlfc\u00a3,\nM 1.1 ,\n186\nSOUTH-WESTERN JOURNAL.\ni:#\n\u25a0.'-':    l\nI    ::)'   I\nher late attack ; for she appeared to move under the weight\nof half a dozen additional years, yet her eye, (\"that light of\nthe features,\") was fixed with determination, and bore an ominous contrast with the settled gloom that hung upon her\ncountenance. p|\n\"lam pleased to see you about once more, Miss Clara,\nI observed, \"and hope you will, in a few days, bo quite well\nenough to enjoy the pleasant trip you intend to make to the\nSouth with your father.\"\n\" I thank you, Doctor, for your kind considerations, but\nI fear it will prove one of trial, yet not altogether without\nsatisfaction.\" \" Mr. Herbert,\" she added, \" leaves for New\nOrleans in a few days\u2014does he not?\"\nI replied, that \" I heard he would leave in a fortnight, and\nwas already making arrangements to start.\"    \"Strange coin-\nhas been revenging herself upon me, simply because I i\nelulgcd in a little drawing room raillery at his expense, soma\nthree months since. But by tho purity of that (lame which\nonce burned in my bosom for the heartless fiend, I swear to\nbe revenged, and may Heaven's highest decree be, that I gh\u00abl|\nenjoy no peace of mind till it is accomplished! Dr. Mel\nmoth,\" she continued, perceiving that I feared ill conscnticn-\nccs from this excitement, \"you need not be under anyappre\nhensions of a return of those paroxysms peculiar to our sej\nwhen thus sorely tiled. I beg you will excuse this ebullition\nof feeling, however, and ploaso read that letter,\u2014I wisb ,0\nhear how this Brummel sweetens his poisonous potion with\nhonied phrases.\"\n\"Allow mo to read in silence, Clara.    I have no disposition lo repeat what has proved so discordant to your feelinj\ncidence,\" she muttered, appearing to forget my presence, and besides, I know not the benefit that can possibly arise from i\nthen, starling from her revery, quickly apologized for her     \"Melmoth, my girlish weakness has exhausted itselfsoi\nabsence of mind, and enquired \" if I had received her note? \" idays since, and you havo been a witness to the foible; now,\n\"I found it on my table an hour since,\" I returned, \" nnd, it is my desire to convince you thai I am no longer a girl, but\nhave, like a true knight, obeyed your call.    If it weroneces- a woman, whoso sleepless hato for the despicable object who\nsaryto break a lance in your behalf, I would, with the spirit] penned that scrawl, shall rise superior to the thraldom of wo\nof the days of tilt and tourney, buckle on my armor, and do\nbattle for your ladyship.\"\n\"Many thanks for your gallantry, Doctor, but of late I\nhave fell myself quite a heroine, anel having but one victory\nlo win this side of eternity, I hope to prove myself ecpial to\niho task of its consummation. Doctor Melmoth, 1 presume\nyou are aware of the shock my peace of mind has received\nlately, as mother informs mo that you were present, when,\nin a paroxysm, the cause of my misery escaped me.\" I answered that \"I was present, but that I had given her incoherence of speech only a momentary thought, and then my indignation at tho unmanly conduct of him whose name she\ninsensibly uttered, almost equalled tho scorn which she,\" I\nremarked, \" must certainly entertain for him.\"\n\"1 do loathe him asa reptile,\" sho exclaimed, \"bat he must]\nnol know it!\" She drew a letterfrom her parte fcuillv, and\nhanding it to me, continued, \"Your apparent interest for our\nfamily, has induced me to place much confidence in you, and\nas I may need your friendship, may I hope you will not trifle\nwith that confidence?\"\n\"Miss Clara,\" I replied, \" I believe it is not customary for\ntho honorable portion of our profession, at least, to retail for\ngossip, tho scenes of domestic, un happiness they are sometimes obliged unavoidably to witness.\"\n\" Melmoth, excuse me if for a moment I hesitate to trust\nanyone; but, O sir! 1 have suffered so much from perfidy\nwithin a fortnight, that I almost fear to trust myself. When\nI tell you, that George Herbert and I were plighted to each\nother by vows so sacred, that it were perjury in tho sight of\nHeaven to break them, you will, having read that letter, know\nthe deep wrong ho has done me. My pride has been wounded! my family has received an indignity that shall be wiped\nout! the villain has stabbed at tho very fountain of my earthly happiness! Aye ! iho deep and fervent lovo which I have\ncherished for him, has been trampled upon, anel, like the broken trinket of a carpet knight, thrown aside for one perhaps\nmore glittering.    Tho dark-souled wretch, as I now believe,\nin which the shallow fool would plunge me I\u2014read on!\"\nDeeming further opposition useless, I opened the letter,ace\nread aloud as follows:\n11 , Ohio, Pec. 10,1833.\nTo Miss Clara Peiuivan:\nMil rule Friend:\nl!o iiot astonished at the contents of this note, nor consider the change of feeling it reveals, the work ofa moment.\nWeeks, nay mouths havo elapsed since I deemed this step\nnecessary to my honor, and can no longer procrastinate what\nsooner or later must come to your knowledge'.\nA careful analysis of my own feelings has convinced mo\nthat I do not love you. Indeed, I fear I never did entertain\nthat pure affection for you, so necessary to matrimonial happiness, and feeling that we never can bo happy united, I bare\nadopted this method of absolving you from any obligations!!)\nme, under which heretofore you may have considered yourself\nIn a few days I shall leave this country forever! You\nwill therefore perceive the necessity of banishing from your\nmemory the name of\nGf.orge IIeiideiit.\n[to be concluded.]\nFor tlie Seiellli Western Journal.\nNATCHEZ FEMALE ACADEMY.\nThe Committee invited to attend the examination ol this\nInstitution, under the care of Mr. und Mrs. Brunei-, which\ntook place on Thursday, the 17th instant, present to the pub\nlie the following\nREPORT:\nAs the Committee wore deeply sensible of the immense\nimportance of Female Education, conducted on sound pin-\neiplesand embracing subjects of the most substantial and useful kind, and being fully aware of their high responsibility.\nfor the accuracy nnd faithfulness of .their report, in relation u&gt;\na subject so important, they considered it necessary for lhflj&gt;\nto devote tho greater part of the day to a rigid and thoroug\nexamination of the pupils, with the exception of an interims","fullrs":{},"find":"550.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"549","restrictionCode":"1","cdmfilesize":"1756378","cdmfilesizeformatted":"1.68 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>$75 REWARD.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000647</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>R. McTier</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1862-11-06</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Natchitoches, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Natchitoches, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1862</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1862-10-29</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">$75 REWARD. Run away from my plantation, 6 miles from the Town of Natchitoches on the 29th, of October three negro men, -one named Louis, aged about 24 years, dark complexiotn and about 6 feet high- when asked question he stutters- one named Bill dark complextion, aged 22 years and about 5 feet high-the other named Punch of bright complextion-age, 22 years and about 5 feet high- he is a very smart fellow-talks english and french fluently-the above reward will be paid for their deliverance to me or lodging them in jail or $25, for the deliverance or lodging of any one of them in jail. R. MCTIER Please publish for one month in the Nat. Union, Shreveport News, Monroe Register and Alexandria Democrat and let them send bill to your office.
+</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">dark; bright;</note>
+   <note type="content" displayLabel="Slave Owner">R. McTier
+</note>
+   <note type="content" displayLabel="Slave Name (Age)">Louis (24); Bill (22); Punch (22)
+</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Reward Amount">$75 or $25 each
+</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M;</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">3</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 4
+</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Natchitoches union. : ([Natchitoches, La.]) 1859-1864
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn84020181/1862-11-06/ed-1/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn84020181/1862-11-13/ed-1/seq-2/; 
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn84020181
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2222</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2016-04-06</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2222</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2222/json"
+                        timestamp="2017-02-13 13:33:02">{"title":"RSA00000647","object":"sn84020181\n","publia":"Natchitoches union. : ([Natchitoches, La.]) 1859-1864\n","date":"1862-11-06","year":"1862","film":"page 2, column 4\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn84020181\/1862-11-06\/ed-1\/seq-2\/\n","unique":"$75 REWARD.\n","person":"R. McTier\n","parish":"Natchitoches, La.\n","digita":"1862-10-29","acknow":{},"public":"R. McTier\n","town":"Natchitoches, La.\n","relati":"Louis (24); Bill (22); Punch (22)\n","slave":"M;","slavea":"dark; bright;","slaveb":"N","slavec":{},"reward":"$75 or $25 each\n","multip":"3","physic":"Y","persoa":"N","transc":"$75 REWARD. Run away from my plantation, 6 miles from the Town of Natchitoches on the 29th, of October three negro men, -one named Louis, aged about 24 years, dark complexiotn and about 6 feet high- when asked question he stutters- one named Bill dark complextion, aged 22 years and about 5 feet high-the other named Punch of bright complextion-age, 22 years and about 5 feet high- he is a very smart fellow-talks english and french fluently-the above reward will be paid for their deliverance to me or lodging them in jail or $25, for the deliverance or lodging of any one of them in jail. R. MCTIER Please publish for one month in the Nat. Union, Shreveport News, Monroe Register and Alexandria Democrat and let them send bill to your office.\n","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.\n","type":"text","format":"clipping","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865\n","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn84020181\/1862-11-13\/ed-1\/seq-2\/; \n","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries. ","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00000647.jp2","find":"2193.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-04-06","dmmodified":"2016-05-13","dmoclcno":{},"dmrecord":"2222","restrictionCode":"1","cdmfilesize":"186387","cdmfilesizeformatted":"0.18 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/446</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>446</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/446/json"
+                        timestamp="2017-02-09 16:30:58">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\n77\nguards, and who, in their precipitate retreat, having to pass\nthrough certain swamps that abound in the portion of New\nJersey tl11-'11 tut: soat \u00b0^ uur' Presen'ed a most soiled appearance lor troops who might bo termed the martinets of sixty\nyears ago.\nIt is believed that the late Col. John Nicholas, of Virginia,\nwas the last of the life guard. .\nFor tho South-Western Jo\nPOMPEII.\n'Twas night!   Bright o'er the summer sea\nThe quivering moonlight danced,\nAnd from the stars, in wanton glee,\nA beamy watch fir C glanced.\nThe song and dance went round the hall\nWhere pride and beaut\/shone,\nThe sentry paced the moonlit wall,\nThe thoughtful, lonely one,\nSave where the sung the silence woke,\nOn mound, or tower, or hill,\nOr where that sentry's loot-fall broke,\nPompeii yet was still.\nLaugh on, gay revellers!   A power\nDerides your thoughtless play;\nTo blackest storm, in one short hour,\nShall change your sunny May;\nThe merry jest\u2014ah, sad the fate\u2014\nThe eye that swims in light,\nThe cheek that might with roses mate,\nThe haloed form so bright\u2014\nHark! heard ye not upon the shore\nThe ocean erst so still\nBreak with a sullen moaning roar 1\n Look out upon the hill!\nOne long, loud shriek !   See boiling o'er\nThe lift of that stern mountain cone\nTho lava Hood, with frightful roar,\nAn ocean gush of molten stone!\nFly! fly I for there is death behind,\nThere may be life before;\nFly, and the God who curbs the wind,\nMay bear you from the shore.\nOne polished helm easts back the glare,\nThat lightens in the sky;\nOne steadfast form seems death to dare,\nHis falchion poised on high.\nLook, 'lis the sentry! lo the coast\nHis captain wildly hied,\nNor told the soldier,\u2014leave your post:\nThe soldier slaved and died.\nJ. P. S.\nTHE AMERICAN POETS.\nWM, COLLEN BRYANT.\nThe New York Sunday Morning News justly remarks:\n\u2014\" i-i' it be the peculiar province of poetry to give delight,\nthis author should rank very high among poets; and, in spite\nof his neglect of the terrible passions, he does rank very\nhigh in our estimation. He has a beautiful fancy, and a beautiful diction, and a fine ear for the music of verse, and great\ntenderness nnd delicacy of feeling. He seems, moreover, to\nbe altogether free fpon my tincture of bitterness, rancor, or\njealousy; and never 3I10       us &gt;vith atrocity, or stiffens tis\nwith horror. His soul, on the contrary, seems filled to overflowing with images of love, and beauty, and gentle sorrows,\nand tender pity, and mild and holy resignation. The character of his poetry is to soothe, melt, and delight: to make us\nhind, and thoughtful, and imaginative; to purge away the\ndregs of our earthly passions, by the refining (ires of a pure\nimagination, and to wrap us up from tho eating cares of life,\nin visions so soft and bright, as to sink like morning dreams\non our senses, at the same time so distinct and truly fashioned\nupon the eternal patterns of nature, as to hold their place be-\nforo our eyes long after they have again been opened upon\nthe dimmer scenes of the world. Here is the latest of his\npoems, entitled,\nAN  INCIDENT   AT   SORRENTO.\nDY  WM.   CUM.KN  BRYANT.\nFair is thy site, Sorrento! green thy shore!\nBlack crdgs behind thee pierce the clear blue skies,\nThe sea, whose borders ruled the world of yore,\nAs clear, and bluer still, before thee lies.\nVesuvius smokes in sight, whose fount of fire,\nOut gtishihg, drowned the cities on his sleeps;\nAnd murmuring Naples, spire o'er topping spire,\nSits on the slope beyond, where Virgil sleeps.\nHere doth the earth, with flowers of every line\nHeap her green breast, when April's sun isbright\u2014\nFlowers of the inorning-red, or ocean-blue,\nOr, like the mountain frost, of silvery white.\nCurrents of fragraner from ihe orange tree,\nAnd sward oi' violets, breathing to and fro,\nMingle, and wandering out upon the sea,\nRefresh the idle boatman where they blow.\nYcl even here, as under harsher climes,\nTears o'er the loved and early lost are shed,\nThat soft air saddens with the funeral chimes,\nThose shining llowersare gathered for the dead.\nHere once a child, a playful, smiling one,\nAll the day long caressing nnd caressed,\nDied, when his little tongue had just begun\nTo lisp the names of those he loved the best.\nThe father strove his struggling grief to quell;\nThe mother wept, as mothers use to weep;\nTwo little sisters wearied them to tell\nWhen their dear Carlo woidd awake from ulce-p.\nWithin an inner room hisconeU they spread,\nHis funeral couch; with mingled grief and love,\nThey laid a crown \u00bb( roses on his head,\nAnd murmured, \"brighter is his crown above.\"\nThey scattered round him, on his snowy sheet,\nLaburnum's strings of sunny-eoloieagems,\nSad hyacinth and violet dim and sweet,\nAnd orange blossoms on their dark green stems!\nAnd now the hoar is come\u2014the priest is there\u2014\nTorches arc lit\u2014the bells are tolled\u2014they go,\nWith solemn rites of blessing and of prayer,\nTo lay those dear remains in earth below.\nThe door is opened\u2014hark that quick glad cry\u2014\n\" Carlo has waked\u2014has waked, and is at play I \"\nThe little sisters leap, and laugh, and try\nTo climb the couch on which the infant lay.\n1\n\u25a0m\n$1\n:;i|-*|\nmm\n\u25a0 I\nif\nm\n\u25a0:      h\nl_\n\u25a0\nI\nI\n:; ?!\nh","fullrs":{},"find":"447.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"446","restrictionCode":"1","cdmfilesize":"1807313","cdmfilesizeformatted":"1.72 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

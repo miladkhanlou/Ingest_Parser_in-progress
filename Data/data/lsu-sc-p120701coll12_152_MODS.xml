@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 10</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/441</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>441</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/441/json"
+                        timestamp="2017-02-09 16:30:58">{"title":"Page 10","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"If\n1\" 1\nl-'l .\n!.:\u2022\n&lt; 11 &lt;\nyt-.\nft!\nPif\n(\n;-\u00bb\nS 0 0 T H \u2022 WE S TE 1? N J 0 0 R N A L .\nwhere nothing else can be found sufficient, all the pt-s!i]Pnre\nis traced to a filthy back yard, a wet sewer, a dead rat, or a\nrotten po'.atoe.\nwharf, as :\u25a0: rr. :;-\u25a0: -.\u25a0\u25a0\\'.-:w f-ver in those who are highly\npredisposed, by a strongly miasmatic or in,'-. ::i - is ?.:... --. :. i-\nThey contend, that the infection, or infected air. of shi: s and\nother places, will diffuse itself, and produce disease in those\nwho breathe it. provided the general atmosphere in which\nth-:r!v- :'; h:'r!:'y r.-.crbific. or predisposing lb disease, bul\nthat it will not otherwise: that when such a condition of air\nexists, the infection will gradually spread, and finally, without\na change :' weather, produce an epidemic: and that, in a\nhealthy state of the air, this infected air, or infection, does not\nexten I itself. * That a ship, when so infected with yellow\nlever miasm, maybe as much a source of miasm, or that it I\nmay be disseminated from a ship upon the contiguous popu-\nlati'on. as well as from a pile of oysters, or putrid coffee, or,lich\u00ab1?. and \";\" llkeness-from its supposed resemblance to\nany &gt;thers urceof miasm.  That this infected air from ships, theUsnea I'he resemblance ,s very remote and the\nin a healthy state of the atmosphere, will not produce the disease- in those near the wharf where it lies, unless the y go on\nFor ttii Soatb-WetternJoonai,\nTHE  LONG   OR SPANISH  MOSS OF THE  LOWER\nMISSISSIPPI.\nSometimes very significantly called Spanish-beard, from\nits resemblance, at a distance, to long grey beard, or coats-\nbeard.\nSystematic name\u2014Tiilandsia Usneoides. class\nvi. Ord. I.    Hexandria Monogynia,    Linn.\nSpecific Name\u2014Usneoides.    From ism a genus of\nname but little applicable.\nSpecific Characters. Plant Southern, parasitic, perennial,\nill not infect the contiguous atmosphere, unlesslS\/em greyish green, pruinose to the naked eye, filiform,\nthat asraosphere be highly contaminated, and have already branching, pendulous, flexuose or slightly spiral, about one\npredisposed the population to disease. -Dr. Rush, and others, third of a line in thickness, and from a few inchesto six fee,\nwho were compelled to admit these facts, affirm that this in- long; leaves same size and color with the main stem, cauline,\nlec'.eJ air acts only as an exciting cause; and that, in this respect. :'. sustains the same position that dissipation, exposure,\nfatigue, and the like, sustain to disease.    We do not object to\nsubulate, in pairs or trios, and from one to two inches long:\nwhen two leaves are opposite, the main stem passes through\na spatbo formed by their bases, although they are sesile:\nthis either: but if it thus becomes an exciting cause, which I flowers bell-tubular, solitary, and axillary, petals 3. light green,\nis i \u25a0 . bit, and produces or excites disease in those who broad-linear, rounded at tho apex, equitant below, thereby\n\"-   ildai id Mi   ther exciting causes, it is certainly as much forming a lube equal to the calyx:   calyx,\n'\u25a0: '\u25a0\u2022:\u25a0 .i-.V'f- .;:-..1 a; ii it were called by another name; for it\ncauses the death of those who might otherwise escape.\nAnother great point of difference among medical men, is\nin rel ::::&gt;n lo the source or origin of the malaria of yellow\nglabrous,\ntripartite, divisions subulate, very acute', erect, spreading flat:\nstamens shorter than the tube.\nEaton lias placed it among those plants whose corals have a\nperianth without a spathe:\u2014hut the coral of the Spanish\nfever, as an epidemic.    As to its nature or properties, as be- moss 1ms a calyx, and a spathe over it: and the spathe re-\nfore \u25a0\u25a0 served, we know nothing except by its effects upon the mains or is permanent.\n\u2022m.    It is an invisible, inodorous, aerial poison,     This singular vegetable abounds along the lower Missis-\nI : \u2022 perceived by any ol our senses: and has not sippi, principally upon the alluvial lands, and the ccntigii-\nh   :..  ..\nwhic\nbeen\nIS :..   ::ily true\nal analysis. Yotmostmenseemto ous fertile hills, within Hi or 15 miles ofthe river. Itseems\nh arises from the putrifaction of to flourish best in a damp atmosphere and in regions where\nand these substances are fogs are frequent, which is the case in the swamps ef the\nol the miasm ol yellow Mississippi, and many other portions of the South and South-\nrer make.- its appearance west. In high, thin or sterile hills, remote from the river, or\n..: Iy commence a search from marshy grounds, it is less frequent ami often entirely\nsm; and the first matters wanting. It seldom is found North of 33\u00b0 or 33}\u00b0 s. 1st\ns, :,. a stati of decompo- In a suitable atmosphere it abounds to such on extent, that\n; 'rely -:\nIM   \u2022::\u2022::   I -:. -\n: i-e distinguisii\nIn  searching   :\nsiea-J of being direct,\nc :-.:::.\u25a0\u25a0\u25a0 ::.-: :-i-   ::.-\ncally tl--'-\nnearly nil the trees of the forest, which have rough bark, are\nn thing\ncovered with heavy tresses of it,  from one to six feel long,\nputrifac\npendant from every branch,  until the whole forest oppean\nst nearly\nclad in sombre grey : which in ihe leafless | \u2022 .:c-J of winter\nnotwilh-\ncasts a more gloomy shade in tho deep li rest than common\n1  tnd tc\n:\u2022 liagi di -..- in summer.\nTh s;, lant, although a parasite, derives n i sustenance firoia\nth   tree upon which i; bancs.    The onlv support yielded^!\n:':.- tree, is to held it suspended from its fine branches, so tin'\n  --\nil may wave freely in the air and be exposed to -.-.-. rv breeze.\n\u25a0  m which only it derives its sustenance.     1: will growupon\n-' '\u2022-'\u25a0\u25a0 \u25a0'\u25a0\u25a0'\ndead trees, as I have seen a hundred times: bul i: dees re:\n\u25a0&gt;:.. ?.,,\n; 'ish there as upon the living tree, for want of the small\n' ranches to suspend it loosely in the air: for these are- soon\nIdropped by dead trees; and ev\nlarce branches upw\niHI","fullrs":{},"find":"442.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"441","restrictionCode":"1","cdmfilesize":"1849444","cdmfilesizeformatted":"1.76 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

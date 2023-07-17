@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Brought to the Second Municipality Police Prison.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001917</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>J. Worrell</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1851-05-20</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Child slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>New Orleans</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1851</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date Committed">
+      <temporal>1851-05-20</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">BROUGHT to the Second Municipality Police Prison--LOUISE, a light griffe, about 24 years old, 5 feet 1 inch high; says she belongs to Mr. Laguayster. BAPTISTE, a griff, about 37 years old, 5 feet 6 inches high; says he belongs to Mr. Casnelle. WILLIAM JONES, a griff, about 19 years old, 5 feet 5 inches high; says he is free; supposed to be a slave. CYRUS, a dark griff, about 29 years old, 5 feet 4 1/2 inches high; says he belongs to Wm. Smith. JULIAN, a light griff, about 11 years old, 4 feet 4 inches high; says he belongs to Mr. Mace. ANDREW, a griff, about 45 years old, 5 feet 2 inches high; says he belongs to Mr. Bienvenue. The owners will please comply with the law and take them away. J. WORRELL, Warden. New Orleans, May 20, 1851. my20 1aw3w</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">light griff; griff; dark griff</note>
+   <note type="content" displayLabel="Slave Owner">Mr. Laguayster; Mr. Casnelle; Wm. Smith; Mr. Mace; Mr. Bienvenue</note>
+   <note type="content" displayLabel="Slave Name (Age)">Louise (24); Baptiste (37); William Jones (19); Cyrus (29); Julian (11); Andrew (45)</note>
+   <note type="content" displayLabel="Slave Age Under 12">Y</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">F; M</note>
+   <note type="content" displayLabel="Number of Slaves in Ad">6</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 6</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Daily crescent. : ([New Orleans, La.]) 1848-1851</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">RSA00001920</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-05-20/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn82015378/1851-05-23/ed-1/seq-3/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn82015378</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/2048</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-03-16</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>2048</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/2048/json"
+                        timestamp="2017-02-13 13:32:55">{"title":"RSA00001917","object":"sn82015378","publia":"The Daily crescent. : ([New Orleans, La.]) 1848-1851","date":"1851-05-20","year":"1851","film":"page 2, column 6","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-05-20\/ed-1\/seq-2\/","unique":"Brought to the Second Municipality Police Prison.","person":"J. Worrell","parish":"New Orleans","digita":{},"acknow":"1851-05-20","public":"Mr. Laguayster; Mr. Casnelle; Wm. Smith; Mr. Mace; Mr. Bienvenue","town":{},"relati":"Louise (24); Baptiste (37); William Jones (19); Cyrus (29); Julian (11); Andrew (45)","slave":"F; M","slavea":"light griff; griff; dark griff","slaveb":"Y","slavec":{},"reward":{},"multip":"6","physic":"Y","persoa":"N","transc":"BROUGHT to the Second Municipality Police Prison--LOUISE, a light griffe, about 24 years old, 5 feet 1 inch high; says she belongs to Mr. Laguayster. BAPTISTE, a griff, about 37 years old, 5 feet 6 inches high; says he belongs to Mr. Casnelle. WILLIAM JONES, a griff, about 19 years old, 5 feet 5 inches high; says he is free; supposed to be a slave. CYRUS, a dark griff, about 29 years old, 5 feet 4 1\/2 inches high; says he belongs to Wm. Smith. JULIAN, a light griff, about 11 years old, 4 feet 4 inches high; says he belongs to Mr. Mace. ANDREW, a griff, about 45 years old, 5 feet 2 inches high; says he belongs to Mr. Bienvenue. The owners will please comply with the law and take them away. J. WORRELL, Warden. New Orleans, May 20, 1851. my20 1aw3w","subjec":"Child slaves--Louisiana.; Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Women slaves--Louisiana.;","type":"text","format":"clipping","langua":"English;","digitb":"Runaway Slave Ads: 1836-1865","digiti":"RSA00001920","contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn82015378\/1851-05-23\/ed-1\/seq-3\/","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001917.jpg","find":"2028.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2016-03-16","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"2048","restrictionCode":"1","cdmfilesize":"85570","cdmfilesizeformatted":"0.08 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

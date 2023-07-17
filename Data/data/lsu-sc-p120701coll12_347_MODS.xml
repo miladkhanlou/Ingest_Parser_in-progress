@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 30</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/619</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>619</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/619/json"
+                        timestamp="2017-02-09 16:30:57">{"title":"Page 30","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":",-&gt;'\n256\nS O U T II - W E S T E R N J O U R N A I,\n\u20221, '\nI;,\ndiscovered sixteen feet deep in the soil, by a peasant who was\ndigging to set out a mulberry tree. The Commodore pur\nchased them, and caused them to be transported on board the\nfrigate from a height of six hundred feet above the sea. Five\nhundred men of the crew joined their efforts to carry these\nmasses a distance of a mile and a half. These sarcophagi\nare of white marble, in one piece. The smallest has this in\nscription:\u2014'Julia Mamoea Augusta.1 She was the mothei\nof Alexander Severus, Emperor in the year 222 of the Chris\ntiancra. The two monuments were empty, when they were\ntaken by tho crew of the Constitution.\"\nREGISTER OF METEOROLOGY.\nNatchez, Mississippi.\u2014Latitude 31-' 31'   Longitude 91\" -21' 42\"\nKEPT   DV   HENIIY   TC1UI.EV, ESft.\nJune IItiiehm. II\nBAROMETER.\nWIN Da.\nF.\nS.\nS.\nM.\nT.\nW.\nT.\nF.\nS.\ns.\nM.\nT.\nW. lit\nT.   14\nF.\nS.\nS,\nM.\nT.\nW. 20\nT.   21\nF.\nS.\nS.\nM.\nT.  21\n74 84\n7484\nr58-i\n|75 85\n386\n485\n88\nW.\nT.\nF.\nS.\n81\n85\n78]83\nTli\n7C.189\n77 91\n!)1\nnil 1)1\nGam\n89,64\n29,GG\n29.GG\n29,51\n29,52\n29,05\n29,07\n29,70\n29,77\n29,81\n29,82\n29,80\n29,70\n29,71\n29,70\n29,05\n29,04\n29,00\n29,04\n29,70\n29,70\n29,08\n29,08\n29.GG\n29,75\n29,78\n29,75\n29,75\n29,75\n29,71\n19 M\n29,00\n29.G8\n29,G2\n29,54\n29,48\n29,09\n29,70\n29,70\n29,79\n29,83\n29,82\n29,79\n29,75\n29,71\n29.G9\n29.G5\n29,02\n29.G3\n29,00\n29,71\n29,70\n29,70\n29.G8\n29,09\n29,75\n29,70\n29,75\n29,70\n29.7G\n29,71\n29,00\n29.GG\n29,55\n29,52\n29,48\n29,00\n29,00\n29,72\n29,79\n29,81\n29,80\n29,74\n29,70\n29,00\n89,64\n29,04\n29,59\n29,02\n29.G5\n29.G8\n29,00\n29,07\n29,05\n29,09\n29,74\n29,75\n29,72\n29,73\n29,08\n29.GG\nb\nWinds1 dlroctlonand face.\nc 3 sw 1 ne\nn 1-2\nn 2-3 w 3\nn w 2-1\nnw 1 w 3 nw 4w 2\nn 2-3 w 2\ns 2 sw 3 s 2\nse 2 sw 2 s 2\ns 1-2-1\nse 2*3 ssw 2\n73 8? 88  29,69.5 29,73,4'29,57,3\ns2-l\nse 2 s 3 e 3\ns2\ns 1 vi 1 n 1\ns 1-2 e 1\ne 1 n 1 e 2\nne 1 n 2\nw2 n 1\nsw 2 s\n-sw 3 1\nsw 3 w 4-2\nsw 3 nw 2\nse 1 w 2 aw 2\nc 2 n 2 w 2\naw2n 2w2\nnil\nse 1 w 2 s 2\nssw 2-3-2\nssw 2 w 2 sw 2-3\nsw 3 w 3\nMISCELLANEOUS\nBend 5, heavy thunder ami\n3\u2014Darkly overcast, eloin\n1\u2014Without a cloud.\n;y\nREMARKS\n.Icinh I.- Heavy r.iin all night, thunder, swill\novercoat.  8\u2014Overcast; clouds of every form\nnvery form, ruiniili and si rati, ami high cirri 5.    i~*\u00bb undue a CIOUU, overi\ninn cirro euniiill, a few cirri. D\u2014Withoul n cloud, overspreading nimbus heai v\nsquall of wind and rain, cumuli, e,.\u2014Without a cloud, a fowswlft cirri,fleecy\ncirri. 7.\u2014Without u cloud, very cloar, bright sunset, 8.\u2014Cirri ami slrati large\nanil dense cumuli, clrro cumuli. 0\u2014Rmull cirro.cumuli Innumerable, overcast\ndarkly 10-Overcast, heavy cumuli and high llorry cirri, without a cloud, il\n\u2014Overcast, Isrge cumuli, very clear. IS\u2014Morning clouds, largo cumuli ami\nhigh fleecy cirri,oversproadwith nimbi,   13\u2014Very clear, largocumull ami n,\ncirri, a fow cirrislrali.    11\u2014Clouds of every form, dense anil lame Clliiiiiii ;\nsou without a cliiiui. 15\u2014-A rew cirri, laree cumuli,cirro*slralland cirro-cumuli,\nlei\u2014A few wavy cirri, heavy masses of cumuli, siraii. cumuli, ami lloocy clr'if.\nelectric clouds and corruscatlcna, H. and \\v. 17\u2014-Without a cloud, large and\ndense cumuli, strati In the west. 18\u2014A few cirri ami siraii W., largo cumuli and\nhigh fleecyelrrlidensQ cumuli N. 11. 19\u2014Drllliant and cloudless sunrise, large\nand di-nsp cumuli ami high ilcecy cirri, very clear. 2(i\u2014Orercaat, swift scud3,\ncumuli and liiitli fleecy cirri, cirri of every form. 21\u2014Swift scud 5, largo cumuli\nami liiilh tleecy cirri, brilliant and Cloudless Sunset, '-\u00a31\u2014llensely overcast\nlarec cumuli and fleecy cirri, a few strati W, so passes by [lie summer snlslice\nwithout commotion in earth or air.   23\u2014Without a cloud, large cumuli, vcrr\nclear, 24\u2014Without a clnml, hazy, fleecy cirri over head, hazy cumuli ahniu tho\nhorizon, a lew cirri. 23\u2014 Cirro-cumuli, lia\/.y, darkly overcast, thiii wavy cirri.\n\u20226\u2014Clear, larze cumuli and nimbi,overcast. 27\u2014Clear, hazy, lame cumuli, thin\ncirri and haze- 28\u2014Clear hazy, cumuli and high fleecy cirri- 29\u2014A few wavy\ncirri, hazy, large and dense cumuli, clear hazy, 30\u2014Overcast, swiftscUdB,denia\nunroll, cloudless and brilliant sunset.\nUkoapitulation--1 clrar day\u201427 more or less cloudy\u20142 more orle\ns rainy.\nPassage tiibouoii THE rockv mountains.\u2014The\njournal of an exploring tour beyontl the Rocky Mountains,\nby the Rev. Samuel Parker, gives the following curious account of a broatl defile through these mountains, which affords a commodious and easy passage from the country lying\neast of this grcat range to the territory on the coast ofthe Pacific. The existence of such a passage increases the importance of the steps in contemplation by our government, to occupy the territory on the Oregon.\n\"The passage through these mountains is in a valley, so\ngradual in tho ascent and descent, that I should not have\nknown we were passing them, had it not been that as we advanced the atmosphere gradually became cooler, and at\nlength we found the perpetual snows upon our right hand\nand upon our left, elevated many thousand feet above us\u2014in\nsome places ten thousand. The highest part of these mountains are found by measurement to be eighteen thousand feet\nabove, the level of the sea. This valley was not discovered\nuntil some years since.\n\" Mr. Hunt and his party, more than twenty years ago,\nwent near it, but did not find it, though in search of some favorable passage. It varies in width from five to twenty miles;\nand following its course, tho distance through the mountains\nis about eighty miles, or four days journey. Though there\nare some elevations and depressions in this valley, yet, comparatively speaking, it is level. There would be no difficulty\nin the way of constructing a rail road from the Atlantic to\nthe Pacific ocean; and probably the time may not be very far\ndistant, when trips will be made across the continent, as they\nhave been made to Niagara falls, to see nature's wonders.\"\nERRATA.\nPage 237, 2d column, lGih line, fur \" simoon,\" read simoom.\nTage 212, 1st column, 2d line, tor \" Pattabozzi,\" read Pestalozzi\nPage 242, 2d column, 13 lines from the bottom, for \" Pyercnn,'\nread Pierian.\nTruth is the only intellectual gold.\n","fullrs":{},"find":"620.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2016-06-22","dmoclcno":{},"dmrecord":"619","restrictionCode":"1","cdmfilesize":"1822764","cdmfilesizeformatted":"1.74 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

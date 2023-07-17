@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/451</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>451</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/451/json"
+                        timestamp="2017-02-09 16:30:59">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"T\nSOUTH-WESTERN JOURNAL.\nrjunlfgbcu acin[\u00bbmonl!)ln, at jnbc BoHata ilut, 6n the .'JJetfrrsori Colkot ano CBnstitnator. ajttum.\nINTER   I Y L V A 8   A c. A D E SI I*   Q U JG It E IIK   VEHUM.\nVOL. I.\nNATCHEZ, FEBRUARY 28, 1838.\nNO. 6.\nTHE EPIDEMIC YELLOW FEVERS OF NATCHEZ.\n'\u25a0 IN MEDIO VERITAS.\"\nAn ErK*y read before Hie. Jefferson College and Washington Lyceum, Dee. 2,\n1837, by J. YV. Monette, M. U.\nCONTINUED.\nAs wo before observed, the immediate cause of yellow\nfever as an epidemic, is a subtle gaseous poison in the atmosphere : but how it is generated, or from what it is thrown\noff, we are not certainly informed.   The medical faculty have\nbeen constantly engaged in efforts to detect ils origin and explain its nature; they have manifested zeal and industry worthy\nthe cause of science, to search out and expound the hidden, il\nnot mysterious cause.    In unnumbered instances, they have\nsupposed they had traced the monster to his den : but when\nthey have attempted to place the shackles upon him, he has\nvanished.    The difficulty of arriving at the true knowledge\nof such a mysterious agent, has only stimulated the zeal, and\nexcited the industry of the medical faculty, whose province\nis to search out the physical causes of morbid phenomena.\nHence (he great diversity of opinions entertained and advanced on the origin of this pestilential miasm.    At one time\nit has been traced successfully, as was believed, to putrefying\nmid putrid vegetable matter, sometimes of one kind, and sometimes ol another.    At another time, it has been as clearly\ntraced to putrescent animal matters of one kind or another:\nat another time, it has been as clearly traced to the union of\nanimal and vegetable matter in a state of putrefaction; at another time, it has been traced as clearly to a source differing\nwidely from either,  and  apparently entirely independent of\nall o[ them; at another time, it has been traced to some atmospheric phenomena, independent of any cause under our\ncontrol; at another time, it has been traced to increased and\ncontinued temperature of the seasons; at another to vicissitudes of weather, which were perceptible to our senses, as\nchanges from heat to cold and rice versa; and, at another\ntime, lo changes of which we can form no definite idea, such\nas a mysterious epidemic constitution of the atmosphere.  Other circumstances, again, have carried, as was believed, incon-\ntestible evidence that it has originated from personal contagion\nttlone; others, again, seem to show, that personal contagion\nlias no agency in the matter, but that it is a poisonous air gen\ncrated in ships at sea, with or without putrescency.    In every\ninstance, tho facts and arguments arrayed to sustain one theory, have militated equally against all others; and thus of each\nin turn; so that nearly every theory is opposed, if not controverted by all the others: and whatever ground is taken, there\nis ten to one against it.    Under these circumstances, we must\ntake a middle course; for, although it is not probable that all\nare true in the whole, it is equally improbable that all should\nbe entirely erroneous.    All these different circumstances or\nrelations may have had some agency, at different times, in\nmodifying the action of the poisonous miasm: although all ot\nthem certainly could not have been actual sources for its production. Some of these circumstances may have increased\nor diminished the susceptibility of the system to its action, or\nso modified it as to render its effects apparently moro or legs\ndirect from the efficient malaria.\nGreat solar heat is one circumstance which invariably precedes, and is certainly an essential requisite to generate the\nmiasm or infection of yellow fever; and the fact that the absence of heat, or cold, as invariably destroys it, shows that its\nproduction is effected by some unknown combination of solar\nheat, with some unknown principle in the atmosphere; and\nwe infer that the numerous other sources to which it has been\nascribed, have had their agency only in modifying the effects\nof this poison on the human system. To enter into a detailed\nexplanation of the manner in which these various causes may\neffect the susceptibility of the system, is beyond our present\npurpose. We will only remark briefly on some of tho most\nprominent theories, in relation to the source and production of\nthis miasm, or malarious poison.\nThose who contend for its origin in vegetable putrefaction,\nhave ascribed it to putrid codec, to putrid potatoes, to putrid\noranges, to rotten corn, to putrid sour crout, sour porter, and\nthe like; in warehouses, on board ships, or lying exposed\nupon tho wharves.\nThose who believe it originates from animal putrcfaetion,\nhave ascribed it to the opening of old burial grounds, to putrid fish, to putrid bacon, to putrid pork, to putrid animal carcases, to putrid hides, to putrid oysters, and to similar matters\ndiscovered about the wharves and shipping, or in other parts\nof cities.\nThose who contend for its origin in effluvia generated by\nthe sun from the surface of the earth, have ascribed it to exhalations from stagnant water in marshes; to the exhalations of\nmarshy ground, when all moisture is evaporated; to exhalations thrown off by loose earth exposed to the sun; to exhalations thrown off by mud, and common city filth, in sewers\nand back yards; and, when these are wanting, to any thing\ntheir fancy may suggest.\nThose who believe it to originate in sensible changes ofthe-\natmosphere, have ascribed it to a dry, heated air; to moisf\nheated air; to a continued mean temperature at or above 80\" for\nforty days together; to sudden vicissitudes from hot to cool\nweather, and the reverse; to the absence or presence of much\nelectricity in the atmosphere, and absence of thunder, dee.;\nothers ascribe it to a peculiar insensible \" epidemic constitution\" of the atmosphere.\nTo nearly all of these causes have the yellow fevers of\nNatchez been ascribed, by the advocates of those different\ntheories; and each have adduced certain facts to sustain their\nopinions. Upon each of which we shall make a few remarks',\nand pass on to the history of the epidemics of Natchez.\n1st.    Of animal putrefaction.    Dr. Bancroft, in his work\nm\n\u2022 \u2022\u25a0\u2022)' 11,,\nIII\ni\nIf\nmn\n\u25a0\u25a0 \u25a0 \u25a0 'i ..1\nLift.\nm\ni. 'i\n\u25a0.\u2022\u25a0\u2022I\ni\nM\nl\nm\n\u25a0 1","fullrs":{},"find":"452.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"451","restrictionCode":"1","cdmfilesize":"1991642","cdmfilesizeformatted":"1.90 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

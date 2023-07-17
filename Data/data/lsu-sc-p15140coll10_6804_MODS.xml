@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 6, Page 13</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2210</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2210</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2210/json"
+                        timestamp="2017-02-03 08:24:49">{"title":"Section 6, Page 13","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[13]\nHtical power of the States of the Valley of the Mississippi, thus rendering her\nrally  responsible to them for the passage of such laws as will encourage, en-\nf\"ge and strengthen the commercial and social interest of this vast section of the\nconfederacy; therefore, be it\nResolved, That this Convention, representing the states interested, respectfully\nbut earnestly request the Legislature of Louisiana to repeal and abolish all laws,\nither statutory or constitutional, they have enacted, which may be in conflict\nwith the spirit of the foregoing preamble, and that they will adopt such other\nlaws as may be necessary to promote harmony of action aod unity of effort on\nthe part of the Southwestern states in constructing such a great system of rail-\nmads as will facilitate their intercourse with their natural commercial emporium ;\nand that the Legislature, in such manner as their wisdom may designate, do promote the immediate construction of great trunk rail-roads, leading north and west\nfrom New-Orleans, upon which the various branch rail-roads of this and other\nstates may be engrafted.\nMr- T. G. Morgan, of Louisiana, moved to lay them on the table; but, before the\nquestion was put, the Convention adjourned until 6 o'clock, P. M.\nFkiday, January 9, 1852.\nEVENING SESSION.\nThe Convention met at 7 o'clock, p. m.\nVice-President A. Fowler, of Arkansas, in the chair.\nMr. T. G. Morgan, of Louisiana, withdrew his motion of this morning, to lay\nthe resolutions of Mr. W, S- Campbell on the table, and made a motion that they\nbe adopted, which was unanimously carried.\nThe acting President announced the following committees appointed by the\nPresident, A. Mouton, before he left the city :\nCommittee to memorialize the legislature of Mississippi under Mr. Walter's\nresolutions\u2014Col. H. W. Walter, of Holly Springs ; Hon. Stephen Cocke, of Aberdeen; Col. John Duncan, of Grenada; Col. C. S. Tarpley, of Jackson ; Gen-\nE. L. Acee, of Yallabusha, Miss.\nCommittee of three to address Congress and the Legislatures of the several Southern, Western, and South-western states, under the resolution offered by the Committee of Ways and Means\u2014James Robb, of New-Orleans; C. S. Tarpley, of Mississippi, and A. Fowler, of Arkansas.\nCommittee on Major Ranney's resolution, adopted in the morning\u2014J. H. Ran-\nney, of Louisiana; Philip G. Weaver, of Alabama; John Martin, of Arkansas;\nM. Landrum, of Florida ; Mr. Campbell, of Kentucky ; Stephen Brown, of Mississippi; Mr. Chouteau, of Missouri; Mr. Brinckley, of Tennessee; J. T. Mills,\n\u00b0! Texas; Mr. Burwell, of Virginia.\nThe following resolutions were presented by  Mr. Henry Chouteau, of Mis-\nRe&amp;olved, That the obstructions to the navigation of the Upper Mississippi,\na&lt;Hed by the lies Moines and Rock River rapids, are such as to require the initiate action of Congress.\nnea T^^'-That tlie ol:)9truct'ons t0 tlie navigation of the Ohio River at the falls\nar houisville, Ky., aud the canal around them, need immediate improvement.\ndes      tfe*&gt; That the enlargement of said canal, to meet the wants of commerce,\n- ves the serious and prompt action of our National Legislature.\njjefso^e^&gt; That the Senators and Representatives in Congress be, and they are\ny requested, to bring this subject to the consideration of Congress,\nport j   aac E. Morse, of Louisiana, opposed the resolutions.    Mr. Hymes sup-\nBrovii     , n-    Mr. Chouteau offered an   additional resolution in favor cf i nation j11? tlle mouths of the Mississippi.    Dr. Estes, of Louisiana, offered a resnlu-\n&gt;Q faJ      r ?f rem\u00b0ving the raft in Red River. Mr. Walter, of Mississippi, though\n0r ot the objects of the resolutions, thought they would injure tbe objects","fullrs":{},"find":"2211.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2210","restrictionCode":"1","cdmfilesize":"569336","cdmfilesizeformatted":"0.54 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

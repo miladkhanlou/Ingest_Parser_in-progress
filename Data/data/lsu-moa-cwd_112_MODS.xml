@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Jurassic ooze</title>
+  </titleInfo>
+   <name displayLabel="Artist">
+      <namePart>Durieux, Caroline, 1896-1989</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">art</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Artist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <edition>3 of 5</edition>
+      <dateCaptured>2004-07-27</dateCaptured>
+      <dateCreated keyDate="yes">1960</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Abstract paintings</topic>
+   </subject>
+   <abstract displayLabel="Description">The print is composed of shades of green with random veiled areas of yellow. White areas with selected magenta patches are also evident in the composition.</abstract>
+   <note type="content">This is a  cliché verre which required two printings to achieve the desired results. The artist related that she felt the yellow areas were needed to balance the color composition, while the magenta filters through to add warmth to the work. &lt;Ms. Durieux had no intention as to the work's social comment, as she was simply experimenting with the different time exposures to the light source.. The artist cut out shapes in paper then allowed the light to work upon exposed areas. This work was quite experimental as there were no real calibrations with concern to the light exposure.</note>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Color cliché verre</note>
+      <extent>11-1/4 x 15-3/4 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n97093352" displayLabel="Contributing Repository">
+<namePart>Louisiana State University (Baton Rouge, La.). Museum of Art</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Caroline Wogan Durieux Works of Art</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/d3827.html</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-moa-cwd:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="https://www.lsumoa.org/ ">LSU Museum of Art, Shaw Center for the Arts, Baton Rouge, LA</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail artmuseum@lsu.edu with questions or comments</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the Louisiana State University Museum of Art. Copyright is retained in accordance with U. S. copyright laws.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Caroline Wogan Durieux Collection at the LSU Museum of Art, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Accession Number">67.1.4</identifier>
+   <identifier type="local" displayLabel="Object File Name">cd000093</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/CWD/id/44</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2004-08-13</recordCreationDate>
+      <recordChangeDate>2018-11-14</recordChangeDate>
+  </recordInfo>
+   <extension>
+      <imageBitDepth>36 Bit-depth</imageBitDepth>
+      <digitizedBy>PA</digitizedBy>
+      <extentArchival>1:1</extentArchival>
+      <colorMode>Color</colorMode>
+      <CONTENTdmData>
+         <alias>CWD</alias>
+         <pointer>44</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/CWD/44/json"
+                        timestamp="2017-01-05 14:12:43">{"title":"Jurassic ooze","creato":"Durieux, Caroline, 1896-1989","date":"1960","subjec":"Abstract paintings","descri":"The print is composed of shades of green with random veiled areas of yellow. White areas with selected magenta patches are also evident in the composition.","notes":"This is a  clich\u00e9 verre which required two printings to achieve the desired results. The artist related that she felt the yellow areas were needed to balance the color composition, while the magenta filters through to add warmth to the work. &lt;Ms. Durieux had no intention as to the work's social comment, as she was simply experimenting with the different time exposures to the light source.. The artist cut out shapes in paper then allowed the light to work upon exposed areas. This work was quite experimental as there were no real calibrations with concern to the light exposure.","editio":"3 of 5","type":"Image","medium":"Color clich\u00e9 verre","sizewe":"11-1\/4 x 15-3\/4 in.","format":"jpeg 2000","source":"Louisiana State University Museum of Art (http:\/\/appl003.lsu.edu\/museum\/moa.nsf\/index\/)","reposi":"Finding aid for the original photographs: http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/d3827.html","rights":"Physical rights are retained by the Louisiana State University Museum of Art.  Copyright is retained in accordance with U S copyright laws.","cite":"Caroline Wogan Durieux Collection at the LSU Museum of Art, LOUISiana Digital Library, Baton Rouge, La.","contac":"E-mail fhuber@lsu.edu with questions or comments","frame":{},"access":"67.1.4","langua":{},"object":"cd000093","item":"See 'reference url' on the navigation bars.","collec":"Homepage: http:\/\/www.louisianadigitallibrary.org\/cdm4\/index_CWD.php?CISOROOT=\/CWD;   List of images: http:\/\/www.louisianadigitallibrary.org\/cdm4\/browse.php?CISOROOT=\/CWD","image":"300 dpi","imaga":"36 Bit-depth","color":"Color","extent":"1:1","imagb":{},"file":{},"hardwa":{},"catlog":{},"catalo":"2003-11-18","digiti":"PA","publis":{},"digita":"2004-07-27","credit":{},"contri":{},"fullrs":{},"find":"57813139102003_258.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2004-08-13","dmmodified":"2008-03-24","dmoclcno":{},"dmrecord":"44","restrictionCode":"1","cdmfilesize":"5065551","cdmfilesizeformatted":"4.83 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <imageResolution>300 dpi</imageResolution>
+  </extension>
+</mods>

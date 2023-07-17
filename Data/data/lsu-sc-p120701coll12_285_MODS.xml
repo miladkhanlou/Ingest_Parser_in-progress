@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 01</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/557</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>557</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/557/json"
+                        timestamp="2017-02-09 16:31:00">{"title":"Page 01","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\njisilfslicii ScmI-moutl)l|i, nt jfllic fflollars aSatx, Uii tit Set\nI N T K It   \u00abVI,VI1\nfr-taon ffioiuge nun BJEtasJtnijton aiiccuw.\nA 0 A D CM 1   (| U A7. II E R E   VEBIUI.\nVOL.   I-\nNATCIII3Z, JUNE 30,  1838.\nXOS.   13 &amp;  11.\nr.,r die Soutli-Wostorn Journal.\nREVIEW.\n11 M 1 T C II E 1.I.' \u2022\"   MM'   * N \u00bb    II 0 o li    OF    THE   W 0 n L I) . \"\nPublished liy Hlnmandi Dntlon, Philadelphia.   1838.\nWithin a few years past, Mr. Augustus Mitchell has presented the people of the United States with some of the finest\n.&lt; lecimens of map engraving which have been issued from\nthe press. The numerous maps which he has furnished,\nhave been gotten up with great neatness and beauty; and\nwhat is more important, they evince much research to insure\ncorrect delineations of] the different countries he has mapped;\nas he always introduces the most recent changes in the divisions of countries; and the courses and distances of rivers nnd\nmountains, which the latest discoveries in geography have\nIn\nand the small scale upon which it is necessarily drawn\nmost instances these are laid down with more precision, and\nmay be referred to with more satisfaction, than many maps on\na scale ten times as large. Throughout the great oceans\nare distributed the transcripts of the compass, with all its ordinal points; bywhich, in a moment, the bearing of one point\nfrom another may bo ascertained, by applying a common\nrule or straight edge. This arrangement, together u lib th.;\nminuteness with which rocks, coasts, islands, and straits, and\nthe tracks of navigators, are laid down, must lender it u valuable map for the cabins of ships especially.\nWc are inclined to believe, it would have been better to\nhave given a slight shadingto ihe bounds of seas, bikes, and\noceans, by the engraving.    This might have been done with-\nbrought to our knowledge.    The map of the United States out any inconvenience, and would have made the boundaries\npublished in I83\u00a7, was a fine specimen of engraving, and a\nvery true delineation ofthe region embraced in the United\nSlates and Territories. However there were some few errors in that, especially in tho map of the Stales of Mississippi and Louisiana; but of so trivial a nature as scarcely to de.\nof land and water more distinct: which ii- ihe plan adopted\nby most modern map-makers. Whereas, in the presentcuse,\nthere is only a single black line, shaded on on,' side with\npaint for the seas; which, al first view, is apt to occasion a\nlittle confusion; and this liability will increase after a few\nKrvepointing out. It must doubtless be extremely difficult years, when the paints will, in n great measure, have baled,\nnl a distance to obtain exact information of every village and so as lo leave only the single black line, as the division be-\nlown which arc almost daily springing up in the great valley tween continents and oceans,\nAs to the different portions of ihe map, we believe there\nare none more deserving notice than others; but all merit our\napprobation and encouragement. A mere passing notice of\neach quarter of the globe is all we can bestow at present.\nNeiiiTii America. This map is rendered doubly interesting by the discoveries of Captains Parry and Back, which\nof the Mississippi; anel of the numerous water courses\nwhich are annually discovered and explored, as the advance\nof the white settlements extend over the vast wilderness.\nwhich has been gradually reclaimed from wild beasts and\nihe savage tribes. Hence we are almost surprised, in these\nregions, to find the information so correct in these particulars,\nami so correctly spread upon the maps,    in the present map, are carefully attached, together with the variations of the\neven the recently recognized republic of Texas, wilh exact needle, in the various points of longitude in those arctic re-\nboundaries, and the towns which have sprung up in a few\nmonths, arc all laid down in a conspicuous manner.\nfho present publication is even a work of more merit than\nIhe map of the United Slates, because it embraces such a vast\namount of research, anel such a great extent of surface; be-\n\"i? no less than the surface of the whole terraqueous globe)\nWith all its continents and subdivisions, oceans, seas, islands,\nmid llie various trucks of voyagers who have circumnavigated\nWe globs. This latter alone, as it embraces all tho numerous tracks of recent voyages, as well as those cf more early\ngions, beyond the seas seen by McKenzio and Hearne. This\npart of the map, like all the remainder, is most handsome ly\nexecuted, and the delineations very correct.\nAlthough the scale is comparatively small, wc were pleased\nto see the Mississippi traced to its ultimate source in Itasca\nLake. This has as yet been given on very few, if any, general maps. Mr. Mitchell has nol, however, improved tho\nbuok accompanying the map, to the same stage of discovery:\nfor by the discoveries of Mr. Schoolcraft in 1832, which place\nthe source of the Mississippi in Itasca  Lake, one hundred\ntate, must have required intense application and much re- and eighty-two miles were added to the previous length of\nsearch. , the river above the falls of St. An'.l. my, which before was es-\nThe general plan of the Map deserves a short notice. It timated at six hundred and eighty miles. Thus the length\nis upon the square plan, or Mcrcator's projection; which is above the falls would now be about eight hundred and sixty-\nprobably belter adapted to the use of those who are not very two miles; whereas Mr. Mitchell, in  his book, makes  it\nconversant with the spherical shape and connections of th.\ndifletciu portions of the globe. The different countries,\nkingdoms, and islands, are finely colored nnd elegantly shad-\n\"'\u25a0 The engraving is very line, anel delineates the physical\nBiography with remarkable minuteness and precision, when\nwe take into consideration the extent embraced by tho map\n\"about six hundred miles.\" Another small error, corrected\nby Mr. Schoolcraft, in his last tour up ihe Mississippi, was\nin relation to the falls of Si. Anthony. After the discoveries\nof Pike, and of Schoolcraft's first lour in 1820, the fulls of\nSt. Anthony were estimated at sixty-five feet, including tho\nperpendicular falls and the rapids for half a mile below;\n\u2014~       ~","fullrs":{},"find":"558.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"557","restrictionCode":"1","cdmfilesize":"1867497","cdmfilesizeformatted":"1.78 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

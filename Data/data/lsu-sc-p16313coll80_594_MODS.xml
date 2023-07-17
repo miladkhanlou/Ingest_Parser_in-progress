@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Partis Marrons.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001053</title>
+  </titleInfo>
+   <originInfo>
+      <dateIssued keyDate="yes">1854-10-08</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1854</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">PARTIS MARRONS -- De l'habitation de Madame Lan dry Landry les nègres suivants : PRESTON, agé d'environ 23 ans, belle taile, ayant reçu un coup de fusil sur un des deux mollets, ayant une cicatrice sur la poitrine. STEVEN, nègre ragot, ayant de longs cheveux tressés lorsqu'il est parti marron yeux rougeâtres, âgé d'environ 32 ans, ayant sur le dos plusieurs marques du fouet. PUTNEY, beau nègre, dents très blan-ches, portant de la barbe quand il est parti marron, âgé d'environ trente ans. Si ces nègres, ou quelqu'un d'en-tre eux. se trouvent écroués dans quel-que geôle de la Louisiane, la shêrif de la paroisse où cela pourrait advenir, est instamment prié d'en donner avis à nos bureaux.</abstract>
+   <note type="content" displayLabel="Slave Owner">Madame Landry</note>
+   <note type="content" displayLabel="Slave Name (Age)">Preston (23); Steven (32); Putney (30)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 5</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Related Items">http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-10-15/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-10-29/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-11-05/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-11-19/ed-1/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-11-26/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-12-07/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-12-17/ed-1/seq-3/; http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-12-24/ed-1/seq-3/;</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-10-08/ed-1/seq-2/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86090609</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3428</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3428</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3428/json"
+                        timestamp="2017-02-13 13:33:02">{"title":"RSA00001053","object":"sn 86090609","publia":"Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?","date":"1854-10-08","year":"1854","film":"page 2, column 5","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-10-08\/ed-1\/seq-2\/","unique":"Partis Marrons.","person":{},"parish":{},"digita":{},"acknow":{},"public":"Madame Landry","town":{},"relati":"Preston (23); Steven (32); Putney (30)","slave":"M","slavea":{},"slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"PARTIS MARRONS -- De l'habitation de Madame Lan dry Landry les n\u00e8gres suivants : PRESTON, ag\u00e9 d'environ 23 ans, belle taile, ayant re\u00e7u un coup de fusil sur un des deux mollets, ayant une cicatrice sur la poitrine. STEVEN, n\u00e8gre ragot, ayant de longs cheveux tress\u00e9s lorsqu'il est parti marron yeux rouge\u00e2tres, \u00e2g\u00e9 d'environ 32 ans, ayant sur le dos plusieurs marques du fouet. PUTNEY, beau n\u00e8gre, dents tr\u00e8s blan-ches, portant de la barbe quand il est parti marron, \u00e2g\u00e9 d'environ trente ans. Si ces n\u00e8gres, ou quelqu'un d'en-tre eux. se trouvent \u00e9crou\u00e9s dans quel-que ge\u00f4le de la Louisiane, la sh\u00earif de la paroisse o\u00f9 cela pourrait advenir, est instamment pri\u00e9 d'en donner avis \u00e0 nos bureaux.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-10-15\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-10-29\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-11-05\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-11-19\/ed-1\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-11-26\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-12-07\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-12-17\/ed-1\/seq-3\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-12-24\/ed-1\/seq-3\/;","contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries. ","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001053.jp2","find":"3492.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-05-13","dmoclcno":{},"dmrecord":"3428","restrictionCode":"1","cdmfilesize":"199153","cdmfilesizeformatted":"0.19 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

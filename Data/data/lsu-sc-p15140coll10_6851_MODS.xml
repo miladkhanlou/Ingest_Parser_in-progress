@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 7, Page 32</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2257</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2257</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2257/json"
+                        timestamp="2017-02-03 08:24:51">{"title":"Section 7, Page 32","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"[32]\nto it; and from Captain Knox, of Prairie Mer Rouge, who has given his mind v\nfully to the subject.\nI have also availed myself ofthe information of A. C. Wooldridge, Esq., en^W\nof the state, who had previously carried a survey over the same region, \\^\nmatter of constructing a road over this country\u2014the dreaded Mississippi Swain\n\u2014is the only real or unusual difficulty which was anticipated on the route, I hi\nto state that I consider these difficulties to have been much exaggerated, a'ndtW\nthe swamp is not impracticable for the construction of a permanent work\/a\nreasonable cost. The material is not properly that of a swamp or morass, bn!\nmerely the deposit from the waters not yet high enough to escape the annual\noverflows. When dry, it is tenacious and firm, which character it maintains to\nindefinite depths.\nMr. Murrell's well, on the banks of the Bonne Idee, 27 feet deep, and lower\nthan the bottom of the bayou, showed at the bottom gravel as large as a hickory\nnut, mixed with a chocolate-colored clay. In certain places in the swamp, stand.\ning water does not penetrate below a few inches. Hence an embankment of any\nweight may be sustained, and constructions of masonry be made permanent by a\ngood platform foundation below. Neither is the soil of a quality to \" run\" insiiil\nwater, though in certain cases it might be advisable to give the sides of the em.\nbankments a flatter slope than is usual.\nTimber of excellent quality abounds; the \"over-cup oak\" is the prevailing\ngrowth ofthe swamp, and no timber is better for constructions of the character\nwe are discussing.\nI saw the string-pieces of abridge over the Bonne Idee which were built of this\ntimber. It was partly submerged in ordinary seasons, and entirely so at timesof\nflood, the weight being sufficient to keep it from floating.\nThis timber was perfectly sound, although it had been lying ten years in that\nvery trying position. The soil of much of the country is proper for bricks;\nhence, wilh durable timber, good earth for embankment, and materials for brick,\nwe have at hand all the requisites for the road.\nI conclude, therefore, that there is no objection on account of unusual difficulties of construction, excepting the interruption and injury to incomplete works\nfrom high water, which latter may be guarded against by bringing the embankments, as far as constructed, to their full heights, and when the water is about to\nrise, protecting the extremities by revetments of timber and plank. The embankment of a road always above water would be, for the greater part of the distance,\nless than ten feet in height, and never twenty feet, excepting for a few hundred\nfeet in length at the approaches of the streams. Hence tbe cost will not be so\nformidable as has been imagined. But the great question is, if the construction\nof such a bank across the whole swamp will not be making a dam to hold bw\nthe freshet water, and thus bring it to a higher level, doing injury to_the country\nabove and to the work itself. It would seem that, if there were any impediment\nto the movement of the immense mass of water which, in seasons of flood, cove*\n-the country for many miles inland, it would cause the water to rise agaiusta\nover the bank, and finally sweep it away, after having doue great \"'J\"^,10^\nupper country. Of course, if openings of sufficient magnitude be not left t^vC\nthe embankment, such will be the effect, though less in degree than would^\nproduced by corresponding circumstances in a mountainous region, w\"e.,\nfloods rush in from their sources, or where the face of the country lias a coiisi ^^\nble slope. But there is no reason why openings of sufficient magnitude s .\nnot be made, for these, as will presently appear, need not be so considera f\nwould be judged without observation. The highest floods come from the\nescaping over the banks of the Mississippi and lower Arkansas rivers, wne\nhave not been sufficiently leveed, or where the levees have been broken ^\nThis body of water spreads itself over a wide extent of flat country, an . (\ntinues to deepen until the surface attains the level due to its source. At tin I ^\nitstandaalongtime, having a scarcely perceptible current, excepting towatjlversal\nstreams of drainage, and in the beds of those streams. This is the un .fl\nstatement of ihe inhabitants, and observation confirms the account. lflU ^^a\nnot see in the swarap any evidence of the passage of large bodies of Wl'1i \\ atf\nswift cuiTi-ut: on the contrary, every evidence is againstit, amongst wlll.c7 ^jug\ncite the instance ofthe present bridge over the Bonne Idee Bayou, W1 t l0 it*\nbuilt for use in low stages, of timber very little heavier than water, key","fullrs":{},"find":"2258.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2257","restrictionCode":"1","cdmfilesize":"634355","cdmfilesizeformatted":"0.60 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

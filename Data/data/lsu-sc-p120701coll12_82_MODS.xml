@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 10</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/371</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>371</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/371/json"
+                        timestamp="2017-02-09 16:31:03">{"title":"Page 10","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"10\nS0UT H-WESTERN J OURN A L.\nNL\nthe sunn-ithin the earth's orbit, near!:; in Ihe plane of Ihe solar would beg leave to introduce testimony, which, if it should\nequator, approaching, at limes, very near lo the earth, and not prove fatal lo the theory, must, at least, affect its probubi-\nhaving a periodic time of eillter one year, or half a year lily.\nwar\/\u201e The displays of the Zodiacal Light are peculiarly splendid,\nSuch, I affirm, would be the fact, should the Zodiacal light frequently reaching 00\" and occasionally much further, and\nbe proved lo be the body which affords the meteoric shower\nYale College, Dec. 19, 1830.\nWedislike all theories; and most of all do we dislike them\nin the exact sciences. Their day has gone by; and happy in\ndeed it is for the cause of science, that they begin to be re\njected in every system of physics. If we yield to fancy a single\npug,-,: in Astronomy, that sttblimest of all the matin\nmalic sciences, we may with equal propriety and with little\nililficuhj-, sllow her lo account for every unsolved phenomenon.\nIf I apprehend the above essay correctly, Mr. Olmsted has\nfallen into several errors, in regard to the Zodiacal Light,\nLa 1 'I - :\u25a0 long since demonstrated that the identity of the solar at,in,sphere and the Zodiacal light is impossible, and yet\nthe writer above, announces to us in italics, as if the idea were\n\u2022lew, that \"According to this view of the subject, Ihe Zodiacal\nli'^bl would no longer lie regarded as a portion of the Sun's\natmosphere,\" ey-c. 1 was not aware that it had recently been\nso regarded. I In the contrary, the reasoning of La Place is\nclear. First, the solar atmosphere cannot reach beyond the\n\u2022ubit of the nearest planet; otherwise, friction would retard,\nnnd finally overcome its centrifugal motion, and it would be\nttUractcd into the body of the Sun. It, therefore, does not\nreach tho orbit of Mercury, Secondly, the ratio of the lessto\nihe greater diameter of tho solar atmosphere, cannot bo greater\nthan that of 2-3 lo I.\nNow both or either of these reasons is sufficient to refute the\ni lenlity; for it is certain that the Zodiacal light passes over the\norbits of several plaints, reaching far beyond the path of our\nown: yel they suffer no retardation from its presence: and its\nform is thai of a very flat lens, such as the atmosphere never\ncould assume. After the demonstration of La Place, I am\ncuriousto know if any one maintained the identity of the sola,- atmosphere and the Zodiacal light.\nAn idea occurs to me, which may rather favor -Air. Olm-\nsinks theory; but as truth is my object, rather than the refutation ol a theory which may become philosophy, I shall stl'g-\njjosl it. I SUspecl that the revolution of the Zodiacal Light,\ncaused by the sun's rotatory motion on his axis, is not tenable\nFirst, 1\u00bb cause the supposition that il is a material fluid is inconsistent with that of its contact with the sun, as the solar\natmosphere occupies the space in the vicinity of his surface-\nsecondly, to admit of its contact with the sun requires the hypo-\ntie sis, that it resembles light, or is one of that class of fluids\nwhose materiality is questionable;*  I upon this supposition, it would not be affected by the sun's revolution.\nMr. 0. seems surprised that Astronomers should have paid\nso little attention to the changes which occur in the Zodiacal\nLight about ihe time of the meteoric display. This nc&lt;'le-ct,\nperhaps, has aristn from the fiict that such changes have not\nevery whero been found ,o occur.    And in this place we\n' Tiiit- Is necessary i\u00bb ad\nadma of its free passage through ilic suicr atmosphere,\nassuming all ihe varieties of hues, which characterize our\nmagnificent sunsets. For nearly a year past 1 have been\ncarefully watching their features and noting the dales of their\noccurrence: and so far from appearing splendid in the morning sky with a westward elongation, a few weeks or days before Nov. 13lh, I have never been able to detect the leasl exhibition of it in the morning sky. For the past six weeks, I\nhave been more than usually on the alert, but with the same\nresults. On the contrary, the whole year, with very short\nintervals, has furnished them in the west, and most spli ndid,\nwhen according to Mr. O's theory, they should be most distant and flint.\nDuring the month of April, when one of the periodic returns of this 'Nebulous comet' should occur, the weather\nwas quite as favorable for tho appearance of the Zodiacal\nLight as usual, yet, I have none noted in that month either\nfir evening or morning. In July, on the contrary, we had\nvery brilliant ones, though less splendid and more rare than\nin August. This month was peculiarly prolific in displays\nboth of the Light in question and of shooting slars; bill neither was confined to any particular portion of the month.\u2014\nThe finest displays of the kilter were on the 5th and lGth.\u2014\nThis, il will be recollected, was just at ihe time when the cornet\nof Mr. O. was in its apogee, supposing its period semi-annual.\n1 In the (ith, 7th and 8th of the present month, when, cf course,\nwe should expect the light in the east, and westward of the\nsun, according to (ho theory, they did not appear in the\nmorning, bill in the. evening, with their usual brilliancy.\u2014\nFrom the 8th to the 10th there were no exhibitions of ihe\nZodiacal light; but on the 10th, 22d and 23d they were very\nfine, without any thing unusual in their appearance.\nThe evenings of Ihe lOtll nnd 11th were very favorable\nfor observation, and I kept a look out late and early, but saw\nno unusual meteors. The night of the 12th clouded at 11.\nand prevented further observation : but up to that time it was\nvery clear, and the number of meteors was unusually small.\nI saw two,viz:\u2014The first about the magnitude of Polaris,\nwas first seen near Aldebaran, in the constellation Taurus,\nand passed south about 10 deg., and disappeared. The second from Gamma Cassioprede, and travelled north, it was\n-mall, mid visible but a moment. Neither, it is obvious, had\nmy connection with the annual shower. 1 regretted much\nthat my observation could not last all night, as I had awaited\nthe result with much anxiety.\u2014The night of the 13th was\nvery clear, but presented nothing unusual, with the exception\nof a single meteor at day break of the 14th. I copy from\nmy journal of the 14th\u2014\" At half past 0 A. M. witnessed a\nmagnificent meteor, which startled me from the composure\nwith which I was surveying the brilliant morning stars. It\noriginated near Aldebaran\u2014a little above, and passed towards\nthe horizon, inclining North slightly. The body was about\n12 niin. in diameter, passed very rapidly, leaving a palpable\ntail, not nebulous, as usual, which widened after being loft, and\nii\ntfSEE^j-","fullrs":{},"find":"372.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"371","restrictionCode":"1","cdmfilesize":"1910290","cdmfilesizeformatted":"1.82 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

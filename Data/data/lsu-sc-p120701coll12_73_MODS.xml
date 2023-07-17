@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 1</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/362</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>362</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/362/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 1","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\n.]]u lil I.\u00ab bcli Ss c m [ = iiio-i Ilil n, nt jjfhc Dollar* iiyrar, bn tlic .Urf frvsou Col line .inn Cl'iisli funtou auccum.\nI NT Kit   BYLVAS    A e A I) E M I A:   U I; F. It E H B   VKtllflt.\nk\no\nV\n\\ (II.. I.\nNATCHEZ, DECEMBER IS. 18:17.\nThese ore tho circumstances which first brought us together, ninl these the objects of our association. The ends\nsought are such as must insure the approbau'6n, if not the\nardent support of nil acquainted with them.\nSocial by nature, our desiro for company increases in pro\nportion lothe amount of our knowledge. To acquire scientific lore solely for the purposo of hoarding it in the mind, is it\nspecies of mental avnrico, no less criminal and indicative ol\nmeanness than a sordid lovo of gold. Fortunately, when\ncivilization hits mado any considerable progress, it seldom occurs, nnd indeed cannot exist, tgnoranco may lovo the cell\nmil the desert, hut a learned anchoret is a phenomenon of tho\nrarest kind. One of the chief operating causes in the decline\nof Egyptian learning, was that system which confined it exclusively to the priests. And duringtho middle ayes in Europe, the confinement of knowledge to .tho clergy, kept the\nworld in darkness produced by other causes. It is true thai\nwo owe most of tin- vnluablo remains of Grecian and Ro\nlife, anil engage the energies of men, whose intelligence and man literature to the monasteries; hut it is- equally true that\nsound judgment plnco them above tho imputation of enthus- these remains continued buried in tho cells of the monks\niasm, must be worthy (he attention, and strongly enlist the much longer ilnu, Iheir safety demanded concealment. A\nfeelings of nil capable of appreciating it. belief that ignorance of the laity fosters piety was the OSti u\nIt is not tin- intention of tho present address to solicit the siblc motive for this monopoly of knowledge, though per-\nfavorable regard of this audience for our undertaking.   Sub- bans ihe true reason was, that it increased the power of the\nINAUGURAL ADDItF.SS,\nDellvorcd In tho College Hall, before tit,- Jefferson Collego anil Washington\nLyceum: on Saturday, January '.'. 1B30,   llv Charlss I.. DunvissoH, A.M.,\nPresident of Jefferson Coll,-.--. Washington, Miss.\nOksti.i:)ii;.\\ of the Jefferson College and Washington Lyceum,\u2014The distinguished honor you have conferred upon me, by electing me your first President, brings\nmo under obligations, which cannot In- cancelled by many\nprotestations of thankfulness. My gratitude must appear by\nother means than words, therefore\n\u2022\u25a0I waive this breathing courtesy.\"\nLadies and Gentlemen,-\u2014An occasion like the present\ncannot fail to awaken the liveliest interest in all who are acquainted with the purposes of our meeting. When a number of persons, of various tastes mid habits, associate themselves into a body for the furtherance of any object an importance is at once attached to it, that individual effort, how\ngreat soever it may he, cannot give. The reason is obvious.\nA subject that can call from the retirement of professional\nsequent meetings, as they will be monthly and all public, will\nbe more suitable for that purpose, 'flu- simple subject, unadorned by any tinsel or parade, shall he presented, When\ntruth is .sought the affected blandishmi ntsof manner and ihe\nornaments of stylo, are as mushrootis that spring up in the\nshade nnd wither in the sun.\nA plain statement, then, of the cause ol our association:\nthe object of our society: the ttgreeablen -\u25a0\u25a0-. utility and im\nprests, and enabled tho Roman Pontiff to bind the chains\nmore strongly on his willing slaves. The monstrous dor-\ntrine, that virtue and intelligence are incompatible, is long\nsince exploded. And that sordidncss and cruelty which\nwould wield the S( cptre over brutalized humanity, are seldom\nlo bo found at the present day.\nNext to the pleasure of acquiring new ideas, is that of communicating them lo i tin \u25a0\u2022--.    This does not hold with regard\nportant influence of such institutions, shall form tho subject to any particular pnrtit n i f m n; it applies equally to all.\nitf a few remarks. Tho philosoph :-, who spends his life in the investigation of\nIn a private con versa: ion, u casual remark \"that an asso-IEthics or Physics, wril s for the benefil of man, w&lt; II know\n.nation ol gentlemen' of different pursuits, and professions, ing that ho will receive his just reward of celebrity. The\nand acquirements into a society, would In- an efficient means Antiquary, tie.- Mathematician, the Statesman, convey tin ir\nof collecting much vnluablo information on subjects which ideas to others, because tho communication gives them plea-\nneither time nor facilities pormitted each fully to investigate,\" sure. Tho dullest clown, the slight gleaming of whoso in-\nletl to a discussion of (he practicability, and finally to matur- tolled scarcely en,ill is him to ihe name of a reasoning being,\ning the plan of tho Jefferson Collego and Washington Ly\nceum Tin- object is eloquently expressed in tho preamble\nto the constitution:\n\" We, the citizens of Washington and vicinity, in order to\npromote the diffusion of knowledge in general science,\nstrengthen our minds, correct nnd improve the style of our\ncomposition, bring to light hidden stores of knowledge nnd\nsecure lo ourselves fluency of speech nnd elegance of language, much In he valued and sought after in public life, and\nconsidering the many advantages accruing from an association of individuals, for that purpose, do ordain and adopt this\nconstitution of such society,\"\nexhibits this propensity in wishing to give his own crude notions. All men are teachers as well as learners. Indeed\npedantry is much more prevalent than docility. It is a wise\nprovision of our Creator that this disposition to circulate\nideas should give us pleasure; for it is this that keeps up the.\nintellectual current, which refines and fertilizes the human\nmind.\nJiesides the pleasure of intercommunication with men of\nintelligence, on scientific nnd practical subjects, there is\nanother by no means insignificant\u2014the promotion of friendly\nfeelings. Acquaintance with the opinions of others and theii\nreasons for them, is, perhaps, one of the most efficient modes\nUZH?","fullrs":{},"find":"363.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"362","restrictionCode":"1","cdmfilesize":"1810102","cdmfilesizeformatted":"1.73 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Nathaniel P. Banks letterpress copybook, 1863-1864</title>
+   </titleInfo>
+   <name type="personal" displayLabel="Creator">
+      <namePart>Banks, Nathaniel Prentiss, 1816-1894</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm type="text">New Orleans (La.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1863</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1864</dateCreated>
+      <dateCaptured encoding="w3cdtf">2013-12-04</dateCaptured>
+   </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Red River Expedition, 1864</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>United States</geographic>
+      <geographic>History</geographic>
+      <geographic>Civil War, 1861-1865</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Mexico</geographic>
+      <geographic>History</geographic>
+      <geographic>European intervention, 1861-1867</geographic>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="personal">
+         <namePart>Banks, Nathaniel Prentiss, 1816-1894</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject - Name">
+      <name type="corporate">
+         <namePart>United States. Army. Department of the Gulf (1862-1865)</namePart>
+      </name>
+   </subject>
+   <abstract displayLabel="Description">Nathaniel Banks's letterpress copybook contains copies of official letters from Banks's headquarters of the Department of the Gulf in New Orleans for the periods August 1-October 15, 1863, and December 2, 1863-February 18, 1864.</abstract>
+   <note type="biographical/historical" displayLabel="Biographical Note">Nathaniel P. Banks served in the US House of Representatives for Massachusetts for four different periods (1853-1857, 1865-1873, 1875-1879, 1889-1891), as speaker of the US House of Representatives (1856-1857), as governor of Massachusetts (1858-1861), and as US marshal for Massachusetts (1879-1888).  During the Civil War, Banks was commissioned major general of volunteers in the Union army.  He served in the Shenandoah Valley and Northern Virginia campaigns, the Siege of Port Hudson, and the unsuccessful Red River campaign.</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form authority="aat">Letterpress copybooks</form>
+      <extent>1 letterpress copybook</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Nathaniel P. Banks Letterpress Copybook, 1863-1864</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">https://louisianadigitallibrary.org/islandora/object/lsu-sc-banks:collection</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 2326</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>B:12, Box 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No Copyright - United States</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights Information">Copyright of the original materials in this collection has expired and they are therefore in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Nathaniel P. Banks Letterpress Copybook, Louisiana Digital Library, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">2326</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/hcr</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2020-08-11</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

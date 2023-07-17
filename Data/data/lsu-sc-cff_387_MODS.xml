@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_5</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/877</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>877</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/877/json"
+                        timestamp="2017-01-13 13:22:52">{"title":"Page_5","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"M 55\n5.\nprocureur sindic du Cabilde avait intent\u00e9 une action au nom du public\ndela Nelle Orl\u00e9ans contre le domaine Royal (Real hacienda) pardevant le\ntribunal del\u2019Intendance alors pr\u00e9sid\u00e9 par Morales, pour r\u00e9clamer la pro-\npri\u00e9t\u00e9 des Communes autour de la Nelle Orl\u00e9ans et del\u2019espace qui se trouvait\nvacant entre la premi\u00e8re ligne des maisons &amp; lefleuve, et que sur cette ins-\n-tance Gilbert L\u00e9onard que vous avez connu comme un des officiers de ce\nmeme Domaine Royal, fit les fonctions de Procureur Fiscal ou d\u2019asses-\nseur pr\u00e8s de ce Tribunal &amp; donna son opinion (dictamen) qu\u2019on devait\nen r\u00e9f\u00e9rer au Roi, surquoi Morales avait rendu un jugement interlo-\nocutoire en 1802, qui lai?sa le tout in statu quo, de mani\u00e8re qu\u2019il ne fut\nrienprononc\u00e9 de d\u00e9finitif parceque probablement on en fut emp\u00each\u00e9 par\nle trait\u00e9 de St Ildephonse, qui e\u00fbt lieu en 1803, pour la ce?sion de la\nLouisiane. \u2013 Malheureusement lorsque J\u2019ai fait les recherches de cette pi\u00e8ce\npour en avoir l\u2019original, elle ne s\u2019est point trouv\u00e9e dans les archives du Bureau\ndes terres, mais seulement unpr\u00e9cis de la dite proc\u00e9dure, dre?s\u00e9 en anglais, Je\ncrois, par Nugent, &amp; sans doute pour l\u2019usage des commi?sions des Terres d\u2019alors,\ndont on vous envoie copie et o\u00f9 vous trouverez consign\u00e9s les faits dont je\nvous parle. \u2013 Diverses quittances ou re\u00e7us dont une partie des signatures\nest effac\u00e9e, prouvent que le dossier de ceproc\u00e8s avait \u00e9t\u00e9 d\u2019abord confi\u00e9 \u00e0\nJames Mather alors Maire de la Nelle Orl\u00e9ans, depuis l\u2019ann\u00e9e 1807 Jusqu\u2019\u00e0\nl\u2019ann\u00e9e 1810, et qu\u2019il m\u2019avait \u00e9t\u00e9 m\u00eame remis en1811, sans doute pour en\nfaireusage comme avocat de la corporation, dans unproc\u00e8s qu\u2019elle avait\navec Barth J. Lafon pour la concession d\u2019un morceau deterre qui lui avait\n\u00e9t\u00e9 faite par Gayoso, dans ces m\u00eames Communes delaville. Mais, soit\nque j\u2019aie n\u00e9glig\u00e9 de retenir mon re\u00e7u lorsque je remis cette pi\u00e8ce ou\nqu\u2019elle soit tomb\u00e9e dans des mains m\u00e9connues, lors de latransaction\navec Lafon, ou autrement, Je n\u2019ai pu parvenir \u00e0 d\u00e9couvrir aucune trace\nde ce document important, malgr\u00e9 tous les soins et recherches que j\u2019ai\n9\nM 55\npu enfaire, soit dans mes propres papiers ou ailleurs. Cependant,\nje me rappelle tr\u00e8s bien actuellement que j\u2019ai la l\u2019extrait [rature] qui\nexiste encore dans lebureau des Terres, que cet extrait est parfaitement exact\n&amp; conforme \u00e0 la proc\u00e9dure dont il retrace les principaux traits, cequeje\npuis attester comme ayant lu avec soin &amp; diverses fois, le dossier orignial\nqui contenait cette proc\u00e9dure. \u2013\nVoyez, Mon cher Livingston, si vous pouvez tirer quelque parti de\n[fin de la cinqui\u00e8me page]","typa":{},"genera":{},"fullrs":{},"find":"878.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-08-25","dmmodified":"2008-08-25","dmoclcno":{},"dmrecord":"877","restrictionCode":"1","cdmfilesize":"1305793","cdmfilesizeformatted":"1.25 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_15</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/670</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-07-30</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>670</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/670/json"
+                        timestamp="2017-01-13 13:22:55">{"title":"Page_15","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"F 18\nQue Dieu veuille que tu fa??e? le choix d\u2019une f\u00e9mme\nt\u00e9lle que je te la d\u00e9?ire, elle aura a??ez de jugement, et\nd\u2019\u00e9?prit, pour faire ton bonheur l\u2019ornem\u00e9nt de ta mai?on,\net le mod\u00e8le de p\u00e9rfection de te? \u00e9nfant?.\nCons\u00e9rve la ?ant\u00e9 de ta ch\u00e8re moiti\u00e9, la sant\u00e9 est la\ncho?e? du monde la plus pre?ieu??e, les femme? ont de? t\u00e9m-\nperamant bien d\u00e9licate, elle ont be?oin de beaucoup de ?oin,\net ne pa? comm\u00e9ttre aucune inprudance pour ne pa? d\u00e9 [rature]\nranger leur sant\u00e9, qui bien souv\u00e9nt ne ?e rem\u00e9t plu?, si ta\nf\u00e9mme vient \u00e0 faire de? \u00e9nfant?, ne con?\u00e9nt pas \u00e0 prandre\ntoute se? sage? f\u00e9mme?, \u00e9xcepter que tu te trouv\u00e9nt dan? un\nlieu \u00e0 ne pouvoir pa? faire autrem\u00e9nt, pr\u00e9nt un bon ac-\ncoucheur, et une femme capable d\u2019avoir soin de l\u2019enfant\npour que ta f\u00e9mme soi\u00e9 plus tranquille, ne la l\u00e9??e\npa? ?e lev\u00e9 qu\u2019apr\u00e8? neuf ou dix jour?, qu\u2019elle ne ?e nour-\nrice de bi?cuit du pain, du lait, de la voyaille roti, tout\nen petite cantit\u00e9, ju?qu'\u00e0 que la fi\u00e8vre de lait lui soi\u00e9\npass\u00e9r. Le? troi? car de? f\u00e9mme? sont ?ouv\u00e9nt malade toute\nleur vi\u00e9, faute de s\u2019avoir ?e conduire, et par des inpru-\ndance? qu\u2019elle comm\u00e9ttre. Que la m\u00e8re nourrice elle- m\u00eame\n?e? \u00e9nfant?, si elle est d\u2019un t\u00e9mperamant d\u00e9licat, elle doit\nle? nourir de soupe, peut de lait cela n\u2019est pas forti-\nfiant. Point de viandre jusqu'\u00e0 ?e qu\u2019il? aient toute?\nleur dant?, fait bien att\u00e9n?ion \u00e0 la nourriture de te?\n\u00e8nfant?, cela fera beaucoup pour leur t\u00e9mperamant.\nToi mon fil? soie p\u00e9r?uad\u00e9, que la plu? grande\n15","typa":{},"genera":{},"fullrs":{},"find":"671.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-07-30","dmmodified":"2008-07-30","dmoclcno":{},"dmrecord":"670","restrictionCode":"1","cdmfilesize":"946178","cdmfilesizeformatted":"0.90 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

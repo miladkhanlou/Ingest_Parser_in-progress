@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/501</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>501</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/501/json"
+                        timestamp="2017-02-09 16:30:54">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"S O U T H -WES T E R N   J 6 U R N A L.\n125\n: &gt;f\n: \u00ab$\n\u25a0 1i'V'J\nthan Roman husband to the dignity and splendor of his\nIhsirious fortunesWo take but a single revelation of this\n'\u25a0 ., it js from the closing scone of Washington's life :\nThe wing of a winter's storm hung gloomily and heavily\nMount VernonTho night winds moaned through the\n(less branches in tones of sorrowBut tho picture, in the\nick room of the father of his country, catches the eyeII\nhad said that he was not afraid to dieHis physician had\nurncd away, in despair, to the fireHis wife was seated at\n, , foot 0f the bedHis faithful secretary stood at his side.\nWashington placed his finger upon his pulse; his countcn-\nchanged; his hand fell from his wristThe now\nwidowed wife of Washington asked wilh a firm, collected\n.--e \" is l'c Sone \u25a0 \" ^'n0 secretary, unable to speak\nraised his hand in token that death had passed his shadow\n\u201evpr that illustrious face\" ' Tis well,\" was the reply worthy ofthe wife of Washington\u2014\" 'lis well; all is over now ;\n[shall soon follow him; I have no more trials to pass through.\nWhat a sentiment! When other and common females would\nhave been overwhelmed in sorrow ; when the clouds of their\nSlackest trial would have impended over them, like Egyptian\ndarkness, palpable to the touch, she could say\u2014I have no\n\u2022tore trials lo pass through !\nSometimes, when the massive piles of feathery clouds,\nthat lie like the \" islands of the blest\" in the deep, rarial sea\nabove us, break away in a particular spot, disclosing, fnr up\ninto the deeps of heaven, the passionless blue, a patch of eternal sunshine ; and, gazing in ecstacy, wo imagine we see\nfarther and clearer into the upper world than we ever did\nlefore,\u2014so does this expression, at such a moment, enable us\nlosee far into the mind of the lady of AVashington I\nWhy were her trials over, just at that point where the\ntrials of many would havo just commenced ? I answer, because she was the guardian genius of her husbandWrapped,\nabsorbed in, and identified with his fame, her trials were\nover, and her ministry ended, tho very moment she surrendered him, pure, spotless, and safe into the bosom of his God I\nHer soul had been with his in all his struggles; she had\nvisited him in every camp from Cambridge to Yorktown\nShe had kissed his cheek in that gloomy retreat through the\nJerseys, when he felt of his neck to see if he were born for a\ntraitor's halter; she had heard the bugles of France join\nwith the shrill clarions of her country, in a loud and startlin\nsong of victory, over ocean's queen, the conquerer of the\nArmadaWell did she know the uncertainty of human\nhonors und worldly applause; and when she saw that majes\ntic being whom she had loved anel cherished in life, whose\nviolent passions (for what great man has not such,) she had\ncalmed as oil thrown upon the seething billows ;\u2014when she\nsaw him carried safely into the harbor of eternal repose, and\nmvi the pale finger of death write immortality upon his\nbrow, well might she say\u2014\" my trials are all over.\" She\nleft, at that moment, her beloved reposing on his bed of glory.\nShould we proceed further with this subject, we should\nalmost wish to make tho corollary the premise, and argue\n'he importance of female education from the importance of\nfemale influence   The very fact, however, that the premise\nand the corollary are convertible, proves that we have built,\nhowever feebly, on the; foundationWith this our utmost\nambition is satisfiedThere will be other buildersMississippi, having put her hand to the cause of female education\nwill not look backShe will be as distinguished for female\naccomplishment, rs for enterprise, patriotism and her high,\nindomitable sense of honorOthers will tell of the sacred and\nhonorable vocations of a teacher,\u2014whose it is to stand at the\nfountain waters of this ocean of moral influence, evoking nnd\ndirecting its earliest flow, in ten thousand rills, down the\nsparkling sides of a thousand mountains, until, uniting in a\nshoreless sea, it shall spread its bright cincture round tho\nworld, cheering and refreshing both the cottages of poverty\nand the palaces of wealth.\nSOUTH-WESTERN JOURNAL.\nNATCHEZ,  MARCH 30,   1838.\nAokncy.\u2014The Executive Committee of the Lyceum for\nthe publication of the Journal, have succeeded in securing\nthe services of MrJohn Ford Harper, of Washington,\nin Adams county, as an agent to advance the interests and enlarge the subscription list of the South-Western JournalAs\nthis young gentleman possesses iho entire confidence of this\ncommunity, and of tho members of the Lyceum, we commend him to the attention of the friends of science and literature throughout the State.\nThere being two modes of advancing the interests of the\nJournal\u2014one, by becoming a stockholder and partner in the\nprofits, on the payment of t?25, annually for four years, and\nthe other by subscribing for the publication, and making advance payments,\u2014we confidently hope that MrHarper, who\nis fully authorized to receipt for stock, as well as subscription\npayments, will be able most effectually to promote the interests\nof literature in this State, by introducing, into hundreds of families, a native periodical, intended to be both the representative of Mississippi in the literary world, anel the foster patron\nof her genius.\nTO READERS AND CORRESPONDENTS.\nThe \"Essay on the Yellow Fevers of Natchez,\" although\nnot quite concluded in the last number of the Journal, is not\ncontinued in tho present number, but will be concluded in\nsome future oneThe remainder consists of some historical\nsketches of tho various Yellow Fever years in Natchez, confirmatory of the writer's theory, -which was concluded in the\nlast number.\nIn number IX, of the South-Western Journal, we hope to\nfind space for a Lecture on the \" Influence of Poetry on National character,\" by CLDubuisson, Esq.; and a \"Sketch\nof a Visit to India,\" by DrSCMerwin.\nTHE POWER OP THE ENGLISH LANGUAGE.\nNo one, after reading the following, will doubt the power\nof the English language to express the fury of a storm at\nseaIt is from the pen of TSFay, Esq., late one of the\neditors of the New-York Mirror:\u2014\"A tornado at sea! It\nstruck us in the afternoon, abruptly, as we were speeding on\nP\n\u25a0' \u00bb*,'sV*?J.j\n&gt; ih If\n.:(\u2022-'\n: m\nft","fullrs":{},"find":"502.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"501","restrictionCode":"1","cdmfilesize":"1732409","cdmfilesizeformatted":"1.65 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

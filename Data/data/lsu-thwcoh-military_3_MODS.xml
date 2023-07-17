@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>Frank L. "Dusty" Rhoades oral history interview</title>
+  </titleInfo>
+   <name displayLabel="Interviewee">
+      <namePart>Rhoades, Frank L., 1921-</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Interviewer">
+      <namePart>Rost, Jude Noah</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+      </role>
+  </name>
+   <note type="biographical/historical" displayLabel="Biographical Note">Frank L. "Dusty" Rhoades was born in Shreveport, La., and attended the Louisiana Polytechnic Institute before enlisting in the Army Air Corps at the start of World War II. He served as a bomber pilot flying a B-24 "Liberator." He graduated from the Louisiana Polytechnic Institute and the University of Oklahoma and worked a variety of positions in the natural gas, aircraft, and petroleum engineering fields.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1999</dateCreated>
+  </originInfo>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="personal">
+         <namePart>Rhoades, Frank L.,</namePart>
+         <namePart>1921</namePart>
+         <namePart>Interviews</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Louisiana Polytechnic Institute</namePart>
+      </name>
+   </subject>
+   <subject authority="naf" displayLabel="Subject">
+      <name type="corporate">
+         <namePart>Louisiana Army Ammunition Plant (U.S.)</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1939-1945</topic>
+      <topic>Aerial operations, American</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>World War, 1939-1945</topic>
+      <topic>Personal narratives, American</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bombers</topic>
+      <topic>Piloting</topic>
+      <topic>United States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>B-24 (Bomber)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Gas industry</topic>
+      <topic>Louisiana</topic>
+      <topic>Employees</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Machine shops</topic>
+      <topic>Louisiana</topic>
+      <topic>Bossier City</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ordnance</topic>
+      <topic>Louisiana</topic>
+      <topic>Manufacture</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Aircraft industry</topic>
+      <topic>United States</topic>
+      <topic>Employees</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Petroleum pipeline industry</topic>
+      <topic>Texas</topic>
+      <topic>Employees</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Petroleum pipeline industry</topic>
+      <topic>Alaska</topic>
+      <topic>Employees</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Petroleum pipeline industry</topic>
+      <topic>Saudi Arabia</topic>
+      <topic>Employees</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>Saudi Arabia</geographic>
+      <geographic>Social life and customs</geographic>
+      <geographic>20th century</geographic>
+   </subject>
+   <abstract displayLabel="Description">Rhoades discusses his family and education; attending Louisiana Polytechnic Institute; his training as an aircraft engineer and pilot; bombing missions over Germany flown from his base in northern England; his work in natural gas engineering in South Louisiana; owning a machine shop in Bossier City, La.; working for an ordnance plant near Minden, La.; his jobs in aircraft construction; his work in petroleum pipeline engineering in Texas, Alaska, and Saudi Arabia; and Saudi Arabian cultural customs.</abstract>
+   <abstract displayLabel="Link to Abstract">http://www.lib.lsu.edu/sites/all/files/oralhistory/abstracts/military/Rhoades_Frank.abs.pdf</abstract>
+   <note type="content">This collection includes materials accessioned as Mss. 4700.1171.; A digital version of the transcript (pdf) exists for duplication purposes.; A digital version of the audio recording (mp3) exists for duplication purposes and public access in the Special Collections Reading Room.; Interview conducted by J. Noah Rost.</note>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 sound cassettes (3 hours); Transcript (120 leaves)</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no94017348"
+         displayLabel="Contributing Repository">
+      <namePart>Louisiana State University (Baton Rouge, La.). T. Harry Williams Center for Oral History</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisianans in the Military Oral History Project</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Series">
+         <title>T. Harry Williams Center for Oral History military series</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-thwcoh-military:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Library: Oral History</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright is retained by Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Frank L. "Dusty" Rhoades Oral History Interview, Mss. 4700.1171, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from MARC catalog records and Excel spreadsheet data by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

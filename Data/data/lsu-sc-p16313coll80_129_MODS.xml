@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>25 DOLLARS REWARD.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000259</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>M.HDevereux</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1839-08-24</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racially mixed people</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Store Tchoupitoulas st, New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Store Tchoupitoulas st, New Orleans, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1839</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">25 DOLLARS REWARDRAN AWAY, on Sunday last, the 18th instFrom the Subscriber, a Mulatto or Griffe boy, known by the name of ARCHY, aged about eighteen years, five feet four or five inches high, dark bushy hairWhen he left he had on a white roundabout and pantaloons; but he has other Clothing with him, which he may put on at pleasureThe above reward will be paid to any person lodging him in prison or bringing him to the Store Tchoupitoulas StreetM H DEVEREUXaag 24th</abstract>
+   <note type="content" displayLabel="Slave Owner">M.HDevereux</note>
+   <note type="content" displayLabel="Slave Name (Age)">Archy (18)</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 3</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>True American: (New Orleans [La.]) 1835-18??</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-08-24/ed-1/seq-2/</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-08-27/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-08-29/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-08-31/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-09-03/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-09-05/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-09-07/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-09-14/ed-1/seq-2/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-09-17/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-09-19/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-09-21/ed-1/seq-3/ http://chroniclingamerica.loc.gov/lccn/sn83016527/1839-09-24/ed-1/seq-3/ </note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83016527</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/435</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-12-11</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>435</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/435/json"
+                        timestamp="2017-02-13 13:33:09">{"title":"RSA00000259","object":"sn 83016527","publia":"True American: (New Orleans [La.]) 1835-18??","date":"1839-08-24","year":"1839","film":"page 2, column 3","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-08-24\/ed-1\/seq-2\/","unique":"25 DOLLARS REWARD.","person":"M.HDevereux","parish":"Store Tchoupitoulas st, New Orleans, La.","digita":{},"acknow":{},"public":"M.HDevereux","town":"Store Tchoupitoulas st, New Orleans, La.","relati":"Archy (18)","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"25 DOLLARS REWARDRAN AWAY, on Sunday last, the 18th instFrom the Subscriber, a Mulatto or Griffe boy, known by the name of ARCHY, aged about eighteen years, five feet four or five inches high, dark bushy hairWhen he left he had on a white roundabout and pantaloons; but he has other Clothing with him, which he may put on at pleasureThe above reward will be paid to any person lodging him in prison or bringing him to the Store Tchoupitoulas StreetM H DEVEREUXaag 24th","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.; Racially mixed people--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-08-27\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-08-29\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-08-31\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-09-03\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-09-05\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-09-07\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-09-14\/ed-1\/seq-2\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-09-17\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-09-19\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-09-21\/ed-1\/seq-3\/ http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016527\/1839-09-24\/ed-1\/seq-3\/ ","citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collectionIdentify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU LibrariesCopyright has expired and the item is therefore in the public domainPermission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000259.jp2","find":"499.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-11","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"435","restrictionCode":"1","cdmfilesize":"72772","cdmfilesizeformatted":"0.07 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

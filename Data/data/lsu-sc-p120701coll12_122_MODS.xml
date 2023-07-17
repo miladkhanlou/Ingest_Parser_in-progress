@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 14</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/411</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>411</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/411/json"
+                        timestamp="2017-02-09 16:30:59">{"title":"Page 14","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"4fi\nSOUTH-WESTERN JOURNAL.\n,\/\n\u25bc\nTHE DYING STUDENT.\nYes I must die.   I know the hectic blush\nUpon my check tells of iny life's decay,\nAs irtlly ns llic lingering twilight's Hush\nUpon Ihe sky tells of the death of day.\nThe shadows of long nlglit reel through my brain.\nAnd the visions of,lie spirit land arc there:\u2014\nThe sluggish blond is curdling In each vein.\nAnd bids mo for Ihe life to coins prepare.\nMy languid pulse proclaims thai life's dull title\nIs ebbing fast towards that shoreless sea\nOn which my spin'', bark-llkc, soon shall ride,\nIn hope .-tntl strange expectancy most free.\nWhy do I shudder ai iho thrilling doom 1\nWhy is my mind at times so tempest-tost 1\nWhy should die spirit fear tho grave's deep gloom,\nOr dread tho wonders of Ihe heavenly hosi 1\nOh, il is hard that one so young as I\nShould say to c inh an.! all Ils scenes adieu I\nFur llic last lime should look upon llic shy,\nAnd watch the slars lade slowly out of view.\nThose eyes no more al day-IIghl's closing hour\nShall see the moon rise bi Iglitly from the sea,\nNor shall my steps again press to Iho bower\nWhere I vowed love and deathless constancy!\nFair girl, my Maryl   Mistress of my soul I\nMy heart is breaking while i, clings to thee;\n1 fool, while slaking, lljal lliy sweet control\nCould make ibis wotld a paradise to mo,\nHut oh, my love! my lip is ashy pale,\nAmi, like a sick bird, thought is fluttering low\u2014\nVet, till the cloud shall o'er my heart prevail,\nTo thec ils current ceaseless still shall flow.\nLong have I struggled in ihe lists of fame,\nAnd decked my blow to weal Iho laurel's shade,\nAmi now, when men begin in Ifsp my name,\nTho night comes on and glories from me fade.\nIn vain, most vain, a, midnight's solemn hour\nI've hid li ii p) aits from tho mighty deep,\nAnil felt, wilh pride, my nun t xhaii Hess power.\nWide o'or mind's realm, soar with an eagle's swoei\nOh, for ono d i.v'up in\nOh, foi on.- nlghl I'-\nOh, for tint- hour whci\n- Wilh my heart's lov\nVain is each wish\u2014Ik\ncnlh lite jewelled s'.-y,\u2014\n1 have be, h mosl blest,\nand her wild mln ii\"!:;,,'\nscaitcrcd in rves, Ibis eh\nShrink from Iho thoughts on which I love lo dwell:\nNight gathers o'er my mind, and 1 .-i-n say\nlltti one word inqre, and ihat ono word, farewelll\nThus spake the .-'ii lent, as life's fitful gleams,\nLike-an . - firing taper, rayed death's night-\nStill clinging lo if \u25a0 hope - and cherished dreams\nWhich on hlsh '..ii hat! shed a bits ml light.\nHo paisi .1 away,'.mil many a manly eye,\nUnused lutcars, i.-t sorrow for him wopt\u2014\nAnil many vowel, 'lill met within tho sky,\"\nHis nairic enshrlued should in ihcir souls be kept,\n[Louisville Journal,\nINTERESTING DISCOVERY OF A EU1UED CITY.\nTho Nantucket Inquirer contains an account of an ancient\ncity on the coast of Peru, which, with all its inhabitants had\nbeen buried by some volcanic or other convulsion of nature,\nand which has been but recently re-discovered.   Tho informa\ntion is derived from Capt. B. Ray of Nantucket, commander\nofthe ship Logan, lately arrived at New Bcdfoid from tha\nSouth Seas.\nHo states.thal on touching at the port of Guarmcy, Trtisillo,\nwhich is in about 10 degress of south latitude, he found the inhabitants engaged in excavating the remains of a subteranenn\ncity, which they had recently discovered in their immediate\nvicinity. He visited ihe spot whilst Ihe excavations were proceeding, and examined those portions of ihe ruins and reiki\nwhich had been explored. From tho situation in which human mummies were found, (here appeared to be no doubt, thai\nthey, like the inhabitants of Herculaneum and Pompeii in\nEurope, had been overwhelmed in ono common death and oblivion whilst in the midst of their ordinary avocations. Il don\nnot appear from Capt. Ray's statement that any clue has bcea\nfound to the date ofthe awful event, but the bodies were in a\nwonderful state of preservation ; the hair, the nails and integuments remaining entire as in life, and tho muscular structure\nbul little shrunk, though perfectly exsiccated\u2014ihe effects, possibly of the nitrous properties of the circumjacent soil. The\nmummy of one man was found in an erect position, nnd from\npieces of money which were found near him, it may be inferred that ibis ancient people were not irreconcilably hostile lo\na specie currency.\u2014From some evidence, which is not stated,\nthe conjecture is given that the population of this unknown\ncity must have amounted to 30,000 souls.\nThe walls of some of ihe edifices remain standing, and in\none of the explored houses, Captain Ray saw ihe body ofa\nwoman in a silting posture, who, when overwhelmed in liic\nsolemn hour of destruction, appeared to have been engaged in\nweaving, for the implements of that avocation were around\nher, and were in her skeleton hands. A small piece of clot),,\npartly woven, was spread before her upon a reed frame; in\none hand she held a sharp spindle or bodkin, eight or ten\ninches in length, in which was wound a quantity of line cotton\nthread of light brown colour; and parcels of cotton and win-\nted yams of various colours, wero also lyingncar her. She\ntppearsto have been wrapped in a loose cotton robe% cuitablo\nto the warmth ofthe climate. Capt. Ray procured the iinfin-\nislu tl fabric on which she bad been engaged, together with her\nspindle, and several specimens of her threads. It appears to\nhave been a work- of ingenious ornament, like u sampler, or\ntable rug, for tho frame was eight inches square, and she\nhad completed about one half of her industrious task, when her\nhands lost their cunning in tho sudden grasp of a dreadful I\ndeath. We may possibly hereafter learn An (her particular!\nol ibis interesting discovery; further excavations may develop)\nsome indications ofthe ago and name ofthis buried city, and\nof tho character and social condition of its entombed inhabitants.\nEARLY CHRONOLOGY OF MISSISSIPPI.\nBY MANN DUTI.EB, ESQ.\nSPANISH I'UIA.\n1512. March 27. Ponce De Leon discovered Florida,\n1S28. April 12. Narvacz landed on (ho Eastern coast of\nFlorida; of tin's expedition, consisting of 400 men\nand 45 horses, but four survived.    Nurvacz perish\ned at sea.\u2014levins'\n\"Cuuejuest of Florida,'' train","fullrs":{},"find":"412.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"411","restrictionCode":"1","cdmfilesize":"1839325","cdmfilesizeformatted":"1.75 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

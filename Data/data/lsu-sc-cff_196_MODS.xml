@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page_3</title>
+  </titleInfo>
+   <physicalDescription>
+      <form>letter</form>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Early Louisiana French Correspondence</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Louisiana and Lower Mississippi Valley Collection (LLMCV)</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-cff:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_CFF/id/627</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-07-23</recordCreationDate>
+      <recordChangeDate>2018-12-03-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_CFF</alias>
+         <pointer>627</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_CFF/627/json"
+                        timestamp="2017-01-13 13:22:49">{"title":"Page_3","creato":{},"author":{},"authoa":{},"authob":{},"authoc":{},"authod":{},"date":{},"langua":{},"letter":{},"transc":"See transcript link on the left navigation bar.","subjec":{},"digita":"Early Louisiana French Correspondence","reposa":"Louisiana State University Libraries, Special Collections","reposi":"Louisiana and Lower Mississippi Valley Collection (LLMCV)","physic":{},"type":"letter","descri":{},"digitb":"Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000","item":{},"contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws. Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","source":"Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","identi":"See 'reference url' on the navigation bars.","relati":"Website: http:\/\/www.lib.lsu.edu\/special\/cff &lt;br&gt;http:\/\/louisdl.louislibraries.org\/cdm4\/index_LSU_CFF.php?CISOROOT=\/LSU_CFF","catalo":{},"catala":{},"transd":"F21\nEliza [d\u00e9chir\u00e9] maine pass\u00e9e _ Elle et Y\u00e9mia mange cont[d\u00e9chir\u00e9]\nellement [d\u00e9chir\u00e9] qui commencent \u00e0 murir abondamment_ Je\ncrois qu\u2019Az\u00e9m [d\u00e9chir\u00e9] comment \u00e0 en ressentir les d\u00e9licieux effets\neffets _ car elle a [d\u00e9chir\u00e9] ttaque de dyssenterie \u2013 mais mange toujours!\nA la grace de [d\u00e9chir\u00e9] Quand \u00e0 Eliza il parait que cette une\nnourriture qui s\u2019a[d\u00e9chir\u00e9]orde tr\u00e8s bien avec son estomach _ car je ne m\u2019ap-\npercois d\u2019aucune changement en elle.\nAz\u00e9mia est revenue enchant\u00e9e de son voyage du Grand terre au\nNatchitoches _ Cela a beaucoup am\u00e9lior\u00e9 l\u2019\u00e9tat de sa sant\u00e9, qui,\nVous savez m\u2019inqui\u00e9tait beaucoup _ Mais aussi c\u2019est un voyage\ncomme on n\u2019en fait pas souvent. [rature] Aussi elle croit bient\u00f4t com-\nmencer \u00e0 \u00e9crire un r\u00e9cit de ses Voyages qu\u2019elle fera probablement\npublier l\u2019hiver prochain lorsqu\u2019elle descendra en ville et qui je\nvous assure [rature] sera d\u2019une grande utilit\u00e9 au public. Pendant son\nvoyage il lui est arriv\u00e9e une singuli\u00e8re aventure. Pendant\nqu\u2019elle et Eliza, \u00e9taient \u00e0 causer dans leur chambre Az\u00e9mia s\u2019est\naper\u00e7ue en regardant du cot\u00e9s du mirroir qu\u2019il y avait une,\npersonne vis-a-vis d\u2019elle qui \u00e9coutait chaque paroles qu\u2019elles\nse disaient et cette personne ressemblait beaucoup \u00e0 Eliza _\nMaintenant passons \u00e0 ce qui vous interessera plus que tout\nautre chose _ Je veux dire Oncle Napol\u00e9on. Je ne l\u2019ai\npas vu depuis un mois _ Il a perdu une partie de sa recolte\npar l\u2019eau haute. ce qui a \u00e9t\u00e9 cause qu\u2019il a vers\u00e9 des larmes\nQue n\u2019\u00e9tiez vous ici pour le consoler? Vous qui aspirez\n\u00e0 la Noblesse en \u00e9tant un jour Baronne de la Cadenctre [?]\nVous demandez [d\u00e9chir\u00e9] Az\u00e9mia s\u2019il ne s\u2019est pas encore consol\u00e9 du\ndepart d\u2019Ulys [d\u00e9chir\u00e9] _ _ Cela se peut mais je crois qui est\nne peut se conso [d\u00e9chir\u00e9] du d\u00e8part de sa Dulein\u00e9e _\nPavie et le petit [d\u00e9chir\u00e9] sont all\u00e9s l\u00e0 aujourd\u2019hui _ Lorsqu\u2019ils sont\n3","typa":{},"genera":{},"fullrs":{},"find":"628.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2008-07-23","dmmodified":"2008-07-23","dmoclcno":{},"dmrecord":"627","restrictionCode":"1","cdmfilesize":"1538985","cdmfilesizeformatted":"1.47 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <hardwareSoftware>Scanned with a Microtek ScanMaker 1000XL Pro at 300 ppi; saved as TIFF and converted to JPEG2000</hardwareSoftware>
+  </extension>
+</mods>

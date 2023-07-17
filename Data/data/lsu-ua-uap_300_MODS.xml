@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Eugene W. Kerr, M.E.</title>
+  </titleInfo>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1916</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Engineering teachers</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana State University and Agricultural and Mechanical College</topic>
+      <topic>Faculty</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Kerr, Eugene Wycliffe, 1874-</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">University Faculty; Professor of Mechanical Engineering</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Gelatin silver prints; 3.50in x 5.00in</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Folder">
+         <partNumber>Folder none</partNumber>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>LSU Photograph Collection, 1886-1926</title>
+      </titleInfo>
+      <titleInfo displayLabel="Series">
+         <partName>College Presidents &amp; Faculty</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 7</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.</note>
+   <identifier type="local" displayLabel="Item Number">a50000193</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/2384</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2008-10-15</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <hardwareSoftware>Scanned with Digibook 1000 at 300 ppi; saved as a TIFF and converted to JPEG2000</hardwareSoftware>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>2384</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/2384/json"
+                        timestamp="2017-02-01 13:52:51">{"title":"Eugene W. Kerr, M.E.","compoa":"0","photog":"Unknown","notes":"University Faculty; Professor of Mechanical Engineering","biogra":{},"descri":{},"typea":{},"date":"c. 1916","publis":"Gelatin silver prints; 3.50in x 5.00in","subjea":"Engineering teachers--Louisiana--Baton Rouge--Photographs.; Louisiana State University and Agricultural and Mechanical College--Faculty--Photographs.; Kerr, Eugene Wycliffe, 1874- --Photographs.","geogra":{},"aquisi":"LSU Photograph Collection, 1886-1926","box":"7","folder":"none","series":"College Presidents &amp; Faculty","subser":{},"reposi":{},"type":"Scanned with Digibook 1000 at 300 ppi; saved as a TIFF and converted to JPEG2000","source":"Louisiana State University Libraries, Special Collections","dates":{},"item":"a50000193","relate":{},"rights":{},"contri":{},"to":"To inquire about ordering copies of these images, email lsudiglib@lsu.edu See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html . Include the \"Item URL\" in your request. ","catalo":{},"compou":"See 'reference url' on the navigation bars.","ocr":{},"cite":"LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.","collec":"http:\/\/www.lib.lsu.edu\/special\/archives\/digital","fullrs":"Volume156\\a50000193.jpg","find":"2668.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2008-10-15","dmmodified":"2008-10-15","dmoclcno":{},"dmrecord":"2384","restrictionCode":"1","cdmfilesize":"669298","cdmfilesizeformatted":"0.64 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

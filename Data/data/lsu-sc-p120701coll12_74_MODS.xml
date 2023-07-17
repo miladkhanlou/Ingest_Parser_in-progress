@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 2</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/363</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>363</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/363/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 2","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTEHN JOURNAL.\nof removing prejudice and bigotryThat self-importance |ized themselves and ennobled their country, have lived and\nand pride which always accompany ignorance and inexpe- died ignorant of that celestial fire which lay smouldering ,ft\nrience must yield to superior knowledge, and must sink to its their bosoms, because there was no blast to fan it into a flame.\nproper levelThe boisterous rcileration of frequently exploded errors, the arrogant assertion of opinions, instead of\narguments, and the importunate ignorance which so often annoy in private conversation enn have no place heroPerti-\nnncity, the sin of imbecilo minds, will ever find an antidote in\nopen and manly discussion.\nIt is presumable that tho utility of such associations as\nIbis will be disputed by none, though the field of their operation rnny not be apparent to allA few remarks on this subject, therefore, will not be deemed irrelevant.\nUnassisted individual effort, with no other facilities than\nthose derived from ihe present advanced slate of science, may\nachieve great things; but the combination of many energies,\nwill accomplish more, tine innn, by patient study, may perfectly master any subject; but the united industry of many\ncan perform the same with at least as much ability, and certainly with less labor to eachThus, an essay may be written with taste and talent, yet when tried in the ordeal of criticism, faults of both style and thought may be discovered,\nwhich have entirely escaped the writer's noticeSo, likewise,\n.1 lecture or other paper may be composed with profound\nerudition and reach of mind, yet from the misapprehension of\na principle, errors of magnitude may have been made, which\nfree discussion will point out and correct   Few persons\nBut when many branches of learning are cultivated and discussed, ench person may easily perceive the adaptation of his\ntalents for any oneA force is thus applied, and a direction\nthus given, that may eventuate in consequences valuable, exalted and illustrious.\nWe must not, however, expect to have in our little society\nthose towering geniuses, that\n \"through learning and tlirough fancy take\nTheir flight sublime: and on the loftiest top\nOf Panic's dread mountain sit.\"\nOur imaginations must not lead us to anticipate more than\ncan be performed by common mindsIt is the genius that\ninvents and disc.oveis, but it is the man of common, everyday\nsense, who matures, and reduces to practice the suggestions of\nthe former, which were perhaps accidental and but half understoodCommon men constitute the mass of mankind; a\ngenius appears hut once in an age, and like the comet may attract all eyes by its eccentric flight, and perchance, show,\nthrough its luminous emanation, some little star before unseen.\nUnion of effort, in ordinary men, will generally effect more\nbeneficial results than any solitary geniusThe lightning,\nthat springs from the bosom of the slorm, carrying havoc\nand devastation in its course, and making the solid eaith tremble, slumbers unseen and unfelt in the subtile vapour that floats\niew n subject in the same light, and various presi illations oflin the atmosphere: so in n community there may not be one\nilie same idea may be, nnd generally are, of great importance person whose capacity distinguishes him above others, yet,\nlo ensure accuracy and precision of thoughtThe same when all the energies of this community are concentrated ton\ntrain of thoughts, on the same subject, perhaps never passes common focus, talent may appear tremendous in the intellectu-\ntinoiigh different minds; or the same idea in different per-Inl, as lightning in the natural world.\nIn another light are associations of this kind useful to the\nmembersThe taste of the present age has been much deteriorated by torrents of light, trifling matter, called literature.\n\"The press teems with books and other productions that bear\nthis imposing title.\" Perhaps a better definition of fnshionn-\nable literature could not bo given, than this: words of learned\nlength, end beautiful phrases socollocaudund arranged as to\nproduce harmonious sound, witli little regard to sense   The\nsuns does not give rise to the same association of ideasTo\nincrease the number of ideas in an association of ideas, on\ngiven subject, is not only lo increase the amount of know-\nany\nledge on that subject, hut In enlarge the powers of appn hen-\nsion and perceptionBesides, truth is more certainly obtained by a comparison of diverse opinions and various processes\nof reasoningIl is when mind comes in collision with\nmind, thai the most brilliant sparks of gi nius are struck out.\nPerhaps many of the most mischievous errors committed racy English of ihe eighteenth century has given plnceto the\nIters in philosophy and theology, have arisen, pompous and windy style of modern tubs end novi Is   It is\nno bias and prejudice, us from partial views ofjtrue that some of the ablest works, both scientific and literary,\nxaininiiig in but one aspect the principles on have recently appeared; 1 speak merely of the general t, nden-\nhy Bysti ni-ma\nlint so much\ntheir subject\nwhich truth is foundedNay, could the theological gladia- Icy to the light and frivolous, and that fondness for point which\ntors, whose contests have been so injurious to mankind, fully always indicates a decline of tasteAs soon es book-making\nunderstand each other, one halfthe ground of disagreement becomes a trade, literature must degenerate.\u2014The hand cfthe\nwoul I be yieldedIt is a proposition, true beyond the shadow craftsman is visible in every periodThe cause is apparent:\nof a doubt, that misapprehension is a most prolific source or Persons of limited capacity or ordinary intelligence, foimtho\nmost profitable class of consumers of this production, and tho\npersons who really hold tl:\nle same tloc\ndisputation anion\ntrims.\nAgain, by collecting together minds of various capacities,\nnnd by the association of different tastes, each individual is enabled to discover the characteristic peculiaritii s of his own\nmind, and ascertain the proper exercise for their perfect de-\nvelopemi ntGeniuses of the highest older, have perished\nunknown to the world, for the want of opportunities to call\nforth their energies   Many, too, who might have immortal-\nmercenary writer must cater for a vicious tasteTime was,\nwhen men spoke, and wrote, and preached, lo convince and\ninstructNow, too many strive to captivate the fancy, nnd by\nmusical c tlence win the ear, but \" leave the head and heait\nuntouch! d.\" Now the best mode of correcting or preventing '\nthese evils, is to subject each production to rigid criticism; to\nprune redundancies; in shoit, lo apply language to its legitimate use\u2014the communication of ideas.","fullrs":{},"find":"364.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"363","restrictionCode":"1","cdmfilesize":"1517784","cdmfilesizeformatted":"1.45 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

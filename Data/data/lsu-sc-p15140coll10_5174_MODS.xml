@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Antal  Vállas letter, 1861 August 19</title>
+  </titleInfo>
+   <note type="biographical/historical" displayLabel="Biographical Note">David French Boyd joined the faculty of Louisiana State Seminary of Learning at Alexandria, Louisiana, in 1860 under the administration of William T. Sherman. After serving in the Confederate Army during the Civil War, he was appointed superintendent and later president of the Seminary by Governor J. Madison Wells. Boyd resigned this position in 1880, returning to the University in 1884.' Vállas, a Hungarian immigrant and math teacher at the seminary, was among the first faculty appointed.</note>
+   <originInfo>
+      <dateCreated keyDate="yes">1861</dateCreated>
+      <dateCreated keyDate="yes">1861-08-19</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Boyd, David French, 1834-1899</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana State Seminary of Learning and Military Academy</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Military education</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>United States</topic>
+      <topic>History</topic>
+      <topic>Civil War, 1861-1865</topic>
+   </subject>
+   <note type="content" displayLabel="Topics">politics and elections, education; military</note>
+   <physicalDescription>
+      <form>letter (1 leaf), envelope</form>
+  </physicalDescription>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>David French Boyd Papers, Mss. 40, 99, 794, etc.</title>
+      </titleInfo>
+      <titleInfo displayLabel="Folder">
+         <partNumber>Folder 22</partNumber>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Civil War Context and Conflict at LSU Libraries</title>
+      </titleInfo>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 2</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>D:14</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">David French Boyd Papers, Mss. 40, 99, 794, etc., Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/368</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-05-30</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>368</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/368/json"
+                        timestamp="2017-02-03 08:22:57">{"title":"Antal  V\u00e1llas letter, 1861 August 19","subjec":"Boyd, David French, 1834-1899.; Louisiana State Seminary of Learning and Military Academy.; Military education--Louisiana.; United States--History--Civil War, 1861-1865.","descri":"Letter from Antal  V\u00e1llas, Seminary, La., to David F. Boyd, 9th Regiment, Louisiana Volunteers, Manassas, Va., reporting that the Board of Supervisors decided to suspend operation of the Louisiana State Seminary of Learning and Military Academy, in part \"\"because its military character could not be maintained--and so we would have to step down from that lofty position we have occupied since our beginning!\" He does not expect it to be a protracted war.\" V\u00e1llas also acknowledges receipt of Boyd's letter.","creato":"V\u00e1llas, Antal, 1809-1869.","publis":{},"date":"1861-08-19","year":"1861","format":"letter (1 leaf), envelope","reposi":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special )).","collec":"David French Boyd Papers, Mss. 40, 99, 794, etc.","reposa":{},"rights":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain.  Permission to reproduce this image must be requested through the Special Collections Division, Louisiana State University Libraries.","digitb":"Civil War: Context &amp; Conflict","langua":"en","topics":"politics and elections, education; military","cite":"David French Boyd Papers, Mss. 40, 99, 794, etc., Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","notes":"David French Boyd joined the faculty of Louisiana State Seminary of Learning at Alexandria, Louisiana, in 1860 under the administration of William T. Sherman. After serving in the Confederate Army during the Civil War, he was appointed superintendent and later president of the Seminary by Governor J. Madison Wells. Boyd resigned this position in 1880, returning to the University in 1884.' V\u00e1llas, a Hungarian immigrant and math teacher at the seminary, was among the first faculty appointed.","notesa":{},"source":"D:14","box":"2","folder":"22","identi":{},"relati":{},"findin":{},"catalo":{},"type":"unpublished","full":{},"fullrs":{},"find":"369.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2012-05-30","dmmodified":"2012-05-30","dmoclcno":{},"dmrecord":"368","restrictionCode":"1","cdmfilesize":"437","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <publicationStatus>unpublished</publicationStatus>
+  </extension>
+</mods>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Symphonic dance for orchestra.</title>
+  </titleInfo>
+   <name displayLabel="Composer">
+      <namePart>Thornton, William.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cmp</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Composer</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Performers">
+      <namePart>Louisiana State University. Symphony Orchestra.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">prf</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Performer</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Performers">
+      <namePart>Hasselmans, Louis, 1878-1957.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">prf</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Performer</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1941</dateCreated>
+  </originInfo>
+   <originInfo displayLabel="Date of Performance">
+      <dateOther>1942-05-20</dateOther>
+  </originInfo>
+   <subject authority="local">
+      <topic>Orchestral music</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Symphonies</topic>
+   </subject>
+   <note type="content">Symphonic Dance for Orchestra was first performed by the Louisiana State University Symphony Orchestra, Louis Hasselmans conducting.  This recording is a combination of 3 separate audio files.  Part 1 of 3 and runs until 1 measure after rehearsal letter H, part 2 of 3, starting at rehearsal letter H until 7 before rehearsal letter O, and part 3 of 3, beginning 4 measures before rehearsal letter N and continuing to the end.</note>
+   <typeOfResource>sound recording-musical</typeOfResource>
+   <typeOfResource>notated music</typeOfResource>
+   <physicalDescription>
+      <extent>1 sound disc (4 min. 30 sec.)</extent>
+      <note type="medium">analog, 78 rpm.</note>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <note>Compressed to 44.1KHz from 96KHz wav files.</note>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+<namePart>LSU Libraries. Special Collections</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>William J. Thornton Music Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll54:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/5012.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights and copyright are retained by the LSU Libraries. Permission to reproduce or publish must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">William J. Thornton Papers, Mss. 2012, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <note type="acquisition" displayLabel="Acquisition">Gift of Katherine Thornton Hore, 2009.</note>
+   <identifier type="local" displayLabel="Item Number">disc-92_symphonic_dance_parts_I_IIandIII.mp3</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll54/id/58</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-05</recordCreationDate>
+      <recordChangeDate>2018-11-19</recordChangeDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll54</alias>
+         <pointer>58</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll54/58/json"
+                        timestamp="2017-07-25 08:30:40">{"stream":"http:\/\/multimedia.lsu.edu\/louis\/oral_histories\/LSU\/p15140coll54\/disc-92_symphonic_dance_parts_I_IIandIII.mp3","title":"Symphonic dance for orchestra.","creato":"Thornton, William.","contri":"Louisiana State University. Symphony Orchestra.; Hasselmans, Louis, 1878-1957.","date":"1941","datea":"1942-05-20 (May 20, 1942)","descri":"Symphonic Dance for Orchestra was first performed by the Louisiana State University Symphony Orchestra, Louis Hasselmans conducting.  This recording is a combination of 3 separate audio files.  Part 1 of 3 and runs until 1 measure after rehearsal letter H, part 2 of 3, starting at rehearsal letter H until 7 before rehearsal letter O, and part 3 of 3, beginning 4 measures before rehearsal letter N and continuing to the end.","subjec":"Orchestral music.; Symphonies.","notes":"1 sound disc (4 min. 30 sec.) : analog, 78 rpm.","type":"sound; text","imagb":"Compressed to 44.1KHz from 96KHz wav files.","identi":"William J. Thornton Music Collection","source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","relati":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/5012.pdf","call":{},"cite":"William J. Thornton Papers, Mss. 2012, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Physical rights and copyright are retained by the LSU Libraries. Permission to reproduce or publish must be requested through the Special Collections Division, Louisiana State University Libraries.","contac":"See instructions for ordering reprints of this audio here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html","acquis":"Gift of Katherine Thornton Hore, 2009.","object":"disc-92_symphonic_dance_parts_I_IIandIII.mp3","langua":{},"format":{},"covera":{},"publis":{},"coverb":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"fullrs":{},"find":"59.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-05","dmmodified":"2012-10-09","dmoclcno":{},"dmrecord":"58","restrictionCode":"1","cdmfilesize":"81370464","cdmfilesizeformatted":"77.60 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

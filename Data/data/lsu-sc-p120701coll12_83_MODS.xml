@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 11</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/372</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>372</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/372/json"
+                        timestamp="2017-02-09 16:31:03">{"title":"Page 11","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH-WESTERN JOURNAL.\nII\nremaining visible some, seconds after tho body's disappearance,\nThe tail was the full length of tho meteor's visible flight,\nwhich was about 12 dog. Its color was nearly white, inclining to red, and its light vory intense.\nOn the night of the 14th, there appeared a most brilliant\nand singular phenomenon; probably, a modification of the\nAurora Borealis, (a rare exhibition in ibis latitude.) Il was\nin the form of an arc, ono extremity of which reached the\nhorizon some loto 20 (leg. west of North, and the other directly under Capella, and a little farther east. It reached as\nlu'ah as Polaris. Its extremities were much the most brilliant,\nbeing of a bright red or crimson color, and the arc grew\nfainter higher up. It was visible 30 to 3.3 minutes, and then\nvanished entirely. The same was visible in a small degree\nN. E. on the evening of the loth.\nI am inclined, from these last facts, to believe, that they\nbad some connection with the annual exhibition, nnd that a\nclear morning on the 13th might have presented a \"shower\nof meteors.\"\n(Since the above was banded in for publication, I have witnessed a display of meteors, with an obvious radiant: and\nthink it important that a notice of the same be annexed. I\nhasten to give you the following extract from my diary of\ntho 25th hist.]\n\" From 0 to 7 P. M. found several warm streaks of irre\nspirablo air,\u2014slight breeze from S., quite sensible to the ol\nfactories. During tho evening, to half past 1(1, witnessed an\nunusual number of meteors, all radiating from a point in the\nconstellation Perseus, very near the intersection of a line\ndrawn from tho Pleiades lo Capella, with that joining Zrta\nin the right foot of Perseus with tho left foot of Auriga.\u2014\nTwo of the meteors were very large,\u2014one most magnificent.\nThe letter was a point when first seen, ami darted with the\nvelocity of lightning, increasing in magnitude as its velocity\n(I. creased. Its tail was 20 (leg. or morn in length,\u2014nebulous, and vanished very fast. Not so the body:\u2014it grew\nlarger till it reached Leo, when it appeared about 10 mill, in\ndiameter; and about 2 (leg. N. E. of Regains, it dropped into\nthree or four intensely brilliant blazes, each larger than\nthe body, nnd of equal intensity,\u2014resembling much the\ntrembling blazes from an exploded rocket. Tho velocity\nof tho meteor seemed entirely destroyed by ihe resistance of\nthe air, anil its falling to pieces, not to be the result of\nexplosion. 1 am thus particular in my description, that\nothers who may have witnessed it, may have data upon\nwhich to estimate its altitude at dissolution. This and the\nother large one with a tail, were two of live, which were\nseen in a few minutes\u2014say 8 or 10,\u2014had not a watch at\nhand, and was compelled to estimate time.\nHy tracing back the line of the meteors, noticed above as\noccurring, about the meteoric anniversary, it will be found\nthat they all intersect very near the point of the above radiant; and I hereby invite information from all observers by\nwhom this article may bo read, whether facts may or may\nnot corroboroto the suggestion, that the radiant of the annual\ndisplay\u2014if any there have really been in 1837,\u2014has shifted\nits position from Leo\nIt will bo homo in mind, that all these remarks are presented, not to refute or establish any thing; but as facts, to pass\nto philosophers lor whatever they may be worth.\nJe\/ferson College, Miss., iVov. 28,\/;, 1837.\n[Professor Olmsted, on the 13th of last month, witnessed a\nsplendid return of tho Meteoric Shower\u2014a full account of\nwhich wo shall give in our next.\u2014Ed.]\nJohn Quincy Adams.\u2014The October number of the\n\" Democratic Review,\" published at Washington, contains tho\nfollowing sketch of that extraordinary mail, John Qllincy\nAdams:\n\" Our attention is now attracted to a ray of light located' on\nthe left of the House, in the neighborhood of the Speaker's\nChair. It proceeds from that wonderful man who in his person combines the agitator, poet, philosopher, statesman, critic\nnnd orator\u2014John (luincy Adams. There he sits, hour after\nhour, day after day, with untiring patience, never absent from\nhis seat, never voting for on adjournment, vigilant as the most\nzealous member of ihe House, his ear ever on ihe alert, always\nprepared to go at once into the profoundest question of state.\nor of ihe minutest points of order. We look at him and murk\nhis cold and tearful eye, his stern and abstracted gaze, and\nconjure up phantoms of other scenes. We look upon a more\nthan King, who has filled every department of honor in his\nnative land, still at his post; he was the president of millions,\nnow the representative of forty odd thousand, quarrelling\nabout trifles or advocating high principles;\u2014to-day, growling\nand sneering at the House with an abolition petition in his\ntrembling hand; and, anon, lording it over the passions, and\nlashing tho members into the wildest state of enthusiasm by his\nindignant and emphatic eloquence. Alone, unspoken to, un-\nconsulted with by others, he sits apart, wrapped in his reveries,\nor probably he is writing, his almost perpetual employment.\nHe looks enfeebled, but yet he is never tired; worn out, but\never ready for the combat; melancholy, but let a willy thing\nfill from any member, and that old man's face is wreathed in\nsmiles. He appears passive, but wo to the unfortunate member that hazards an arrow at him\u2014the eagle is not swifter in\nits flight than .Mr. Adams; with his agitated finger quivering\nin sarcastic gesticulation, he seizes upon his foe, and, amid\nthe amazement of the House, he seldom fails to take a signal\nvengeance. His stores of knowledge on every subject, garnered up in the course of his extraordinary life, in the well arranged store house of a memory which is said never to have\npermitted a single fact to escape it, give him a great advantage\noverall comers in encounters of this kind. Ho is a wonderful, eccentric genius. He belongs to no party, nor does any\nparty belong to him. Ho is of too cold a nature to bo longa\nparty leader. He is, originally, of very peculiar ideas, and\nperfectly fearless and independent in expressing and maintain-\nng them. His manner of speaking is peculiar\u2014he rises ob-\nuptly, his fiice reddens, and, in a moment, throwing himself\ninto the attitude of a veteran gladiator, he prepares for the attack; then ho becomes full of gesticulation, his body sways to\nand fro, self command seems loose, his head is bent forward in\nearnestness till it sometimes touches the desk, his voice fre-\npiently breaks, but he pursues his subject through all its bear","fullrs":{},"find":"373.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"372","restrictionCode":"1","cdmfilesize":"1754251","cdmfilesizeformatted":"1.67 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

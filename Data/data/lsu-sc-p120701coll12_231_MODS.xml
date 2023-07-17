@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 15</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/359</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>359</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/359/json"
+                        timestamp="2017-02-09 16:31:02">{"title":"Page 15","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"SOUTH- VV E S T E R N JOURNAL.\n143\ni husl\nband, two wives, and fifteen or sixteen children, besidi\nuated wife or mother.\na superomi\nThe smoke of the morning fires ascending in columns\nthrough a calm and unagitated air, the bleating of the lambs,\nwhich wore carried in the shepherds' arms from tenderness,\nXj, skipping of the hardier kids, the shrill crowing of the cock,\nand the barking playfulness of the faithful dog, the departure\nof the boys with their respective flocks, nnd of the girls in\n.\u2022roups, with pitchers to the wells, the busy occupation of the\nwives in kneading cakes of meal for the hearth, with the com.\nputative dignity of their grave and bearded lords, presented\naltogether so admirable a representation of the patriarchal\nlife, that I found myself transported back, in imagination, to\nthe days of the venerable Abraham, and stood in wonder at\nthe preservation of usages and customs so unaltered among\nhis descendants, through years and ages which have destroyed\nihe haughtiest empires, created new successors, and swept away\nkingdoms, nations, and people, into oblivion !\nSAND TEMPEST IN THE DESERT.\nThe celebrated oriental traveller, now in this country, J.\nS. Buckingham, late member of Parliament from Liverpool,\nhas communicated to the Knickerbocker an account of his\nsurvey of the ancient canal of Sesostris amidst the sands of\nEgypt,   He encountered a sand tempest:\n\"On leaving the site of thase now evaporated lakes, we\nentered upon a loose and shifting sand again, like that which\nPliny describes when speaking of the roads from Pelusium\nacross the sands of the desert, in which he says, unless there\nbt reeds stuck in the ground, to point out the line of direction, the way could not be found, because the wind blows up\nthe sand and covers the footsteps.\n\"The morning- was delightful, on our setting out; and\npromised us a fine day; but the light air from the South had\nincreased to a gale. The sun became obscure; and getting\nevery hour into a looser sand, it flew around us in such\nwhirlwinds, with the sudden gusts that blew, that it was im\npossible to proceed, We halted, therefore, for an hour, and\nsheltered ourselves under the lee of our camels, who were\nInemselves so terrified as to need fastening by the knees, and\nuttered, in their moanings, but a melancholy symphony.\n\" 1 know not whether it was the novelty of the situation\n;\u2122 gave it additional horror, or whether the habit of magnifying evils to which we are unaccustomed had increased its\nellect; but certain it is, that fifty gales of wind at sea appear-\n\"1 lo me more easy to bo encountered than one among those\nsnids. It is impossible to imagine desolation more complete.\n\" c could see neither earth, nor sun, nor sky. The plain at\n'\u2022''\" paces distant was absolutely imperceptible : our animals,\n!'s well as ourselves, were so covered with the sand as to ren-\n'\"\u25a0''' breathing difficult. They hid their faces in the ground,\nand we could only uncover our own for a moment, to behold\n\"ns chaos of mid-day darkness, and wait impatiently for its\n\u2022oaternent. Alexander's journey to the Temple of Jupiter\nAmnion, and the destruction of the Persian armies of Cam-\nwhile Addison's admirable lines, which I also remembered\nwith peculiar force on this occasion, seemed to possess as\nmuch truth as beauty.\n' So where our wide Numitlian wastes extend,\nSuiblcn ihe impetuous hurricanes descend;\nWheel through Ibc air, in circling eddies play,\nTear up the sands, anil sweep whole plains away:\nThe helpless traveller, with wild surprise,\nSees ihe dry descel all around him rise,\nAnd smothered in the dusty whirlwind dies.'\n\" The few hours we remained in this situation were passed\nin unbroken silence. Every one was occupied in his own\neflectior.s, as if the reign of terror forbade communication.\n\" The fury of the desert gale spent itself, like the storms\nof ocean, in sudden lulls and squalls; but it was not until the\nthird or fourth interval, that our fears were sufficiently conquered to address each other; nor shall I soon lose the recollection of the impressive manner in which that was done.\n' Allah kcreem!' ' God is merciful I' exclaimed the poor Bedouin, although habit had familiarized him with these resistless blasts. 'Allah kereeml' repeated the Egyptians, with\nterrified solemnity; and both my servant and myself, as if by\ninstinct, joined in the general exclamation. The bold imagery of the eastern poets, describing the Deity as avenging in\nhis anger, and terrible in his wrath, riding upon the wings of\nthe whirlwind, and breathing his fury in the storm, must have\nbeen inspired by scenes like these.\n\" It was now past sun-set, and neither of us had yet broken\nour fast for the day. Even the consoling pipe could not be\nlighted in the huriicane, and it was in vain to think of remaining in our present station, while the hope of finding\nsome bush for shelter remained. We remounted our camels,\ntherefore, and departed. The young moon afforded us only\na faint light, and all traces of the common road were completely obliterated. The stars were not even visible through\nso disturbed an atmosphere, and my compass was our only\nguide. The Arabs knew a spot, near Sheick Amedid, where\nbanks and trees were to be found; and confiding in my direction for the course thither, we resumed our journey.\n\" After a silent ride of five tedious hours, this garden of repose appeared in sight; and, bleak and barren as it was, in\ntruth, fatigue and apprehension gave it the charms of Eden.\nHere we alighted, fed our weary animals, and like sailors\nscaped from shipwreck, rrjoiced in that delightful consciousness of security, which is known only in the safety that succeeds danger.\"\nyscs in the Lybian  Desert, rose to my recollection, with\nW impressions made by the horror of the scene before me;\nAn Extraordinary Mkteor.\u2014The Liverpool Chronicle contains an account of an immense meteor, which had\nfallen about sixty leagues from Rio Janeiro, as large as a balloon. It shivered to pieces, and the aerolites, (meteoric\nstones) were buried deep in the sand. It was accompanied\nwith a noise like thunder. One piece of the stone weighed\neighty pounels. No human lives lost; but several cattle\nwere killed.\nSorrows are but the clouds which darken our skies, while,\nat the same time, they shelter us from the fierce glare of the\nsun of prosperity.\n1\n$&amp;\\\\\n1 lv\nI \/\nA","fullrs":{},"find":"360.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"359","restrictionCode":"1","cdmfilesize":"1714554","cdmfilesizeformatted":"1.64 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

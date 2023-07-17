@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 120</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Crops</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cauliflower</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Farm produce</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Crates</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Harvesting</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Farmers</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Men</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Children</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Horses</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Wagons</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hats</topic>
+   </subject>
+   <abstract displayLabel="Description">Page 120 of the album includes three photographs.; Photograph 1 [12] shows a field of cauliflower with five men harvesting crops and loading a wagon.; Photograph 2 [13] shows a wagon loaded with produce crates, probable cauliflower.  Additional crates are stacked beside the wagon and a man stands on the back wheel with horse shown in the background.  Some crates are printed with "Grown in Louisiana / Louisiana Distributing Co.  Thibodaux, LA".; Photograph 3 [14] shows a row of packed produce crates alongside a house.  Four men and four children stand behind the crates alongside an empty wagon.  Cauliflower crops shown stacked high behind the crowd.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="citation/reference" displayLabel="References">Compare Photographs 1-3 to the following publication.  Tiebout, G.L. (1913, May) Preliminary Report on Winter Cauliflower. Louisiana Bulletin, No. 140, p. 13.  Photograph caption reads, "Crates of Cauliflower."; Also compare photographs to additional publication. Wilkinson J.W. (1916, July) December Cauliflower. The country gentleman, Vol. 81 (No. 28), p. 9.  Retrieved August 4, 2014, from http://books.google.com/books?id=8-1EAQAAIAAJ&amp;pg=PA1325&amp;lpg=PA1325&amp;dq=louisiana+cauliflower+Tiebout+country+gentleman&amp;source=bl&amp;ots=9OXH3Ur86B&amp;sig=a3R6Mfi_hypf1Se0AyCAp0XyL6o&amp;hl=en&amp;sa=X&amp;ei=OI3JU8KDLKHG8QH4z4CwAg&amp;ved=0CB0Q6AEwAA#v=onepage&amp;q=louisiana%20cauliflower%20Tiebout%20country%20gentleman&amp;f=false</note>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/3868</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-08-25</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>3868</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/3868/json"
+                        timestamp="2017-02-01 13:53:05">{"title":"Page 120","compoa":{},"photog":{},"notes":{},"biogra":{},"descri":"Page 120 of the album includes three photographs.; Photograph 1 [12] shows a field of cauliflower with five men harvesting crops and loading a wagon.; Photograph 2 [13] shows a wagon loaded with produce crates, probable cauliflower.  Additional crates are stacked beside the wagon and a man stands on the back wheel with horse shown in the background.  Some crates are printed with \"Grown in Louisiana \/ Louisiana Distributing Co.  Thibodaux, LA\".; Photograph 3 [14] shows a row of packed produce crates alongside a house.  Four men and four children stand behind the crates alongside an empty wagon.  Cauliflower crops shown stacked high behind the crowd.","typea":{},"date":{},"publis":{},"subjea":"Agriculture--Louisiana.; Crops.; Cauliflower.; Farm produce.; Crates.; Harvesting.; Farmers.; Men.; Children.; Horses.; Wagons.; Hats.","geogra":{},"aquisi":{},"box":{},"folder":{},"series":{},"subser":{},"reposi":{},"type":{},"source":{},"dates":{},"item":{},"relate":"Compare Photographs 1-3 to the following publication.  Tiebout, G.L. (1913, May) Preliminary Report on Winter Cauliflower. Louisiana Bulletin, No. 140, p. 13.  Photograph caption reads, \"Crates of Cauliflower.\"; Also compare photographs to additional publication. Wilkinson J.W. (1916, July) December Cauliflower. The country gentleman, Vol. 81 (No. 28), p. 9.  Retrieved August 4, 2014, from http:\/\/books.google.com\/books?id=8-1EAQAAIAAJ&amp;pg=PA1325&amp;lpg=PA1325&amp;dq=louisiana+cauliflower+Tiebout+country+gentleman&amp;source=bl&amp;ots=9OXH3Ur86B&amp;sig=a3R6Mfi_hypf1Se0AyCAp0XyL6o&amp;hl=en&amp;sa=X&amp;ei=OI3JU8KDLKHG8QH4z4CwAg&amp;ved=0CB0Q6AEwAA#v=onepage&amp;q=louisiana%20cauliflower%20Tiebout%20country%20gentleman&amp;f=false","rights":{},"contri":{},"to":{},"catalo":{},"compou":{},"ocr":{},"cite":{},"collec":{},"fullrs":"Volume167\/LSUAgExt157_Page 120.jpg","find":"4152.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2014-08-25","dmmodified":"2014-08-25","dmoclcno":{},"dmrecord":"3868","restrictionCode":"1","cdmfilesize":"9358321","cdmfilesizeformatted":"8.92 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

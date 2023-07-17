@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>STOLEN, A Negro and Mule.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000024</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>R.H. Burnett</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1864-07-19</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Minden, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Minden, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1864</temporal>
+   </subject>
+   <subject authority="local" displayLabel="Date of Departure">
+      <temporal>1864-07-09</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">STOLEN, A Negro and Mule. ON Saturday night the 9th instant from the undersigned, a negro man of black complesion, 22 years old, weighs about 150 lbs., 5 feet nine inches high, likely and intelligent when spoken to, holds his head to one side and looks you straight in the face; the milye is mouse color, a mare, 8 years old 13 1/2 hands high, branded indistinctly on the left shoulder with the letter D.  There were two men seen with the negro at my place six miles east of Minden, on the road to Monroe, riding a black and roan horse, and I believe they took him and the mule off; he had the pants he had worked in all the week, but had on a clean shirt, but no coat.  For the property and the thieves I will pay a reward of one thousand dollars if delievered at my house; or if lodged in any jail where I can get them, eight hundred dollars, or five hundred dollars for the negro and mule.  R. H. BURNETT. Shreveport papers copy 1 time and send to Goodwill. July 19---1t</abstract>
+   <note type="content" displayLabel="Slave Owner">R.H. Burnett</note>
+   <note type="content" displayLabel="Slave Name (Age)">negro man (22)</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 1, column 3</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p16313coll80:collection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Shreveport news. : (Shreveport [La.]) 1864-1865</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83016485/1864-07-19/ed-1/seq-1/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 83016485</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/344</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2014-12-11</recordCreationDate>
+      <recordChangeDate>2018-12-11-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>344</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/344/json"
+                        timestamp="2017-02-13 13:32:46">{"title":"RSA00000024","object":"sn 83016485","publia":"Shreveport news. : (Shreveport [La.]) 1864-1865","date":"1864-07-19","year":"1864","film":"page 1, column 3","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83016485\/1864-07-19\/ed-1\/seq-1\/","unique":"STOLEN, A Negro and Mule.","person":"R.H. Burnett","parish":"Minden, La","digita":"1864-07-09","acknow":{},"public":"R.H. Burnett","town":"Minden, La","relati":"negro man (22)","slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"STOLEN, A Negro and Mule. ON Saturday night the 9th instant from the undersigned, a negro man of black complesion, 22 years old, weighs about 150 lbs., 5 feet nine inches high, likely and intelligent when spoken to, holds his head to one side and looks you straight in the face; the milye is mouse color, a mare, 8 years old 13 1\/2 hands high, branded indistinctly on the left shoulder with the letter D.  There were two men seen with the negro at my place six miles east of Minden, on the road to Monroe, riding a black and roan horse, and I believe they took him and the mule off; he had the pants he had worked in all the week, but had on a clean shirt, but no coat.  For the property and the thieves I will pay a reward of one thousand dollars if delievered at my house; or if lodged in any jail where I can get them, eight hundred dollars, or five hundred dollars for the negro and mule.  R. H. BURNETT. Shreveport papers copy 1 time and send to Goodwill. July 19---1t","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text\n","format":"clipping","langua":"English","digitb":"Louisiana Runaway Slave Advertisements, 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume2\/RSA00000024.jp2","find":"396.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2014-12-11","dmmodified":"2016-05-10","dmoclcno":{},"dmrecord":"344","restrictionCode":"1","cdmfilesize":"187941","cdmfilesizeformatted":"0.18 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

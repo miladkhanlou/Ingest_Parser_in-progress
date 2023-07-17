@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Mardi Gras ball, New Orleans, La.</title>
+  </titleInfo>
+   <name displayLabel="Photographer">
+      <namePart>Teunisson Photo, New Orleans</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes" qualifier="approximate">1932</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Photographs</topic>
+      <topic>Coloring</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Balls (Parties)</topic>
+      <topic>Louisiana</topic>
+      <topic>New Orleans</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Carnival</topic>
+      <topic>Louisiana</topic>
+      <topic>New Orleans</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <abstract displayLabel="Description">Tinted photo</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>image/jp2</internetMediaType>
+      <extent>640 x 480</extent>
+      <note type="medium">Gelatin silver print</note>
+      <extent>8.00" x 10.00"</extent>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Mardi Gras Ball, New Orleans</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-neworleans:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>New Orleans Image Collections at the LSU Libraries</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Mardi Gras Ball, New Orleans, Photograph, Mss. 17620003, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">17620003</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/NewOrleans/id/3</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2005-11-01</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>NewOrleans</alias>
+         <pointer>3</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/NewOrleans/3/json"
+                        timestamp="2017-01-04 10:51:20">{"title":"Mardi Gras ball, New Orleans, La.","compou":"No","descri":"Tinted photo","date":"ca. 1932","creato":"Teunisson Photo, New Orleans","subjec":"Photographs--Coloring;Balls (Parties)--Louisiana--New Orleans--Photographs;Carnival--Louisiana--New Orleans--Photographs","identi":"17620003","publis":"Mardi Gras Ball, New Orleans","type":"jpg","format":"640 x 480","langua":"Gelatin silver print&lt;br&gt;8.00\" x 10.00\"","rights":"Physical rights are retained by the LSU Libraries. Copyright of the original material is retained in accordance with U.S. copyright laws.","relati":"IRP","source":{},"cite":"Mardi Gras Ball, New Orleans, Photograph, Mss. 17620003, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","fullrs":{},"find":"4.jpg","dmaccess":{},"dmimage":{},"dmcreated":"2005-11-01","dmmodified":"2005-11-01","dmoclcno":{},"dmrecord":"3","restrictionCode":"1","cdmfilesize":"337050","cdmfilesizeformatted":"0.32 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+      <collectionSource>IRP</collectionSource>
+  </extension>
+</mods>

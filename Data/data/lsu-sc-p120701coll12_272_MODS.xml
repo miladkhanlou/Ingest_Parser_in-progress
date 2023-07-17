@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 05</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/544</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>544</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/544/json"
+                        timestamp="2017-02-09 16:30:51">{"title":"Page 05","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU Libraries. In accordance with U. S. copyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request. ","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"south-western JOURNAL,\nIfil\n.......ii eif virtue.     Common  Law is common consent of\nl'v It consists of ascertained rules, of general principles,\nIII, their varied adaptations and applications. The Statute\njynv consists of local usages and principles, and of enactments in-iile fjr tne purpose of modifying, amending or ameliorating the Common Law.\nTheReportof the Commissioners, in Massachusetts, upon\ni1,.. i ve -di.aicy of reducing the Common Law lo a systematic\n,.,,;., contains great legal learning and research upon this\nsubject. For the benefit of my hearers, I quote from it, in\npreference to burdening you with my own views. \" In truth,\nihe (lominon Law is not in its nature and character an abso-\n! itely fixed, inflexible system, like the Statute Law, providing\nonly fir cases of determinate form, which fall within the letter of tin- language, in which a particular doctrine or legal\nproposition is expressed. It is rather u system of elementa-\nivprinciples and of general juridical truths, which are con\nlinually expanding with the progress of society, and adapting\nthemselves to the gradual changes of trade and commerce,\nand the mechanic arts, anel the exigences of the country.\nThere are certain fundamental maxims in it, which are never\ndeparted from ; there are others, again, which, though true\nin a general sense, are at the same lime susceptible of modifications and exceptions, to prevent them from doing manifest\nwrong and injury.\" Thus, it will beobs'erved, that, though,\nin this country, tho old law of England has been adopted, it\nii only to the extent Hint it is applicable to our local circumstances, We have principles unknown in England. For\ninstance, the right of disposal of real property by a deed of\nIho wife with the consent of her husband, which, in England,\ncould be effected only by the process called \"aflinc or com-\nuna recovery.\" The celebrated Code of Justinian was\nframi'd iii the decline of the Roman empire, and was formed\nfrom maxims of general experience, of history and reason.\nMost of commercial law, comprehending that of insurance\nand shipping, and the law governing bills of exchange and\npromisory notes, have arisen within the last eighty years, and\nIhe law regulating corporations, within a few years.\nBut the benefits derived from legislation are worthy of particular notice.    A case, we will suppose, occurs, which is not\n\u25a0d 1,\nvh,\ny any positive enactment.    The first inquiry is.\ncedent principles. The principles of natural justice have\nfurnished many rules for the exposition ebf the contracts and\nobligations of the parties; the analogies of the common law\nhave furnished others; the usages ofthe mercantile world\nhave furnished others; and then again there have been anomalies which could not be brought within the range of any\nwell defined principles, and therefore have been left to be\nregulated by legislative enactments.\"\n'Ihe real influence and deep philosophy of the law are\nfound not alone in the halls of justice and in the volumes of\njurisprudence, In the one, perhaps, is seen the course of\njustice overtaking a solitary instance of crime ogainat society, or the determination of a disputed question of the right of\nproperly, and in the other, maxims of legal or political learning\u2014but go abroad into the world, nnd you shall see them\nthere in every shape, wielding a power before which the\nmightiest bow in reverence, and lo which the weakest look\nup with confidence. The criminal, though panoplied in steel,\nshrinks before the avenging arm of the law, and environed\nby its protecting hand, the naked anel sleeping infant is an\narmed host I Wander whithersoever you will,\u2014in the crowded city or the tcnanlless desert, on the cloud-capped mountain,\nor tho pathless ocean,\u2014it is with you in every relation and\ncircumstance of society or of life, lo punish or protect. It is\nthis that reduces virtue to a system, and forms a code for morality; this that enforces what duty commands, or prevents what\nreligion repudiates. Though there is, I believe, a natural\nand inherent desire and lovo in mankind for virtue,\u2014still\nunsupported and unencouraged by an executive power, its\nefficacy is frequently lost in the confused whirl of human,\npassions, or the anguish of human sufferings,\nBut I find myself fulling into the error of all who write\nupon a favorite subject. Many will say that I have gone only from mountain to mountain in the field of my subject,\nwhere the glory of the profession ever gilds it, without daring to penetrate and expose the secrets of the dark valleys\nwhich lie between, where, as in a well, the real truth and\nphilosophy of the law are hidden. They will remind me of\niho professional pride evinced between Moliore's dancing-\nmaster and menial philosopher\u2014\"Ah, sir,\" says the first,\nphilosophy is ono thing; but the danse, Monsieur, the\ndansc!\"    Or they will refer mo to the lawyer's celebrated\nwhether it comes within the scope of any fixed rule of tho|critici&lt;im upon Shakspeare. \" 1 own,\" says he, \"I never pe-\ncommon law, or can bo brought undor it by analogy. If rused ny chief favorite, the Merchant of Venice, without a\nlot, and it cannot bo met by the principles of equity, relief mixture of melancholy, to think that it has so many faults,\nand, in particular, that the distress turns chiefly upon embarrassments with which no lawyer can seriously sympathize.\nThere are several striking flaws in this drama. In the first\nplace, Antonio's difficulties arise entirely from his gross oversight in not effecting an insurance upon his various argosies.\nHe should have opened a set of policies at once upon the\nRialto, where marine insurance was perfectly well understood, and where the brokers would have got him fifty names\nin a forenoon, to any extent, upon ship, freight, or cargo, lost\nor not lost. This prudential stepwould have given a totally\ndifferent turn to the whole affair. When he wanted to help\nBassanio with three thousand ducats, for three months, he\ntan onl\\- be had by new lerjislation, to act as a guide in siin\n\"ai'eases iii future. Before tho reign of Queen Anne, of\nEngland, promissory notes, though payable to bearer or older, were not considered negotiable, so that none but the pay-\nfoeoubl bring suit upon them. \"This, therefore, was a case,\nWhere, though tho principles of natural justice might apply\n10create an obligation, the positive rules of the common law\nforbade it. Hence tho interposition of the Legislature became\n'\"dispensable. As soon as the negotiability of promissory\n\"lies was thus established, it gave rise to iminmerable ques-\n''ons, as to tho rights anel rcsponsibilitiesof the parties, which\n&amp;fe either confessedly new, or but faintly indicated by ante-\n. ' I'll","fullrs":{},"find":"545.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"544","restrictionCode":"1","cdmfilesize":"1799468","cdmfilesizeformatted":"1.72 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

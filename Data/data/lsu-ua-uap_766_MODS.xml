@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Oak AvenueProfessor Himes's residence on left</title>
+  </titleInfo>
+   <subject authority="lcsh">
+      <topic>Trails</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton Rouge</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Louisiana State University Treasurerâ€™s Residence (Baton Rouge, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Lafayette Street (Baton Rouge, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Pentagon Barracks (Baton Rouge, La.)</topic>
+      <topic>Photographs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Oak</topic>
+      <topic>Louisiana</topic>
+      <topic>Baton R</topic>
+   </subject>
+   <abstract displayLabel="Description">Oak Avenue [Avenue of Oaks] Handwritten on back- Oak AvenueProfessor Himes's residence on leftPentagon buildings at end of avenueMan leaning on tree on right side of photoCampus views</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <note type="medium">Gelatin silver prints; 4.75in x 6.75in</note>
+      <internetMediaType>image/jp2</internetMediaType>
+  </physicalDescription>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Folder">
+         <partNumber>Folder 2</partNumber>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU University Archives Photographs Collection</title>
+      </titleInfo>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>LSU Photograph Collection, 1886-1926</title>
+      </titleInfo>
+      <titleInfo displayLabel="Series">
+         <partName>Buildings</partName>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-ua-uap:collection</url>
+      </location>
+      <titleInfo displayLabel="Subseries">
+         <partName>Aerial views &amp; Campus grounds</partName>
+      </titleInfo>
+      <titleInfo displayLabel="Box">
+         <partNumber>Box 8</partNumber>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.</note>
+   <identifier type="local" displayLabel="Item Number">a50000314</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/LSU_UAP/id/2694</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2009-01-08</recordCreationDate>
+      <recordChangeDate>2018-12-06-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>LSU_UAP</alias>
+         <pointer>2694</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/LSU_UAP/2694/json"
+                        timestamp="2017-02-01 13:52:58">{"title":"Oak AvenueProfessor Himes's residence on left","compoa":"1","photog":"Unknown","notes":"Oak Avenue [Avenue of Oaks] Handwritten on back- Oak AvenueProfessor Himes's residence on leftPentagon buildings at end of avenueMan leaning on tree on right side of photoCampus views","biogra":{},"descri":{},"typea":{},"date":"n.d.","publis":"Gelatin silver prints; 4.75in x 6.75in","subjea":"Trails--Louisiana--Baton Rouge--Photographs.; Louisiana State University Treasurer\u00e2\u20ac\u2122s Residence (Baton Rouge, La.)--Photographs.; Lafayette Street (Baton Rouge, La.)--Photographs.; Pentagon Barracks (Baton Rouge, La.)--Photographs.; Oak--Louisiana--Baton R","geogra":{},"aquisi":"LSU Photograph Collection, 1886-1926","box":"8","folder":"2","series":"Buildings","subser":"Aerial views &amp; Campus grounds","reposi":{},"type":{},"source":"Louisiana State University Libraries, Special Collections","dates":{},"item":"a50000314","relate":{},"rights":{},"contri":{},"to":"To inquire about ordering copies of these images, email lsudiglib@lsu.edu See instructions for ordering reprints of this image here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Include the \"Item URL\" in your request","catalo":{},"compou":"See 'reference url' on the navigation bars.","ocr":{},"cite":"LSU Photograph Collection, 1886-1926, Louisiana State University Archives, LSU Libraries, Baton Rouge, LA.","collec":"http:\/\/www.lib.lsu.edu\/special\/archives\/digital","fullrs":{},"find":"2978.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2009-01-08","dmmodified":"2009-01-09","dmoclcno":{},"dmrecord":"2694","restrictionCode":"1","cdmfilesize":"299","cdmfilesizeformatted":"0.00 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Introduction and fugue for clarinet quintet.</title>
+  </titleInfo>
+   <name displayLabel="Composer">
+      <namePart>Thornton, William.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cmp</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Composer</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Performers">
+      <namePart>Boyce, Mary.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">prf</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Performer</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Performers">
+      <namePart>Cain, Ben E.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">prf</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Performer</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Performers">
+      <namePart>Shideler, John.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">prf</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Performer</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Performers">
+      <namePart>Walters, Kenneth.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">prf</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Performer</roleTerm>
+      </role>
+  </name>
+   <name displayLabel="Performers">
+      <namePart>Burton, Robert.</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">prf</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Performer</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1946</dateCreated>
+  </originInfo>
+   <originInfo displayLabel="Date of Performance">
+      <dateOther>1948-05-09</dateOther>
+  </originInfo>
+   <subject authority="local">
+      <topic>Chamber music</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Woodwind quintets (Clarinets (5))</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Canons, fugues, etc</topic>
+   </subject>
+   <note type="content">Introduction and Fugue for Clarinet Quintet was first recorded at Louisiana State University, 1948 by Mary Boyce, Ben E. Cain, John Shideler, Kenneth Walters, and Robert Burton.  Instrumentation is for 5 clarinets.</note>
+   <typeOfResource>sound recording-musical</typeOfResource>
+   <typeOfResource>notated music</typeOfResource>
+   <physicalDescription>
+      <extent>1 sound disc (4 min. 30 sec.)</extent>
+      <note type="medium">analog, 78 rpm.</note>
+      <internetMediaType>audio/mpeg</internetMediaType>
+      <note>Compressed to 44.1KHz from 96KHz wav files.</note>
+  </physicalDescription>
+   <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2015036095" displayLabel="Contributing Repository">
+<namePart>LSU Libraries. Special Collections</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+</role>
+</name>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>William J. Thornton Music Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll54:collection</url>
+      </location>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/5012.pdf</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights and copyright are retained by the LSU Libraries. Permission to reproduce or publish must be requested through the Special Collections Division, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">William J. Thornton Papers, Mss. 2012, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <note type="acquisition" displayLabel="Acquisition">Gift of Katherine Thornton Hore, 2009.</note>
+   <identifier type="local" displayLabel="Item Number">disc-81_introduction_and_fugue_for_clarinet_quintet_1946.mp3</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll54/id/27</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2011-12-13</recordCreationDate>
+      <recordChangeDate>2018-11-19</recordChangeDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll54</alias>
+         <pointer>27</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll54/27/json"
+                        timestamp="2017-07-25 08:30:39">{"stream":"http:\/\/multimedia.lsu.edu\/louis\/oral_histories\/LSU\/p15140coll54\/disc-81_introduction_and_fugue_for_clarinet_quintet_1946.mp3","title":"Introduction and fugue for clarinet quintet.","creato":"Thornton, William.","contri":"Boyce, Mary.; Cain, Ben E.; Shideler, John.; Walters, Kenneth.; Burton, Robert.","date":"1946","datea":"1948-05-09 (May 9, 1948)","descri":"Introduction and Fugue for Clarinet Quintet was first recorded at Louisiana State University, 1948 by Mary Boyce, Ben E. Cain, John Shideler, Kenneth Walters, and Robert Burton.  Instrumentation is for 5 clarinets.","subjec":"Chamber music.; Woodwind quintets (Clarinets (5)); Canons, fugues, etc.","notes":"1 sound disc (4 min. 30 sec.) : analog, 78 rpm.","type":"sound; text","imagb":"Compressed to 44.1KHz from 96KHz wav files.","identi":"William J. Thornton Music Collection","source":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special)","relati":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/5012.pdf","call":{},"cite":"William J. Thornton Papers, Mss. 2012, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","rights":"Physical rights and copyright are retained by the LSU Libraries. Permission to reproduce or publish must be requested through the Special Collections Division, Louisiana State University Libraries.","contac":"See instructions for ordering reprints of this audio here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html","acquis":"Gift of Katherine Thornton Hore, 2009.","object":"disc-81_introduction_and_fugue_for_clarinet_quintet_1946.mp3","langua":{},"format":{},"covera":{},"publis":{},"coverb":{},"catlog":{},"catalo":{},"plugin":{},"image":{},"imaga":{},"color":{},"extent":{},"file":{},"hardwa":{},"digiti":{},"digita":{},"fullrs":{},"find":"28.pdf","dmaccess":{},"dmimage":{},"dmcreated":"2011-12-13","dmmodified":"2012-10-09","dmoclcno":{},"dmrecord":"27","restrictionCode":"1","cdmfilesize":"14473621","cdmfilesizeformatted":"13.80 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

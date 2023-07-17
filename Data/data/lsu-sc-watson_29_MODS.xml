@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+   <titleInfo>
+      <title>1826-03-20, Joseph Watson to Benjamin Morgan and Joseph Bennet Eves</title>
+  </titleInfo>
+   <name authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/nr92029397"
+         type="personal"
+         displayLabel="Creator">
+      <namePart>Watson, Joseph, 1784-1841</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+  </name>
+   <name type="personal" displayLabel="Addressee">
+      <namePart>Morgan, Benjamin</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm>
+      </role>
+  </name>
+  <name type="personal" displayLabel="Addressee">
+     <namePart>Eves, Joseph Bennet</namePart>
+     <role>
+        <roleTerm type="text"
+                  authority="marcrelator"
+                  authorityURI="http://id.loc.gov/vocabulary/relators"
+                  valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm>
+     </role>
+   </name>
+   <name authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         type="corporate"
+         displayLabel="Contributing Repository">
+      <namePart>LSU Libraries. Special Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+  </name>
+   <name type="personal" displayLabel="Digitized By">
+      <namePart>jm</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/fac">Facsimilist</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Philadelphia, Pennsylvania</placeTerm>
+      </place>
+      <dateCreated keyDate="yes" encoding="w3cdtf">1826-03-20</dateCreated>
+      <dateCaptured encoding="w3cdtf">2018</dateCaptured>
+  </originInfo>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Free African Americans</topic>
+      <topic>Pennsylvania</topic>
+      <topic>Philadelphia</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Kidnapping</topic>
+      <topic>Pennsylvania</topic>
+      <topic>Philadelphia</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Kidnapping victims</topic>
+      <topic>Pennsylvania</topic>
+      <topic>Philadelphia</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Topic">
+      <topic>Slave trade</topic>
+      <topic>United States</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Location">
+      <geographic>New Orleans (La.)</geographic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Subject - Time Period">
+      <temporal>Eighteen twenties</temporal>
+   </subject>
+   <subject displayLabel="Subject - Name">
+      <name type="personal">
+         <namePart>Johnson, Ebenezer F.</namePart>
+      </name>
+   </subject>
+   <subject displayLabel="Subject - Name">
+      <name type="personal">
+         <namePart>Johnson, Joseph</namePart>
+      </name>
+   </subject>
+   <subject displayLabel="Subject - Name">
+      <name type="personal">
+         <namePart>Collins, Thomas</namePart>
+      </name>
+   </subject>
+   <subject displayLabel="Subject - Name">
+      <name type="personal">
+         <namePart>Smith, John</namePart>
+      </name>
+   </subject>
+   <subject displayLabel="Subject - Name">
+      <name type="personal">
+         <namePart>Francis, Spencer</namePart>
+      </name>
+   </subject>
+   <subject displayLabel="Subject - Name">
+      <name type="personal">
+         <namePart>Hamilton, J. W.</namePart>
+      </name>
+   </subject>
+   <subject displayLabel="Subject - Name">
+      <name type="personal">
+         <namePart>Henderson, John</namePart>
+      </name>
+   </subject>
+   <abstract displayLabel="Description">March 20, 1826 letter from Joseph Watson to Benjamin Morgan and Joseph Bennet Eves concerning the kidnapping of five African American children from Pennsylvania. Watson requests that Morgan and Eves receive the children who were recovered by J. W. Hamilton and John Henderson and secure them safe passage home.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form authorityURI="http://vocab.getty.edu/aat"
+            valueURI="http://vocab.getty.edu/page/aat/300028569"
+            authority="aat">manuscripts (documents)</form>
+      <extent>1 letter (2 pages) + 1 envelope</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+   <genre authorityURI="http://vocab.getty.edu/aat"
+          valueURI="http://vocab.getty.edu/page/aat/300026877"
+          authority="aat">correspondence</genre>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+   <relatedItem type="host">
+      <titleInfo displayLabel="Digital Collection">
+         <title>Joseph Watson Correspondence</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-watson:collection</url>
+      </location>
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Joseph Watson correspondence, 1826-1846</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">https://www.lib.lsu.edu/sites/default/files/sc/findaid/1872.pdf</url>
+      </location>
+      <identifier type="local" displayLabel="Manuscript Number">Mss. 1872</identifier>
+  </relatedItem>
+  <location>
+     <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+     <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+     <holdingSimple>
+        <copyInformation>
+           <subLocation>Hill Memorial Library: Special Collections</subLocation>
+           <shelfLocator>Misc:W</shelfLocator>
+        </copyInformation>
+     </holdingSimple>
+  </location>
+   <accessCondition xlink:href="http://rightsstatements.org/vocab/NKC/1.0/"
+                    type="use and reproduction"
+                    displayLabel="Rights Statement">No Known Copyright</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <note type="preferred citation" displayLabel="Preferred Citation">Joseph Watson Correspondence, Mss. 1872, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</note>
+   <identifier type="local" displayLabel="Item Number">1826March20</identifier>
+   <recordInfo>
+      <recordContentSource authority="local">lsu/cmk</recordContentSource>
+      <recordCreationDate encoding="w3cdtf">2018-07-17</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+  </recordInfo>
+</mods>

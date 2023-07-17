@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Section 3, Page 16</title>
+  </titleInfo>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p15140coll10:collection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      
+   </location>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll10/id/2125</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2012-01-18</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll10</alias>
+         <pointer>2125</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll10/2125/json"
+                        timestamp="2017-02-03 08:24:45">{"title":"Section 3, Page 16","subjec":{},"descri":{},"creato":{},"publis":{},"date":{},"year":{},"format":{},"reposi":{},"collec":{},"reposa":{},"rights":{},"digitb":{},"langua":{},"topics":{},"cite":{},"notes":{},"notesa":{},"source":{},"box":{},"folder":{},"identi":{},"relati":{},"findin":{},"catalo":{},"type":{},"full":"16 ADDRESS.\ntapping the resources of the West in a greater or less degree an&gt;\ndrawing upon the resources hitherto controlled by New-Orleans and\nmay thus be considered antagonistic roads, to that extent, though t)\u00bbl\nlast three are exercising beneficial tendencies upon the whole South, I\nWe begin with the first class, and take the states in the order in |\nwhich we have named them :\n1. Kentucky, which has at present but the short road connection I\nLouisville, Frankfort, and Lexington, proposes to extend this roatl\nso as to intersect the Virginia road at Guyandotte on the one hani I\nand on the other hand, to connect at the Ohio with the Indianapoljg I\nand Madison Rail-road, whose ultimate destination is on Lake Midi I\ngan. More lately a proposition is in discussion for the construction'I\nof a road to the city of Nashville, and thence to Memphis, or moityl\ndirectly to the latter point. A convention has been called to dotcr-\nmine upon the practicability of this road. In behalf of the road it has\nbeen ably urged\u2014\n\" The rail-roads of New-York hold Cincinnati at present within their infln. I\nence ; and, operating from that point, New-York, by drawing trade in the oik I\nposite direction, is sapping the prosperity of Louisville. An extension or ki\nMemphis and Nashville road to Louisville will hold trade to its original direm\ntion, and, by maintaining Louisville against the otherwise ruinous influence of\nCincinnati, preserve the prosperity of Louisville, as part and parcel of the prowl\nperity of New-Orleans. All the trade on the north side of the road from Memphis to Nashville, will be caught on its rails and whirled off to New-Orleans.    I\n\" On every consideration, it may be concluded that this Louisville and New- I\nOrleans Rail-road\u2014a road of 370 miles, in reality, though a road of 700 miles if 1\nresult,\u2014is the first, as it is the best, in the policy of New-Orleans.\n\"Louisville, situated at a point where much of the business of the upper\ncountry must, for a great part pf the year, take the rails, on its way to New-\nOrleans, will necessarily become, under the influence of this road, the greatest I\ncity on the Ohio.    The road to Memphis being the only means of preventing a\nchange in the direction of trade from Cincinnati, will compel that city to pay\ntribute to Louisville ; whereas, without this road, business following the direej\ntion of New-York, Louisville, absorbed into a system, in which, taking the pan\nof an extremity which trade flows from, rather than a centre which trade flo**B\nto, must inevitably dwindle into a tributary to Cincinnati.     The importance on\nthis road to Louisville is, perhaps, even greater than to New-Orleans.\"*     j\n2. Tennessee having, in course of construction, or nearly complete^J\nher road from Chattanooga to Nashville, to connect with the CharlesJ\nton and Savannah rail-roads, and another road from the same point to\nKnoxville, intended to be continued to Abingdon, intersecting &amp;e&amp;\u00a7\nthe Abingdon and Lynchburg or East Tennessee and Virginia rwH\nroad, whose terminus is Richmond, and extending still further to\nthe north-east, to intersect the Baltimore and Wheeling road, pfjjj\nposes in addition the roads we have referred to as connecting Nasfr-i\nville or Memphis with Louisville, and a road from Chattanooga toi\nthe city of Memphis.    This last road has been advocated in Ne*-\nOrleans, as one greatly to her interest in arresting the trade of No\u00bb*J\nAlabama and Middle Tennessee, from its present direction to tJJ\nAtlantic sea-board, and a very handsome subscription was received!\n*De Bow's Review, Vol. X.","fullrs":{},"find":"2126.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2012-01-18","dmmodified":"2012-01-18","dmoclcno":{},"dmrecord":"2125","restrictionCode":"1","cdmfilesize":"531493","cdmfilesizeformatted":"0.51 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

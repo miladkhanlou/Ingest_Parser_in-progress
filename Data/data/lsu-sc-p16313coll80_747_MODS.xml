@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Ran-Away.
+</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00000590e</title>
+  </titleInfo>
+   <abstract displayLabel="Transcript">Ran-Away,  FROM the plantation of the Estate of the late John Grieg, deceased, a mulatto-boy.  He is a very light mulatto-boy, with blue eyes and very straight hair, about 5 feet 8 inches high, stout square built, speaking english and a little french, riding a black brown american mule, branded thus : 97. A liberal reward for his apprehension and delivery will be given by the undersigned. M. E. GIRARD, Administrator of said Estate. Lafayette, May 12th., 1855.--tf
+</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 2, column 6
+</number>
+         </detail>
+      </part>
+      <part displayLabel="Publication">
+         <detail>
+            <title>The Opelousas courier. (Opelousas, La.) 1852-1910
+</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-05-12/ed-2/seq-2/
+</note>
+   <note type="citation/reference" displayLabel="Continuous Ad">http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-05-19/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-05-26/ed-2/seq-2/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-06-02/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-06-09/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-06-16/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-06-23/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-06-30/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-07-07/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-07-14/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-07-21/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-07-28/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-08-04/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-08-11/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-08-18/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-08-25/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-09-01/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-09-08/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-09-15/ed-2/seq-1/; http://chroniclingamerica.loc.gov/lccn/sn83026389/1855-09-22/ed-2/seq-1/;
+</note>
+   <identifier type="lccn" displayLabel="LCCN">sn83026389
+</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/1052</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-02-29</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>1052</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/1052/json"
+                        timestamp="2017-02-13 13:34:06">{"title":"RSA00000590e","object":"sn83026389\n","publia":"The Opelousas courier. (Opelousas, La.) 1852-1910\n","date":{},"year":{},"film":"page 2, column 6\n","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-05-12\/ed-2\/seq-2\/\n","unique":"Ran-Away.\n","person":{},"parish":{},"digita":{},"acknow":{},"public":{},"town":{},"relati":{},"slave":{},"slavea":{},"slaveb":{},"slavec":{},"reward":{},"multip":{},"physic":{},"persoa":{},"transc":"Ran-Away,  FROM the plantation of the Estate of the late John Grieg, deceased, a mulatto-boy.  He is a very light mulatto-boy, with blue eyes and very straight hair, about 5 feet 8 inches high, stout square built, speaking english and a little french, riding a black brown american mule, branded thus : 97. A liberal reward for his apprehension and delivery will be given by the undersigned. M. E. GIRARD, Administrator of said Estate. Lafayette, May 12th., 1855.--tf\n","subjec":{},"type":{},"format":{},"langua":"English\n","digitb":{},"digiti":{},"contin":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-05-19\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-05-26\/ed-2\/seq-2\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-06-02\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-06-09\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-06-16\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-06-23\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-06-30\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-07-07\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-07-14\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-07-21\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-07-28\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-08-04\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-08-11\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-08-18\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-08-25\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-09-01\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-09-08\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-09-15\/ed-2\/seq-1\/; http:\/\/chroniclingamerica.loc.gov\/lccn\/sn83026389\/1855-09-22\/ed-2\/seq-1\/;\n","citati":{},"call":{},"covera":{},"identi":{},"plugin":{},"image":{},"fullrs":"Volume3\/RSA00000590e.jp2","find":"1116.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-02-29","dmmodified":"2016-02-29","dmoclcno":{},"dmrecord":"1052","restrictionCode":"1","cdmfilesize":"113129","cdmfilesizeformatted":"0.11 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Folder 1a-07, Hermann Moyse, Sr. Letters, 1918 March 28-April 20</title>
+  </titleInfo>
+   <name displayLabel="Author">
+      <namePart>Moyse, Hermann, 1891-1985</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated keyDate="yes">1918</dateCreated>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>World War, 1914-1918</topic>
+   </subject>
+   <subject authority="lcsh" displayLabel="Location">
+      <geographic>France</geographic>
+   </subject>
+   <abstract displayLabel="Description">This folder contains four letters from Hermann Moyse to Rosalie Gottlieb, written during his time in France with the 32nd Division, American Expeditionary Forces. Moyse describes his experiences 'installing' French soldiers in various towns (April 6, 1918) and how proud he is of his fellow soldiers who are always willing to take on any task, no matter how menial, without hesitation or complaint (April 14, 1918).  On April 20, 1918, the third-month anniversary of his arrival in France, Moyse describes his arrival in the country from England: the crowd of French children who greeted the soldiers, asking for American coins as souvenirs; the French lady who raised the American flag when she saw the soldiers arrive; and the generally enthusiastic welcome he received.  Moyse also mentions how welcome letters from Gottlieb are, particularly when she writes of "engagements, weddings, [and] scandals."</abstract>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <extent>4 letters.</extent>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <genre>correspondence</genre>
+   <language>
+      <languageTerm type="code">en</languageTerm>
+  </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <titleInfo type="alternative" displayLabel="Repository Collection">
+         <title>Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.</title>
+      </titleInfo>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Hermann Moyse, Sr. World War I Collection</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Repository Collection Guide">http://www.lib.lsu.edu/sites/default/files/sc/findaid/4671.pdf</url>
+      </location>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p15140coll18%3Acollection</url>
+      </location>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location">Louisiana State University: LSU Libraries</physicalLocation>
+      <url displayLabel="Institution Web Site">http://lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library: Special Collections</subLocation>
+            <shelfLocator>Mss. 4671, Box 1a: 7</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lib.lsu.edu/special/services/duplication.html</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p15140coll18/id/546</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-06</recordChangeDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-11-24</recordCreationDate>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p15140coll18</alias>
+         <pointer>546</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p15140coll18/546/json"
+                        timestamp="2017-02-06 12:53:16">{"title":"Folder 1a-07, Hermann Moyse, Sr. Letters, 1918 March 28-April 20","creato":"Moyse, Hermann, 1891-1985","date":"1918","physic":"4 letters.","langua":"en","type":"correspondence","covera":"France","subjec":"World War, 1914-1918","descri":"This folder contains four letters from Hermann Moyse to Rosalie Gottlieb, written during his time in France with the 32nd Division, American Expeditionary Forces. &lt;br&gt;&lt;br&gt;Moyse describes his experiences 'installing' French soldiers in various towns (April 6, 1918) and how proud he is of his fellow soldiers who are always willing to take on any task, no matter how menial, without hesitation or complaint (April 14, 1918).  On April 20, 1918, the third-month anniversary of his arrival in France, Moyse describes his arrival in the country from England: the crowd of French children who greeted the soldiers, asking for American coins as souvenirs; the French lady who raised the American flag when she saw the soldiers arrive; and the generally enthusiastic welcome he received.  Moyse also mentions how welcome letters from Gottlieb are, particularly when she writes of \"engagements, weddings, [and] scandals.\"","locati":"Mss. 4671, Box 1a: 7","source":"Moyse-Gottlieb-Sommer Family Papers, Mss. 4671, Louisiana and Lower Mississippi Valley Collections, LSU Libraries, Baton Rouge, La.","reposi":"http:\/\/www.lib.lsu.edu\/sites\/default\/files\/sc\/findaid\/4671.pdf","contri":{},"notes":{},"publis":{},"format":{},"relati":{},"rights":{},"contac":{},"catalo":{},"imaga":{},"color":{},"extent":{},"imagb":{},"hardwa":{},"digiti":{},"digita":{},"object":{},"fullrs":{},"find":"547.cpd","dmaccess":{},"dmimage":{},"dmcreated":"2010-11-24","dmmodified":"2010-11-24","dmoclcno":{},"dmrecord":"546","restrictionCode":"1","cdmfilesize":"6969","cdmfilesizeformatted":"0.01 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

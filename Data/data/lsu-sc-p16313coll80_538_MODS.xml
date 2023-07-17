@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo type="alternative" displayLabel="Headline">
+      <title>Il a été conduit à la geole de Paroisse.</title>
+  </titleInfo>
+   <titleInfo>
+      <title>RSA00001050</title>
+  </titleInfo>
+   <name displayLabel="Person Placing Ad">
+      <namePart>Ursin Caillier.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Contributor</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+      </role>
+  </name>
+   <originInfo>
+      <dateIssued keyDate="yes">1854-08-20</dateIssued>
+  </originInfo>
+   <subject authority="lcsh">
+      <topic>Fugitive slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slavery</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Slaves</topic>
+      <topic>Louisiana</topic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Slave Owner">
+      <geographic>Bayou Black, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Location of Submitter">
+      <geographic>Napoleonville, La</geographic>
+   </subject>
+   <subject authority="local" displayLabel="Time Period">
+      <temporal>1854</temporal>
+   </subject>
+   <abstract displayLabel="Transcript">Il a été conduit à la geole de Paroisse, un nègre marron , disant se nommer FIELD et appartenir à M. Melten Berger de la Nlle-Orléans. Ce négre est agé de 25 à 27 ans, noir foncé, et a deux dents de devant fendues. Il est attaché à une habitation sur le bayou black. Celui qui le réclamera aura à prouver son droit de propriètaire et à payer les frais de prise, d'écrits de justice, conformement à la loi. Napoléonville, Psse Assomption 17 AOUT 1854. Ursin CAILLIER. Geolier.</abstract>
+   <note type="content" displayLabel="Slave Complexion/Racial Designation">dark black</note>
+   <note type="content" displayLabel="Slave Owner">M.  Melten Berger</note>
+   <note type="content" displayLabel="Slave Name (Age)">Field (25 to 27)</note>
+   <note type="content" displayLabel="Slave Age Under 12">N</note>
+   <note type="content" displayLabel="Physical Description Provided">Y</note>
+   <note type="content" displayLabel="Slave Sex">M</note>
+   <note type="content" displayLabel="Personality Description Provided">N</note>
+   <typeOfResource>text</typeOfResource>
+   <physicalDescription>
+      <form>newspaper clipping</form>
+      <internetMediaType>jp2</internetMediaType>
+  </physicalDescription>
+   <language>
+      <languageTerm type="text">French</languageTerm>
+   </language>
+   <note type="ownership" displayLabel="Source">Louisiana State University Libraries, Special Collections ( http://www.lib.lsu.edu/special )</note>
+   <relatedItem type="host">
+      <part displayLabel="Publication">
+         <detail>
+            <number>page 3, column 1</number>
+         </detail>
+      </part>
+      <titleInfo displayLabel="Digital Collection">
+         <title>Louisiana Runaway Slave Advertisements, 1836-1865</title>
+      </titleInfo>
+      <location>
+         <url displayLabel="Relation">http://lsu.louisianadigitallibrary.org/lsu-p16313coll80%3Acollection</url>
+      </location>
+      <part displayLabel="Publication">
+         <detail>
+            <title>Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?</title>
+         </detail>
+      </part>
+  </relatedItem>
+   <location/>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments about the collection.</accessCondition>
+   <accessCondition type="restriction on access" displayLabel="Rights">Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries.</accessCondition>
+   <note type="preferred citation" displayLabel="Cite As">Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.</note>
+   <note type="citation/reference" displayLabel="Source Citation">http://chroniclingamerica.loc.gov/lccn/sn86090609/1854-08-20/ed-1/seq-3/</note>
+   <identifier type="lccn" displayLabel="LCCN">sn 86090609</identifier>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll80/id/3426</identifier>
+   <recordInfo>
+      <recordChangeDate>2017-02-10</recordChangeDate>
+      <recordCreationDate>2016-05-09</recordCreationDate>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+  </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p16313coll80</alias>
+         <pointer>3426</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll80/3426/json"
+                        timestamp="2017-02-13 13:33:29">{"title":"RSA00001050","object":"sn 86090609","publia":"Le pionnier de l'Assomption. : (Napoleonville [La.]) 1850-185?","date":"1854-08-20","year":"1854","film":"page 3, column 1","altern":"http:\/\/chroniclingamerica.loc.gov\/lccn\/sn86090609\/1854-08-20\/ed-1\/seq-3\/","unique":"Il a \u00e9t\u00e9 conduit \u00e0 la geole de Paroisse.","person":"Ursin Caillier.","parish":"Napoleonville, La.","digita":{},"acknow":{},"public":"M.  Melten Berger","town":"Bayou Black, La.","relati":"Field (25 to 27)","slave":"M","slavea":"dark black","slaveb":"N","slavec":{},"reward":{},"multip":{},"physic":"Y","persoa":"N","transc":"Il a \u00e9t\u00e9 conduit \u00e0 la geole de Paroisse, un n\u00e8gre marron , disant se nommer FIELD et appartenir \u00e0 M. Melten Berger de la Nlle-Orl\u00e9ans. Ce n\u00e9gre est ag\u00e9 de 25 \u00e0 27 ans, noir fonc\u00e9, et a deux dents de devant fendues. Il est attach\u00e9 \u00e0 une habitation sur le bayou black. Celui qui le r\u00e9clamera aura \u00e0 prouver son droit de propri\u00e8taire et \u00e0 payer les frais de prise, d'\u00e9crits de justice, conformement \u00e0 la loi. Napol\u00e9onville, Psse Assomption 17 AOUT 1854. Ursin CAILLIER. Geolier.","subjec":"Fugitive slaves--Louisiana.; Slavery--Louisiana.; Slaves--Louisiana.","type":"text","format":"clipping","langua":"French","digitb":"Runaway Slave Ads: 1836-1865","digiti":{},"contin":{},"citati":"Louisiana Runaway Slave Advertisements, 1836-1865, Louisiana Digital Library, Baton Rouge, La.","call":"Louisiana State University Libraries, (http:\/\/www.lib.lsu.edu )","covera":"E-mail lsudiglib@lsu.edu with questions or comments about the collection. Identify the item using the \"Call number\" in any questions, comments, or requests.","identi":"Physical rights are retained by the LSU Libraries. Copyright has expired and the item is therefore in the public domain. Permission to reproduce this image must be requested through the Special Collections Department, Louisiana State University Libraries. ","plugin":"See 'reference url' on the navigation bar.","image":"http:\/\/cdm16313.contentdm.oclc.org\/cdm\/search\/collection\/p16313coll80","fullrs":"Volume3\/RSA00001050.jp2","find":"3490.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2016-05-09","dmmodified":"2016-05-13","dmoclcno":{},"dmrecord":"3426","restrictionCode":"1","cdmfilesize":"85850","cdmfilesizeformatted":"0.08 MB","cdmprintpdf":"0","cdmhasocr":"0","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

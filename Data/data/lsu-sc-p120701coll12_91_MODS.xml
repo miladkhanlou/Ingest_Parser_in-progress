@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3">
+   <titleInfo>
+      <title>Page 02</title>
+  </titleInfo>
+   <name type="corporate"
+         authority="naf"
+         authorityURI="http://id.loc.gov/authorities/names"
+         valueURI="http://id.loc.gov/authorities/names/no2015036095"
+         displayLabel="Contributing Repository">
+      <namePart>LSU LibrariesSpecial Collections</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+      </role>
+   </name>
+   <relatedItem type="host">
+      <location>
+         <url displayLabel="Relation">http://louisianadigitallibrary.org/islandora/object/lsu-sc-p120701coll12:collection</url>
+      </location>
+      <titleInfo displayLabel="Digital Collection">
+         <title>LSU Libraries Louisiana and Lower Mississippi Valley Collections</title>
+      </titleInfo>
+  </relatedItem>
+   <location>
+      <physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</physicalLocation>
+      <physicalLocation displayLabel="Physical Location" xlink:href="http://lib.lsu.edu">LSU Libraries</physicalLocation>
+      
+   </location>
+   <accessCondition type="use and reproduction" displayLabel="Rights">Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.</accessCondition>
+   <accessCondition type="use and reproduction" displayLabel="Contact Information">Please submit an LSU Special Collections reference ticket at https://askus.lib.lsu.edu/special for any questions or comments about this digital object.</accessCondition>
+   <identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p120701coll12/id/380</identifier>
+   <recordInfo>
+      <recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</recordOrigin>
+      <recordCreationDate>2010-10-08</recordCreationDate>
+      <recordChangeDate>2018-12-05-06:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <CONTENTdmData>
+         <alias>p120701coll12</alias>
+         <pointer>380</pointer>
+         <dmGetItemInfo mimetype="application/json"
+                        source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p120701coll12/380/json"
+                        timestamp="2017-02-09 16:30:54">{"title":"Page 02","creato":{},"date":{},"biogra":{},"summar":{},"descri":{},"langua":{},"publis":{},"type":{},"covera":{},"subjec":{},"notes":{},"contri":"Louisiana State University Libraries, Special Collections (http:\/\/www.lib.lsu.edu\/special).","reposi":{},"reposa":{},"source":{},"cite":{},"rights":"Physical rights are retained by the LSU LibrariesIn accordance with UScopyright laws, this work is in the public domain.","contac":"E-mail lsudiglib@lsu.edu with questions or commentsSee instructions for ordering reprints of this item here: http:\/\/www.lib.lsu.edu\/special\/services\/duplication.html Mention the \"Item number\" or \"Item URL\" in your request","object":{},"identi":"See 'reference url' on the navigation bars.","collec":{},"format":{},"relati":{},"coverb":{},"catlog":{},"catalo":{},"image":{},"hardwa":{},"digiti":{},"digita":{},"transc":"i:\n\u25a0\nw\n1?\nSOUTH-WESTERN JOURNAL.\nreason and judgement have fled, and he only remains as a sad\nmonument of human depravityMen of the greatest intellects\nand of the brightest genius have alike been ruined by intemperanceHow many young men who promised lo be a blessing\nlo their parents, and an honor to their country, have, for the\nsake of appearing more lively and social in the  company of from too kind parents\u2014whose imaginations have been allot\nhas there been a crime committed, except by those who ha\nbeen roughly educated, or have, too early, left the influent:\nof the domestic circle\u2014whose minds have received a wrot\nInns\u2014whose desires and appetites have been unrestrained-\nwho have been suffered and indulged in every extravagant\ntheir friends, quaffed the sparkling draught, until, toolate, they\nfound it left a real sting behind ? Let us remember, therefore,\nthat the step once taken in vice, the moral powersnro weakened, and our course is downwardsIt has been said by the\npoet, and a good judge of human nature,\n\"Vice la a monitor of eo frightful mien,\nTltaito Ijo linlcil, nccila out In l\u201e- seen,\nHut seen 100 Ofl, familiar Willi Its fi ,\nWo Ural endure,\u2014then plly,\u2014ilien embrace.\"\nCertainly, no man should consider himself secure from\nthis vice whoso motto is not, touch not, taste not, handle not.\nAnd it must he a cause ol rejoicing to the Christian and the\nphilanthropist, that mankind are beginning to feel tho importance of this subjectAlready the tocsin has been sounded.\nThe temperance banner has been unfurled in every part of\nour In loved land, and thousands have flocked to its standard\nand marshalled themselves to oppose the enemyVet much\ninoro remains to bodono before we shall have arrived at that'\"'\"'\nod to contemplate scenes of licentiousness, violence nr\nblood\u2014who have dwelt upon ludicrous and fictitious associ\nlions, until their moral natures have become obtuse and rende\ned insensible to the finer feelings of humanity\u2014and tin:\nthey have been led on from step to step until they have bi\ncome prepared to perpetrate, with impunity, every deed i\ndaring which fills the catalogue of crime I How iinportni\nthen, is it that parents should always keep in mind the saj\ning of tho wise man: \"Train up a child in the way h\nshould go, and when he is old be will not depart from it.\"\u2014\nI have no doubt that mothers have more influence in forniin,\nihe character anil determining the destiny of a nation, thai\nall their Moralists, Legislators and Divines combined.\n1 In who would foretell our futuie history with any accu\nracy, must look into the domestic circle,    Here  is laid tin\nfoundation upon which the noble edifice is to be reared.\u2014\nbe'iit, the tree's inclined.\"     It was the say-\nhigh stale of moral and physical beauty, which, under God,|lng \u00b0f n celebrated Divine, show mo the mothers nnd I will\nIboliove, wo are destined to attainManyothor vices to which|to11 J\u2122 the character ofthe nation   Ah!   who would not\nheed a mother's warning voice?    Even a  ('oiiolanus was\nsubdued by a mother's tears, when the entreaties of the Ho\nwe are subject, and which we have brought upon ourselves,\nmay bo attributed to this same want of self-control and self-\nrespectThe practice of Duelling, that relic of barbarous\nages, handed down and perpetuated by a fhlso sense of honor,\nmay I\"\nman  Ambassadors, and the love he bore lo his native city,\ncould not swervo him from his purpose of destroying that\nWhen was ever a duel ''\")'\u2022\nUut while I attribute so much influence to mothers, in\nforming the character of a nation, I attribute still more, if\npossible, lo the daughters, in correcting the evils that already\nexistI had almost said their power was omnipotentI do\nbelieve they possess the power of correcting every vice in\ntded\nraced to the same\nfought thai did riot originato in revenge nnd hatred\u2014which\nwas not the offspring of a perverted judgment ami an overheated imagination? What man in his sober moments of reflection, when reason lias assumed her empire, will defend\nand uphold duelling? What has it over proved but tho frailty\nol man\/    li has never made any man a braver man   It lias Pur ^an&amp;-    Should tho Ladies of Mississippi say, to-day, that\nnever made any man a greater man: it never proves tho truth wo will ,10' hereafter have any thing to do with the gambler,\nsatisfies a fiendish disposition, what young gentleman would be found at tho gaming table\no'ves that we fear the frowns of to-morrow, unless he staked himself with something fairer\nthoso whoso frowns nre bettor than their smiles   Jt proves tnan ffo'd or silver? If every young lady should say, to-day,\nthai we fear public opinion more than tho pistol of our nclver- r'la' we will not hereafter receive the addresses of those who\ns:ny   But make a live use of ardent spirits, what young man would\nif the point in dispute : it onlj\nand, if ii proves any thing, it pi\nAnd by what aiitln\nipi\n,&lt;l fail tin ll lli.it in.-lis tin- ball\nI would ask, dues man offer his life\niw man\u2014in ask him to ofler his lifi\naltar? li is a daring insull lo high\nHeavenA vice, did I say\/ a crime so recognized by tin\nstatutes of every Stnto in our Union: yes, a crime of the\ndeepest dye\u2014a Inn] blot upon the pago of our country's history(11 what barbarity, thai a man should sacrificohis life\ni\" his passions; and thus, in tho midst of his wrath, bo ushered into the presence of an offended and  righteous Judge!\t\nAnd hmv little self control has the profano swearer, whose\nlanguage is tho dialect of Demons\u2014who is constantly taking the name of his Lord in vain\u2014when the fiat of Jehovah\nhas gone forth that he will not hold him guiltless that lakeil\ndrink alcohol to-morrow?\nIt is for you, ladies, to say, what shall be the moral condition of our country a hundred years henceThough you\nmay not be called lo Hie batlle-field, or the legislative hall, or\nto minister at the altar of God; though you may not thunder\nfrom flic forum, yet the eloquence of ihe drawing-room may\nexert an influence which shall he felt and cherished, until the\nreel of time shall have wound the last thread of human existence; and he who denies your influence must have already\npassed beyond the hounds of hope ; his fate is scaled ! But\nto gain and maintain this victory, of which we have been\nspeaking, we must be habitually active ; we must learn to direct our thoughts within, to examine well our own moral and\nintellectual condition   We must investigate the grounds and\nprinciples on which wc have formed our opinions of men and\nname m win, I    And where, \u201e, the history of the world,)things; whelher we have been influenced by passion or pre-","fullrs":{},"find":"381.jp2","dmaccess":{},"dmimage":{},"dmcreated":"2010-10-08","dmmodified":"2010-10-08","dmoclcno":{},"dmrecord":"380","restrictionCode":"1","cdmfilesize":"1822552","cdmfilesizeformatted":"1.74 MB","cdmprintpdf":"0","cdmhasocr":"1","cdmisnewspaper":"0"}</dmGetItemInfo>
+      </CONTENTdmData>
+  </extension>
+</mods>

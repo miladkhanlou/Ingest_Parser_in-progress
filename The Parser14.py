@@ -288,20 +288,6 @@ def getPid(file_name):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def xml2workbench(root,data_frame):  
     result = {} 
     path_list = [] #list of paths
@@ -359,7 +345,7 @@ def xml2workbench(root,data_frame):
                 dict_values[key] = concatenated_string
                 print("dict_values")
                 print("{}\n".format(dict_values))
-
+                
             ## append to final
             for ky,vl in dict_values.items():
                 result_dict_final[ky].append(vl)

@@ -258,7 +258,7 @@ class xmlSet(object):
             if file.endswith(".xml"):
                 file_path = "{directory}/{file_name}".format(directory=arg.input_directory, file_name=file)
                 print("parsing {}".format(file))
-                self.add(parse_mods(file_path,dataframe))  # Pass the data dictionary as an argument to the parse_mods function
+                self.add(parse_mods(file_path,dataframe, arg))  # Pass the data dictionary as an argument to the parse_mods function
     def print(self, fp):
         tmp = list(self.headers)
         tmp.sort(key=lambda x: (isinstance(x, float), x))  # Sort by type (float or string) first, then by value
@@ -268,14 +268,13 @@ class xmlSet(object):
             writer.writerow(doc)
 
 ## Main parse function
-def parse_mods(filename,DataFrame):
+def parse_mods(filename,DataFrame, arg):
     root = ET.iterparse(filename, events=('start', 'end'))
-
     #get pid names
     data = {}
     pid = getPid(filename)
     data.update({"PID": pid})
-    data.update(xml2workbench(root,DataFrame))
+    data.update(xml2workbench(root,DataFrame,arg))
     return data
 
     #get fields with text
@@ -286,70 +285,125 @@ def getPid(file_name):
     string = string.replace('_', ':')
     return string
 
-def xml2workbench(root, data_frame):
-    path_list = []  # list of paths
+
+
+
+def xml2workbench(root,data_frame, arg):  
+    path_list = [] #list of paths
     pathName = []
-    text = []
-    field_with_text = {}  # add fields to dictionary
-    result_dict = {}  # dictionary to store the result
     first_elem = []
-    for Xpaths in list(data_frame["Fields"]):
-        field_with_text[Xpaths] = []
+    field_with_text = {}  #add fields to dictionary
+    if "input_directory" not in arg:
+        for Xpaths in list(data_frame["Fields"]):
+            field_with_text[Xpaths] = []
+    result_dict_temp = {} #the paths with the text in them with the name of paths, it will be epty out in every iteration (perpuse is only for comparison with master csv)
+    result_dict_final = {}
 
-    for event, elem in root:
-        if event == "start" and "mods" in elem.tag:
-            for child in elem:
-                first_elem.append(child.tag)
+    for event,elem in root:
+        for child in elem:
+            first_elem.append(child.tag)
         if event == 'start':
-            attribs = []
+            ## we are creating xml paths in this condition
+            attribs = [] 
             atribValues = []
-            WriteAttributes = []
+            WriteAttributes  = []
             attributes = elem.attrib
-
             if len(attributes) > 0:
-                for i, j in attributes.items():
-                    attribs.append(i)
-                    atribValues.append(j)
-                    WriteAttributes.append([i, j])
-
-                pathName.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes)))
-
-                if elem.text and '\n' not in elem.text:
-                    # text.append(elem.text.strip())
-                    result_dict[]
-
+                for i,j in attributes.items():
+                    attribs.append(i)     #Fixing not printing all the attributes
+                    atribValues.append(j)    #Fixing not printing all the attributes Values
+                    WriteAttributes.append([i,j]) #write as a list as we go into each attribute
+                ### A2) Print the xmlPath                
+                pathName.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
+                path = '/'.join(pathName)
+                path_list.append(path)
+                if "input_directory" in arg:
+                    if 'atributes' in data_frame.keys():
+                    ### A1) check for any miss-speling in tags and attributes
+                        if i not in data_frame["atributes"]:
+                            # errors.append(', '.join("{}".format(a[0]) for a in WriteAttributes)) #USED JOIN INSTEAD OF FORMAT
+                            errors.append(i) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Attrib_errors
+                        if elem.tag.split("}")[1] not in data_frame["tags"]:
+                            errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
+                        else:
+                            continue
             if len(elem.attrib) == 0:
+                ### B1) Print the xmlPath                
                 pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
-
-                if elem.text and '\n' not in elem.text:
-                    text.append(elem.text.strip())
-
-        elif event == 'end':
-            if len(text) > 0:
-                joined_text = '--'.join(text)
-                result_dict['/'.join(pathName)] = joined_text
-                text = []  # Reset text list for the next path
-
+                path = '/'.join(pathName)
+                path_list.append(path)
+                if "input_directory" in arg:
+                    if 'atributes' in data_frame.keys():
+                        if elem.tag.split("}")[1] not in data_frame["tags"]:
+                            errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
+                        else:
+                            continue
+    #return path_list
+            if "input_directory" in arg:
+                if event== 'end':
+                    pathName.pop()
+                    # Retrieve text from the nested XML path that get closed after the final open one
+            else:
+                if path in path_list and elem.text is not None and elem.text.strip() != "":
+                    result_dict_temp.setdefault(path, [])
+                    result_dict_final.setdefault(path, [])
+                    result_dict_temp[path].append(elem.text.strip())
+                elif elem.text is None:
+                    continue
+                
+        elif event== 'end' and elem.tag != first_elem[0] and "input_directory" not in arg:
             pathName.pop()
 
-    # Print the result_dict dictionary
-    for path, value in result_dict.items():
-        print(f"{path} : [{value}]")
+        elif event== 'end' and elem.tag == first_elem[0] and "input_directory" not in arg:
+            print("*** first element *** {}".format(first_elem[0].split("}")[-1]))
+            pathName.pop()
+            
+            ## concatinate the result of each temporary dictionary an append to dict_values dictionary
+            dict_values= {} 
+            for key, value_list in result_dict_temp.items():
+                concatenated_string = '--'.join(value_list)
+                dict_values[key] = concatenated_string
+                print("dict_values")
+                print("{}\n".format(dict_values))
 
-    # Compare xml paths with the paths in the master csv and write the text values to the corresponding fields
-    for path, value in result_dict.items():
-        for index, row in data_frame.iterrows():
-            if path in row['XMLPath']:
-                field_name = row['Fields']
-                if field_name in field_with_text:
-                    field_with_text[field_name].append(value)
-                break
+            ## append to final
+            for ky,vl in dict_values.items():
+                result_dict_final[ky].append(vl)
 
-    for k, v in field_with_text.items():
+            ## Empty out the temp[path] and first element
+            result_dict_temp[path] = []
+            first_elem.pop(0)
+    if "input_directory" in arg:
+        return path
+    else:
+        result_dict_final =  {final_key : '|'.join(final_value) for final_key, final_value in result_dict_final.items()}
+        print("Final Dictionary >>> {}".format(result_dict_final))
+    
+    ##compare xml paths we created from the directory of mods to the master csv we parsed before, and write the texts from value of result_dict dictionary to the field defined in master csv        
+    Field_from_csv = []
+    for paths, values in result_dict_temp.items():
+        for Xpaths in list(data_frame["XMLPath"]):
+            if paths in Xpaths:
+                Field_from_csv = data_frame.loc[data_frame["XMLPath"] == paths, 'Fields']
+                fieldName = Field_from_csv.to_string(index=False)
+                
+                ## Write results in 'dictionary' and 'the same dataframe' ##
+                if values is not None:
+                    ##Dictionary##
+                    for value in values:
+                        if fieldName in field_with_text:
+                            field_with_text[fieldName].append(value)
+                        else:
+                            continue
+                elif values is None:
+                    continue
+    for k in field_with_text:
         if k == "nan":
             del field_with_text[k]
 
-    return {key: '|'.join(value) for key, value in field_with_text.items()}
+    return{key : '|'.join(value) for key, value in field_with_text.items()}
+
+
 
 ######################## Final Run: Get Attributes and Tag list | Get xml Paths | Found errors with comparing attribute & tags with xml paths  ########################
 def main():
@@ -361,15 +415,13 @@ def main():
         GetUniques = unique_tag_attrib()
         attribTags2csv = dataToCsv(args)
 
-    elif args.input_directory and args.output_directory and args.input_csv:
-    # Run the function to get XML paths, check for errors, and write to CSV (-i,-o,-c)
-        sourceMODs = MODs(args)
-        inputCSV = inpute_csv(args)
-        parseTo = parseAll(sourceMODs,inputCSV)
-        getUniquesPaths = PathRepeatCheck(parseTo)
-        getUniqueErrors = ErrorRepeatCheck()
-        writeToCSV = toCSV(getUniquesPaths, getUniqueErrors, args)
-
+    # elif args.input_directory and args.output_directory:
+    # # Run the function to get XML paths, check for errors, and write to CSV (-i,-o,-c)
+    #     data = xmlSet()
+    #     data.xmlMods(args,csv_to_dict)
+    #     with open(args.output_directory, 'w') as csv:
+    #         data.print(csv)
+            
     elif args.input_clear_csv and args.input_directory and args.output_directory:
     # Run the function to for xml2wirkbencg process (-ii,-o,-cc)
         #reads the RDFs one more time, if the xml paths where in the the list of xml paths write to the correct fields and text

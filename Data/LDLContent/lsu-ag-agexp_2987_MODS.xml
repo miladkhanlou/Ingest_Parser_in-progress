@@ -4,15 +4,24 @@
     <topic>Agriculture</topic>
     <topic>Louisiana</topic>
   </subject>
-
   <subject authority="lcsh">
-    <topic>authority</topic>
-    <geo>louisiana</geo>
-    <name>sd</name>
-    <topic>authority2</topic>
+    <name>111</name>
+    <fname>666</fname>
+    <fname>999</fname>
+    <topic>Plantation</topic>
+    <topic>Sugar</topic>
+    <topic>Louisiana</topic>
   </subject>
-  <namePart>
-    <first>Milad</first>
-    <last>Khanlou</last>
-    <first>NoMiddleName</first>
-  </namePart></mods>
+  <subject2 authority="lcsh">
+    <name>aaa</name>
+    <name>bbb</name>
+    <lname>zzz</lname>
+    <fname>iii</fname>
+  </subject2>
+  <subject authority="lcsh">
+    <name>bbb</name>
+      <namePart></namePart>
+    <lname>zzz</lname>
+    <fname>iii</fname>
+  </subject>  
+</mods>

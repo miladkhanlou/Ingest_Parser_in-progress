@@ -287,37 +287,32 @@ def getPid(file_name):
 
 
 
-def xml2workbench(root,data_frame):  
-    result = {} 
-    path_list = [] #list of paths
-    pathName = []
-    first_elem = []
-    field_with_text = {}  #add fields to dictionary
-    for Xpaths in list(data_frame["Fields"]):
-        field_with_text[Xpaths] = []
+def xml2workbench(root,data_frame,arg):  
+##!## make changes and add condition so that we can use it for step two ##!##
+
+    pathName = [] #list of path created in each iteration
+    path_list = [] #list of paths after creation
+    first_elem = [] #list of first elemet in each iteration
     result_dict_temp = {} #the paths with the text in them with the name of paths, it will be epty out in every iteration (perpuse is only for comparison with master csv)
-    result_dict_final = {}
+    result_dict_final = {} #final paths and values that will be used for comparison with master CSV
 
     for event,elem in root:
         for child in elem:
             first_elem.append(child.tag)
-        if event == 'start':
-            ## we are creating xml paths in this condition
+        if event == 'start' and elem != first_elem[0]:
+            ## creating xml paths in this condition
             WriteAttributes  = []
             attributes = elem.attrib
             if len(attributes) > 0:
-                for i,j in attributes.items():
-                    WriteAttributes.append([i,j]) #write as a list as we go into each attribute
-                ### A2) Print the xmlPath                
+                for Key,value in attributes.items():
+                    WriteAttributes.append([Key,value]) #write as a list as we go into each attribute
                 pathName.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
-                path = '/'.join(pathName)
-                path_list.append(path)
 
             if len(elem.attrib) == 0:
-                ### B1) Print the xmlPath                
                 pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
-                path = '/'.join(pathName)
-                path_list.append(path)
+
+            path = '/'.join(pathName)
+            path_list.append(path)
 
             # Retrieve text from the nested XML path that get closed after the final open one
             if path in path_list and elem.text is not None and elem.text.strip() != "":
@@ -327,59 +322,66 @@ def xml2workbench(root,data_frame):
                     result_dict_temp[path].append(elem.text.strip())
             else:
                 continue
-                
+###!####Special Condition when end start is first element in the children: [now it is always true, NEEDS WORK TO SAY ONLY in CHILDS SEE "The Parser16+.py for code"]            
+        elif event == 'start' and elem.tag == first_elem[0]:
+            result_dict_temp = {}
+            break
+
         elif event== 'end' and elem.tag != first_elem[0]:
             pathName.pop()
-    
-        elif event== 'end' and elem.tag == first_elem[0]:
-            print("*** END THE LOOP DO STUFF AND START OVER *** {} ------ *TAG LOOP* ---> {}".format(first_elem[0].split("}")[-1], result_dict_temp))
-            pathName.pop()
 
-            ## concatinate the result of each temporary dictionary an append to dict_values dictionary
+        ## concatinate the result of each temporary dictionary an append to dict_values dictionary ONE EACH ITERATION:
+        elif event== 'end' and elem.tag == first_elem[0]:
+            print("\n*** END THE LOOP FROM START TO END OF FIRDT ELEMENT *** First Tag to start:{} ------ *TAG LOOP* ---> {}".format(first_elem[0].split("}")[-1], result_dict_temp))
+            pathName.pop()
             dict_values= {} 
-            for key, value_list in result_dict_temp.items():
-                concatenated_string = '--'.join(value_list)
-                dict_values[key] = concatenated_string
+            for keys, list_values in result_dict_temp.items():
+                concatenated_string = '--'.join(list_values)
+                dict_values[keys] = concatenated_string
                 
             ## append to final
-            for ky,vl in dict_values.items():
-                result_dict_final[ky].append(vl)
+            for Key,value in dict_values.items():
+                result_dict_final[Key].append(value)
 
             ## Empty out the temp dict and first element(to get ready for the next loop)
             result_dict_temp = {}
             first_elem.pop(0)
-        
+    
+    #Final dictionary containing {paths: ['texts in the path']} | to compare with dictionary from master CSV {path: "FieldName"}
     result_dict_final =  {final_key : '|'.join(final_value) for final_key, final_value in result_dict_final.items()}
-    print("\n<<< Final Dictionary >>> {}".format(result_dict_final))
-    # return result_dict_temp
+    print("\n<<< Final Dictionary >>>\n{}\n".format(result_dict_final))
+    return compare_and_write(result_dict_final, data_frame)
     
 
-
-    ####### START OF A NEW FUNCTION INPUTS ARE result_dict_final AND Data_Frame #######
+def compare_and_write(final_Dict, data_frame):
+    field_with_text = {}  #add fields to dictionary
+    for Xpaths in list(data_frame["Fields"]):
+        field_with_text[Xpaths] = []
     ##compare xml paths we created from the directory of mods to the master csv we parsed before, and write the texts from value of result_dict dictionary to the field defined in master csv        
     Field_from_csv = []
-    for paths, values in result_dict_temp.items():
+    for paths, values in final_Dict.items():
         for Xpaths in list(data_frame["XMLPath"]):
             if paths in Xpaths:
                 Field_from_csv = data_frame.loc[data_frame["XMLPath"] == paths, 'Fields']
                 fieldName = Field_from_csv.to_string(index=False)
-                
                 ## Write results in 'dictionary' and 'the same dataframe' ##
                 if values is not None:
                     ##Dictionary##
-                    for value in values:
-                        if fieldName in field_with_text:
-                            field_with_text[fieldName].append(value)
-                        else:
-                            continue
+                    if fieldName in field_with_text:
+                        field_with_text[fieldName].append(values)
+                    else:
+                        continue
                 elif values is None:
                     continue
+
+    # Delete Null fields:
     for k in field_with_text:
         if k == "nan":
             del field_with_text[k]
 
-    return{key : '|'.join(value) for key, value in field_with_text.items()}
-
+    print("\n<<< Final result with values>>>\n{}\n".format({key: value for key, value in field_with_text.items() if value}))
+    return field_with_text
+    # return{key : '|'.join(value) for key, value in field_with_text.items()}
 
 
 ######################## Final Run: Get Attributes and Tag list | Get xml Paths | Found errors with comparing attribute & tags with xml paths  ########################

@@ -29,6 +29,8 @@ class XmlSet(object):
         writer.writeheader()
         for doc in self.docs:
             writer.writerow(doc)
+        print("Number of documents to write to CSV:", len(self.docs))
+        print("Number of documents to write to CSV:", (doc))
     def input_directory(self, directory):
         files = listdir(directory)
         files.sort()
@@ -327,55 +329,6 @@ def trimXML(text):
 def trimXMLlist(list):
     return [trimXML(x) for x in list if trimXML(x) != '']
 
-def parseSubject(root):
-    data = {
-        'field_subject': [],
-        # 'field_subject_general': [],
-        'field_subjects_name': [],
-        # 'field_temporal_subject': [],
-        'field_geographic_subject': []
-    }
-    for subject in root.findall('subject',ns):
-        if subject.get('authority') == 'lcsh': # Then create a string out of this subject
-            components = []
-            type = subject[0].tag
-            for elem in subject:
-                elem.text = trimXML(elem.text)
-                if elem.text:
-                    components.append(elem.text)
-                elif elem.tag == '{http://www.loc.gov/mods/v3}name':
-                    nameValue = ' '.join([subelem.text for subelem in elem])
-                    components.append(nameValue)
-                        
-            subject_string = ' -- '.join(components)
-            if type == '{http://www.loc.gov/mods/v3}geographic':
-                data['field_geographic_subject'].append(subject_string)
-                # print('subject string: [{}]'.format(subject_string))
-            elif type == '{http://www.loc.gov/mods/v3}topic':
-                data['field_subject'].append('subject:' + subject_string)
-            elif type == '{http://www.loc.gov/mods/v3}name':
-                nametype = mods_to_vocab[subject[0].get('type')]
-                data['field_subjects_name'].append(nametype + ':' + subject_string)
-            else:
-                print("Unhandled subject string of type: {}".format(type))
-
-        hg = subject.find('hierarchicalGeographic',ns)
-        if hg:
-            data['field_geographic_subject'].append(' -- '.join([trimXML(x) for x in hg.itertext() if trimXML(x) != '']))
-        
-        if subject.find('cartographics', ns):
-            subelem = subject.find('cartographics', ns).find('coordinates', ns)
-            if subelem.text and trimXML(subelem.text):
-                coordinates = True
-                if subject.find('hierarchicalGeographic',ns):
-                    also_has_name = True
-                    # print(data['field_geographic_subject'][-1])
-                    # print(''.join(subelem.itertext()))
-                else:
-                    print("Coordinates present, does not have name also.")
-                    also_has_name = False
-                    
-    return {key : '|'.join(value) for key, value in data.items()}
 
 def parseClassification(root):
     data = {
@@ -520,7 +473,6 @@ def parse_mods(filename):
     # Parse notes
     xml_data.update(parseNote(root))
     # Parse subjects
-    xml_data.update(parseSubject(root))
     # Parse classification
     xml_data.update(parseClassification(root))
     # Parse relatedItem
@@ -546,7 +498,7 @@ def parse_mods(filename):
     
 def main():
     data = XmlSet()
-    directory = '/Users/rlefaive/Documents/Projects/2020-ilives-metadata/ilives_mods'
+    directory = 'Data/LDLContent'
     data.input_directory(directory)
     #FIXME OUTPUT SHORTCUT
     #print("large titles {}".format('.'.join(data.oversize('title'))))

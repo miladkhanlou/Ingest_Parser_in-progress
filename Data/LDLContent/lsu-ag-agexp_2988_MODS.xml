@@ -1,0 +1,28 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <subject authority="lcsh">
+    <topic>Agriculture</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject authority="lcsh">
+    <name>111</name>
+    <fname>666</fname>
+    <fname>999</fname>
+    <topic>Plantation</topic>
+    <topic>Sugar</topic>
+    <topic>Louisiana</topic>
+  </subject>
+  <subject2 authority="lcsh">
+    <name>aaa</name>
+    <name>bbb</name>
+    <lname>zzz</lname>
+    <fname>iii</fname>
+  </subject2>
+  <subject authority="lcsh">
+    <name>bbb</name>
+      <namePart></namePart>
+    <lname>zzz</lname>
+    <fname>iii</fname>
+    <fff></fff>
+  </subject>  
+</mods>

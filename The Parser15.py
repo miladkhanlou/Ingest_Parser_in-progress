@@ -137,8 +137,6 @@ def parseAll(mods,csv_input):
                 attributes = b.attrib
                 if len(attributes) > 0:
                     for i,j in attributes.items():
-                        attribs.append(i)     #Fixing not printing all the attributes
-                        atribValues.append(j)    #Fixing not printing all the attributes Values
                         WriteAttributes.append([i,j]) #write as a list as we go into each attribute
                         if 'atributes' in csv_input.keys():
                     ### A1) check for any miss-speling in tags and attributes

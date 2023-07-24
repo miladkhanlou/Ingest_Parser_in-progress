@@ -118,7 +118,7 @@ def uniqData_toCsv(arg):
     df_attTG.to_csv("{}.csv".format(arg.output_attribsTags), index=0)
     print("An attribute/Tag csv file saved in this directory: {directory}.csv".format(directory = arg))
 
-
+#============================================================================================================#
 
 ##### Part II: Get the XML Path , check for spelling and errors in each xml path according to Part1 #####
 def inpute_csv(arg):
@@ -183,10 +183,11 @@ def toCSV(allPaths, allErrors, arg):
     sorted.to_csv("{}.csv".format(arg.output_directory), index=False)
     print("A csv file containing unique LDL xml paths, saved in this directory: {directory}.csv".format(directory = arg))
 
+#============================================================================================================#
+
 ###### Part III: start the xml2workbench process  ######
 #a. load and clean the reference csv containing field names: 
 def csv_to_df(arg):
-    # print("Reading the input csv, containing Attributes and Tags in LDL collections------------------")
     df_attribTags = pd.read_csv(arg.input_clear_csv)
     columnNames = df_attribTags.columns.tolist()
     data_dict =  {}
@@ -243,7 +244,6 @@ def getPid(file_name):
     string = re.findall(r'[^/]+(?=_MODS)', file_name)[0]
     string = string.replace('_', ':')
     return string
-
 
 def xml_parse(root,data_frame, arg):  
 ##!## make changes and add condition so that we can use it for step two ##!##

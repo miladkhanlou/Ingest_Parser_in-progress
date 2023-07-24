@@ -90,7 +90,7 @@ def unique_tag_attrib():
         else:
             uniqueAttrib_Dict[keys] += 1
 
-def uniqData_toCsv(arg):
+def uniqData_to_dict(arg):
     data = {
         'atributes': [],
         'atributes frequency' : [],
@@ -112,16 +112,12 @@ def uniqData_toCsv(arg):
         for insert in range(differnce):
             data['atributes'].append("NONE")
             data['atributes frequency'].append(" ")
-
-    #to write attribute and tags to csv
-    df_attTG = pd.DataFrame(data)
-    df_attTG.to_csv("{}.csv".format(arg.output_attribsTags), index=0)
-    print("An attribute/Tag csv file saved in this directory: {directory}.csv".format(directory = arg))
-
+            
+    return toCSV(data,arg)
 
 
 ##### Part II: Get the XML Path , check for spelling and errors in each xml path according to Part1 #####
-def inpute_csv(arg):
+def get_csv(arg):
     print("Reading the input csv, containing Attributes and Tags in LDL collections------------------")
     df_attribTags = pd.read_csv(arg.input_csv)
     columnNames = df_attribTags.columns.tolist()
@@ -156,7 +152,7 @@ def ErrorRepeatCheck():
     # print(">>> Unique errors collected ------------{}\n\n".format(uniqueErrors))
     return uniqueErrors
 
-def toCSV(allPaths, allErrors, arg):
+def paths_to_dict(allPaths, allErrors, arg):
     # write to csv 
     xml_paths = {   
         "Repeated": [],
@@ -176,12 +172,19 @@ def toCSV(allPaths, allErrors, arg):
             if errs in xmls:
                 x.append(errs)
         xml_paths['errors'].append(", ".join(xs for xs in x))
+    return toCSV(xml_paths,arg)
 
+def toCSV(dictionary, arg):
     ## WRITE XML PATHS, ERROR REPORT TO CSV
-    DF = pd.DataFrame(xml_paths)
-    sorted = DF.sort_values("Repeated", ascending=False)
-    sorted.to_csv("{}.csv".format(arg.output_directory), index=False)
-    print("A csv file containing unique LDL xml paths, saved in this directory: {directory}.csv".format(directory = arg))
+    DF = pd.DataFrame(dictionary)
+    if arg.input_csv is not None:
+        sorted = DF.sort_values("Repeated", ascending=False)
+        sorted.to_csv("{}.csv".format(arg.output_directory), index=False)
+        print("A csv file containing unique LDL xml paths, saved in this directory: {directory}.csv".format(directory = arg))
+
+    else:
+        DF.to_csv("{}.csv".format(arg.output_attribsTags), index=0)
+        print("An attribute/Tag csv file saved in this directory: {directory}.csv".format(directory = arg))
 
 ###### Part III: start the xml2workbench process  ######
 #a. load and clean the reference csv containing field names: 
@@ -333,6 +336,7 @@ def xml_parse(root,data_frame, arg):
         # print("\n<<< Final Dictionary >>>\n{}\n".format(result_dict_final))
         return compare_and_write(result_dict_final, data_frame)
     
+    #for step2
     if arg.input_csv:
         return path_list
     
@@ -380,12 +384,12 @@ def main():
 
     elif args.input_directory and args.output_directory and args.input_csv:
     # Run the function to get XML paths, check for errors, and write to CSV (-i,-o,-c)
-        inputCSV = inpute_csv(args)
+        inputCSV = get_csv(args)
         sourceMODs = MODs(args, inputCSV)
         for sourceMOD in MODs(args, inputCSV):
             getUniquesPaths = PathRepeatCheck(sourceMOD)
             getUniqueErrors = ErrorRepeatCheck()
-        writeToCSV = toCSV(getUniquesPaths, getUniqueErrors, args)
+        writeToCSV = paths_to_dict(getUniquesPaths, getUniqueErrors, args)
 
     elif args.input_clear_csv and args.input_directory and args.output_directory:
     # Run the function to for xml2wirkbencg process (-ii,-o,-cc)
@@ -403,13 +407,13 @@ main()
 
 #####Run on LDL_Content data#####
 #Step1: get the attribute and tags:
-####for mac: >>> python3 The\ Parser7.py -i Data/LDLContent -oat Output/LDL_Content_attTags_may19
-####For windows: >>>python3 '.\The Parser17.py' -i Data/LDLContent -oat Output/LDL_Content_attTags_may19
+####for mac: >>> python3 The\xml2csv.py -i Data/LDLContent -oat Output/Output/LDL_Content_attTags_july24
+####For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -oat Output/Output/LDL_Content_attTags_july24
 
 #Step2: get paths and errors:
-####for mac: >>> python3 The\ Parser7.py -i Data/LDLContent -c Output/LDL_Content_attTags_may31.csv -o Output/LDLContent_Paths_June 
-####For windows: >>>python3 '.\The Parser17.py' -i Data/LDLContent -c Output/LDL_Content_attTags_may31.csv -o Output/LDLContent_Paths_June 
+####for mac: >>> python3 The\xml2csv.py -i Data/LDLContent -c Output/LDL_Content_attTags_may31.csv -o Output/LDLContent_Paths_July24
+####For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -c Output/LDL_Content_attTags_may31.csv -o Output/LDLContent_Paths_July24
 
 #Step3: run workbench using the csv report:
-####for mac: >>> python3 The\ Parser12.py -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/June28_LDLContent_Field_mapping.csv
-####For windows: >>>python3 '.\The Parser17.py' -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/July17_LDLContent_Field_mapping
+####for mac: >>> python3 The\xml2csv.py -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/June28_LDLContent_Field_mapping.csv
+####For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/July21_LDLContent_Field_mapping_tests.csv

@@ -1,12 +1,40 @@
-parser.py Good points to add:
+A-parser.py Good points to add:
 	a.	If tag was not closed
 	elem.	count of collision
 	c.	showing the error and where it happened 
 	d.	argument for command-line python code
 
 
-Migration to New LDL:
+B-Migration to New LDL:
 	1.	Identify all the paths for completing our knowledge of existing fields with parser.py
 	2.	Process and add the text to relevant fields with xml2workbench.py
 	3.	Post-Process to create relationshipts with Post_process.py (or add to xml2workbench.py)
 	4.	Run workbench to ingest
+	
+	
+C-Explain def MODs(arg, dataframe):
+In the provided code, yield is used as a way to create a generator function. A generator is a special type of function that can be paused and resumed, allowing it to produce a sequence of values over time. Instead of returning all the results at once, it yields one result at a time, and the calling code can consume these results as needed.
+
+Break down:
+
+1- The for file in files: loop iterates over a collection of files.
+2- For each file in the collection, it checks if it ends with the ".xml" extension. If it does, it proceeds with the parsing.
+3- The variable file_path is assigned the full path of the XML file by formatting the arg.input_directory and the current file name.
+4- The print("parsing {}".format(file)) line simply prints a message indicating that the parsing process is about to begin for the current file.
+
+5- Now, here's where yield comes into play:
+
+1- The code checks if the arg.input_csv flag is True. If it is, the if block is executed:
+	a. It creates an XML element iterator using ET.iterparse, passing the file_path and specifying that it should listen for 'start' and 'end' events.
+	b. It calls the function xml_parse, passing the root iterator, the dataframe, and arg as arguments, and stores the result in the variable result.
+	c. Then, it uses yield result to yield the result from the generator function. This means that when the function is called, it will return result as a value, but it will pause its execution state. The next time the generator is called (e.g., in a loop), it will resume execution from where it left off.
+	d. The generator function doesn't stop here; it continues iterating through the files and repeating the process for each file ending with ".xml".
+
+2- If arg.input_csv is False, it means the else block is executed:
+	a. In this case, it simply yields the file_path, which is the full path of the XML file without performing any parsing. Again, this value is yielded, and the generator will pause its execution state until the next call.
+
+By using yield, the function behaves as a generator, allowing you to lazily process the files one by one. This can be more memory-efficient and suitable for cases where you have a large number of files, as you don't need to load them all into memory at once. Instead, you can process each file one at a time when needed.
+
+In the if arg.input_csv block, the yield statement generates and yields data based on parsing XML files (when arg.input_csv is True).
+In the else block, the yield statement simply yields the file path without any additional processing (when arg.input_csv is False).
+The for loop in the main function then iterates over the generator returned by the MODs function and processes the files accordingly, based on whether the arg.input_csv flag is True or False.

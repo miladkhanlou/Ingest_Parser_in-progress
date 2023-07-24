@@ -1,0 +1,20 @@
+Repeated,errors,XMLPath
+7,,mods/titleInfo/subject [@authority = 'lcsh']
+2,,mods/titleInfo/name [@displayLabel = 'Contributor']
+2,,"mods/titleInfo/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+2,,"mods/titleInfo/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+1,,mods/titleInfo/name [@displayLabel = 'Author']
+1,,mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/location/url [@displayLabel = 'Relation']
+1,,"mods/titleInfo/relatedItem [@type = 'host']/accessCondition [@displayLabel = 'Contact Information', @type = 'use and reproduction']"
+1,,"mods/titleInfo/relatedItem [@type = 'host']/accessCondition [@displayLabel = 'Rights', @type = 'use and reproduction']"
+1,,"mods/titleInfo/relatedItem [@type = 'host']/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lielem.lsu.edu']"
+1,,"mods/titleInfo/relatedItem [@type = 'host']/location/physicalLocation [@authority = 'oclcorg', @displayLabel = 'OCLC Member Symbol']"
+1,,mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/part/detail [@type = 'volume']
+1,,"mods/titleInfo/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role/roleTerm [@authority = 'marcrelator', @authorityURI = 'http://id.loc.gov/vocabulary/relators', @type = 'text', @valueURI = 'http://id.loc.gov/vocabulary/relators/rps']"
+1,,mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']
+1,,mods/titleInfo/relatedItem [@type = 'host']
+1,,"mods/titleInfo/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+1,,"mods/titleInfo/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']"
+1,,mods/titleInfo/originInfo/dateIssued [@keyDate = 'yes']
+1,,"mods/titleInfo/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+1,,"mods/titleInfo/relatedItem [@type = 'host']/recordInfo/languageOfCataloging/languageTerm [@authority = 'iso639-2b', @type = 'code']"

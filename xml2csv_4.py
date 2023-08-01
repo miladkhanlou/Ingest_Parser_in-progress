@@ -27,63 +27,38 @@ uniqueAttrib = []           #(Name of the unique Unique Tags)
 
 def process_command_line_arguments():
     parser = argparse.ArgumentParser(description='Attribute and Tag finder for all the collections')
-    subparsers = parser.add_subparsers(title='Modes', dest='mode', required=True, help='Choose a mode')
-
-    # Build Attributes Tags (BAT): Mode for the first set of arguments
-    BAT_parser = subparsers.add_parser('BAT', help='Build Attributes Tags')
-    BAT_parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory', required=False)
-    BAT_parser.add_argument('-oat', '--output_attribsTags', type=str, help='Path to the output attribute and tag list text file', required=False)
-
-    # Check Attributes Tags(CAT): Mode for the second set of arguments
-    CAT_parser = subparsers.add_parser('CAT', help='Check Attributes Tags')
-    CAT_parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory', required=False)
-    CAT_parser.add_argument('-c', '--input_csv', type=str, help='Path to the input directory', required=False)
-    CAT_parser.add_argument('-o', '--output_directory', type=str, help='Path to the output csv containing paths, frequency and error reports', required=False)
-
-    # Build Xpaths (BXP): Mode for the second set of arguments
-    CAT_parser = subparsers.add_parser('BXP', help='Build Xpaths')
-    CAT_parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory', required=False)
-    CAT_parser.add_argument('-c', '--input_csv', type=str, help='Path to the input directory', required=False)
-    CAT_parser.add_argument('-o', '--output_directory', type=str, help='Path to the output csv containing paths, frequency and error reports', required=False)
-
-    # Build Xpaths and Check Attributes Tags (CBX): Mode for the second set of arguments
-    CAT_parser = subparsers.add_parser('CBX', help='Build xpath, check tags and attributes')
-    CAT_parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory', required=False)
-    CAT_parser.add_argument('-c', '--input_csv', type=str, help='Path to the input directory', required=False)
-    CAT_parser.add_argument('-o', '--output_directory', type=str, help='Path to the output csv containing paths, frequency and error reports', required=False)
-
-    # xml2wb
-    xml2wb_parser = subparsers.add_parser('xml2wb', help='Xml to metadata')
-    xml2wb_parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory', required=False)
-    xml2wb_parser.add_argument('-cc', '--input_clear_csv', type=str, help='Path to the input directory', required=False)
-    CAT_parser.add_argument('-o', '--output_directory', type=str, help='Path to the output csv containing paths, frequency and error reports', required=False)
-
+    parser.add_argument('-i', '--input_directory', type=str, help='Path to the input directory', required=False)
+    parser.add_argument('-oat', '--output_attribsTags', type=str, help='Path to the output attribute and tag list text file', required=False)
+    parser.add_argument('-c', '--input_csv', type=str, help='Path to the input directory', required=False)
+    parser.add_argument('-cc', '--input_clear_csv', type=str, help='Path to the input directory', required=False)
+    parser.add_argument('-o', '--output_directory', type=str, help='Path to the output csv containing paths, frequency and error reports', required=False)
+    parser.add_argument('-ow', '--output_directory_w', type=str, help='Path to the output csv containing paths, frequency and error reports', required=False)
     args = parser.parse_args()
-
     return args
 
 #Get the directory for part 1 and 2:
 def MODs(arg, dataframe):
     files = listdir(arg.input_directory)
     files.sort()
-
     for file in files:
         if file.endswith(".xml"):
             file_path = "{directory}/{file_name}".format(directory=arg.input_directory, file_name=file)
             print("parsing {}".format(file))
-            
-            # for argument part2:
-            if arg.input_csv:
-                root = ET.iterparse(file_path, events=('start', 'end'))
-                result = xml_parse(root, dataframe, arg)
-                yield result
-            else:
-                yield file_path
+            root = ET.iterparse(file_path, events=('start', 'end'))
+            result = xml_parse(root, dataframe, arg)
+            yield result
+            # # for argument part2:
+            # if arg.input_csv:
+            #     root = ET.iterparse(file_path, events=('start', 'end'))
+            #     result = xml_parse(root, dataframe, arg)
+            #     yield result
+            # else:
+            #     yield file_path
 
-def unique_tag_attrib(allTags,allAtrrib):
+def unique_tag_attrib(tags, attributes):
     ##uniqueTag_Dict = {tag_Name : Number of repitation}
     tagCheck = []
-    for TGs in allTags:
+    for TGs in tags:
         key = TGs
         if TGs not in tagCheck:
             tagCheck.append(TGs)
@@ -93,13 +68,15 @@ def unique_tag_attrib(allTags,allAtrrib):
 
     ##uniqueAttrib_Dict = {Attribute_Name : Number of repitation}
     attribCheck = []
-    for att in allAtrrib:
+    for att in attributes:
         keys = att
         if att not in attribCheck:
             attribCheck.append(att)
             uniqueAttrib_Dict[keys] = 0
         else:
             uniqueAttrib_Dict[keys] += 1
+    # print(uniqueAttrib_Dict)
+    # print(uniqueTag_Dict)
 
 def uniqData_to_dict(arg):
     data = {
@@ -120,9 +97,16 @@ def uniqData_to_dict(arg):
     #fill the columns with less number of rows with empty string
     if len(data['atributes']) != len(data['tags']):
         differnce = len(data['tags']) - len(data['atributes'])
-        for insert in range(differnce):
-            data['atributes'].append("NONE")
-            data['atributes frequency'].append(" ")
+        for num in range(abs(differnce)):
+            if data['atributes']< data['tags']:
+                data['atributes'].append("NONE")
+                data['atributes frequency'].append(" ")
+            if data['tags']< data['atributes']:
+                data['tags'].append("NONE")
+                data['tags frequency'].append(" ")
+    for keys in data:
+        print("{} : {}".format(keys , data[keys]))
+            
     return toCSV(data,arg)
 
 
@@ -134,6 +118,7 @@ def get_csv(arg):
     data_dict =  {}
     for columns in columnNames:
         data_dict[columns] = list(df_attribTags[columns])
+    print(data_dict)
     return data_dict
 
 def PathRepeatCheck(ntpath):
@@ -220,6 +205,7 @@ class xmlSet(object):
     def xmlMods(self, arg,dataframe):
         files = listdir(arg.input_directory)
         files.sort()
+        print(files)
         for file in files:
             if file.endswith(".xml"):
                 file_path = "{directory}/{file_name}".format(directory=arg.input_directory, file_name=file)
@@ -255,8 +241,6 @@ def getPid(file_name):
     string = string.replace('_', ':')
     return string
 
-
-
 def xml_parse(root,data_frame, arg):  
     pathName = [] #list of path created in each iteration
     path_list = [] #list of paths after creation
@@ -267,44 +251,44 @@ def xml_parse(root,data_frame, arg):
         for child in elem:
             first_elem.append(child.tag)
         if event == 'start' and elem != first_elem[0]:
-            allTags.append(event.tag.split("}")[1])
+            allTags.append(elem.tag.split("}")[1])
             WriteAttributes  = []
             attributes = elem.attrib
             if len(attributes) > 0:
-                attrib_list = event.attrib
+                # if not (arg.input_csv or arg.input_clear_csv):
+                attrib_list = elem.attrib 
                 for k,v in attrib_list.items():
                     allAtrrib.append(k)
-                for Key,value in attributes.items():
-                    WriteAttributes.append([Key,value]) #write as a list as we go into each attribute
+
+                if arg.input_csv or arg.input_clear_csv:
+                    for Key,value in attributes.items():
+                        WriteAttributes.append([Key,value]) #write as a list as we go into each attribute
+                        
+                        if arg.input_csv and 'atributes' in data_frame.keys():
+                        ### A1) check for any miss-speling in tags and attributes
+                            if Key not in data_frame["atributes"]:
+                                # errors.append(', '.join("{}".format(a[0]) for a in WriteAttributes)) #USED JOIN INSTEAD OF FORMAT
+                                errors.append(Key) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Attrib_errors
+                            if elem.tag.split("}")[1] not in data_frame["tags"]:
+                                errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
+                            else:
+                                continue
+                        else:
+                            continue
+                    pathName.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
+            if arg.input_csv or arg.input_clear_csv:
+                if len(elem.attrib) == 0:
+                    pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
                     
-                    ##DEPENDANT
-                    if arg.input_csv and 'atributes' in data_frame.keys(): #######THIS ONLY WORKS WHEN WE IMPORT Master Attribiute Tags
-                    ### A1) check for any miss-speling in tags and attributes
-                        if Key not in data_frame["atributes"]:
-                            # errors.append(', '.join("{}".format(a[0]) for a in WriteAttributes)) #USED JOIN INSTEAD OF FORMAT
-                            errors.append(Key) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Attrib_errors
+                    if arg.input_csv and 'atributes' in data_frame.keys():
                         if elem.tag.split("}")[1] not in data_frame["tags"]:
                             errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
                         else:
                             continue
-                    else:
-                        continue
-                pathName.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes))) #USED JOIN INSTEAD OF FORMAT
+                        
+                path = '/'.join(pathName)
+                path_list.append(path)
 
-            if len(elem.attrib) == 0:
-                pathName.append("{}".format(elem.tag.split("}")[1], elem.attrib))
-                
-                ##DEPENDANT
-                if arg.input_csv and 'atributes' in data_frame.keys(): #######THIS ONLY WORKS WHEN WE IMPORT Master Attribiute Tags
-                    if elem.tag.split("}")[1] not in data_frame["tags"]:
-                        errors.append(elem.tag.split("}")[1]) #If we want to have 2 columns for errors for TAGS AND ATTRIBUTES, We can APPEND TO Tag_errors
-                    else:
-                        continue
-
-            path = '/'.join(pathName)
-            path_list.append(path)
-
-            #!!!!!DEPENDANT: This only works when we import Master mod csv:
             # Retrieve text from the nested XML path that get closed after the final open one
             if arg.input_clear_csv and elem.text is not None and elem.text.strip() != "":
                 result_dict_temp.setdefault(path, [])
@@ -315,7 +299,7 @@ def xml_parse(root,data_frame, arg):
                 continue
             
         #Special Condition when end start is first element in the children: [now it is always true, NEEDS WORK TO SAY ONLY in CHILDS SEE "The Parser16+.py for code"]            
-        elif event== 'end' and elem.tag != first_elem[0]:
+        elif (arg.input_csv or arg.input_clear_csv) and event== 'end' and elem.tag != first_elem[0]:
             pathName.pop()
             
         elif arg.input_clear_csv and event == 'start' and elem.tag == first_elem[0]:
@@ -323,7 +307,7 @@ def xml_parse(root,data_frame, arg):
             break
         
         ## concatinate the result of each temporary dictionary an append to dict_values dictionary ONE EACH ITERATION:
-        elif arg.input_clear_csv and event== 'end' and elem.tag == first_elem[0]:
+        elif (arg.input_csv or arg.input_clear_csv) and arg.input_clear_csv and event== 'end' and elem.tag == first_elem[0]:
             # print("\n*** END THE LOOP FROM START TO END OF FIRDT ELEMENT *** First Tag to start:{} ------ *TAG LOOP* ---> {}".format(first_elem[0].split("}")[-1], result_dict_temp))
             pathName.pop()
             dict_values= {} 
@@ -339,29 +323,24 @@ def xml_parse(root,data_frame, arg):
             result_dict_temp = {}
             first_elem.pop(0)
 
-    #Final dictionary containing {paths: ['texts in the path']} | to compare with dictionary from master CSV {path: "FieldName"}
-    #build attribute tags
-    if arg.mode == 'BAT':
-        return unique_tag_attrib(allTags,allAtrrib)
+    #for step2
+    if data_frame is None and not arg.input_csv:
+        # print(allTags)
+        # print(allAtrrib)
+        return unique_tag_attrib(allAtrrib, allTags)
     
-    if arg.mode == 'xml2wb':
+    #for step2
+    if arg.input_csv:
+        return path_list
+    
+    #xml2wb
+    if arg.input_clear_csv:
         result_dict_final =  {final_key : '|'.join(final_value) for final_key, final_value in result_dict_final.items()}
+        print(result_dict_final)
         # print("\n<<< Final Dictionary >>>\n{}\n".format(result_dict_final))
         return compare_and_write(result_dict_final, data_frame)
-    #check for errors:
-    if arg.mode == 'CAT':
-        return ErrorRepeatCheck()
-    #build xpaths:
-    if arg.mode == 'BXP':
-        # uniq_path = []
-        # for path in path_list:
-        #     if path not in uniq_path:
-        #         uniq_path.append(path)
-        # return uniq_path
-        return PathRepeatCheck(path_list)
-    #check error and pathlist
-    if arg.mode == 'CBX':
-        return path_list
+    
+
     
 def compare_and_write(final_Dict, data_frame):
     field_with_text = {}  #add fields to dictionary
@@ -397,12 +376,13 @@ def compare_and_write(final_Dict, data_frame):
 ######################## Final Run: Get Attributes and Tag list | Get xml Paths | Found errors with comparing attribute & tags with xml paths  ########################
 def main():
     args = process_command_line_arguments()
-    if args.mode == "1":
+    if args.input_directory and args.output_attribsTags:
     # Run the function to get and write the unique tags and attributes (-i,-oat)
         sourceMODs = MODs(args,dataframe=None)
-        attribTags2csv = uniqData_to_dict(args)
+        for sourceMOD in sourceMODs:
+            attribTags2csv = uniqData_to_dict(args)
 
-    if args.mode == "2":
+    elif args.input_directory and args.output_directory and args.input_csv:
     # Run the function to get XML paths, check for errors, and write to CSV (-i,-o,-c)
         inputCSV = get_csv(args)
         sourceMODs = MODs(args, inputCSV)
@@ -427,13 +407,13 @@ main()
 
 #####Run on LDL_Content data#####
 #Step1: get the attribute and tags:
-####for mac: >>> python3 The\xml2csv.py -i Data/LDLContent -oat Output/Output/LDL_Content_attTags_July
-####For windows: >>>python3 '.\xml2csv_2.py' -i Data/LDLContent -oat Output/Output/LDL_Content_attTags_July
+####for mac: >>> python3 xml2csv_4.py -i Data/LDLContent -oat Output/step2
+####For windows: >>>python3 '.\xml2csv_2.py' -i Data/LDLContent -oat Output/LDL_Content_attTags_July
 
 #Step2: get paths and errors:
-####for mac: >>> python3 The\xml2csv.py -i Data/LDLContent -c Output/LDL_Content_attTags_July.csv -o Output/LDL_Content_Paths_July
+####for mac: >>> python3 xml2csv_4.py -i Data/LDLContent -c Output/step1.csv -o Output/step2
 ####For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -c Output/LDL_Content_attTags_July.csv -o Output/LDL_Content_Paths_July
 
 #Step3: run workbench using the csv report:
-####for mac: >>> python3 The\xml2csv.py -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/June28_LDLContent_Field_mapping.csv
+####for mac: >>> python3 xml2csv_4.py -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/June28_LDLContent_Field_mapping.csv
 ####For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/July21_LDLContent_Field_mapping_tests.csv

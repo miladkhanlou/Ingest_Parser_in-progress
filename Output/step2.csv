@@ -1,0 +1,49 @@
+Repeated,errors,XMLPath
+17,"mods, authority, subject, topic, titleInfo, title",mods/titleInfo/subject [@authority = 'lcsh']/topic
+7,"mods, authority, subject, titleInfo, title",mods/titleInfo/subject [@authority = 'lcsh']
+2,"mods, titleInfo, title, displayLabel, type, relatedItem, part",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/part
+2,"mods, name, namePart, titleInfo, title, displayLabel",mods/titleInfo/name [@displayLabel = 'Contributor']/namePart
+2,"mods, authority, name, titleInfo, title, displayLabel, role, roleTerm, type","mods/titleInfo/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+2,"mods, authority, name, titleInfo, title, displayLabel, role, roleTerm, type","mods/titleInfo/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+2,"mods, name, titleInfo, title, displayLabel, role",mods/titleInfo/name [@displayLabel = 'Contributor']/role
+2,"mods, name, titleInfo, title, displayLabel",mods/titleInfo/name [@displayLabel = 'Contributor']
+1,"mods, authority, titleInfo, title, displayLabel, type, relatedItem, location, physicalLocation","mods/titleInfo/relatedItem [@type = 'host']/location/physicalLocation [@authority = 'oclcorg', @displayLabel = 'OCLC Member Symbol']"
+1,"mods, titleInfo, title, type, relatedItem, location",mods/titleInfo/relatedItem [@type = 'host']/location
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, part, detail, number",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/part/detail [@type = 'volume']/number
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, part, detail, caption",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/part/detail [@type = 'volume']/caption
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, part, detail",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/part/detail [@type = 'volume']
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, part, detail",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/part/detail/title
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, location, physicalLocation, {http://www.w3.org/1999/xlink}href","mods/titleInfo/relatedItem [@type = 'host']/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lielem.lsu.edu']"
+1,"mods, titleInfo, title, type, relatedItem, location, holdingSimple",mods/titleInfo/relatedItem [@type = 'host']/location/holdingSimple
+1,mods,mods
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, accessCondition","mods/titleInfo/relatedItem [@type = 'host']/accessCondition [@displayLabel = 'Rights', @type = 'use and reproduction']"
+1,"mods, titleInfo, title, type, relatedItem, location, holdingSimple, copyInformation",mods/titleInfo/relatedItem [@type = 'host']/location/holdingSimple/copyInformation
+1,"mods, titleInfo, title, type, relatedItem, location, holdingSimple, copyInformation, shelfLocator",mods/titleInfo/relatedItem [@type = 'host']/location/holdingSimple/copyInformation/shelfLocator
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, accessCondition","mods/titleInfo/relatedItem [@type = 'host']/accessCondition [@displayLabel = 'Contact Information', @type = 'use and reproduction']"
+1,"mods, titleInfo, title, type, relatedItem, recordInfo",mods/titleInfo/relatedItem [@type = 'host']/recordInfo
+1,"mods, titleInfo, title, type, relatedItem, recordInfo, recordOrigin",mods/titleInfo/relatedItem [@type = 'host']/recordInfo/recordOrigin
+1,"mods, titleInfo, title, type, relatedItem, recordInfo, recordCreationDate",mods/titleInfo/relatedItem [@type = 'host']/recordInfo/recordCreationDate
+1,"mods, titleInfo, title, type, relatedItem, recordInfo, recordChangeDate",mods/titleInfo/relatedItem [@type = 'host']/recordInfo/recordChangeDate
+1,"mods, titleInfo, title, type, relatedItem, recordInfo, languageOfCataloging",mods/titleInfo/relatedItem [@type = 'host']/recordInfo/languageOfCataloging
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, part, detail",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/part/detail
+1,"mods, titleInfo, title, displayLabel, type, relatedItem",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, location, url",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/location/url [@displayLabel = 'Relation']
+1,"mods, titleInfo, title, displayLabel, type, relatedItem, location",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/location
+1,"mods, titleInfo, title",mods/titleInfo/title
+1,"mods, name, titleInfo, title, displayLabel",mods/titleInfo/name [@displayLabel = 'Author']
+1,"mods, name, namePart, titleInfo, title, displayLabel",mods/titleInfo/name [@displayLabel = 'Author']/namePart
+1,"mods, name, titleInfo, title, displayLabel, role",mods/titleInfo/name [@displayLabel = 'Author']/role
+1,"mods, authority, name, titleInfo, title, displayLabel, role, roleTerm, type","mods/titleInfo/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+1,"mods, authority, name, titleInfo, title, displayLabel, role, roleTerm, type","mods/titleInfo/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+1,"mods, titleInfo, title, originInfo",mods/titleInfo/originInfo
+1,"mods, titleInfo, title, originInfo, publisher",mods/titleInfo/originInfo/publisher
+1,"mods, titleInfo, title, originInfo, keyDate, dateIssued",mods/titleInfo/originInfo/dateIssued [@keyDate = 'yes']
+1,"mods, titleInfo, title, type, typeOfResource",mods/titleInfo/typeOfResource
+1,"mods, authority, name, titleInfo, title, displayLabel, type, authorityURI, valueURI","mods/titleInfo/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']"
+1,"mods, authority, name, namePart, titleInfo, title, displayLabel, type, authorityURI, valueURI","mods/titleInfo/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/namePart"
+1,"mods, authority, name, titleInfo, title, displayLabel, role, type, authorityURI, valueURI","mods/titleInfo/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role"
+1,"mods, authority, name, titleInfo, title, displayLabel, role, roleTerm, type, authorityURI, valueURI","mods/titleInfo/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role/roleTerm [@authority = 'marcrelator', @authorityURI = 'http://id.loc.gov/vocabulary/relators', @type = 'text', @valueURI = 'http://id.loc.gov/vocabulary/relators/rps']"
+1,"mods, titleInfo, title, type, relatedItem",mods/titleInfo/relatedItem [@type = 'host']
+1,"mods, titleInfo, title",mods/titleInfo
+1,"mods, titleInfo, title, displayLabel, type, relatedItem",mods/titleInfo/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/title
+1,"mods, authority, titleInfo, title, type, relatedItem, recordInfo, languageOfCataloging, languageTerm","mods/titleInfo/relatedItem [@type = 'host']/recordInfo/languageOfCataloging/languageTerm [@authority = 'iso639-2b', @type = 'code']"

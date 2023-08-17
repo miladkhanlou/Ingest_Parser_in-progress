@@ -1,0 +1,76 @@
+field_subject_topic,Needed,attribute_as_data,Fields,XMLPath
+1,,,,mods
+1,yes,,field_contact_info,"mods/accessCondition [@displayLabel = 'Contact Information', @type = 'use and reproduction']"
+1,yes,,field_rights_information,"mods/accessCondition [@displayLabel = 'Rights', @type = 'use and reproduction']"
+1,yes,,,mods/accessCondition [@displayLabel= 'Contact Information']
+1,yes,,field_genre,mods/accessCondition [@displayLabel= 'Rights']
+2,yes,,field_identifier,mods/accessCondition [@type= 'use and reproduction']
+1,yes,,field_identifier,mods/location
+1,no,,,mods/location/holdingSimple
+1,,,,mods/location/holdingSimple/copyInformation
+1,,,,mods/location/holdingSimple/copyInformation/shelfLocator
+1,no,,,"mods/location/physicalLocation [@authority = 'oclcorg', @displayLabel = 'OCLC Member Symbol']"
+1,yes,,field_oclc_symbol,mods/location/physicalLocation [@authority= 'oclcorg']
+1,yes,,"field_physical_location, field_institution_website","mods/location/physicalLocation [@displayLabel = 'Physical Location', @{http://www.w3.org/1999/xlink}href = 'http://lielem.lsu.edu']"
+1,,,,mods/location/physicalLocation [@displayLabel= 'OCLC Member Symbol']
+1,,,,mods/location/physicalLocation [@displayLabel= 'Physical Location']
+1,,yes,field_physical_location_URI,mods/location/physicalLocation [@{http://www.w3.org/1999/xlink}href= 'http://lielem.lsu.edu']
+1,,,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']"
+1,,,field_oclc_symbol,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/namePart"
+1,,,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role"
+1,,,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role/roleTerm [@authority = 'marcrelator', @authorityURI = 'http://id.loc.gov/vocabulary/relators', @type = 'text', @valueURI = 'http://id.loc.gov/vocabulary/relators/rps']"
+1,,,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role/roleTerm [@authority= 'marcrelator']"
+1,no,,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role/roleTerm [@authorityURI= 'http://id.loc.gov/vocabulary/relators']"
+1,yes,,field_oclc_symbol,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role/roleTerm [@type= 'text']"
+1,,,,"mods/name [@authority = 'naf', @authorityURI = 'http://id.loc.gov/authorities/names', @displayLabel = 'Contributing Repository', @type = 'corporate', @valueURI = 'http://id.loc.gov/authorities/names/n83188670']/role/roleTerm [@valueURI= 'http://id.loc.gov/vocabulary/relators/rps']"
+1,no,,,mods/name [@authority= 'naf']
+1,,,,mods/name [@authorityURI= 'http://id.loc.gov/authorities/names']
+1,,,,mods/name [@displayLabel = 'Author']
+1,,,,mods/name [@displayLabel = 'Author']/namePart
+1,,,,mods/name [@displayLabel = 'Author']/role
+1,,,dateCaptured,"mods/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+1,,,field_digital_origin,"mods/name [@displayLabel = 'Author']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+2,no,,,mods/name [@displayLabel = 'Author']/role/roleTerm [@authority= 'marcrelator']
+1,yes,,field_digital_origin,mods/name [@displayLabel = 'Author']/role/roleTerm [@type= 'code']
+1,yes,,field_form,mods/name [@displayLabel = 'Author']/role/roleTerm [@type= 'text']
+2,,,,mods/name [@displayLabel = 'Contributor']
+2,no,,,mods/name [@displayLabel = 'Contributor']/namePart
+2,no,,,mods/name [@displayLabel = 'Contributor']/role
+2,yes,,field_language_of_cataloging,"mods/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'code']"
+2,yes,,field_record_content_source,"mods/name [@displayLabel = 'Contributor']/role/roleTerm [@authority = 'marcrelator', @type = 'text']"
+4,yes,,field_record_creation_date,mods/name [@displayLabel = 'Contributor']/role/roleTerm [@authority= 'marcrelator']
+2,yes,,field_record_origin,mods/name [@displayLabel = 'Contributor']/role/roleTerm [@type= 'code']
+2,,,,mods/name [@displayLabel = 'Contributor']/role/roleTerm [@type= 'text']
+1,no,,,mods/name [@displayLabel= 'Contributing Repository']
+1,yes,,field_relation,mods/name [@type= 'corporate']
+1,,,,mods/name [@valueURI= 'http://id.loc.gov/authorities/names/n83188670']
+1,,,,mods/originInfo
+1,,,dateCaptured,mods/originInfo/dateIssued [@keyDate = 'yes']
+1,yes,,field_relation,mods/originInfo/publisher
+1,maybe,,,mods/recordInfo
+1,yes,,,mods/recordInfo/languageOfCataloging
+1,,,,"mods/recordInfo/languageOfCataloging/languageTerm [@authority = 'iso639-2b', @type = 'code']"
+1,,,,mods/recordInfo/languageOfCataloging/languageTerm [@authority= 'iso639-2b']
+1,,,,mods/recordInfo/languageOfCataloging/languageTerm [@type= 'code']
+1,yes,,field_change_date,mods/recordInfo/recordChangeDate
+1,yes,,field_record_created,mods/recordInfo/recordCreationDate
+1,yes,,field_record_origin,mods/recordInfo/recordOrigin
+1,,,,mods/relatedItem [@type = 'host']
+1,,,,mods/relatedItem [@type = 'host']/location
+1,yes,,field_contact_info,mods/relatedItem [@type = 'host']/location/url [@displayLabel = 'Relation']
+2,yes,,field_rights_information,mods/relatedItem [@type = 'host']/part
+1,no,,,mods/relatedItem [@type = 'host']/part/detail
+1,yes,,field_record_content_source,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']
+1,,,,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']/caption
+1,yes,,field_genre,mods/relatedItem [@type = 'host']/part/detail [@type = 'volume']/number
+1,yes,,field_detail_title,mods/relatedItem [@type = 'host']/part/detail/title
+1,yes,,field_identifier,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']
+1,,,field_identifier,mods/relatedItem [@type = 'host']/titleInfo [@displayLabel = 'Digital Collection']/title
+7,,,,mods/subject [@authority = 'lcsh']
+17,yes,,field_subject_topic,mods/subject [@authority = 'lcsh']/topic
+1,no,,,mods/titleInfo
+1,no,,field_shelf_location,mods/titleInfo/title
+1,yes,,field_shelf_location,mods/typeOfResource
+,yes,,field_sublocation,
+,yes,,field_oclc_symbol,
+,yes,,"field_physical_location, field_institution_website",

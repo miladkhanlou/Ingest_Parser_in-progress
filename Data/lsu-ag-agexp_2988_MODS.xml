@@ -1,0 +1,14 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <subject authority="a.1" type="a.2">
+    <name type='.1' athority='.2'>111</name>
+    <fname>666</fname>
+  </subject>
+  <titleInfo authority="b.1">
+    <name type='b'>111</name>
+    <fname>TESTS</fname>
+  </titleInfo>
+  <title>
+    <name type='c'>111</name>
+  </title>
+</mods>

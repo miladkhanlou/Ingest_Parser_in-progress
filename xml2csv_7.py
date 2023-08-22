@@ -205,6 +205,7 @@ def getPid(file_name):
     return string
 
 def xml_parse(root, dataframe, arg):
+    all_generated_paths = {}
     path_name = [] 
     path_list = [] 
     first_elem = [] 
@@ -236,14 +237,17 @@ def xml_parse(root, dataframe, arg):
                         else:
                             continue
                     if len(attributes) > 1:
+                        all_generated_paths = {}
                         for i in WriteAttributes:
                             path_name.append("{} [@{}= '{}']".format(elem.tag.split("}")[1],i[0], i[1]))
                             path = '/'.join(path_name)
                             path_name.pop()
                             path_list.append(path)
-
+                            all_generated_paths[path] = i[1]
                         path_name.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes)))
                         path = '/'.join(path_name)
+                        path_list.append(path)
+                        all_generated_paths[path] = []
 
                     elif len(attributes) == 1:
                         path_name.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes)))
@@ -260,20 +264,34 @@ def xml_parse(root, dataframe, arg):
                         errors.append(elem.tag.split("}")[1])
                     else:
                         continue
+            #appending text to the temporary dictionary: (tag.text or attribute value)       
             if arg.input_clear_csv and elem.text is not None and elem.text.strip() != "":
-                result_dict_temp.setdefault(path, [])
-                result_dict_final.setdefault(path, [])
-                if elem.text.strip() not in result_dict_temp[path]: 
-                    result_dict_temp[path].append(elem.text.strip())
-                else:
-                    result_dict_temp[path].append("")
+                if len(all_generated_paths) > 0:
+                    for index,paths in enumerate(all_generated_paths):
+                        result_dict_temp.setdefault(paths, [])
+                        result_dict_final.setdefault(paths, [])
+                        if index == len(all_generated_paths) - 1: #This is for the path includes all the attributes in one xpath
+                            if elem.text.strip() not in result_dict_temp[paths]: 
+                                result_dict_temp[paths].append(elem.text.strip())
+                        else: #This is for different permutations of the xpath with different attributes
+                            if paths in list(dataframe["XMLPath"]):
+                                Field_from_csv = dataframe.loc[dataframe["XMLPath"] == paths, 'att_needed']
+                                Field_from_csv = Field_from_csv.to_string(index=False)
+                                if Field_from_csv == "yes": #it means if we needed to write attribute's value to (append the attribute value to the value of all_generated_paths dict)
+                                    result_dict_temp[paths].append(all_generated_paths[paths])
+                                    print("{}-------------------> {}".format(paths, result_dict_temp[paths]))
+                                    print("====================================================================================================================================================================")
+                    all_generated_paths = [] #reset for the next multiple attribute path
+
+                elif len(all_generated_paths) == 0: #This is for the paths that does not have multiple 
+                    result_dict_temp.setdefault(path, [])
+                    result_dict_final.setdefault(path, [])
+                    if elem.text.strip() not in result_dict_temp[path]: 
+                        result_dict_temp[path].append(elem.text.strip())
+                    # else:
+                    #     result_dict_temp[path].append("")
             else:
                 continue
-            
-            # for i, j in result_dict_temp.items():
-            #     print(i)
-            #     print(j)
-            # print("------------------------------------------")
 
         elif (arg.input_csv) and event== 'end':
             path_name.pop()
@@ -314,37 +332,28 @@ def compare_and_write(final_Dict, data_frame):
         field_with_text[field_names] = []
     Field_from_csv = []
     for paths, values in final_Dict.items():
-        # print(paths)
         if paths in list(data_frame["XMLPath"]):
             Field_from_csv = data_frame.loc[data_frame["XMLPath"] == paths, 'Fields']
-            attrib_as_needed = data_frame.loc[data_frame["XMLPath"] == paths, 'attribute_as_data']
-            attrib_as_needed = attrib_as_needed.to_string(index=False)
-            # print(attrib_as_needed)
-            # print("*-*-*-*-*-*--*-*")
             field_name = Field_from_csv.to_string(index=False)
             if values is not None:
                 if field_name in field_with_text:
                     field_with_text[field_name].append(values)
                 else: 
                     continue
-            if attrib_as_needed is not None and attrib_as_needed == 'yes':
-                # paths = paths.split("[@")[1]
 
-                field_with_text[field_name] = paths
+#####Test Results########################################################
+    print("TEST RESULT(fields with data) IN CSV:\n")
+    counter = 1
+    for i, j in field_with_text.items():
+        # print("key: {} \n value: {}".format(i,j))
+        if j != []:
+            print("{}) key: {} \n value: {}\n".format(counter, i,j))
+            counter = counter + 1
+########################################################################
 
-
-    # #Test Results
-    # print("TEST RESULT(fields with data) IN CSV:\n")
-    # counter = 1
-    # for i, j in field_with_text.items():
-    #     # print("key: {} \n value: {}".format(i,j))
-    #     if j != []:
-    #         print("{}) key: {} \n value: {}\n".format(counter, i,j))
-    #         counter = counter + 1
-    
-    # for k in field_with_text:
-    #     if k == "nan":
-    #         del field_with_text[k]
+    for k in field_with_text:
+        if k == "nan":
+            del field_with_text[k]
 
     return field_with_text
 
@@ -367,9 +376,14 @@ def main():
         csv_to_dict = get_csv(args.input_clear_csv,args) #dataframe containing needed fields
         data = xmlSet()
         data.xmlMods(args,csv_to_dict)
-        # with open(args.output_directory, 'w') as csv:
-        #     data.print(csv)
+        with open(args.output_directory, 'w') as csv:
+            data.print(csv)
 main()
+
+#Master should be currected with Librarian in the way that:
+#1) If we want a attribute's value be written in a field specified in master, librarian need to specify the path's row in another column called "att_needed" and say yes to that and also mention the name of the field in the filed column as well
+#2) If we want to only get the text, apperantly, the column "att_needed" should not be filled out and either should be No or empty and the field column should be filled out.
+#3) the only paths that are important for us (either for writing the attribute's value or text in the xpath)
 
 #Step1: get the attribute and tags:
 ####for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -oat Output/step1

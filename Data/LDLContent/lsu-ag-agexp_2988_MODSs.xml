@@ -13,7 +13,7 @@
   <name displayLabel="Contributor">
     <role>
       <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
-      <roleTerm authority="marcrelator" type="code">ctb</roleTerm>
+      <roleTerm authority="marcrelator" type="code">Contribute to LSU</roleTerm>
     </role>
     <namePart>Sugar Experiment Station (La.)</namePart>
   </name>

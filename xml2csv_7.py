@@ -13,8 +13,8 @@ Tag_errors = []             # We can have 2 columns for errors
 Attrib_errors = []          # We can have 2 columns for errors
 all_tags = []               # All Tags
 all_atrrib = []             # All Attributes
-uniqueTag_Dict = {}         # Unique TagNames with the number of repetition in a dictionary
-uniqueAttrib_Dict = {}      # Unique Attribute with the number of repetition in a dictionary
+unique_tag_dict = {}         # Unique TagNames with the number of repetition in a dictionary
+unique_attrib_dict = {}      # Unique Attribute with the number of repetition in a dictionary
 
 def process_command_line_arguments():
     parser = argparse.ArgumentParser(description='Attribute and Tag finder for all the collections')
@@ -40,25 +40,25 @@ def MODs(arg, dataframe):
             yield result
 
 def unique_tag_attrib(tags, attributes):
-    # uniqueTag_Dict = {tag_Name : Number of repetition}
+    # unique_tag_dict = {tag_Name : Number of repetition}
     tagCheck = []
     for TGs in tags:
         key = TGs
         if TGs not in tagCheck:
             tagCheck.append(TGs)
-            uniqueTag_Dict[key] = 0
+            unique_tag_dict[key] = 0
         else:
-            uniqueTag_Dict[key] += 1
+            unique_tag_dict[key] += 1
 
-    # uniqueAttrib_Dict = {Attribute_Name : Number of repetition}
+    # unique_attrib_dict = {Attribute_Name : Number of repetition}
     attrib_check = []
     for att in attributes:
         keys = att
         if att not in attrib_check:
             attrib_check.append(att)
-            uniqueAttrib_Dict[keys] = 0
+            unique_attrib_dict[keys] = 0
         else:
-            uniqueAttrib_Dict[keys] += 1
+            unique_attrib_dict[keys] += 1
 
 def uniq_data_to_dict(arg):
     data = {
@@ -68,11 +68,11 @@ def uniq_data_to_dict(arg):
         'tags frequency': []
     }
 
-    for att, duplicates in uniqueAttrib_Dict.items():
+    for att, duplicates in unique_attrib_dict.items():
         data['atributes'].append(att)
         data['atributes frequency'].append(duplicates)
 
-    for atts, duplicates in uniqueTag_Dict.items():
+    for atts, duplicates in unique_tag_dict.items():
         data['tags'].append(atts)
         data['tags frequency'].append(duplicates)
 
@@ -190,13 +190,12 @@ class xmlSet(object):
                         doc[key] = value[0]
             writer.writerow(doc)
 
-def xml2wb_parse_mods(filename, DataFrame, arg):
+def xml2wb_parse_mods(filename, dataframe, arg):
     root = ET.iterparse(filename, events=('start', 'end'))
     data = {}
     pid = getPid(filename)
     data.update({"PID": pid})
-    data.update(xml_parse(root, DataFrame, arg))
-    # return xml_parse(root, DataFrame, arg)
+    data.update(xml_parse(root, dataframe, arg))
     return data
 
 def getPid(file_name):
@@ -218,7 +217,7 @@ def xml_parse(root, dataframe, arg):
             first_elem.append(child.tag)
         if event == 'start' and elem != first_elem[0]:
             all_tags.append(elem.tag.split("}")[1])
-            WriteAttributes = []
+            Write_Attributes = []
             attributes = elem.attrib
             if len(attributes) > 0:
                 for k, v in attributes.items():
@@ -226,7 +225,7 @@ def xml_parse(root, dataframe, arg):
 
                 if arg.input_csv or arg.input_clear_csv:
                     for Keys, Values in attributes.items():
-                        WriteAttributes.append([Keys, Values])
+                        Write_Attributes.append([Keys, Values])
                         if arg.input_csv and 'atributes' in dataframe.keys():
                             if Keys not in dataframe["atributes"]:
                                 errors.append(Keys)
@@ -238,19 +237,19 @@ def xml_parse(root, dataframe, arg):
                             continue
                     if len(attributes) > 1:
                         all_generated_paths = {}
-                        for i in WriteAttributes:
+                        for i in Write_Attributes:
                             path_name.append("{} [@{}= '{}']".format(elem.tag.split("}")[1],i[0], i[1]))
                             path = '/'.join(path_name)
                             path_name.pop()
                             path_list.append(path)
                             all_generated_paths[path] = i[1]
-                        path_name.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes)))
+                        path_name.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in Write_Attributes)))
                         path = '/'.join(path_name)
                         path_list.append(path)
                         all_generated_paths[path] = []
 
                     elif len(attributes) == 1:
-                        path_name.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in WriteAttributes)))
+                        path_name.append("{} [{}]".format(elem.tag.split("}")[1], ", ".join("@{} = '{}'".format(a[0], a[1]) for a in Write_Attributes)))
                         path = '/'.join(path_name)
                         path_list.append(path)
 
@@ -380,20 +379,27 @@ def main():
             data.print(csv)
 main()
 
-#Master should be currected with Librarian in the way that:
-#1) If we want a attribute's value be written in a field specified in master, librarian need to specify the path's row in another column called "att_needed" and say yes to that and also mention the name of the field in the filed column as well
-#2) If we want to only get the text, apperantly, the column "att_needed" should not be filled out and either should be No or empty and the field column should be filled out.
-#3) the only paths that are important for us (either for writing the attribute's value or text in the xpath)
 
-#Step1: get the attribute and tags:
-####for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -oat Output/step1
-####For windows: >>>python3 '.\xml2csv_2.py' -i Data/LDLContent -oat Output/LDL_Content_attTags_July
+# Modes:
+# Mode1: get the attribute and tags:
+# for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -oat Output/step1
+# For windows: >>>python3 '.\xml2csv_2.py' -i Data/LDLContent -oat Output/LDL_Content_attTags_July
+# --------------------------------------------------------------------------------------------------
 
-#Step2: get paths and errors:
-####for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -c Output/step1.csv -o Output/step2
-####For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -c Output/LDL_Content_attTags_July.csv -o Output/LDL_Content_Paths_July
+# Mode2: get paths and errors:
+# for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -c Output/step1.csv -o Output/step2
+# For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -c Output/LDL_Content_attTags_July.csv -o Output/LDL_Content_Paths_July
+# --------------------------------------------------------------------------------------------------
 
-#Step3: run workbench using the csv report:
-####for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/step3.csv
-####For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/July21_LDLContent_Field_mapping_tests.csv
+# Mode3: run workbench using the csv report:
+# for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/step3.csv
+# For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/July21_LDLContent_Field_mapping_tests.csv
 # mac_test >>> python3 xml2csv_6.py -i Data/LDLContent -cc Output/step2_test_xpaths_varietions_master.csv -o Output/step3_test.csv
+# -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+
+# NOTES:
+# 1) Master should be currected with Librarian in the way that:
+# 2) If we want a attribute's value be written in a field specified in master, librarian need to specify the path's row in another column called "att_needed" and say yes to that and also mention the name of the field in the filed column as well
+# 3) If we want to only get the text, apperantly, the column "att_needed" should not be filled out and either should be No or empty and the field column should be filled out.
+# 4) the only paths that are important for us (either for writing the attribute's value or text in the xpath)
+# 5) If we want to have attribute's values in the metadata csv file, we need to have a column that value would be yes for the paths that we need attribute mapping (ex. att_need)

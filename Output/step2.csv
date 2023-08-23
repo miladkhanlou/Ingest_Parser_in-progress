@@ -1,9 +1,0 @@
-Repeated,errors,XMLPath
-1,,mods/subject [@type= 'a.2']
-1,,mods/subject [@authority= 'a.1']
-2,,"mods/subject [@authority = 'a.1', @type = 'a.2']/subject [@authority = 'lcsh']/topic [@type = '1']"
-2,,"mods/subject [@authority = 'a.1', @type = 'a.2']/subject [@authority = 'lcsh']"
-1,,"mods/subject [@authority = 'a.1', @type = 'a.2']/name [@type= '.1']"
-1,athority,"mods/subject [@authority = 'a.1', @type = 'a.2']/name [@type = '.1', @athority = '.2']"
-1,athority,"mods/subject [@authority = 'a.1', @type = 'a.2']/name [@athority= '.2']"
-1,,"mods/subject [@authority = 'a.1', @type = 'a.2']"

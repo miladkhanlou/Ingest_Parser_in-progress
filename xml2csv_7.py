@@ -6,7 +6,8 @@ import pandas as pd
 import argparse
 
 ######################################################################## PART I: Get unique Tags and Attributes ########################################################################
-
+paths_counts = {}
+check = set()
 paths = []                  # Paths that will be written
 errors = []                 # Attribute and Tag Errors
 Tag_errors = []             # We can have 2 columns for errors
@@ -34,7 +35,7 @@ def MODs(arg, dataframe):
     for file in files:
         if file.endswith(".xml"):
             file_path = "{directory}/{file_name}".format(directory=arg.input_directory, file_name=file)
-            print("parsing {}".format(file))
+            print("parsing {} ...".format(file))
             root = ET.iterparse(file_path, events=('start', 'end'))
             result = xml_parse(root, dataframe, arg)
             yield result
@@ -106,8 +107,6 @@ def get_csv(arg,argument):
 
 def Path_repeat_check(ntpath):
     # unique Paths
-    paths_counts = {}
-    check = set()
     for p in ntpath:
         if p not in check:
             check.add(p)
@@ -151,10 +150,10 @@ def to_csv(dictionary, arg):
     if arg.input_csv is not None:
         sorted_df = DF.sort_values("XMLPath", ascending=True)
         sorted_df.to_csv("{}.csv".format(arg.output_directory), index=False)
-        print("A csv file containing unique LDL xml paths, saved in this directory --> {directory}.csv".format(directory=arg.output_directory))
+        print("<<< A csv file containing unique LDL xml paths, saved in this directory : {directory}.csv >>>".format(directory=arg.output_directory))
     else:
         DF.to_csv("{}.csv".format(arg.output_attribsTags), index=0)
-        print("An attribute/Tag csv file saved in this directory --> {directory}.csv".format(directory=arg.output_attribsTags))
+        print("<<< An attribute/Tag csv file saved in this directory : {directory}.csv >>>".format(directory=arg.output_attribsTags))
 
 ###### Part III: Start the xml2workbench process  #####
 class xmlSet(object):
@@ -339,23 +338,21 @@ def compare_and_write(final_Dict, data_frame):
                     field_with_text[field_name].append(values)
                 else: 
                     continue
-
-#####Test Results########################################################
-    print("TEST RESULT(fields with data) IN CSV:\n")
-    counter = 1
-    for i, j in field_with_text.items():
-        # print("key: {} \n value: {}".format(i,j))
-        if j != []:
-            print("{}) key: {} \n value: {}\n".format(counter, i,j))
-            counter = counter + 1
-########################################################################
-
     for k in field_with_text:
         if k == "nan":
             del field_with_text[k]
 
+    test_result(field_with_text)
     return field_with_text
 
+def test_result(field_with_text):
+    print("TEST RESULT(fields with data) IN CSV:\n")
+    counter = 1
+    for field, string in field_with_text.items():
+        if string != []:
+            print("{}) key: {} \n value: {}\n".format(counter, field, string))
+            counter = counter + 1
+########################################################################
 def main():
     args = process_command_line_arguments()
     if args.input_directory and args.output_attribsTags:
@@ -386,20 +383,21 @@ main()
 # For windows: >>>python3 '.\xml2csv_2.py' -i Data/LDLContent -oat Output/LDL_Content_attTags_July
 # --------------------------------------------------------------------------------------------------
 
-# Mode2: get paths and errors:
-# for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -c Output/step1.csv -o Output/step2
+# Mode2: get paths and errors: 
+# for mac: >>> python3 xml2csv_7.py -i Data/LDLContent -c Output/step1.csv -o Output/step2
+# for mac: >>> python3 xml2csv_7.py -i Data/LDLContent -c Output/LDL_Content_attTags_July.csv -o Output/step2
 # For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -c Output/LDL_Content_attTags_July.csv -o Output/LDL_Content_Paths_July
 # --------------------------------------------------------------------------------------------------
 
 # Mode3: run workbench using the csv report:
-# for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/step3.csv
+# for mac: >>> python3 xml2csv_7.py -i Data/LDLContent -cc Output/step2_test_xpaths_varietions_master.csv -o Output/step3_test.csv
 # For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/July21_LDLContent_Field_mapping_tests.csv
 # mac_test >>> python3 xml2csv_6.py -i Data/LDLContent -cc Output/step2_test_xpaths_varietions_master.csv -o Output/step3_test.csv
 # -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- --------------
 
 # NOTES:
-# 1) Master should be currected with Librarian in the way that:
-# 2) If we want a attribute's value be written in a field specified in master, librarian need to specify the path's row in another column called "att_needed" and say yes to that and also mention the name of the field in the filed column as well
-# 3) If we want to only get the text, apperantly, the column "att_needed" should not be filled out and either should be No or empty and the field column should be filled out.
-# 4) the only paths that are important for us (either for writing the attribute's value or text in the xpath)
-# 5) If we want to have attribute's values in the metadata csv file, we need to have a column that value would be yes for the paths that we need attribute mapping (ex. att_need)
+# Master CSV is an edited csv file using output csv from mode 2 that Librarian should add informations (columns of field name associated with xpath)in the way that:
+# 1) If we want a attribute's value be written in a field specified in master, librarian need to specify the path's row in another column called "att_needed" and say yes to that and also mention the name of the field in the filed column as well
+# 2) If we want to only get the text, apperantly, the column "att_needed" should not be filled out and either should be No or empty and the field column should be filled out.
+# 3) the only paths that are important for us (either for writing the attribute's value or text in the xpath)
+# 4) If we want to have attribute's values in the metadata csv file, we need to have a column that value would be yes for the paths that we need attribute mapping (ex. att_need)

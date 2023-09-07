@@ -4,7 +4,7 @@ from os import listdir
 import re
 import pandas as pd
 import argparse
-
+import datetime
 ######################################################################## PART I: Get unique Tags and Attributes ########################################################################
 paths_counts = {}
 check = set()
@@ -16,6 +16,9 @@ all_tags = []               # All Tags
 all_atrrib = []             # All Attributes
 unique_tag_dict = {}         # Unique TagNames with the number of repetition in a dictionary
 unique_attrib_dict = {}      # Unique Attribute with the number of repetition in a dictionary
+
+current_time = datetime.datetime.now()
+start_time = current_time.strftime("%Y-%m-%d %H:%M:%S")
 
 def process_command_line_arguments():
     parser = argparse.ArgumentParser(description='Attribute and Tag finder for all the collections')
@@ -147,13 +150,16 @@ def paths_to_dict(all_paths, all_errors, arg):
 
 def to_csv(dictionary, arg):
     DF = pd.DataFrame(dictionary)
+    current_time = datetime.datetime.now()
+    formatted_time = current_time.strftime("%Y-%m-%d %H:%M:%S")
+    print("***\nwrite to csv at:", formatted_time, "\nstarte at: ", start_time, "\n")
     if arg.input_csv is not None:
         sorted_df = DF.sort_values("XMLPath", ascending=True)
         sorted_df.to_csv("{}.csv".format(arg.output_directory), index=False)
-        print("<<< A csv file containing unique LDL xml paths, saved in this directory : {directory}.csv >>>".format(directory=arg.output_directory))
+        # print("<<< A csv file containing unique LDL xml paths, saved in this directory : {directory}.csv >>>".format(directory=arg.output_directory))
     else:
         DF.to_csv("{}.csv".format(arg.output_attribsTags), index=0)
-        print("<<< An attribute/Tag csv file saved in this directory : {directory}.csv >>>".format(directory=arg.output_attribsTags))
+        # print("<<< An attribute/Tag csv file saved in this directory : {directory}.csv at {}>>>".format(directory=arg.output_attribsTags,))
 
 ###### Part III: Start the xml2workbench process  #####
 class xmlSet(object):
@@ -342,7 +348,7 @@ def compare_and_write(final_Dict, data_frame):
         if k == "nan":
             del field_with_text[k]
 
-    test_result(field_with_text)
+    # test_result(field_with_text)
     return field_with_text
 
 def test_result(field_with_text):
@@ -376,7 +382,8 @@ def main():
             data.print(csv)
 main()
 
-
+##Test -- 14k files in 16 minutes
+##Result -- all LSU mods in 170 minutes
 # Modes:
 # Mode1: get the attribute and tags:
 # for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -oat Output/step1
@@ -400,4 +407,4 @@ main()
 # 1) If we want a attribute's value be written in a field specified in master, librarian need to specify the path's row in another column called "att_needed" and say yes to that and also mention the name of the field in the filed column as well
 # 2) If we want to only get the text, apperantly, the column "att_needed" should not be filled out and either should be No or empty and the field column should be filled out.
 # 3) the only paths that are important for us (either for writing the attribute's value or text in the xpath)
-# 4) If we want to have attribute's values in the metadata csv file, we need to have a column that value would be yes for the paths that we need attribute mapping (ex. att_need)
+# 4) If we want to have attribute's values in the metadata csv file, we need to have a column that value would be yes for the paths that we need attribute mapping (ex. att_need)-

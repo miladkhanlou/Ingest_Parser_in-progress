@@ -1,0 +1,78 @@
+
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <mods:titleInfo>
+      <mods:title>Sugar Bulletin 1937-11-01</mods:title>
+  </mods:titleInfo>
+   <mods:part>
+      <mods:detail type="volume">
+         <mods:caption>Volume</mods:caption>
+         <mods:number>16</mods:number>
+      </mods:detail>
+      <mods:detail type="issue">
+         <mods:caption>Issue</mods:caption>
+         <mods:number>3</mods:number>
+      </mods:detail>
+   </mods:part>
+   <mods:name displayLabel="Author">
+      <mods:namePart>American Sugar Cane League</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+         <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:originInfo>
+      <mods:publisher>American Sugar Cane League, New Orleans, La.</mods:publisher>
+      <mods:dateIssued keyDate="yes">1937-11-01</mods:dateIssued>
+  </mods:originInfo>
+   <mods:subject authority="lcsh">
+      <mods:topic>Sugar trade</mods:topic>
+      <mods:topic>United States</mods:topic>
+      <mods:topic>Periodicals</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Sugarcane industry</mods:topic>
+      <mods:topic>United States</mods:topic>
+      <mods:topic>Periodicals</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Sugar growing</mods:topic>
+      <mods:topic>Periodicals</mods:topic>
+   </mods:subject>
+   <mods:abstract displayLabel="Description">The Sugar Bulletin is the official organ of the American Sugar Cane League of the U.S.A., Inc. The monthly publication is  a communication tool to keep American Sugar Cane League members up to date on the on goings of the industry.</mods:abstract>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:note type="ownership" displayLabel="Source">LSU Agricultural Center</mods:note>
+   <mods:relatedItem type="host">
+      <mods:location>
+         <mods:url displayLabel="Relation">http://louisianadigitallibrary.org/lsu-ag-sugarbulletin%3Acollection</mods:url>
+      </mods:location>
+      <mods:titleInfo displayLabel="Digital Collection">
+         <mods:title>Sugar Bulletin</mods:title>
+      </mods:titleInfo>
+  </mods:relatedItem>
+   <mods:location>
+      <mods:physicalLocation authority="oclcorg" displayLabel="OCLC Member Symbol">LUU</mods:physicalLocation>
+      <mods:physicalLocation displayLabel="Physical Location">Louisiana State University: LSU
+                Libraries</mods:physicalLocation>
+      <mods:url displayLabel="Institution Web Site">http://lielem.lsu.edu</mods:url>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:shelfLocator>SB215 .S89</mods:shelfLocator>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:accessCondition type="use and reproduction" displayLabel="Contact Information">E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this item here: http://www.lielem.lsu.edu/special/services/duplication.html</mods:accessCondition>
+   <mods:accessCondition type="restriction on access" displayLabel="Rights">This item is in the public domain.</mods:accessCondition>
+   <mods:identifier displayLabel="Migrated From" invalid="yes" type="uri">http://cdm16313.contentdm.oclc.org/cdm/singleitem/collection/p16313coll31/id/2308</mods:identifier>
+   <mods:recordInfo>
+      <mods:recordCreationDate>2013-01-31</mods:recordCreationDate>
+      <mods:recordChangeDate>2018-02-23</mods:recordChangeDate>
+      <mods:recordOrigin>Transformed into MODS from extended Dublin Core by the LDL Development Team at Louisiana State University.</mods:recordOrigin>
+  </mods:recordInfo>
+   <mods:extension>
+      <mods:CONTENTdmData>
+         <mods:alias>p16313coll31</mods:alias>
+         <mods:pointer>2308</mods:pointer>
+         <mods:dmGetItemInfo mimetype="application/json" source="https://server16313.contentdm.oclc.org/dmwebservices/index.php?q=dmGetItemInfo/p16313coll31/2308/json" timestamp="2017-05-16 10:04:52">{&quot;title&quot;:&quot;Sugar Bulletin 1937-11-01&quot;,&quot;issue&quot;:&quot;3&quot;,&quot;creato&quot;:&quot;American Sugar Cane League&quot;,&quot;volume&quot;:&quot;16&quot;,&quot;date&quot;:&quot;1937&quot;,&quot;source&quot;:&quot;SB215 .S89&quot;,&quot;subjec&quot;:&quot;Sugar trade--United States--Periodicals.; Sugarcane industry--United States--Periodicals.; Sugar growing--Periodicals&quot;,&quot;contri&quot;:{},&quot;publis&quot;:&quot;American Sugar Cane League, New Orleans, La.&quot;,&quot;descri&quot;:&quot;The Sugar Bulletin is the official organ of the American Sugar Cane League of the U.S.A., Inc. The monthly publication is  a communication tool to keep American Sugar Cane League members up to date on the on goings of the industry.&quot;,&quot;collec&quot;:{},&quot;rights&quot;:&quot;This item is in the public domain.&quot;,&quot;type&quot;:{},&quot;format&quot;:{},&quot;langua&quot;:{},&quot;relati&quot;:{},&quot;covera&quot;:{},&quot;cite&quot;:{},&quot;reposi&quot;:{},&quot;identi&quot;:{},&quot;fullrs&quot;:{},&quot;find&quot;:&quot;2309.pdf&quot;,&quot;dmaccess&quot;:{},&quot;dmimage&quot;:{},&quot;dmcreated&quot;:&quot;2013-01-31&quot;,&quot;dmmodified&quot;:&quot;2013-01-31&quot;,&quot;dmoclcno&quot;:{},&quot;dmrecord&quot;:&quot;2308&quot;,&quot;restrictionCode&quot;:&quot;1&quot;,&quot;cdmfilesize&quot;:&quot;1040203&quot;,&quot;cdmfilesizeformatted&quot;:&quot;0.99 MB&quot;,&quot;cdmprintpdf&quot;:&quot;0&quot;,&quot;cdmhasocr&quot;:&quot;0&quot;,&quot;cdmisnewspaper&quot;:&quot;0&quot;}</mods:dmGetItemInfo>
+      </mods:CONTENTdmData>
+  </mods:extension>
+</mods:mods>

@@ -384,18 +384,18 @@ main()
 
 ##Test -- 14k files in 16 minutes
 ##Result -- all LSU mods in 170 minutes
+
 # Modes:
 # Mode1: get the attribute and tags:
 # for mac: >>> python3 xml2csv_6.py -i Data/LDLContent -oat Output/step1
 # For windows: >>>python3 '.\xml2csv_2.py' -i Data/LDLContent -oat Output/LDL_Content_attTags_July
 # --------------------------------------------------------------------------------------------------
-
+# mac runn on LDL Stuff: python3 xml2csv_7.py -i ../../../Data -c Output/LDL_Content_attTags_July.csv -o Output/LDL_Xpaths
 # Mode2: get paths and errors: 
 # for mac: >>> python3 xml2csv_7.py -i Data/LDLContent -c Output/step1.csv -o Output/step2
-# for mac: >>> python3 xml2csv_7.py -i Data/LDLContent -c Output/LDL_Content_attTags_July.csv -o Output/step2
+# mac runn on LDL Stuff >>> python3 xml2csv_7.py -i ../../../Data -c Output/LDL_Content_attTags_July.csv -o Output/LDL_Xpaths
 # For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -c Output/LDL_Content_attTags_July.csv -o Output/LDL_Content_Paths_July
 # --------------------------------------------------------------------------------------------------
-
 # Mode3: run workbench using the csv report:
 # for mac: >>> python3 xml2csv_7.py -i Data/LDLContent -cc Output/step2_test_xpaths_varietions_master.csv -o Output/step3_test.csv
 # For windows: >>>python3 '.\xml2csv.py' -i Data/LDLContent -cc Output/LDL_Parser_edited.csv -o Output/July21_LDLContent_Field_mapping_tests.csv
